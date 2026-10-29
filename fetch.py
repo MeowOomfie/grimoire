@@ -6,7 +6,7 @@
     python fetch.py --cookies cookies.txt   # or a cookies file exported from your browser
     python fetch.py --selftest   # checks the caption-to-text conversion on a built-in sample
 
-Needs yt-dlp on PATH (pip install yt-dlp). No video is downloaded, only captions.
+Needs yt-dlp installed for this Python (pip install -U yt-dlp). No video is downloaded, only captions.
 Videos already fetched are skipped (raw/archive.txt). Videos without captions are reported and skipped.
 """
 import re
@@ -89,7 +89,7 @@ def convert_all() -> int:
 def fetch(sources: Path, cookies: str | None) -> None:
     RAW.mkdir(exist_ok=True)
     cmd = [
-        "yt-dlp", "--skip-download", "--write-sub", "--write-auto-sub", "--sub-langs", "en.*",
+        sys.executable, "-m", "yt_dlp", "--skip-download", "--write-sub", "--write-auto-sub", "--sub-langs", "en.*",
         *([] if not cookies else ["--cookies", cookies] if cookies.endswith(".txt") else ["--cookies-from-browser", cookies]),
         "--sub-format", "vtt", "--ignore-errors", "--no-warnings",
         "--download-archive", str(RAW / "archive.txt"), "--force-write-archive",
