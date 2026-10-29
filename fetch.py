@@ -3,6 +3,7 @@
     python fetch.py              # reads sources.txt
     python fetch.py mylist.txt   # any file: one YouTube / Twitch URL, playlist or channel per line
     python fetch.py --cookies chrome   # when YouTube says "sign in to confirm you're not a bot"
+    python fetch.py --cookies cookies.txt   # or a cookies file exported from your browser
     python fetch.py --selftest   # checks the caption-to-text conversion on a built-in sample
 
 Needs yt-dlp on PATH (pip install yt-dlp). No video is downloaded, only captions.
@@ -89,7 +90,7 @@ def fetch(sources: Path, cookies: str | None) -> None:
     RAW.mkdir(exist_ok=True)
     cmd = [
         "yt-dlp", "--skip-download", "--write-sub", "--write-auto-sub", "--sub-langs", "en.*",
-        *(["--cookies-from-browser", cookies] if cookies else []),
+        *([] if not cookies else ["--cookies", cookies] if cookies.endswith(".txt") else ["--cookies-from-browser", cookies]),
         "--sub-format", "vtt", "--ignore-errors", "--no-warnings",
         "--download-archive", str(RAW / "archive.txt"), "--force-write-archive",
         "--print-to-file", "%(id)s\t%(channel)s\t%(title)s\t%(upload_date)s\t%(webpage_url)s", str(RAW / "meta.tsv"),
