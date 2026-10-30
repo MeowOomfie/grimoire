@@ -1,0 +1,52 @@
+# Deadlock Fundamentals: Efficiency
+channel: Deathy  date: 2026-01-10  url: https://www.youtube.com/watch?v=n3EdDdPKed4
+
+## Covers
+Efficiency and downtime, team souls over personal souls, thinking ahead while farming, priority template by game stage (0-8, 8-15, 15-25, 25+ minutes), camp spawn timers, Sinner's Sacrifices, Urn, mid boxes, tier one towers, Walkers, death timers, Mid Boss, benchmarks (sinners by 10, souls by 15, trooper damage by 20); heroes Ivy, Infernus, Abrams, McGinnis, Calico, Seven, Wraith, The Doorman, Paradox, Holliday, Bebop
+
+## Claims
+- Efficiency is the easiest thing to improve because it needs little mechanical improvement at first, and it makes a massive difference. [0:00]
+- Efficiency in a MOBA means the least downtime possible: always doing something productive that pushes the game state toward a better outcome for your team. Sometimes the most efficient thing is standing behind a wall or in a veil for 30 seconds. [0:30]
+- Ivy with Infernus, two heroes who can't pressure under tower early, can choose between their small camp, your small camp, stealing their boxes or running your boxes; all could be efficient. [1:00]
+- He ran the enemy boxes and let Infernus catch the wave alone, breaking the "never miss a wave" principle, because it generated more souls for the team overall; efficiency is about the team, not just you. [1:30]
+- An Abrams who can't pressure under tower early was inefficient by skipping boxes and not taking his small camp the moment it spawned. [2:01]
+- The biggest inefficiency: with the wave pushing into his tower, the Abrams shot the wave instead of letting it push in and farming his small camp while McGinnis cleared it, which would have given the team more souls. [2:01]
+- The team with more souls wins on average; Deadlock is a race against the clock. What matters is your souls relative to the clock and the enemy. [2:31]
+- Efficiency is the first pillar to master. [3:01]
+- Shift from defaulting to finding fights toward weighing options and picking the one that gives your team the best scenario. [3:01]
+- Waiting 10-15 seconds by the Urn for it to go from a comeback Urn (candles shown) to an even Urn, and telling the team not to farm so it can become even, is the most efficient play there. [3:31]
+- Whenever you are hitting troopers or jungle, look at the minimap and plan your next move; farming NPCs shouldn't need much focus. [4:01]
+- A bad decision is better than no decision; if unsure, running boxes or farming beats wandering aimlessly. [4:01]
+- The priority template is his opinion from 3,000+ hours, not objective truth. [4:31]
+- Timers: small camp spawns at 2 minutes, medium camps at 6 minutes, big camps at 8 minutes. [4:31]
+- First 8 minutes priority: 1 troopers (always most important), 2 towers and kills if possible (including ganks if your hero can gank), 3 boxes, 4 jungle. [5:02]
+- Heroes that clear jungle very fast from the 6 minute spawn, like Seven and Infernus, may put jungle above boxes or even kills; priorities 3 and 4 are interchangeable. [5:02]
+- Don't kill opponents at all costs; if a kill is a possible play it beats running boxes, and if it isn't possible, running boxes is better. [5:33]
+- 8 to 15 minutes priority: troopers, then the Urn (above Sinner's Sacrifices), then sinners, tier three camps, mid boxes, towers/kills, other jungle, boxes. [6:03]
+- Sinners spawn at 8 minutes, before the Urn is available; contesting as many as possible from 8 to 10 minutes is one of the best things to do. If winning, take theirs; if losing, secure yours. [6:03]
+- Only do the Urn if it's a good option: better teamfight, teammates who will show up, up on souls or in good position, or a hero like The Doorman who makes it easy. The Urn sometimes throws games, but never doing it also throws games. [7:05]
+- Tier three camps are very high priority if you can farm them; a hero like Seven should farm them as early as possible and know how early he can. [7:05]
+- Mid boxes under the mid lane spawn at 10 minutes and are worth more than sinners; they're ranked lower only because there are fewer of them in one spot. Both give buffs. [7:35]
+- Remaining tier one towers past 10 minutes can be killed by many heroes without a wave in about 5 seconds, for roughly 500 souls, more than an early sinner. [8:05]
+- Kills are hard to rank because of unsecured souls, but always worth it; boxes are lower than most jungle camps but always worth doing on the way somewhere. [8:36]
+- Walkers are "yes and no" bait: if ahead by a lot (for example 10,000 souls), don't feed for Walkers. Comeback was nerfed but still gives a good amount. [9:06]
+- Rough math: a Walker gives the team about 4,000 souls; at 15 minutes a kill might be 1,000-2,000 souls, so losing two people for a Walker might not be worth it or be about even (Walkers also give a flex slot). [9:06]
+- If the game is even or you are behind, losing one or two people for a Walker is generally fine. [9:36]
+- 15 to 25 minutes priority: troopers first, the 15 minute Urn and Walkers tied second, then kills (risen in priority), then sinners, tier three camps, mid boxes, the rest of the jungle. [9:36]
+- Kills at 15-25 minutes can lead to Mid Boss, which they couldn't before, because death timers are tied entirely to game time, not net worth. [10:08]
+- Between 15 and 25 minutes there is often no jungle left in mid to high ranks, so boxes become somewhat higher priority; boxes and jungle both scale with game time. [10:40]
+- 25+ minutes: everything is about finding one good fight (numbers advantage or a great initiation) and taking it into Mid Boss; get your waves in a decent spot, other things matter less. [11:11]
+- Benchmark: by 10 minutes you should have taken or been involved in one or two Sinner's Sacrifices at minimum (unless you lost lane badly). [11:42]
+- Benchmark: by 15 minutes a farming hero like Wraith or Seven should have at least 18,000 souls; it is achievable in most lobbies with efficiency, few or good deaths and no dropped bags. [12:12]
+- Benchmark: by 20 minutes most heroes should have at least 20,000 trooper damage (damage breakdown graph). Pick heroes like Paradox, Holliday or Bebop can be fine at 12-14k. [12:12]
+- In most ranks people don't push waves enough; waves give a lot of souls and map pressure, and almost everyone needs to push waves more aggressively. [12:43]
+- The benchmarks are from his coaching, to be taken with a grain of salt. [13:13]
+
+## Disagrees with
+- X9yhG5vKca4 (HERESY) says souls matter much more than killing opponents or their tower in lane and prefers a soul advantage over an early guardian; this note ranks towers and kills, when possible, above boxes and jungle in the first 8 minutes. [5:02]
+- X9yhG5vKca4 (HERESY) says your default every wave is to clear the wave first; this note skips a wave to run boxes while the lane partner catches it, and says the Abrams should have let the wave push into his tower to farm his small camp. [1:30] [2:01]
+- xwclv0agS3A (Natan) puts Mid Boss as very viable around 18-20 minutes, when death timers pass 30-40 seconds; this note says kills from 15 to 25 minutes can result in Mid Boss. [10:08]
+- YwWdz1h97xc (Deathy): if ahead by a lot, don't feed for Walkers, and if even or behind, losing one or two people for a Walker is generally fine vs the later video: losing one for a Walker is usually fine even when ahead, and losing two when even depends on game time and whether the enemy can then take Mid Boss. [9:06] [9:36]
+- DEAb-LfSXq0 (Sensu): death timers are tied entirely to game time, not net worth vs killing a player well above your team's average net worth gives them +6 to +22 seconds of respawn. [10:08]
+- YwWdz1h97xc (Deathy): death timers are tied entirely to game time, not net worth vs respawn timers are longer when your net worth is above the enemy team's average. [10:08]
+- jtY2RoO7ax8 (Metro Deadlock): death timers are tied entirely to game time, not net worth vs a well played carry has the longest respawn because respawn grows with money. [10:08]
