@@ -21,6 +21,12 @@ PARAGRAPH_SECONDS = 30  # a [m:ss] mark roughly every half minute
 
 CUE = re.compile(r"(\d+):(\d\d):(\d\d)\.\d+ --> ")
 TAG = re.compile(r"<[^>]+>")
+NAME = re.compile(r"^(?:\d{8}|NA|\d{4}-\d\d-\d\d|unknown-date)_(.{11})_")  # <date>_<11-char id>_<title>; ids may hold "_" or "-"
+
+
+def vid_of(name: str) -> str:
+    m = NAME.match(name)
+    return m.group(1) if m else name
 
 
 def vtt_to_text(vtt: str) -> str:
@@ -73,7 +79,7 @@ def convert_all() -> int:
     meta = read_meta()
     done = 0
     for vtt in sorted(RAW.glob("*.vtt")):
-        vid = vtt.name.split("_", 2)[1] if vtt.name.count("_") >= 2 else vtt.stem
+        vid = vid_of(vtt.name)
         _, channel, title, date, url = meta.get(vid, (vid, "", vtt.stem, "", ""))
         date = f"{date[:4]}-{date[4:6]}-{date[6:]}" if len(date) == 8 else "unknown-date"
         target = OUT / f"{date}_{vid}_{slug(title)}.txt"
@@ -99,7 +105,7 @@ def fetch(sources: Path, cookies: str | None) -> None:
     ]
     subprocess.run(cmd, check=False)  # ignore-errors: one bad link must not stop the batch
     n = convert_all()
-    have = {p.name.split("_", 2)[1] for p in OUT.glob("*_*_*.txt")}
+    have = {vid_of(p.name) for p in OUT.glob("*.txt")}
     missing = sorted(set(read_meta()) - have)
     print(f"\n{n} new transcript(s), {len(have)} total in {OUT.name}/")
     if missing:
@@ -130,6 +136,8 @@ def selftest() -> None:
     want = "[0:01] Mina wants to farm don't trade with her\n\n[0:35] at twenty she wins\n"
     assert got == want, f"\n--- got ---\n{got}\n--- want ---\n{want}"
     assert slug("Every Hero's REAL Role (2026)") == "Every-Hero-s-REAL-Role-2026"
+    assert vid_of("20260702_3Cta_ITcDlY_The REAL Way.en.vtt") == "3Cta_ITcDlY"
+    assert vid_of("2026-07-02_3Cta_ITcDlY_The-REAL-Way.txt") == "3Cta_ITcDlY"
     print("selftest ok")
 
 
