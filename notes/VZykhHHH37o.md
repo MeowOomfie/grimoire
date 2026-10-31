@@ -1,0 +1,61 @@
+# Eternus Gun Seven Gameplay + Commentary #1
+channel: Natan  date: 2025-01-09  url: https://www.youtube.com/watch?v=VZykhHHH37o
+
+## Covers
+Seven, Power Surge max build with Cold Front, solo lane vs Pocket, 8K and 16K power spikes, Mid Boss Rejuvenator steals, Ethereal Shift, Superior Cooldown, Debuff Reducer and Debuff Remover, playing your life when behind, Paradox, Mo & Krill, Vindicta
+
+## Claims
+- He calls himself bad at solo laning, so the laning phase in this game is not much to learn from. [0:30]
+- He has been building Cold Front on Seven and says it is really good. [0:30]
+- Against a Pocket neither laner could kill the other, so he just tried to get all the last hits; losing his Guardian early did not matter that game. [1:00]
+- He usually prefers Healing Rite over Extra Regen; he tried Extra Regen against a Pocket who poked constantly without burst trades, and did not like it in the end. [1:00]
+- When his Lash chased a Vindicta he could never kill, he did not follow; he took the camp and the wave, pinged the Lash back and left at once. [2:02]
+- He ignores a skirmish he cannot contribute to and grabs a wave instead, semi freezing it to deny creeps. [2:33]
+- Grab the boxes, they spawn at 3 minutes. [3:05]
+- If you shoot the creeps, make sure the enemy laner is not hitting you; face tanking him while farming was a positioning mistake. [3:39]
+- After four 500 items he bought Cold Front for 1250 to clear camps easily. [3:39]
+- The build maxes Power Surge (his 3) first for much more damage in player combat. [3:39]
+- Without a maxed ball and Rapid Recharge the build struggles to farm, so Cold Front fills that role: it one shots waves, clears camps quickly and does surprising damage in fights. [4:09]
+- He chilled in lane and finished up 1.2k. [4:09]
+- Look at the map while hitting the camp; the moment Mo & Krill disappears walking your way, leave instantly. [4:40]
+- When the enemy laner is not on the map pushing, grab the wave so the minions do not kill each other and you miss souls, then go back to finish the camp. [5:10]
+- He saves to 2500 to buy two 1250 items at once. [5:40]
+- He bought Enchanter's Barrier by mistake and should have bought Mystic Shot; Extra Spirit and Enduring Spirit are good. [5:40]
+- The farming goal is 8K souls, when the tier 3 Power Surge upgrade massively increases damage; it is the most important power spike on this build. [6:44]
+- The ult is useless with this build because you are not maxing it, so use it to clear camps such as the basement camp. [6:44]
+- At 8K he bought Mystic Shot and Slowing Hex and could start fighting people. [7:21]
+- He waited for his 3 cooldown before jumping an overextended Paradox, but went in a little early because he feared she would back off; he should have waited longer. [7:51]
+- Going into melee range while reloading baited the Paradox into a parry, and she died. [8:23]
+- He does not overextend for the Tower when no enemies are visible on the map and his cooldown is not up. [8:23]
+- With this build you can fight early, but that does not mean you should fight all the time; Seven wants items and souls to scale, though if you must fight before about 20 minutes you can do something. [8:54]
+- He went back to base to buy the Power Surge upgrade and to catch a wave nobody was on, so the Walker would not fall for free. [8:54]
+- Using his 3 on a wave or camp just before a fight was poor cooldown management; matching cooldowns would have given an earlier free kill. [9:55]
+- He should have grabbed a few more boxes to reach 2500 for two items. [9:55]
+- He will not push a lane alone carrying 300 unsecured souls; as Seven you do not want to push alone. [10:27]
+- He sold Extra Regen for Debuff Reducer against a team where every hero had debuffs, and says you should buy it pretty much every game. [10:59]
+- At 16K souls the tier 3 stun adds 0.9 seconds, giving a point and click 1.8 second stun. [10:59]
+- Around this point you can sell Hollow Point Ward for Soul Shredder Bullets; you usually have a flex slot by now. [11:30]
+- His team was 82k to 97k behind, but Seven was the strongest player in the game; unlike the ball build this build can fight and still farms just as fast. [12:36]
+- Being behind put the Urn on their side, but not far enough behind for the enemy to contest it, so it was free; they still should not fight because they were behind. [13:08]
+- He waits at a lane he is protecting for his 3 to come off cooldown, giving the enemy a false sense of security. [13:08]
+- His pick combo: dash jump in, Cold Front, Slowing Hex, stun, throw the ball into the stun, then shoot. [13:40]
+- When he heard Mid Boss he skipped buying with 6K souls and went straight there, then self stunned for a free Rejuvenator steal. [13:40]
+- Improved Spirit plus Superior Cooldown, imbued on the 3, gives basically 100% uptime on the 3; he had it at 17 minutes because he was rich, usually it is around 20 to 22 minutes. [14:11]
+- He wanted to push the side Walker for the flex slot, since side Walkers are squishier than the middle ones; when his team would not go, the worst thing he could do was run in solo. [14:41]
+- In a fight he plays back and does not walk up too far; walking into a spot as his team left was a mistake he should have died for. [16:14]
+- With no flex slots he sold Cold Front for Ethereal Shift; buy it almost every game on Seven to dodge abilities and stall for your team, and it gives movement speed and spirit resist afterwards. [16:45]
+- After pushing a lane the goal is the Urn, not to keep fighting; his positioning was bad and he should have been hiding. [17:16]
+- When a pick attempt fails, go back to base instantly; the worst thing is to keep fighting and die. [18:18]
+- When his team was losing a fight he played slow and hit from range, making sure he did not die so he could clear the wave. [18:54]
+- He bought Debuff Remover for Mo & Krill's arm, Pocket's barrage, Bebop's bomb and Vindicta's stake. [19:31]
+- When fishing for a pick on Vindicta he should have flanked behind like his Grey Talon did, for a Slowing Hex kill. [20:02]
+- He stole the Mid Boss a second time because the enemies did not expect him to be there and nobody was on it. [20:33]
+- Improved Cooldown also shortens item cooldowns, so he could use Ethereal Shift twice in one fight. [23:52]
+- After taking the objective they back off because the enemy death timers are short and they will respawn soon. [23:52]
+- Buffs spawn every five minutes after the 10 minute mark; he gave a gun buff to his Grey Talon since it was bad on him. [24:26]
+- He ran in on purpose to stun the Kelvin carrying the Urn so they could not deliver, relying on Ethereal Shift to survive. [24:56]
+- Main takeaway: play your life, play for yourself and farm up, because Seven scales well and this build does a lot of mid game damage. [25:56]
+
+## Disagrees with
+- Says the ult is useless with this build and is for clearing camps; scgjparadeA treats the ult as a fight tool to time after enemy cooldowns and buy Unstoppable for, and luLGER0Tbqg takes zipline height to position for it.
+- Puts the tier 3 Power Surge spike at 8K souls; luLGER0Tbqg (a later patch) puts it at 8.4K.
