@@ -20,7 +20,9 @@ cd grimoire
    YouTube or Twitch. If YouTube answers "sign in to confirm you're not a bot", run
    `python fetch.py --cookies chrome` (or firefox, edge) so it uses your signed-in browser.
 2. Run `python fetch.py`. One `.txt` per video lands in `transcripts/`. Videos you already fetched are
-   skipped, and videos with no English captions are listed at the end.
+   skipped, and videos with no English captions are listed at the end. Channels carry off-topic videos,
+   so for a whole channel add `--keep-only <word>` (for example `--keep-only deadlock`) to drop any
+   transcript that never mentions your subject.
 3. Open the folder in your coding assistant and ask it to digest the new transcripts. It follows
    `AGENTS.md`: a short note per video in `notes/`, and one line per video in `notes/INDEX.md`.
 4. Ask questions. The assistant reads the index, then the notes, then the transcripts when it needs
