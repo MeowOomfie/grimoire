@@ -1,0 +1,218 @@
+# Mina Is Still OP? Massive Balance Patch Breakdown
+# channel: Metro Deadlock
+# date: 2025-10-03
+# url: https://www.youtube.com/watch?v=N19iXuIIe_M
+
+[0:00] All right, here we go. We buffed gun. Thank you, Yoshi. Oh, weapon investment bonus increased from 7 9 13 20 29 40 58 to It's nothing. It's literally irrelevant. That's not even big. It's 2% on on 9.6k. It's [ __ ] useless. Oh my god. Yeah. Okay, chat. This does nothing for the record. I mean, I guess it does something on like No, it even No.
+
+[0:32] Okay. Okay. So, applying a CC to an enemy is reduced in duration when affected by other CCs in a short interval. Each previously applied CC reduces the duration by 7 seconds up to a maximum of 21 over the past 7 seconds. CC defined as the same set of debuffs that affect reactive barrier. Stun, sleep, immobilize, tether. Okay, interesting change. Um, I guess they want to like I I I guess they want like the hard
+
+[1:02] where you're like stun for like 5 minutes to reduce it. Like it's not going to do much in my opinion. It's a good change. I guess like we'll have to play it. 7% is not much, right? Like like 7% of a second is not a lot. Um, >> yeah, I guess it removes chain stunning. I don't think this is going to be a big deal to be honest from the numbers, but okay. matchmaking updates to include more consideration for a balanced roster beyond only front liners. If they made this right, this is big.
+
+[1:33] If they made this right, this is big. I don't know what they're going to like what they actually did, but uh that's big. Reduce shooting lockout period when jumping from 0.15 to 0.0. Okay, that's really cool. Okay, I like this. All right, so this is good. Shooting while jumping now applies at minus 10 inaccuracy period for zero. Okay, it's whatever. That's fine. Wall jumps after the first one now cost 0.5 stamina. First wall jump per sequence is free.
+
+[2:03] Um, this is a buff to me because I'm [ __ ] at movement. Do we like this though? Do we like this? Doesn't affect me? does because like like this makes the game I don't know if I like this and I I should be biased, right? Like this is a nerf to good movement. [Music] This is a nerf to good movement. I don't know if I like this, man. Like I I like the high skill ceiling in this game, you know.
+
+[2:33] Reduce corner boosting velocity by 20%. Corner boosting nerfed. Okay. Okay. Mid boss base HP increased by 500. Not much. Mid boss damage resistance per second reduced from 5 + 7 50 + 7 to 35 + 5 per minute. Not even that's not even going to change anything. No. Red bonus HP reduced. Okay, good. That's good. Any red nerfs are more than welcome. And second mid boss red credits
+
+[3:04] reduced from 43. Okay, good changes. Mid boss still OP by the way. Mid boss still OP just less OP and uh the first two changes I don't think will do anything like it will still die in like in fact it will die easier you know in later game. Okay into yeah I I I I don't mind this is good changes for the start it might they might have to nerf it even more but like yeah dropped unsecured soul back now requires a heavy melee to secure rather than
+
+[3:34] standing on top of them. Metro buff. Yo, Metro buff. Using my dead body with the 1k back as bait. Massive. Do we like this? I mean, to be fair, this is like about the same speed, but you have to go out of your way to have a melee head, right? Uh I I think this makes for some cool counterplay when there's like a situations where on both teams there's someone trying to collect it, right? Because then you can like parry and
+
+[4:04] [ __ ] I like this. This is a good change because it increases the skill ceiling. I like this. Um, soul earners. Now I have 30% bullet and what? Okay. But move speed bonus reduced. Okay. So resist but move speed bonus reduced. Damage taken when holding too long increased from 1 to 1.5. Okay. I mean this has not been So by the way most people don't even know about this mechanic. If you hold the if you hold it too long, you start taking damage. This
+
+[4:35] used to be abused like way back in the day. It's not really a thing anymore right now. Um, yeah. So, is it working? Why are you telling me to refresh when it doesn't work? I'm about to ban it, buddy. I have all the patronons. I don't need it. Um, yeah. I think this is better for the carrier, right? This is like a buff to the person carrying it, I want to say.
+
+[5:06] Added an extra boon at 12k. Okay, pretty random, but sure. Neutral shop no longer gets disabled if an enemy is nearby. This is also a buff to me. Holy [ __ ] How many times I've died because I couldn't I I actually like that mechanic to be honest because you could punish people for like running around. I distance to I it's whatever. Distance to attack walkers reduced from 35 to 34. Okay. 1 m closer makes walkers a bit
+
+[5:38] stronger. Fix ordering issues with various items with bullet base procs. Debuffs. Negative bullet resist from all procs are now applied before any bonus damage from the procs. This is nerf, by the way. There's a nerf, by the way. Right. No, it's No, it's a buff. Wait, why are we buffing shred? So, this means shred applies before any damage is applied, right? So, that means the
+
+[6:09] damage you do is going to be more weakening headshot buff. Crippling headshot buff. Basically, headshot. Is this a buff? Am I stupid? Why? Why are we making headshot booster stronger technically? Oh, yeah. I can make my cam a bit smaller. Um, yeah. Okay. No, I can't. Sorry. I can do this basic shot enable in. Okay. I mean, this won't change much to be
+
+[6:40] honest, but interesting changes. >> Yeah. I mean, I I figure Okay. Please, please, please God Abrams, please remove that character from the game. Siphon life damage and spirit scaling reduced by 10%. Siphon life heal ratio increased by 10. [Music] Show charge here one try change from 25% weapon power to 20% bullet damage per shot results in a weaker fallout melee hit. Okay, it's nerfs.
+
+[7:12] It's nerfs by how much? Probably not that much because it's just a I mean it's a 10% nerf to damage and scaling but like 10% increase to [Music] but yeah this obviously this [ __ ] melees Yeah. Yeah. Yeah. We'll have to see if that makes like Abrams weaker. It might make Abrams weaker to be honest
+
+[7:43] because this is like quite big. But yeah. Yeah, maybe you run gun. Okay. Anyways, Billy >> added footsteps to Billy's out of combat run animations. What? That's not a buff or Okay. Base move speed reduced last one movement speed increased. Okay. I mean, Bill is the same. Like that's not a nerf. That's like he's still insane. If if every other character above him
+
+[8:13] gets nerfed like this this is whatever like that's whatever like the fact you're going to be blasted anyways bro like in fact when blasted is on you're going to move faster. All right. No sh buffing calico, right? Base bullet damage increased. Gloom bomb braid is inc Yoshi. Yoshi Kico is good.
+
+[8:43] Bloom blade is increased. A duration increased. Leaping lash height increased. Return to shadow cooldown reduced. Return Hello. Why are we hard buffing? I mean, listen, none of these buffs alone is like Hello. Why Why are we Yeah. Why is it six buffs at once?
+
+[9:14] Uh, okay. Uh, all right. Dorman doorway placement has been improved. Doorway can now be placed throughout through veils again. Improve performance when placing. Okay, so no nerfs to do. Okay, makes Oh my god. I h Okay, let's see the rest of it. Why? Why do we not? Drifter stock as Mark new sound added. Okay. Stock as Mark replaced temp with
+
+[9:44] buy sound with an updated version. Stock as Mark ambush cast delay increased. That's a nerf. Okay. Wait, is that a nerf? Drifter is not even that good. What the [ __ ] Why are we nerfing Drifter? Okay, Dynamo kinetic pulls hide in increased rejuvenating aura. Spirit scaling level increased. The one thing that was cool is jumping over Dynamo stomp and now you you'll be able to stomp. I mean, it depends on the
+
+[10:16] situation. I think if you double jump, you can still jump over it, but a single jump you won't jump over it probably. That's a pretty big buff to Dynamo. Gray Talon charge shot spirit scaling reduced by a bit. Okay. Charot tier three spirit scaling reduced by of the tier three. Reign of arrows no longer lingers the air benefits like unlimited air dash once the ability is canceled or runs out. That's actually quite a big nerf because that used to be abusable for like you know like getting out like really [ __ ] fast.
+
+[10:49] Yeah, I mean it's quite a big like it's it's a nerf to scaling. May maybe great talent is not going to be Thanos in ladder. He wasn't like super OP up until like Eterna 6 anyways, right? Because in ladder you could like still, you know, the team wasn't coordinated enough to like to like protect the talent. But like this is good. Good nerfs. I don't know why we didn't nerf Dolor by the way. This is crazy to me. All right, Ivy. Bullet damage growth reduced from 0.15
+
+[11:19] to 0.11. Massive. They really hate gun characters, guys. They really hate gun characters as soon as like see like Abrams gets a slap on the wrist. Calico gets buffed. Domin gets no changes and and Ivy gets like kind of gutted. I expected this, but this is a pretty massive nerf to bullet damage growth. Spirit scaling. Okay, so they want Ivy to be a support character, right? like spirit scaling per boon increased. Katu bomb DPS reduced.
+
+[11:50] Katu bomb tier 33 DPS reduced. Okay. I mean overall it it it puts Calico more uh sorry Calico it puts Ivy more into like like you need to buy spirit items, right? Yeah. Um stone form damage spirit scaling increased and air drop no longer. That's a massive increase by the way. What the [ __ ] Plus 5 plus 0.5%. Well, that's massive. No, IV air drop no longer grants allied bullet resistance.
+
+[12:20] Okay. Um, probably I want to say this is going to get Ivy out of the meta as a hard carry. Maybe. Maybe. I mean, you say that, but you know, dormant is like [ __ ] insane right now. No, like Gun Dorman on ladder is kind of crazy, huh? Like I I'm I'm down for them nerfing like support characters in terms of damage, but then like actually buff the gun characters that actually should do
+
+[12:51] gun damage. Kelvin base damage reduced. Makes sense. It's actually silly like Kelvin is like top three gun characters in the game right now. Clip size reduced and spirit power per boot increased. So they really Yeah, they want Ivy and Kelvin to be support characters. Okay, lady guys, essence bomb spirits getting increased. Don't know if I like that, but sure. Um, lash ground strike range reduced, ground strike cooldown increased, ground strike damage reduced
+
+[13:24] from 70 to 60 is quite big. Uh, yeah, I mean that's pretty big lash of nerves actually, right? Yeah. Okay. Please, please. Surely we got it, Mina. Right. Right. I didn't look yet. New heavy melee. Wow, great change. Okay. Can now float in air with the umbrella for up to 2.5 seconds. Ah, okay. We made Mina's movement better. Okay. All right. Rake heals spirit
+
+[13:55] scaling reduced. Okay. At least you Okay. Rake tier 2 now also has increased. We we we're buffing Mina's rag. We not What the [ __ ] Where's the love bite nerfs? Okay, 3 second nerf on the sanguin retreat.
+
+[14:26] No has 50% reduction in damage against objectives. Okay, that's good. That's that's a step in the right direction. No reduces the cap on objective damage from tier three from 50 damage per bad to 20 only nervous. Okay, so you okay on the bright side, Mina won't be able to instant nuke objectives anymore. Okay, by the way, mid boss does not count as objective, so that doesn't matter against mid boss. Um, you're saying it's really big nerfs. I think Mina is still Thanos. I'm not a
+
+[14:57] Mina expert, but I think she's still Thanos. Like she Yeah. Yes, she's going to lose her like instant nuke objectives kind of thing for sure, but I think she's still Thanos. Her laning is 10 times weaker. No, you really think the rake healing on level one was what made Mina broken in lane? Genuinely, I'm asking, but like because like >> she still does the [ __ ] insane
+
+[15:30] Yeah, I don't I mean maybe maybe I don't think this is going to make her weak in lane. Yeah, insane sustain made her able to buy all damage items early and ignore the shop. How much is this on level one? Let me get in game real quick. Like how much is this? >> God, I look good today. >> A boon from your patron.
+
+[16:00] It's just the scaling that got nerfed, right? It's I mean, it's still a lot. No, I mean, what what did Mina buy? Let's Let's see. You bought improved spirit first. How much was this? 46 instead of what? How much was this before? Yeah. Yeah, I know. I know. Mystic person. Yeah. Yeah.
+
+[16:31] Oh, she kicks. Wow. I don't know if I like this animation. It's kind of weird. What was this number before? >> 48. >> I mean, we could do math, right? I guess it is a big nerf on like super early levels because it's like literally 0.5 instead of 1.5. 46 instead of 80. Okay. Okay. That's bigger than I thought. Okay. Okay. Um
+
+[17:02] I think you still chill. I think you I think this character is still Thanos genuinely like Yeah, it's going to make the sustain lane a bit. Like I guess you buy like one green item though you can poke it down. [Music] You still have to level off love bites to level two first, right? Otherwise, you don't do damage in lane >> for me. >> Wait, how do I how do I float in air
+
+[17:36] with right click? [Music] Okay. I mean, to be fair, this is going to make it really easy for you to hit her, right? like it's not like but I I mean it's another movement option. Okay. I I think I think this character is still going to be Thanos. Like maybe you
+
+[18:06] have to be a bit careful like like I don't know. I don't think this is going to be enough. I think this character is still like insane. But like maybe I'm wrong. Mirage Dinsmark is now affected by cooldown reduction. Okay. Nobody cares. Is that actually big Jed? Yeah, I get >> troo. You think it's huge? Yeah. Hubai is cool down reduction on
+
+[18:36] Mirage. I mean, I guess you can now, but like Okay. Moonr bullet damage growth per boon increased. We're buffing Monrrell. Okay. Barrel resistance reduced from 80 to 60. All right. Uh, combo combo duration reduced. I mean, it's a big nerf, by the way, the resistance. Like, it doesn't sound like a lot, but it's like quite big. Um, combo duration reduced by 0.1 seconds. Combo tier 2 duration reduced by 0.5. 0.05. Uh, I think still Thanos
+
+[19:09] because No, right. Yeah, I think I like Monrrill is still way too good. Yeah, I mean maybe you can kill him a bit more in Burrow, but like All right, Paige. Bullet projectile speed increased by 15%. Bullet damage growth per boon reduced. Defendant fight duration increased. Defendant fight cooldown increased.
+
+[19:42] Uh, that's the the shield, right? Yeah. Captivating weed cool down reduced. Captivating weed moved the UI. Okay, nobody cares. Captivating weed radius increased. Um, conjure dragon now properly applies burning effect below the dragons if the dragons is far off the ground. All right, so quality of life changes to conjure dragon. Rallying charge damage reduced. Ringing charge healing reduced. Oh, rattling charge. Both damage and healing now grows as the horse travels
+
+[20:13] up to a maximum of 100% for both. I They want this to be a global ultimate, but it's so inconsistent to hit this globally that like I never get hit by this [ __ ] No, like that's the issue. Like it's so hard to hit this globally. I mean, it's a cool idea, but like I mean, this is supposed to be a buff to like global ultimate. Rallying charge increased horse speed faster. Okay.
+
+[20:43] Reduced knockup speed. Okay. Ringing charge spawn in time reduced spawning time reduced. Okay. So, it's faster. Do you remove dead zone in front? Is this going to make Paige playable? I don't think this is like going to make her playable. No, I don't. Yeah, I don't think this is enough to make her playable. It's like
+
+[21:14] I guess the over shield duration helps in lane, right? Because 5 seconds was quite short, so you can actually like put pressure on the end. Like in lane, it helps her for sure. And uh the projectile speed also helps in lane obviously, right? Um plus the radius increase might make I mean it's it's it's a radius increase. This is like quite big actually. We'll have to see. I don't think it's going to make him like playable. Okay,
+
+[21:44] let's see. Seven static charge tier two reduced from 8 to 7 m. Power search spirit power scaling. Oh, we're nerfing seven. Oh. Oh. Oh. Storm clouds. Lightning strike damage reduced from night. Okay. Troopers or anybody. >> Okay. Seven is dead guys. Character was already like Btier unless
+
+[22:15] they like nerf. I don't know. Uh GG7. I guess I've [Music] um >> enemy troopers or anybody. >> Yeah, maybe we run gun seven. I don't Victor base health base health changed from 680 to 720 plus 30. Okay, so a bit of an increase in health because Okay, an like Okay, they're making
+
+[22:47] Victor a bit tankier early but a bit weaker late in terms of health. It's almost nothing. It's over overall a buff probably. Hey, battery fix the balls hitting world geometry more often than intended. Okay. Hit battery damage required to charge up reduced from 50% max health to 40. Okay, that's a buff. That's quite big. Or of suffering reduced DPS spirit scaling on the minimum damage
+
+[23:18] and on the maximum damage from Okay. Or suffering self- damage reduced. Okay, that's a buff. Is that overall a buff? I think that's overall a buff to Victor like V aura, right? I want to say that's overall a buff. Shocking rean animation increased stun duration. Nobody gets stunned by that [ __ ] if you're not done by the way. [ __ ] animation damage spirit scaling increased. [ __ ] re animation tip one changed from 10 spirit damage per bullet and 25 fire rate until reload to 3 m
+
+[23:50] radius and 100 damage. They really want people to like get hit by the old All right, let's check in game. Like, >> when I think about who made me, I picture some awkward scientist wishing for a son. Knowing my luck, I'm probably a serious >> Yeah. Yeah. 3 m radius is definitely Let's see. I'm back. >> I mean, is that like enough time to get
+
+[24:24] Oops. Okay, I'm not going to buy greater expansion because I'm not going to run that item early at least. I want to see if there's like useful. >> You can't kill. >> I mean, you might be able to catch people now with this. You might be able to catch maybe. Yeah, it's still quite a long time, you know. Okay.
+
+[24:54] Oops. Um, [ __ ] animation. Uh, tier three changed from 200 damage and 3 m radius to 10 spirit damage per bullet and 20% fire rate while abilities is on cooldown. Wa. Wait, that's crazy. Wait, that's crazy. That that is a Is that crazy? That's kind of crazy. Nobody. >> Well, how you going to max this ult though? like H then you can't max the
+
+[25:26] other broken [ __ ] 20% fire rate perma 10% spirit damage perma. Is that not crazy? I mean it is crazy once you have it. [Music] Okay. Interesting changes. What do we think? What do we think? It is interesting. I think it's going to make Victor a bit more playable, right?
+
+[25:56] Yeah. What if you like how much is this like early? >> There's just no shy cut. Uh like my turn. Oh, wait. So, while it's on cool down, right? Wait. It takes more than that to kill me. >> I mean on B like I of course you're not
+
+[26:27] going to have this level one, right? But I mean it's always active, you know. I kind of want to try I kind of want to try maxing old first and then feeding on purpose. [Music]
+
+[26:59] It's just going to delay these like spikes don't know. Um we'll see. We'll see. Interesting. V been dicta base bullet damage increased. Flight duration increased. Flight T2 increased. Flight spirit damage scaling increased. Assassin bonus damage spirit scaling increased. Assassinate cooldown reduced. Yeah, that's a lot of buffs. No, it's a lot of buffs to damage. Kind of scary. I mean, V Vindicta needed some buffs, but I'm
+
+[27:29] worried she's going to turn into like the [ __ ] like one-shot character combo thing again. Okay, Viscus all fire base damage reduced. All fire base uh all fire damage growth increased. Overall, a nerf, by the way. Splatter damage reduced and splatter one increased. Uh cooldown increased from minus. Okay, slight viscous nerfs. Flight. Right click is kind of [ __ ] early now. Yeah, right click is kind of [ __ ] early.
+
+[27:59] I don't think you right click anymore in lane. How many viper changes? What the [ __ ] is this? Screw jab dagger has been reworked. Screw jab dagger now stacks in both damage and slows the more daggers you hit against the same target. Screw screw dagger is now chargebased with 4.5 seconds between charges. slice with two charges. Scooter dagger damage changed from 50 + 1 to 50 plus 65 and 25 per stack. It's like shift knives
+
+[28:32] has max of three stacks shows in the overhead. Dagger slow change from 50 to 35 plus 15 per stack. Dagger slow duration increased from 1 to two double dagger cooldown increased from 9 to 10. Screw dagger tier one changed from minus 4 second cool down to plus one charge. So you get three charges if you level it once. Uh screwd dagger tier two changed from 50 damage to minus to minus 8 bullet resist
+
+[29:02] and and minus 5% per stack. Tier three changed from 2 seconds slow duration and minus one stamina to 40 second 40% CDR on hit. Whoa, that's crazy, you know. Projectile speed increased. Added a pitch in. Okay, wait. I need to see this in game. >> Too often people think of the benefits without >> nothing you need by help.
+
+[29:32] >> So you have two charges on level one, then three charges. >> Three charges if you level it once. joy in the game. >> There's not I don't have no cool down on, by the way. What the [ __ ] >> Good luck completing the ritual. >> All right. >> Yeah. All right. >> Don't mess with me.
+
+[30:14] >> Isn't this like crazy damage? >> You want to play buddy? >> Like No, I don't go selling these to just anyone. >> Well done, Viper. >> What is the scaling steps?
+
+[30:44] >> 0.6. Okay, there's more changes to Viper. By the way, Lethal Venom can now be cast on non-trooper enemies, neutrals, and objectives. Lethal Venom tier three upgrade now triggers on all enemies, including troopers. That's going to increase Viper's farming speed. Lethal venom tier three build up her shot reduced a nerf. Okay. Slither is no longer leveled up by default at the start of the game. Slither tier three. That's a good change. I didn't like that. Slither tier three changed from 20% res 20% resist to 180 health barrier
+
+[31:14] when initiating a slide. Huh. Has 0.6 spirit scaling last 5 seconds and 8 second cool down. S now leaves a green trail. Ah, okay. I mean, okay, this is going to make the hard carry late game Viper way weaker. No, no, no. This is like a nerf, too. This is definitely a nerf. Just like like this is like good early, but like it's not This falls off very hard
+
+[31:44] late game, I want to say. I'll have to play this. >> Yeah. Yeah. >> Spirit Viper might be good, right? It would have to be some sort of hybrid because this it reduces their bullet resist. So, you need like some sort of bullet damage, too. >> I like that they changed this. This was
+
+[32:14] such a [ __ ] ability before. Yeah. You would have to do like hybrid. Like you would do like Yes, survivor. Slaughter them all. >> Yeah, you would still like go like Oh, I didn't even read Cus yet. Surely the item gets nerfed, right? You would like still run like uh >> I got one of those for the >> run like Fleet Foot and stuff. Um probably Tesla or something like
+
+[32:46] >> the momentum's going my way. I mean, well, I have to play this, but overall, I want to say Viper is probably like a hybrid nuke character now and not really like a hard carry like left clicker. I mean, this is very fast projectile. Yeah, I like this. This could change this. Okay.
+
+[33:16] Uh, warden last stand DPS spirit scaling reduced and fire rate spirit scaling increased. Why are we not buffing gun warden? This I mean this is just like making warden useless. No, I don't want to say useless, but like I'm not saying warden old didn't need nerfs, but they needed to buff something else. This doesn't fix the issue at all because you still have to run like the only thing you can run is spirit. Yeah, but like only with spirit. So you're
+
+[33:47] still running old warden? Yeah. Seven dead, warden dead. Okay. Wraith base bullet damage increased. Thank you, Yoshi. Bullet damage growth per boon reduced. [Music] How many boounds are there in the game? [Music] Okay. Card trick delay reduced. Wait, you can spam cards faster. Wait, wait, wait,
+
+[34:19] wait, wait, wait. >> You can bet on me. >> Wait, wait, wait. >> Have fun. Don't get dead. >> Wait. >> Okay, let's see this. Oh, new uh new update icons. Wait, >> we're winning this. >> They chose the hard way. Okay, >> this is definitely buffs.
+
+[34:50] >> There's nowhere to hide. >> Like if you hit your bullets, this is a buff. And it's a buff by Well, I mean, not that much actually. Wait, 0. Let's do quick math calculator. Uh 0 7ide by 0.75. It's like not that much. I mean, it's it's a buff to card DPS. I don't Okay, can someone do the math? Like, how long until like I'm happy that
+
+[35:21] they're increasing the base. I I was asking for this, so I'm happy that they're making Wraith early a bit stronger. Um, how many boons until it's like the same damage now? Can someone How many boons until it's like the same damage? That would be like it's still higher damage for most of the game, right? Z. Yeah. Like the the way I'm looking at it, it increases 0.0 2 or it reduces by 0.02 per boon. So
+
+[35:58] 0.02 times like let's say 20 boons 15. How many boons are like when is 15 boons? All right, I we can count this. I know there's an easy way to check. I'm doing it like this. Okay. So, like 1 2 3 4 5
+
+[36:29] 6 7 8 9 10 11 12 13 14 15. Uh, I mean, it's going to make her earlier better, but also fast. Eh, it's overall a buff, I want to say. Plus, the car changes like is going to make it so you can like Yeah. Interesting. I'm down for this. All right. Items. Holy [ __ ] There's a lot.
+
+[36:59] Headshot booster. Damage reduced from 50 to 45. Makes sense. This item was like the best early game item in the game. Makes sense. It's still great, I think. By the way, still great. Heads up booster. High velocity rounds. Bullet velocity increased. Okay. Backstabber cool down increased. Makes sense. Slight backstabber nerf. Don't think it's going to do much. It's still an insane item. Backstabber is still going to be insane on the characters you want to run it on. Mystic shot damage reduced. Cter
+
+[37:31] sacrifice fire rate reduced from 10 to eight. Fire rate boon scaling reduced from 0.8 to 0.7. Health boot scaling reduced from 7 to 4. Health reduced from 100 to 75. And coolown increased. Woo. Goodbye, cultist. What? What does that actually mean in numbers? Wait, let's check. That is a >> Tell you what, I'll throw in a freaky. >> Okay, so yeah. Uh, wait. So on base, this item is like 8% fire rate, 75% L.
+
+[38:03] And the cool increase, too, right? Okay, so let's max it out. Oh, it's dog [ __ ] Oh, I think it's I think it's Is it bad? I think it's bad. I think it's bad, bro. Like, it's like 200 health instead of 300, guys. Uh, yeah. Okay. I think this makes cultist. I want to say it's
+
+[38:34] I don't know. I It was so strong before. Yeah. I mean, it's still 31% fire rate, but like it used to be 35. Don't underestimate the bonus health. And again, like let's say like realistically in the mid game, right? This was max level. Like let's say you buy this and you go to like 10k or like let's say 15k, right? That is really not that big of a bonus. It does speed up farming, but there's
+
+[39:04] also a cool down increase by another 10 seconds. Yeah. I mean, we'll have to play with it. I think it might be bad on I mean, it's definitely not going to be an item you buy on every single character anymore. That's not great the bonuses it gives you. I'm probably not going to run this on Wraith anymore, but okay. I mean, it did need nerfs. Spirit R debuff duration increased. Spirit vent cooldown reduced.
+
+[39:35] Toxic bullet burn increased. You'll see they buff toxic bullets. That's why I ran toxic bullets earlier. They like, you know, we knew. We knew. Okay. Lab to heal reduction reduced from 40 to 30. This item has to be good now, right? This item has to be good now. They buffed it. Like this item has to be good. This item I think is so slept on and now it's even stronger. Yeah, I think you run this on gun characters.
+
+[40:07] I think you run this on Wraith. >> Stay strong, buddy. That's a big winner of the patch, bro. That's a ma You might not think this is massive, but it already was really good beforebody. >> That's a big winner of the patch. Okay. Um, Tesla bullets fixed proc rate being improved with general cooldown reduction. Okay, this was a buck for like 2 months. Fixed proc rate being so actually not a nerf to capacitor by the
+
+[40:37] way. That's kind of crazy. Capacitor is so good. Not a ner no nerf to capacitor basically other than if you abuse it with you know compressed cooldown but like okay shadow weave spotted spotted radius reduced. Oh no they really want the shadow weave meta back guys. This used to be what made it broken back in the day. It was 15 meters back then but that okay I mean I'm I'm going to assume there's veil walker nerf. Maybe
+
+[41:07] there is a reason to run shadow now. H spiritual overflow no longer grants 20% ability duration on proc. Now grants 20% cooldown reduction on proc A massive buff chat. You don't. Okay. So, characters that ran this had the issue that you sometime a lot of the time you would use your ability before proing spiritual overflow and then it wouldn't
+
+[41:39] apply to that ability you just used. But with cooldown, right, with coold down it's actually always useful. This is massive on like it's massive on wraith. if it's massive on seven because like both of those because then now we can skip like cooldown reduction items. Haze I don't think it's that good on haze.
+
+[42:12] Yeah, this item might be crazy, bro. We're definitely going to cook up new builds here in a second. Um, >> that's a big winner. That's a big buff to spiritual overflow if you want cooldown reduction. El race scaling comparison jump. Okay, so until level 15 until level 15 it evens out. And again, you don't really do much card
+
+[42:43] damage uh gun damage on Wraith anyways. So you don't really mind the the the the lack of gun damage in the late game. That's interesting. Okay. Yo, how do I get rid of this? [ __ ] Okay. Um, all right. We're chat. We're not even done yet. Okay. Okay. There's so many. There's a lot of changes. This is going to definitely shake up the meta. Extra health bon. We buffed extra health. H. Interesting. Okay. I think that item was already really good. Bonus health increased. Sprint boot
+
+[43:14] spint increase from two to 2.5. Oh no, they buffed trophy collector. Oh no, guys. Wait, does that mean they buffed enduring speed, too? Yeah, that means 2.25 meter movement speed on enduring. That's a buff to enduring. H. [Music] Okay. Uh, rebuttal now grants 18% melee
+
+[43:44] resistance. [Music] Might make it more playable. I already saw some people pick this up. [Music] Okay. Uh, spirit life steal now provides six spirit power. But I I was asking for buffs to like life steal for the longest time. Thank you. Thank you, Yoshi. I like this. This means you can actually buy this item early and like it's that's good. That's good. That's good. I have to mark all
+
+[44:14] these items down that I want to run in my wraith on my 7 now. Like this is this is good. That's good. >> Come back if you need anything else. >> Only spirit, not gun. Yeah, that's kind of weird by the by the way. That is kind of weird that we didn't buff gun like guys, we were in a spirit meta for 3 months. Let's buff more spirit items. But okay. Um, rest locker slight buff. Weapon shielding damage threshold reduced. Weapon shielding move speed increased. Barrier shielding move speed increased.
+
+[44:44] Okay. Shielding buffed. Reactive barrier cooldown in reactive barrier nerf. makes sense to an extent. I I still like shielding already. And now I'm going to run it even more. Veil Walker heal reduced from 150 to 85. Massive nerf. Heal scaling per boon increased. Okay, but still like that's like massive, right? Cool increased by 3 seconds. Reveal on damage duration increased from 0.25 to 0.5. Initial invis fade duration increased. And
+
+[45:14] reveal on spotted duration increased. Okay. Um, goodbye Veil Walker. No, I mean now it's going to be used for what it actual purpose was is running around the map and looking for gangs while in this. Thank god. Yeah, that item was too good, guys. Thank god that [ __ ] is nerfed. Thank god. Is it going to make Walker useless? Uh, you're definitely going to see this like 10% of the time now instead of 100% of the time. Yeah, it's still good on characters that
+
+[45:45] want to look for like pickoffs, you know, for sure. Counter spell parry duration reduced. Okay, counter spell nerf makes sense. Item was too good. Majestically barrier reduced and barrier now scales with boons and scaling. Okay, majestically leap nerf. So that means you can't really rush this as first item in lane. That's good. Rescue beam cast range increased. Fury trans cooldown increased. This doesn't matter for fury trans. It's still insane item. Still
+
+[46:16] insane. Oh my god, guys. Spirit resilience is back to what it should have been for the for basically the entire duration. It's now as good is it's viable again. Woo, guys. We can buy spirit resilience without it being useless on every character but Victor. Let's go. Yo, good change. Good change. Okay, that helps with spirit damage. That helps because before there was no option at 3k to reduce spirit damage.
+
+[46:47] Um, divine clight duration increased from 13 to 20. Wait, what buffs does divine give you? Ooh. Guys, that's actually kind of crazy. No. Yeah, like 20 seconds of 35% extra
+
+[47:18] spirit is kind of big. Huh? It's a divine kelar. Learn to read spirit power in. Oh, it's it was 25. Now it's 35. That's a double buff. Yo, what the [ __ ] Wait, that's also that's playable on Wraith. Is it playable on Wraith? Do you want it? Probably, right? Like 35% spare
+
+[47:49] power is kind of crazy, right? Like what does boundless give you? 35 by the way. Like I know it gives you percentage, but guys, I want you to know that this item gives you the same spirit power kind of as boundless while giving you a barrier. And it's 20 seconds. Then 20 seconds is enough for the fight to be over. >> Crazy buff. Uh, that's a crazy buff.
+
+[48:20] It's not close to boundless at all. I understand that boundless gives you a percentage and I understand that boundless gives you the spirit investment, but like you have to understand that's the only thing boundless gives you other than the health. And this gives you a,000 [ __ ] barrier, right? and ability duration, by the way. Right. Um, I think that's kind of big, right? Like, this is kind of big. This is a massive buff. These four items so far are the
+
+[48:50] big winners in the in terms of items in the patch for sure. Okay, next. Um, why is this thing here? Oh, yeah. Yeah. Okay. Cheat death damage output reduction reduced from 70 to 60. Healing reduction reduced. They really are trying to make cheat death buyable, but uh this item is still [ __ ] Not going to change anything, guys. I think inhibitor build up uh rate increased. Now matches slowing bullets build up
+
+[49:20] rate. No longer limits to hero only. No longer limited to hero only targets. Okay, I mean this doesn't matter. Like you can like inhibitor a creep pog champ unstoppable buff duration. Okay. Colossus rate is increased and spellb breaker buff by the way. They realize spirit damage is so strong. This is a spellb breaker buff because now you like you know it's it it triggers on
+
+[49:51] less stupid small things. That's a buff. Um okay. All right, some good changes. And then rusted barrel cast range increased from 28 to 32. Rusted barrel bullet resistance reduction increased from 6 to 8. They really want this item to be a thing in lane, huh? Mystic burst coolown increased from 12 to 14. I don't know why, but sure. Quick reload bonus damage
+
+[50:21] reduced. No, why are we nerfing quicks? That doesn't matter. I'm going to upgrade to like if it like you know like I'm going to upgrade to mur anyways. Lash is dead by the way. Yeah, the lash nerfs are pretty hitting pretty hard. I I'll go over like the biggest winners and loser in a second here in my opinion. Um confront bonus damage reduced more confront nerfs and cooldown increased. Okay. Mystic slow now reduces dash distance by 10%. Okay. Is arming hex cast range increased?
+
+[50:51] Silence wave silence duration reduced. Spirit snatch melee damage reduced from 10 to seven. Um, okay. Uh, rip greater expansion. Spirit resistance increased from 8 to 10. Okay. And spirit bar now goes on cooldown for half the normal time when used on non-heroes. All right. Thoughts, guys? Thoughts. Big winners in
+
+[51:21] items. These four for sure. These are like crazy changes to these items. Are we missing anything else like stand out item wise? I'm trying to think. Yeah, big losers in items to be expected. Veil Walker and Cultist will have to play. I I Veil Walker you will see way less because it does way less healing and cultist you would probably see less. It's it's a big nerf. Um, big winners for characters.
+
+[51:54] Hard to say. Not really a lot of like I can't tell you yet how this new Viper is going to play. I mean, obviously it's like kind of a new character in that sense, right? Like this is going to change the play style of Viper a lot. Um, spirit resilience is better. Yeah, true, true. Spirit resilience is back to like being viable. Um, divine as Kefla kind of stupid. Yes. Um, Victor will have to play. Do you think Victor got buffed like a lot? Cuz
+
+[52:25] like again like on Victor you want the one max and the two max. So I don't know if it's going to be feasible to max the old, right? Like I I don't think because you still have to if you max your old you still have to go out of your way and actually die on purpose to get this buff, right? >> Kico. Yeah, Kico is a massive winner in this patch. Calico is going to be Thanos. Calico was already very good and now she's super strong. Billy again did really not get affected at all. Billy is
+
+[52:55] just as strong. Um Abrams slight nerfs I don't like he's still very good I think. And Dorman no nerfs is crazy. Spirit life steal and spirit resilience buffed is huge for Victor. That is also true. Yes. Yeah. So I want to say big winners Kico for sure. Um, again, I think Mina is still very good, but we'll have to play around it. Like, we'll have to see. I think Mina is still very good, but she can't nuke. At least
+
+[53:26] she can't nuke the the towers as fast, but like I think she's still insane. Um, Mo is still really strong. It's slight nerves. Why are you all saying Paradox is a big winner? I mean divine kela divine has kevlar is very good on paradox right uh sorry divine uh yeah div what weapon scaling what do you mean paradox didn't get changes right [Music]
+
+[53:57] yeah divine diver kevlar on paradox might be crazy I think divine kelar in in general is crazy 202 35% spirit is crazy is um okay the gun scaling is irrelevant. This is like super small guys. There's like nothing. It's 2%. At at 9.6k it does nothing.
+
+[54:27] Yeah, I think so too. I think so too. I think the vine kela might be broken. That's like the next healing item. Um, Billy is going to stay the exact same, minus cultus, probably. Yeah, we'll update all our builds in a second here. But yeah, uh, seven dog [ __ ] Seven is a big loser this patch for sure. Um, yeah, that's about it, I think. Take on Kelvin. I haven't encountered strong gun. Um, Kelvin was the third
+
+[54:59] strongest gun character in the game before this, so it makes sense that they're going to move him more towards um, a support role. Uh, warden dog [ __ ] I think Ivy Gun is also probably gone.
