@@ -1,0 +1,66 @@
+# Is Mirage Too Strong? - Meta Report Ep. 7 + TIERLIST
+channel: Deathy
+date: 2024-12-11
+url: https://www.youtube.com/watch?v=EH7Uwq2XEyA
+
+## Covers
+Deathy's meta report for the December 2024 patch: general meta changes (double soaking removed, diminishing range and duration stacking, gun item nerfs), the strongest heroes and recommended builds, changed items, an updated tier list and how to read win rates.
+For players wanting a meta overview. This is a late-2024 video; heroes, items and the meta have changed a lot since.
+
+## Claims
+- This patch did not change the meta much; three main things changed. [0:00]
+- Double soaking (standing between two lanes for full souls from both) is gone: a new mechanic only gives full value from one wave before 8 minutes, so it is pointless in the laning stage now. [0:31]
+- Ability range and ability duration now stack with diminishing returns, as cooldown already did, so stacking many duration and range items (Superior Duration, Arcane Surge, Improved Reach, Extended Duration) is weaker; mostly a Dynamo nerf, and a Viscous nerf. [1:01]
+- Almost the whole gun category was nerfed slightly, especially the 500 soul gun items; gun is slightly worse but still very strong. [1:01]
+- Mirage is one of the strongest heroes of the patch, mainly because of the Scarab change. [1:32]
+- Before, a Scarab target could not be Scarabed again, capping the steal at 90 health; now throwing Scarab again refreshes the duration, so you can steal a total of around 200 to 220 health starting at level one. [1:32]
+- Scarab is now insane in lane, and the refresh also makes Mirage stronger in 1v1s later in the game. [2:03]
+- Mirage's win rate rose by about 3 to almost 4%. [2:33]
+- Deathy's Mirage build ("Deathy's gun Mirage") mixes gun and utility: not the highest DPS, but lots of barriers, fairly tanky with good DPS. [2:33]
+- Alchemical Fire is a really nice item on Mirage: throw it and Tornado people into it for kills, and it helps flip pushes and farming, which Mirage is naturally bad at. [3:04]
+- McGinnis is not broken and doesn't need nerfs, but gun McGinnis has resurged, especially in EU tournaments; Deathy points to "Naked's gun McGinnis" build. [3:35]
+- McGinnis's gun has one of the highest DPS in the game; scaling it while using the wall makes her a strong 1v1 hero who catches people out, with heal and turrets that are okay. [4:06]
+- Infernus now gets charges on Flame Dash when it is maxed, with no other real nerfs, which makes him a lot stronger. [4:36]
+- Recommended build "Noisy new Infernus god mode": get Rapid Recharge once Flame Dash is maxed for essentially three Flame Dashes, giving much more mobility for farming and fighting. [4:36]
+- Infernus is still not insane at top level because he gets spammed with Slowing Hex or Knockdown, but in most players' games he is having a lot of success. [5:06]
+- Yamato's Shadow Transformation changes pushed her back to very strong, if not broken: it casts much faster and you are actionable immediately, so you can instantly grapple and nobody can run away. [5:37]
+- Before, Yamato's ult was balanced by enemies running around a corner; now maxing the ult also gives extra resist. [6:09]
+- Deathy recommends Ronald's Yamato build (one of the oldest, 47 versions, kept updated by a near Yamato main), but Yamato is strong enough that many builds work. [6:09]
+- Lash had been falling off late game, but his maxed ultimate now stuns enemies in the landing zone for 1 second, which is far stronger than it sounds. [6:41]
+- Before the stun, Lash's ult had no guaranteed Ground Strike follow-up because enemies could escape (Yamato ult, Mirage Tornado, Dynamo Quantum Entanglement); now he can follow up himself, making him much more of a utility hero. [7:11]
+- Deathy suggests trying Chasm Hamster's Lash ult build, but it has no annotations, so follow it at your own risk. [7:41]
+- Grey Talon's trap is now Spirit Snare and curses whoever is in it when shot or triggered, making him a strong counterpick to channeling ultimates like Mo & Krill and Dynamo. [8:11]
+- Grey Talon was already strong against Vindicta; against channelers you sit in the air, wait for their ult, then throw the trap to curse and cancel it. [8:42]
+- Recommended Grey Talon build: Salty's (rank one Talon in NA), a mix of spirit and gun items; Talon is pretty strong regardless of build and viable at all levels. [8:42]
+- Crippling Headshot now stacks with diminishing returns, halving each time: the first gives -24% bullet and spirit resist, a second adds 12%, a third only 6%, so a third is no longer worth it. [9:43]
+- Two Crippling Headshots late game guarantee 36% bullet and spirit resist reduction on a target, which shreds through the improved armors people buy late; always aim to have two on your team late. [10:13]
+- More shred in the game indirectly buffs shields, since shields are not affected by resist reduction. [10:13]
+- Frenzy now builds off Berserker, giving a lot of damage on top of its stats; it is an insane, slot-efficient item late if you take a lot of damage. Consider it on any gun character. [10:43]
+- Silence Glyph goes through lined-up enemies and silences all of them; it has combo potential, for example after Lash's ult groups three people, or after a Dynamo ult with any AOE ability. [11:14]
+- Ethereal Shift now lets you move very slowly while shifted, giving about an extra 6 m and letting you slip around corners; it was already really good and didn't need a buff. [11:44]
+- Tier list, extremely strong last time: Viscous, Shiv, Paradox, Lady Geist, Haze. [12:15]
+- Haze moves down to strong: she is falling off a little after nerfs and the sleep changes, but still quite good. [12:46]
+- Lady Geist stays extremely strong: her second ability lost its silence, but the silence is now on her ult as an AOE, which can be better; she wasn't really nerfed. [12:46]
+- Shiv stays extremely strong: barely touched, only a bug fix that helped him. [13:18]
+- Viscous stays extremely strong. [13:18]
+- Paradox was slightly nerfed but stays extremely strong; in solo queue only, she is weaker, in strong or good. [13:18]
+- Strong tier last time: Pocket, Warden, Kelvin, Abrams, Ivy, Dynamo, Vindicta, McGinnis, Mo & Krill (and Haze now). Most were barely touched; Abrams's slight gun nerf doesn't change much. [13:48]
+- Warden was slightly nerfed; Deathy says he should have been extremely strong last list, but now belongs in strong. [13:48]
+- Pocket probably drops to the bottom of strong or into good: still respect-banned (for example against Ido) and insane damage amp and cooldowns, but not having big tournament impact. [14:18]
+- Ivy and Kelvin are insane; most heroes are very strong because Valve keeps buffing rather than nerfing, a power creep over the last six months. [14:49]
+- Good tier last time: Mirage, Yamato, Wraith, Lash. Mirage and Yamato move to extremely strong as very high priority heroes, backed by their win rates. [15:19]
+- Lash moves from good to strong; Wraith stays in good for now, Deathy unsure. [15:19]
+- Okay tier last time: Grey Talon, Infernus, Bebop. Grey Talon moves to at least good, maybe strong; only good because he is situational and weak to being jumped, but strong in coordinated play as a counter to Vindicta and channel ults (Dynamo, Mo & Krill, maybe McGinnis). [15:49]
+- Infernus got considerable buffs and moves to good; Bebop got buffs and moves from okay to good. [16:20]
+- Seven, the last "needs buff" hero, got slight buffs and a welcome, more fun ult change; at least okay, Deathy puts him in good. [16:20]
+- No hero really needs buffs now; every hero has a place and Deathy wouldn't be sad picking any in a tournament. [16:51]
+- Deathy thinks Valve should take power from the too-strong heroes instead of buffing everyone up. [16:51]
+- Warden tops win rates across all ranks and in Ascendant+; he is quite easy to play and good to win pubs with. [17:21]
+- Pocket's low win rate is mostly a factor of rank: in Ascendant+ it is about 49.83%, though it dropped 3%, so he was probably nerfed significantly. [17:51]
+- Win rates are not indicative of power: Haze has a 90% pick rate and 45% win rate, down 3%, but many players don't pilot heroes well or innovate on builds, and there are hidden gems. [18:21]
+- Shiv only has a 47% win rate yet is extremely strong and high priority for NA teams like Hydra Nation: execute, tanky, lots of damage; his weaknesses are little mobility and no CC, so he can't initiate. [18:52]
+- Win rate change is the more useful number, as a sign of a nerf, buff or meta shift; Ascendant+ samples are small (about 1,500 Pocket matches since the patch), so you may need Phantom+ for a reasonable sample. [19:22]
+- A falling win rate can mean players haven't adjusted builds; turret McGinnis was nerfed hard, gun McGinnis is probably the new way to play her, but few players use it. [19:52]
+
+## Disagrees with
+- none recorded yet

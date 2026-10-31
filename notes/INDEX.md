@@ -274,6 +274,29 @@ One line per digested video: `- <id> | <channel> | <title> | <topics>`. Newest f
 - fM2V11-6d9E | Sensu | The New URN Changes Just RUINED Deadlock… | urn, macro, split pushing, team comp, feedback
 - 2jYvtTRrIns | Deathy | URN REWORKED? Balance Changes + More! New Patch | patch notes, urn, items, hero balance, guardians, movement
 - 9ULlmUQxRw8 | Metro Deadlock | This Deadlock Patch Makes No Sense | patch notes, vitality, hero balance, items, victor, tier list
+- c3T4WMro7AA | Bogur Two | This Coaching Session Traumatized Me | rat king, low rank coaching, farming, rift, walker push, ult usage
+- MckWz6VxMgQ | Deathy | I Coached GothamChess in Deadlock | solomon, new player basics, rift, going back to base, minimap
+- SKs6BH_1Ohw | Metro Deadlock | The Deadlock Hero Tier List - Best Patch Ever? | tier list, hero rankings, tank buster, spirit burst, skirmishes
+- 9itR8G0BfKE | Metro Deadlock | The New Deadlock Update Is Better Than You Think | patch notes, mid boss, deathball, jungle, items, hero changes
+- 8OdAH3YWAeM | Deathy | Meta Report - July 14th - Seven reigns supreme... | meta report, s tier, builds, restorative shot, counterspell, spirit rend
+- z3SfKOCdE0I | DattoDoesDeadlock | I really needed coaching, so I called in the big guns, ft. @Deathy | calico, lane trading, ganking, soul sources, sinner's sacrifice, vod review
+- c3oE9wCVwZ8 | Metro Deadlock | Infernus Is Still Broken... | infernus, flame dash build, replay review, lifesteal, playing from behind
+- EH7Uwq2XEyA | Deathy | Is Mirage Too Strong? - Meta Report Ep. 7 + TIERLIST | meta report, tier list, mirage, items, win rates
+- bytdF6lX7o4 | Deathy | Deadlock's latest patch loves Charged Abilities - Patch Highlights | patch notes, hero changes, item changes, matchmaking, double soaking
+- yFJDkvfgGj4 | Deathy | Grey Talon is King - Meta Report Ep. 4 | meta report, grey talon, urn, siphon bullets, builds
+- s0bCd_dobYI | Deathy | How the Patch affected LANING - Meta Update | laning, guardians, jungle timings, soul sharing, boxes
+- fvfrYqAubNI | Deathy | Best SOLO CARRIES in Valve's Deadlock - Tier List | tier list, solo queue, carry heroes, low mmr, 2024 roster
+- Woroekp2lKo | HERESY | The HALLOWEEN Patch, Pro Coach Patch Review | patch review, mid boss, healing items, radiant regen, hero changes, counterplay
+- DHRO3E4u-SU | Metro Deadlock | The Deadlock Hero Tier List - Shiv Is Broken Edition | tier list, shiv, mcginnis, tank meta, win rates, hero builds
+- -KTJ0sUZV8o | Metro Deadlock | The Deadlock Hero Tier List - Worst Patch Ever? | tier list, lane bullies, team fights, patch economy, infernus
+- beZYWx0UF5w | Metro Deadlock | The OFFICIAL Deadlock Hero Tier List - Calico Is Still Broken Edition | tier list, calico, ladder carry, lady geist, wraith counterplay
+- WDXm_ggBpk8 | Metro Deadlock | Deadlock MAJOR UPDATE Hero Tier List | tier list, item rework, inherent tankiness, lady geist, counter items, viscous
+- GCuoZWpzse0 | Metro Deadlock | The OFFICIAL Deadlock Hero Tier List (NEW PATCH) | tier list, ranked meta, april 2025 patch, lane shoving, hero placements
+- CH3DcJgGpHw | Deathy | HMC is Gone?! Urn has new visuals? Patch overview - Deadlock | patch notes, denies, urn, heavy melee cancel, ethereal shift, hero nerfs
+- DmLuOrj6NWI | Metro Deadlock | The OFFICIAL Deadlock Hero Tier List | tier list, ranked meta, three-lane map, supports, hard carries
+- S3szHWgcc7s | Metro Deadlock | The BIGGEST Deadlock Update Of All Time | patch notes, new map, three lanes, soul orbs, jungle camps, mid boss
+- gsDCzCI5yh0 | Metro Deadlock | The OFFICIAL Deadlock Hero Tier List (With All New Heroes) | tier list, gun nerf, spirit meta, new heroes, item changes
+- 1TgJ740vu1g | MoistCr1TiKaL Gaming | Deadlock Coaching with Deathy | infernus, venator, wave priority, side lane, mid boss, movement
 
 ## General and other heroes
 

@@ -1,0 +1,75 @@
+# I Coached GothamChess in Deadlock
+channel: Deathy
+date: 2026-10-22
+url: https://www.youtube.com/watch?v=MckWz6VxMgQ
+
+## Covers
+GothamChess, a chess streamer brand new to Deadlock (past Overwatch, where he played Hammond, and Fortnite), playing Solomon in bot games.
+Coach is Deathy, who teaches MOBA basics while also playing a blindfold chess game against him mid match.
+Ends with a whiteboard "basic gameplay flow" as homework: push the closest wave, go to the rift, leave lane after objectives, go back to base when hurt.
+
+## Claims
+- Valve has worked on the game for possibly a decade, under internal names like Citadel and Neon Prime, first as a sci-fi futuristic shooter before it became Deadlock. [2:34]
+- The game was under an NDA until August 2024, when it had about 100,000 concurrent players and Valve allowed people to talk about it; it is still not officially released or announced. [3:05]
+- The fundamental thing in any MOBA is getting money to buy items to get stronger; press B to open the shop and buy with souls. [3:36]
+- To get souls you kill things: troopers drop souls and your soul count is at the bottom left. [4:08]
+- Blue troopers are on your side, red troopers are the enemy's. [4:08]
+- Jungle camps are neutral troopers that do not move away from their spawn location, and they also give souls. [4:08]
+- With souls you get stronger, so you want more souls than your opponent. [4:39]
+- The final goal is to kill all enemy structures; killing the enemy Patron, the final structure, wins the game. [4:39]
+- On the minimap green, blue and yellow are just the lane colors; everything red is enemy. [4:39]
+- Matches are 6v6 through matchmaking; you can queue solo or in a six stack. [5:10]
+- Solomon's kit is very complicated to get value out of. [5:40]
+- Use your 2 to heal yourself. [9:11]
+- Reset your bishop by pressing 1 to get rid of it. [9:41]
+- When the enemy has you nearly destroyed you are not dead: clear the wave, then go back to base; killing troopers heals you. [9:41]
+- Do not be afraid to use your gun more; just shooting there would have killed that enemy. [10:12]
+- Upgrading the rooks instead of the recommended knight upgrade is fine, not a big deal. [10:12]
+- Pushing the tower is good; move your queen forward to get it in there. [11:13]
+- Solomon's rooks wall bounce, and upgrading them gives them more wall bounces. [13:47]
+- Shoot while your ult is waiting: every piece has a couple of seconds of cooldown, so after each move shoot for a couple of seconds; you do not need to use it right away. [14:19]
+- The small things around the lane can be killed, but go straight to the objective instead, it is more important; the big circle on the map is the rift. [15:19]
+- After your team takes the walker, the next step of winning is the mid boss. [16:50]
+- Stop tanking the tower. [16:50]
+- At 200 HP go back to base; base heals you and is the most efficient way to heal to full. [17:20]
+- Without the damage for the mid boss yourself, you would need to convince your team to do it. [17:20]
+- To climb up somewhere, just hold space bar. [17:52]
+- In a normal game you would go to the middle and kill the mid boss; in a bot game you can just support your team, since it turns into team deathmatch. [18:53]
+- Being up 30,000 to 40,000 souls means your team is much stronger. [18:53]
+- Destroying the structures is good. [20:01]
+- With very low health, go back to base. [26:37]
+- If your queen is too far away doing nothing, recall it. [28:38]
+- Going back to base is not an admission of defeat, it is a temporary retreat to set up your attack. [29:38]
+- The number at the top is the team soul total: if your team's number is bigger you are winning, and 56K to 44K is winning very hard. [31:08]
+- Get out of that fight; staying in one lane and just fighting is generally not good. [32:09]
+- It does not matter much which lane you go to, but you should go to the big rift objective (the circle on the minimap); go yellow when you respawn. [33:09]
+- Chat gives new players some of the worst advice because it tries to teach more than they need. [33:39]
+- Bouncing the rooks off walls in a big area does a lot of damage. [34:09]
+- The game having one map makes it learnable; multiple maps would make it impossible to learn. [34:09]
+- You can get the buff on the bridge there. [34:40]
+- Pushed lanes on the map do not mean you are being destroyed; you were up 20,000 souls and clearing the yellow lane would be good. [35:10]
+- You can see your teammates through walls a little, so move towards them and towards the fight. [35:10]
+- You can sort of win those 1v1s, but being poor makes it harder. [36:12]
+- When your team is hard winning (up 30,000) but you yourself are poor, fight with your team, because your teammates are the strong ones. [38:46]
+- You can press B to buy from anywhere; the item he wanted cost 3,200 and he was 100 souls short. [38:46]
+- When the enemy team is pushing your base, go back and fight them there. [40:17]
+- There are four active item slots; active items do something when pressed, such as his item on Z that dispels debuffs and heals, but actives are too much to worry about for a new player. [40:51]
+- The minimap is how you keep track of everything; the coach stares at the minimap more than the screen. [41:53]
+- Holding Tab frees the mouse so you can ping the minimap (pinging did not rally the bots). [42:23]
+- The shrines are the structures on the left and right side; you have to go up on the platform to kill them. [42:54]
+- Whenever you are fighting, make yourself a king (Solomon's barrier); it has a very low cooldown, so spam it. [43:24]
+- Solomon's bishops do a lot of damage; do not forget to put the buff on. [43:54]
+- Once he was with his teammates he started popping off. [43:54]
+- Buffing yourself or teammates is situational: with bot teammates buff yourself; with real teammates, buffing yourself is good when you are fighting, and buffing teammates can save them. [44:25]
+- Pushing the wave is always your default. [45:25]
+- Pick the lane whose wave is closest to your base. [45:55]
+- Whenever the rift (the circle objective) spawns, go to it; an on-screen announcement says the unstable rift is going to spawn soon. [46:25]
+- After taking a tower or a big structure like a walker, do not stick around in the lane; back up, farm and buy, since you are hurt and the money was in the objective, so get money elsewhere. [46:55]
+- Any time you are very hurt, go back to base and do not be afraid to. [47:26]
+- Every couple of minutes you get a zipline speed boost to get back to base faster. [47:26]
+- Keep spamming your abilities off cooldown and shoot between abilities; that is all a new player should focus on for now. [47:26]
+- The rooks have a limited number of wall bounces, they are not indefinite. [38:16]
+- Deathy's new player guide covers when everything spawns and the general thought process. [48:27]
+
+## Disagrees with
+- none recorded yet
