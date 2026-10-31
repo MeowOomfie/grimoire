@@ -1,0 +1,70 @@
+# The Strongest Items In Deadlock (Buy These To Win)
+channel: Metro Deadlock
+date: 2025-06-23
+url: https://www.youtube.com/watch?v=rzUORo1XtxQ
+
+## Covers
+A stream-style rundown of the strongest (and some overrated) items in the late June 2025 patch, framed around why sustain items matter after lifesteal and healing nerfs.
+For players building their own item paths: regen and vitality picks, Fleetfoot, Toxic Bullets, Suppressor, Superior Cooldown, 6k picks, and a rant on the melee lunge meta and Rebuttal.
+
+## Claims
+- Recent patches nerfed healing items like Rescue Beam and Healing Nova, but they were so necessary because every other form of healing was nerfed first. [0:00]
+- Spirit lifesteal and bullet lifesteal items are much weaker than they used to be (spirit lifesteal was 28% and bullet lifesteal 32%); now the item costs more and gives about half, a nerf of over 50%. [0:30]
+- Most lifesteal items are very weak now, except melee lifesteal: Lifestrike is insane on a melee build. [1:01]
+- It is harder to sustain in lane and early game without going back to base, which is why Rescue Beam and Healing Nova were everywhere when they were arguably too strong. [1:01]
+- The devs keep nerfing regen like Extra Regen (3.5 to 3); the coach thinks they should instead buff other sustain, including bullet and spirit lifesteal. [1:33]
+- Bullet lifesteal used to let you farm a few camps or lanes, get health back and rejoin a fight; now Bullet Lifesteal and Spirit Lifesteal are only bought as upgrade paths to the expensive good lifesteal items. [2:05]
+- Mid game healing is essential but nothing heals anymore, so Fortitude is insane and hard meta even after its nerf to 14 seconds, since it is the main way to heal in early and mid game without going to base. [2:36]
+- Healing Nova is too expensive to justify now, and Rescue Beam can't really be used as a healing item anymore. [3:06]
+- Because regen is so hard, it is much more essential not to go to low HP in lane; going low now loses the lane much more easily. [3:06]
+- A poke play style that keeps you above the enemy's health is good now, which is also why lane bullies with guaranteed free damage (Yamato's right click, a hero the captions call "magician" that takes half the enemy's HP in one shot) are too strong. [3:38]
+- Heroes that heal for free in lane, like Yamato and Lady Geist, are too strong; Calico, Lady Geist, Shiv and Mo & Krill are strong because they sustain well early and mid game. [4:08]
+- Heroes with inherent lifesteal in their kit are insane right now and heroes without it, at least early, are weak. [4:08]
+- Enchanter's Emblem was nerfed but is still insane value: when healthy it gives 15 spirit power, almost as much as Improved Spirit for the same price, plus spirit resist and cooldown reduction. [4:39]
+- Battle Vest is also crazy; anything that gives regen is good. [5:10]
+- Sprint Boots are better again since Extra Regen was nerfed: they give 2 out of combat regen. [5:10]
+- If you can't win the lane the meta is going back to farming boxes, because souls from lane creeps were nerfed; this makes Sprint Boots twice as good since you regen out of combat while running boxes and run them faster. The coach runs Sprint Boots on all his heroes. [5:10]
+- Return Fire is not bought enough; it was the hard counter to Wraith, who is not played much now, and is a bit weaker against heroes like Infernus who do a lot of spirit, but it is still insane against mostly bullet damage. [5:41]
+- If you complain that gun damage is too high, buy Return Fire. [6:12]
+- Debuff Remover is still broken because it gives free healing: Healing Nova heals a bit more, but Debuff Remover has a lower cooldown, heals almost as much, and you are always debuffed in a fight. [6:12]
+- Debuff Remover removes things that kill you, like Infernus's burn; against any comp there is something worth removing. [6:43]
+- Debuff Remover's 30% debuff resist is very valuable against lockdown like Mo & Krill's ult or Holliday's lasso, reducing how long you are stunned. [6:43]
+- Spirit Resilience has a good late game use and is probably the best value spirit resist item in the game. [7:15]
+- Bullet Resilience is not as good, since better bullet resist value exists; on a left click hero Escalating Resilience is just better because it gives everything Bullet Resilience gives and more. [7:15]
+- Heroic Aura is the best support item in the game: it gives your whole team 15% bullet resist at all times plus fire rate and movement speed. One person on your team should always have it, ideally a support. [7:45]
+- Trophy Collector got better this patch because many more team fights happen early and you are encouraged to fight early; souls are also worth more since you farm less. [8:15]
+- Trophy Collector is okay on certain heroes, probably Lash and maybe Dynamo, but never buy it on a carry or fast farmer like Seven, Wraith or Infernus; there are always better options. [9:17]
+- Infuser is amazing, especially on Seven: since other lifesteal is weaker, 6 seconds of 80% is insane on heroes with a lot of spirit burst. [9:48]
+- Vampiric Burst is not as good: same stats as Infuser but lasts 4.5 seconds instead of 6, which is a big downgrade; still a decent item. [10:19]
+- Leech is great on hybrid heroes that do a lot of both damage types, like Infernus. [10:19]
+- Weighted Shots gets better the more other spirit resist is nerfed (as on Enchanter's Emblem): it gives 30% weapon damage plus 16% spirit resist and 16% debuff resist. [10:50]
+- Weighted Shots' downsides are negligible on most heroes; you won't notice the bullet velocity penalty with decent fire rate, but avoid it on very slow firing heroes like Warden. [11:20]
+- Fleetfoot is in the coach's top three items: broken on most heroes and multifunctional, faster map movement and camp farming, faster rotations, easier chasing and escaping, and more slide which means more ammo. [11:20]
+- Toxic Bullets is really strong and core on Infernus; on fast fire rate heroes that use their gun a lot it is probably the best anti-heal in the game, since you keep dealing big damage. [12:23]
+- Other anti-heal is weaker: Healbane is a shell of itself, the coach doesn't think Blood Tribute is great, Decay was nerfed quite a bit, and the rest are 6k items. [12:23]
+- Spirit Burn is really strong but it is a 6k investment; for early anti-heal while still dealing damage, Toxic Bullets is the pick. [12:53]
+- Hot take: most 6k orange (weapon) items are pretty weak; they either have big downsides (Glass Cannon is risky) or are very situational. [13:26]
+- Armor Piercing is only worth it if the enemy has a lot of bullet resist; Lucky Shot is a late game luxury damage upgrade. [13:26]
+- Ricochet is insane if you have on-hit effects, like Mirage or Infernus. [13:26]
+- The heavy melee lunge item turns melee into a ranged attack with huge lunge distance; you can fake toward the enemy and turn away at the last second to bait a parry, then punch a stunned target to death with Crushing Fists. The coach calls it low skill and wants it removed, reworked, or parry cooldowns lowered. [13:56]
+- Once you bait out a parry the enemy is a sitting duck. [15:27]
+- An upcoming hero, Bookworm, has an auto parry, which will add build diversity but does not fix the melee item. [15:27]
+- Rebuttal is a very weak item: you must buy it early, which slows the rest of your progression, and it doesn't build into anything, costing a slot. [15:57]
+- Rebuttal is only really valuable against Viscous, since you can nearly guarantee parrying his Puddle Punch; an Abrams who sees it will stop heavy meleeing you, and light melees are very hard to predict. [15:57]
+- Titanic Magazine is a staple, bought on many heroes because it gives a lot of value for the price; maybe it needs a small nerf. [16:59]
+- Opening Rounds is a very high stat item: spirit power and a lot of weapon damage for cheap. [17:29]
+- Backstabber is a really good early game item but not broken. [17:29]
+- Suppressor is the most overstatted spirit item in the game: if your hero applies spirit damage easily it cheaply cuts enemy gun damage by a lot, and gives bonus health and spirit power. [17:29]
+- Suppressor is good against Lady Geist, gun heroes, even Lash (if he ground slams you and you apply it, his follow up shooting is reduced); the coach thinks it needs a nerf. [18:00]
+- Superior Cooldown was nerfed by another 1% but is still a core item on many heroes because lower cooldowns are so valuable. [18:31]
+- Superior Cooldown also reduces item cooldowns: on his Seven build with three actives it gives almost 100% uptime on Cultist Sacrifice and much lower cooldowns on Infuser and Fleetfoot. The coach thinks the only fix is to stop it applying to items. [18:31]
+- If you buy Compress Cooldown on an ability and don't upgrade it to Superior Cooldown, you're throwing. [19:31]
+- The more Superior Cooldown is nerfed the better Superior Duration gets; it makes Infuser and Fleetfoot last longer and is an up and coming item. [19:31]
+- Standout 6k items: Spirit Burn on heroes that can use it, the earlier the better since it is flat damage; Lightning Scroll is insane for AoE ults like Warden's or Ivy's. [20:02]
+- Silence Wave is not bought enough: it reduces enemy spirit power and spirit resist and silences for about 4 seconds. [20:02]
+- Quicksilver Reload is the best reload item in the game. [20:33]
+- Mercurial Magnum is bad on its own: the math says it doesn't add enough damage on most heroes, but it is viable as a late game luxury upgrade from Quicksilver Reload. Never rush it anymore; any other 6k item is a better pick for damage or survival. [20:33]
+- Spirit Snatch is kind of broken because of who runs it: it is free on Calico, Abrams, Shiv and Pocket. [21:05]
+
+## Disagrees with
+- none recorded yet

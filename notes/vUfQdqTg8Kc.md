@@ -1,0 +1,72 @@
+# I tried every Haze build so you don't have to - Part 1
+channel: Deathy
+date: 2025-06-16
+url: https://www.youtube.com/watch?v=vUfQdqTg8Kc
+
+## Covers
+An edited stream where the coach plays one game each with the top daily public Haze builds from the in-game build browser (mid June 2025 patch) and scores them on laning, mid game, late game, flex slots, ease of use and skill build.
+For Haze players choosing a public build; Part 1 covers six builds and much of the value is in why each scores up or down (Slowing Hex, Kinetic Dash, Enchanter's Emblem, early Siphon Bullets, Focus Lens, Trophy Collector).
+
+## Claims
+- Problem the series solves: the public build browser's top daily builds give no way to tell good from bad when you don't know the authors. [0:00]
+- Haze is the most picked hero in the game right now, per Statlocker. [1:01]
+- Each build is rated on laning, mid game (do you hit your power spikes), late game (strong with all items), flex slot use, ease of use, and skill build. [1:33]
+- The builds are followed left to right, core items only, as an average player would, not as a top player would; optional "buy sometimes" items are not bought, to keep ratings fair. [3:05]
+- Haze hits a power spike when Fixation is maxed. [3:40]
+- Build 1, PlayWithMe (a high level European player): no description or annotations but very cohesive and easy to follow; it goes Fortitude then Burst Fire. [2:34]
+- With your ult up you can gank anyone; enemies are likely farming their jungle. [4:43]
+- The PlayWithMe build has no spirit resist, which was felt; Enchanter's Emblem is in the build but not in the core and would thoroughly improve it. [5:53]
+- PlayWithMe laning 4: about as good as lane gets, maybe slightly better lane items exist. [6:56]
+- PlayWithMe mid game 4: spikes are consistent; one point docked for no Enchanter's Emblem, which would have made the build feel much smoother and there were slots for it. [7:26]
+- PlayWithMe late game about 5: late items like Ricochet and Unstoppable are the right items. [7:26]
+- PlayWithMe flex slot 4: needs few flex slots but could use them better, for example on Enchanter's Emblem. [7:56]
+- PlayWithMe ease of use 3.5: easy left to right, but no tips, annotations or description for someone who doesn't know what they're doing. [7:56]
+- PlayWithMe skill build about 4 to 4.5; the delayed single point seemed a little weird. Total 25. [8:27]
+- PlayWithMe plays as an active Haze, running around the map rather than farming. [8:57]
+- Any build that goes Siphon Bullets early cannot be an active build. [8:57]
+- Haze's lane is not that bad, but early she is really weak before she has two points in Fixation. [8:57]
+- When you hit Sleep Dagger on a Calico and walk up to her, she can still punch you and press her ult and nearly kill you. [10:01]
+- Without Slowing Bullets or Slowing Hex it is hard to kill anyone with the Situational Siphon build. [10:33]
+- Build 2, Situational Siphon: more farm heavy; buys Fortitude; Slowing Hex is only under "buy sometimes". [11:03]
+- Situational Siphon laning 4. [12:35]
+- Situational Siphon mid game 2: the items that make Haze's mid game strong sit in "buy sometimes"; Slowing Hex and Kinetic Dash are extremely core to Haze's mid game, and without them it feels really bad. Rushing Siphon Bullets early also makes her mid game feel really bad. [12:35]
+- Situational Siphon late game 5: you feel very strong late. [13:05]
+- Situational Siphon flex slot 4, ease of use 2.5 (the build only works if you buy the "buy sometimes" items), skill build 4.5. Total 21. [13:05]
+- Build 3, Renon's gun Haze: starts with five gun items, a red flag, though it lists optional sustain. [14:07]
+- Active Reload is all you need for ammo on Haze, and with Burst Fire you will be sliding a lot later. [14:38]
+- Return Fire countered the coach in a fight. [15:12]
+- Putting zero points into the ult for a long time seems weird; one point is good. [15:12]
+- Every Paradox faced in these games had Curse. [16:20]
+- Renon laning 4: all the builds feel about the same in lane so far. [18:03]
+- Renon mid game 3.5: PlayWithMe's mid game is stronger because early Fleetfoot with Slowing Bullets and Slowing Hex makes you much more active and faster around the map. [18:03]
+- Renon late game 5: it identifies all the correct late items and gives different options depending on the game. [18:33]
+- Renon flex slot 5: probably the best use of slots so far. [19:05]
+- Renon ease of use 4.5: probably the easiest to use, with categories, a better description and annotations. [19:05]
+- Renon skill build 4: not optimal, a bit worse than the others, partly from skipping the ult point for a long time. Total 26, first place. [19:35]
+- Build 4, Pars: Kinetic Dash, Swift Striker, Enchanter's Emblem; the coach likes these star items. [19:35]
+- In the Pars game the coach had no defensive layer and needed to stay much further back and just shoot. [23:52]
+- Pars laning 4. [23:52]
+- Pars mid game 3: better than Situational Siphon, worse than PlayWithMe and Renon, because it is a little greedy: it has Kinetic Dash but no early Slowing Bullets or Slowing Hex (Slowing Hex is only a mid game option). Having one of them very early lets you be much more active. [23:52]
+- Pars late game 5: this build goes really hard late. Flex slot 4: buys enough small items. Ease of use 3.5. [24:22]
+- Pars skill build 4, though the coach dislikes two points before the one point in Smoke Bomb and no points in the dagger; could partly be a skill issue in using Smoke Bomb. Pars lands just above Situational Siphon. [24:53]
+- Build 5, Skip Sleeps farm machine: Escalating Resilience, built for max DPS; no description, just Vampiric Burst plus Curse plus other tier four items. [25:23]
+- The farm machine build has slot issues from so many weapon items, and buys Mercurial Magnum. [28:56]
+- In that game the coach was disarmed and tethered nearly permanently; the game would have been an easy win with Unstoppable at any point, which the build only lists as optional. [30:58]
+- Unstoppable should be core late game on this type of build, not merely listed as good. [32:31]
+- Skip Sleeps laning 4; mid game 3.5 (good mid game but no Slowing Hex; PlayWithMe has the best mid game so far). [32:00]
+- Skip Sleeps late game 3: many items and no annotations, so it is unclear what to buy after Escalating Resilience. [32:31]
+- Skip Sleeps flex slot 2.5: following it you run out of slots because of all the weapon items. Mercurial Magnum is terrible. [33:02]
+- Skip Sleeps ease of use 3 (no annotations, situational items just listed); skill build 4.5, though maxing the dagger early is a little troll. Total 20.5. [33:02]
+- Build 6, Jamside's NLP Haze DPS build: the coach calls it bad and a copy of something he once did. [34:03]
+- Focus Lens is not a 30% damage amp for your team: it does 30% of the damage that was dealt. [34:03]
+- Focus Lens is a 6,400 item fully countered by the 3,200 Debuff Remover; it is good only if enemies don't buy Debuff Remover, so the better your opponents, the worse it gets. [34:35]
+- The Jamside build rushes Tesla Bullets and has no reload item, which feels bad. [35:37]
+- You need Focus Lens at about 12 minutes for this build to work. [36:38]
+- Trophy Collector is best bought when you are ahead and proactive, farming heroes instead of camps, so you can stack it; it generates money but gives no power. [37:08]
+- Jamside laning 2: no lane items, no regen. Mid game 2: you are saving up for Focus Lens and Trophy Collector. [38:13]
+- Jamside late game 4: few items but if you are owning it does a lot of damage. Flex slot 3: it doesn't buy many small items. Ease of use 3: nothing written. [38:43]
+- Jamside skill build 5, maybe the best Haze skill build so far: max 3 (Fixation), one point in Smoke Bomb, one point in the ult. Total 19, bottom of the board. [39:13]
+- Part 1 standings: Renon 26, PlayWithMe 25, Pars just above Situational Siphon 21, Skip Sleeps 20.5, Jamside 19. [39:43]
+
+## Disagrees with
+- none recorded yet

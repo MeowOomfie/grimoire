@@ -1,0 +1,59 @@
+# The Deadlock Hero Tier List (New Ranked Reality Check)
+channel: Metro Deadlock
+date: 2026-08-03
+url: https://www.youtube.com/watch?v=oXAqVuI14Ic
+
+## Covers
+Metro's early August 2026 tier list, just after the first ranked season launched, rating every hero S to D on how well they solo carry (climbing in solo queue), not raw strength with a good team. His rule: the two ways to carry are solo killing in the mid game (spirit nukers) or hard farming into a hard carry, so supports and team-reliant heroes rank low. For solo queue players picking a hero to climb.
+
+## Claims
+- The new matchmaking ranking system makes games very volatile, so the list rates heroes on how hard they can solo carry, S to D; a C rating doesn't mean a hero is bad, only team reliant. [0:00]
+- Duo queue is "giga broken"; if you have a friend, duo queue. [0:00]
+- Matchmaking is all over the place, so you can rely on your team even less even though people try to play together more. [0:31]
+- Tanks rate lower in this meta; besides spirit being nerfed, tanks don't feel very impactful right now. [0:31]
+- Mo & Krill: A tier, almost S. Very strong, does a lot of damage even solo; before he always needed a teammate, now he solo grabs and kills people 1v1 and often has the highest net worth in the lobby. The buffs looked small but were substantial; he can't really lose lane, then roams mid game for free kills. [1:02]
+- The two ways to win right now: solo kill a lot of people in the mid game with spirit nukers, or be the hard carry and hard farm. [1:35]
+- Abrams: middle of the pack at best, almost C; not strong in lane, can't solo kill mid game, very team reliant, not good to solo queue with. [1:35]
+- Apollo: first placed low S as one of the few heroes who can 1v1 or 1v2 nonstop with a really strong lane and solo kills mid game; later moved down to A, saying he rated him a bit too high. [2:06] [13:50]
+- Bebop: same as Abrams, needs a team; good, probably better than Abrams, but not meta defining and lacks hard carry potential. [2:36]
+- Billy: really good; the Fury Trance buffs helped him, he can run Fury Trance himself and many Billys run hybrid gun builds. Metro rates him on the same level as Mo & Krill and considered S for both. [2:36]
+- Calico: everything you want for carrying after lane; go around getting solo kills nonstop, invade the enemy jungle alone, and she can play the whole game by herself, often highest net worth and able to one-shot people. [3:06]
+- Celeste: average, "mid"; not weak and playable, but less burst than other spirit burst heroes, less tanky than tanks and not a hyper carry late. [3:37]
+- The Doorman: first B because he needs a team for full value, then raised to A because the ult gives free value even without teammates; easily S with a coordinated team, but struggles if your team is bad. [4:07]
+- Drifter: very mediocre, below average for ranked; his lane is not great, and his mid game roaming and ganking needs a teammate until he snowballs; after a bad lane he can't AFK farm into a hyper carry. Metro found even good Drifters not scary in 30+ recent games. [4:39]
+- Supports are rated low not because they are weak but because they are the most team reliant. [5:40]
+- Dynamo: C for solo queue; Black Hole is one of the best ults in the game, but if your team doesn't do its job Dynamo can't do anything. [5:40]
+- Graves: bad, bottom of the barrel after several patches of nerfs; Metro is never scared of Graves; only Haze is worse. [6:11]
+- Haze: the worst hero, absolutely gutted; she lost the Echo Shard combo that was her main play style. [6:11]
+- To counter Haze, buy Metal Skin; even without it, if she isn't ahead of you in souls you win the 1v1 on most heroes. Late game Fixation scaling now scales with weapon damage, but hard carries are still better. [6:42]
+- The D tier heroes (Haze, Graves) are niche but still playable; overall balance is not that bad. [7:13]
+- Grey Talon and Vindicta: C for solo carrying; high damage dealers but super reliant on the team, dying "like flies" if a tank or support doesn't peel. With an evenly matched good team Vindicta would be up high and Grey Talon high B or even A. [7:13]
+- Holliday: S for ranked, one of the insane spirit nukers; she rotates early and gets solo kills (a bit harder than on Mina), has insane mobility and can run the Urn for free. Assumes you can play her; she is very hard to learn. [8:14]
+- Infernus: middle or low middle; needs a team eventually. Gun Infernus is not a thing right now; he is played as a tank (a few purple items, then full greens, one burn item, perma Flame Dash), and late game he is far worse than a Lady Geist or Venator. [8:45]
+- Ivy: B; probably the most versatile hero in the game (full gun, full support or spirit heavy builds; she can shut down carries with stuns, save the team or initiate), but she can't solo carry, gank for many mid game kills or hyper scale late. [9:17]
+- Kelvin: very mediocre support that needs a team; spirit heavy Kelvins seem to do really well, but he can't solo carry. [10:18]
+- Carries are really strong right now. [10:18]
+- Lady Geist: easily S tier, a top two carry; she wins lane easily, does well mid game and is strong at all points, unlike Seven who needs a lot of farm. [10:18]
+- Lash: S, possibly the best hero in the game; every high ranked player grinding ranked to win plays him. Infinite mobility, okay in lane, then kills everyone after lane and scales well. Played mostly hybrid: Headhunter eventually, some spirit items, then a Siphon item, sitting in the sky shooting; "no weak point". [10:49]
+- McGinnis: came back into the meta and is really strong and versatile like Ivy (full gun carry, full spirit turret spam, or supportish), with even more damage than Ivy. [11:49]
+- Mina: A; win lane, kill everyone mid game, scale into late with a slight fall off; one of Metro's favorite solo queue picks. [12:20]
+- Mirage: really strong if you use the teleport properly; he can't lose lane and can't really die mid game, but can't gank a lot; his job is to sit on a side lane and not lose. [12:50]
+- Paige: pretty bad, probably the worst support; if your team does no damage you lose no matter how long you keep them up, "the Mercy of Deadlock". [12:50]
+- Paradox: A; not quite Holliday level, less mobile and less nuke potential, but can't be rated lower. [13:20]
+- Pocket: easily S; his deflection (Flying Cloak) damage nerf of about 6 to 8% is barely noticeable, and he got slightly weaker from tank passive interactions and Mystic Shot changes, but you roam mid game, kill everyone and press 4 late; one of the highest impact heroes. [13:20]
+- Rem: needs tanks; gets a lot of value in a frontline heavy comp (for example with Billy and another tank) because of his burst healing, and loves a tank in lane. [13:50]
+- Since the matchmaking algorithm changed, teams get fewer tanks, usually one, maybe two frontliners, which hurts Rem. [14:21]
+- Seven: all right, solid, the weakest of the carries. [14:51]
+- Shiv: feels really bad, the weakest he has ever felt; he dies fast, and against him just don't fight in close quarters with four people where he gets perma dashes. Niche; Metro would rather have any other tank. [14:51]
+- Silver: nerfed quite a lot this patch, rated lower than all the other tanks. [15:21]
+- Sinclair: A. The high rank meta is to queue anything but Sinclair, then swap to him if the enemy team has good ults to steal (for example Warden, Seven, Dynamo); with no good ult to steal he is bad, with good ones he is insane. [15:21]
+- Venator: S, the other hard carry; interchangeable with Lady Geist, good at all points, solo carries and hard scales, slightly below Geist. [16:23]
+- Victor: middle of the pack, a tiny bit better than Seven; more Victors run hybrid or gun builds with the Fury Trance buff, which works well on him; a tank carry hybrid, not a full tank. [16:23]
+- Viscous: insanely strong, got overbuffed; few Eternus players play him but those who do feel strong; he can do everything by himself. [16:54]
+- Vyper: niche; not as good a hard carry as most hard carries, not as good a nuker as most nukers, and very volatile. [17:26]
+- Warden: with the mediocre carries; gun and spirit builds are both viable and nearly interchangeable (go ult/spirit build if you have another hard carry, full gun if you are the carry), but he is mediocre at both. [17:26]
+- Wraith: low A; good, but lacks the insane early and mid game of Lady Geist and Venator and is easier to kill; farmed Wraiths can be killed first. [17:57]
+- Yamato: placed with no reasoning given, as a channel running joke. [18:29]
+
+## Disagrees with
+- none recorded yet

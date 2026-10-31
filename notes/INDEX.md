@@ -215,6 +215,37 @@ One line per digested video: `- <id> | <channel> | <title> | <topics>`. Newest f
 - dYCgnZ4Wp-A | Metro Deadlock | The Best Build For Every Hero In Deadlock | hero builds, item builds, troll builds, spirit meta, how to play
 - SytB0zKkUlQ | Metro Deadlock | The Ultimate Guide To Deadlock Items | items, investment bonuses, counter items, anti-heal, build crafting, seven
 - ns5xI252NjE | Natan | The ULTIMATE Deadlock Build Crafting (and Item Shop) Guide | build crafting, item shop, ability point order, investment bonuses, mina, item tier list
+- D0KSefw6iKk | Deathy | The Unstable Rift hits the Cursed Apple, Patch Breakdown | patch notes, unstable rift, urn rework, economy, hero changes, scourge
+- S9Z3eaPVapQ | Metro Deadlock | The Deadlock Hero Tier List For Every Rank | tier list, meta, urn fights, aoe ultimates, rem, warden
+- cqWxajdEJY8 | Metro Deadlock | The BEST Wraith Build In Deadlock - META Build Update | wraith, build, shielding items, jungle farming, investment thresholds
+- v1PMC8Yky-I | Natan | The Worst and Best Items - NEW Deadlock Patch | items, patch changes, cooldown reduction, spirit shielding, counterspell, slowing hex
+- rzUORo1XtxQ | Metro Deadlock | The Strongest Items In Deadlock (Buy These To Win) | items, sustain, fleetfoot, suppressor, superior cooldown, melee
+- vUfQdqTg8Kc | Deathy | I tried every Haze build so you don't have to - Part 1 | haze, build comparison, public builds, slowing hex, focus lens
+- bk51w6MBjto | Metro Deadlock | The Best Wraith Build In Deadlock Just Got Better... | wraith, build, surge of power, tesla bullets, sinner's sacrifice, items
+- iMuQFhuarig | Metro Deadlock | The BEST Wraith Build In Deadlock - META Build Update | wraith, build, heroic aura, barriers, split push, items
+- v4KN6D0nlZc | Metro Deadlock | The BEST Calico Build In Deadlock - NOT CLICKBAIT | calico, build, combo, torment pulse, ability order, items
+- z9xfBbh3SMM | Metro Deadlock | The BEST Infernus Build In Deadlock - META Build Guide | infernus, build, flame dash, spirit lifesteal, itemization
+- hiJQvuwXO3M | Metro Deadlock | The Best Wraith Build Ever - NOT CLICKBAIT | wraith, build, full auto, surge of power, lifesteal
+- lVYX_FJKGW4 | Metro Deadlock | The BEST Wraith Build In Deadlock - Hardcarry Build Update | wraith, build, gun carry, fleetfoot, lucky shot, split push
+- 5SsEsiOH1f4 | Metro Deadlock | The BEST Warden Build In Deadlock - META Build Update | warden, build, gun build, last stand, movement speed, frenzy
+- 09zYamjnG_8 | Metro Deadlock | The BEST Wraith Build In Deadlock - I Have Become What I Hated | wraith, shadow weave, build, slowing hex, pick-off combo, silence glyph
+- XbEf9EPUReE | Metro Deadlock | The BEST Wraith Build In Deadlock - NEW PATCH Update | wraith, patch notes, item buffs, siphon bullets, build
+- Azup72ecU0A | Metro Deadlock | The BEST Wraith Build In Deadlock - META Build Update | wraith, gun build, swift striker, escalating resilience, titanic magazine, mystic burst
+- q2h5iBP9SbQ | Metro Deadlock | The BEST Wraith Build In Deadlock Refined. | wraith, gun build, tesla bullets, hunter's aura, sell order, laning cards
+- 1g1MHsL2_74 | Deathy | How to make MELEE Work - Deadlock Itemization lesson | melee, itemization, mirage, damage amp, bullet resist shred, parry
+- xRlHOsufXkQ | Metro Deadlock | Deadlock MAJOR UPDATE Item Tier List | item tier list, weapon items, vitality items, spirit items, item update
+- nUHH2wSoSBo | Metro Deadlock | The BEST Deadlock Build I Have Ever Used | warden, gun build, fury trance, cultist sacrifice, arcane surge, ganking
+- TZ4yV937Rv8 | Deathy | NEW ITEMS BREAKDOWN: Part 1 - Vitality | vitality items, item update, counter spell, trophy collector, item balance
+- q7rgiaPGdpM | Deathy | Lash is still OP - Updated Lash Build showcase | lash, build, flog, colossus, paradox counter, warp stone
+- eCf9wB3acjg | Deathy | SHIELDS VS ARMORS - Deadlock Itemization Lesson | shields, armor, resistances, veil walker, itemization
+- JzHadjEd_Lw | Deathy | Deadlock Biggest Update Ever. | patch notes, new heroes, map rework, haunts, broker, hud
+- ZWm7ixeWjbQ | HERESY | Explaining Deadlock's Most Significant Balance Patch In A Year | balance patch, comeback souls, tempo meta, items, hero changes
+- oXAqVuI14Ic | Metro Deadlock | The Deadlock Hero Tier List (New Ranked Reality Check) | tier list, solo queue, ranked, carries, hero picks
+- xJ8jkZxfqMk | Deathy | Deadlock's FIRST Ranked Season is Out!, Patch Breakdown | ranked, matchmaking, rank points, leaver rules, leaderboards
+- xxSDxd0zC7c | Metro Deadlock | The BEST Wraith Build In Deadlock 2.0 | wraith, build, mercurial magnum, cultist sacrifice, boundless spirit, capacitor
+- NNevOpe1lF0 | Deathy | Deadlock's Items are ready for release - Initial Patch Breakdown | patch 2.0, item system, slots, investment bonuses, healing nerfs, time to kill
+- vz7HRAiQzAs | Metro Deadlock | The Best and Worst Items In Deadlock 2.0 | patch 2.0, item tier, winners and losers, anti-heal, barriers, armor items
+- orI-u4l2MBk | Metro Deadlock | Every New Item In The BIGGEST Deadlock Update Explained | patch 2.0, every item, new items, first impressions, capacitor
 
 ## General and other heroes
 

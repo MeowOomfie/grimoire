@@ -1,0 +1,71 @@
+# The BEST Wraith Build In Deadlock - META Build Update
+channel: Metro Deadlock
+date: 2024-10-28
+url: https://www.youtube.com/watch?v=Azup72ecU0A
+
+## Covers
+Metro's updated gun Wraith build after a big Wraith nerf (cards down to 70 base damage): what changed from his previous build and why, covering lane order (Extra Spirit before Mystic Burst), Swift Striker back in, Titanic Magazine and Escalating Resilience for a tanky mid game, late game picks, and why he does not rush Shadow Weave.
+For Wraith players following his in-game build "Metro wraith". This is a late-2024 video: the item shop, hero kits and map have changed a lot since.
+
+## Claims
+- This patch was a really big Wraith nerf; she is still insane in his opinion but a bit weaker, especially early game. [0:33]
+- The up to date build is always in game under "Metro wraith". [1:03]
+- In lane only two things changed: Monster Rounds was removed, and the item order changed a bit. [1:03]
+- Still start with Basic Magazine most of the time to help in lane. [1:33]
+- Wraith's cards were nerfed to 70 base damage. Mystic Burst only adds bonus spirit damage when an ability does 80 damage or more, so you need some base spirit first. [1:33]
+- Buy Extra Spirit first, before Mystic Burst. Mystic Burst alone only gets a card to 74 damage, so its effect never applies. [2:04]
+- You can go Extra Charge first if you want three cards very early that do less damage. [2:04]
+- Infuser is a valid alternative to Extra Spirit or Mystic Burst: when procced it does insane damage and gives spirit lifesteal, but only for 6 seconds. [2:34]
+- Infuser suits a burst combo: save up three cards in lane and pop Infuser when the enemy pushes you; with Infuser active, Mystic Burst still works even before your level two card upgrade (+50 damage). [3:05]
+- He prefers throwing a card whenever he can do full damage. Mystic Burst's only limit is its 6.2 second cooldown, so as long as you don't throw cards back to back you still get the bonus damage. [3:05]
+- His lane plan is to harass constantly to win the lane, and he can still go for the three-card burst later to kill. [3:35]
+- Then Extra Stamina (slightly buffed this patch, even better) and Sprint Boots. [3:35]
+- Extra Regen and Restorative Shot only when you need health: usually Extra Regen first (weaker now, only regen and no extra 25 health), then Restorative Shot if you really need regen; in many games he skips both, though he still buys Extra Regen a lot. [3:35]
+- Monster Rounds is still a great option, but he dropped it because Swift Striker is back later in the build, and you would sell Monster Rounds very early once you reach Swift Striker. [4:06]
+- He would rather skip the 500 on Monster Rounds and go right into Fleetfoot, Quicksilver Reload and Tesla Bullets for farming speed. [4:37]
+- Fleetfoot, Quicksilver Reload and Tesla Bullets stay the same as before; Tesla Bullets got a slight buff (now works with cooldown reduction) that won't matter much. [5:09]
+- Some Wraith players run Improved Cooldown for about 16% faster Tesla bounces; he thinks it is not worth it because the purple slots are full with Quicksilver Reload and Bullet Resist Shredder. [5:39]
+- By the time you have Bullet Resist Shredder, without a flex slot, you sell Mystic Burst or Extra Spirit anyway. [5:39]
+- A pure card build is bad now; gun Wraith is better, and most Wraith players, even in pro play, run hybrid or full gun. Cards are too weak to throw four and kill. [6:09]
+- After Combat Barrier (bullet shield), Swift Striker is back. Two reasons: the meta is a bit faster and Walkers are easier to kill, so Monster Rounds helps farming less than Swift Striker; and mainly, Titanic Magazine is back in the build. [6:41]
+- With lots of bullets in the magazine you want higher fire rate. Fire rate is the best damage stat: getting bullets out faster also charges cards faster and raises DPS massively. [7:11]
+- 22% fire rate is about 22% more damage; no item at the same price gives that much, and it is close to what Burst Fire and even some 3k items give. [7:41]
+- With a small magazine and no Titanic Magazine, Swift Striker means reloading constantly; even with Quicksilver Reload that is not great, but with the bigger magazine you can afford the high fire rate. [8:11]
+- Then Bullet Resist Shredder. It was changed to give melee resist instead of about 8% bullet resist; about the same strength, better if you get punched a lot. [8:42]
+- The build wants the enemy to have as little bullet resist as possible; Bullet Resist Shredder is the only item doing that until Crippling Headshot in the late game. [8:42]
+- Hunter's Aura is removed from the build because Titanic Magazine is back. [9:12]
+- Titanic Magazine now gives spirit resist instead of bullet resist, plus 25% melee resist. Early and mid game most of your damage taken is spirit, so it lets you keep fighting without buying Spirit Armor early; good against Abrams or a melee Shiv too. [9:12]
+- Next Escalating Resilience, a meta pick because the meta is back to some enemies running bullet damage; it is the best item against bullet damage on Wraith. [9:42]
+- Alternatives are Metal Skin (invulnerable, but no bonus damage beyond 8% fire rate) or Improved Bullet Armor (4,250); Escalating Resilience at max stacks gives almost the same resist while still giving fire rate and weapon damage. [10:12]
+- Escalating Resilience only fails if you don't shoot the enemy; each bullet adds a 2% stack, so with Wraith's fire rate max stacks take about one and a half seconds of normal fire, even without Full Auto. [10:42]
+- Following the build up to Escalating Resilience you only have to sell one purple item, since Titanic Magazine builds from Basic Magazine; by then you should have a flex slot, probably two. [11:15]
+- The meta is shifting to hybrid teams (some bullet, some spirit damage); this is the tankiest version of his build with almost the same damage: spirit resist from Titanic, melee resist from Bullet Resist Shredder and Titanic, bullet resist from Escalating Resilience. [11:45]
+- Around here he usually also buys Spirit Armor, selling Extra Stamina if he has no flex slot. [12:16]
+- Intensifying Magazine is optional, even more value now; you can run it instead of Titanic Magazine or Escalating Resilience, but he mostly adds it on top, only with another flex slot. [12:48]
+- In mid game you don't want to drop any orange item: not Fleetfoot or Tesla Bullets (still farming), not Swift Striker (fire rate), not Titanic or Escalating Resilience. [12:48]
+- Otherwise go straight into Vampiric Burst: pop it when you engage and you can't die unless it is 1v5; it was buffed to 175 bonus health from 150. [13:18]
+- Siphon Bullets is a new situational option; if you run it, buy it before Vampiric Burst. It steals 55 max HP per stack every 0.8 seconds on hit, from any distance. [13:48]
+- Siphon Bullets is good if fights last long and you face a lot of snipers: from sniper range you play safe and slowly suck the enemy dry. [14:18]
+- It is not core because against close-range teams, or when you need damage, there are better options; he prefers burst: lift someone, kill them, move to the next. [14:49]
+- Crippling Headshot or Lucky Shot are always solid: Crippling Headshot for team fights against damage reduction and spirit resist; Lucky Shot or Inhibitor if you need to slow enemies who get away too fast. [15:19]
+- Toxic Bullets is a must buy against Infernus or Abrams, or against heavy enemy healing and sustain. [15:19]
+- From late game on, every item is situational; he almost always buys Vampiric Burst. [15:50]
+- Against lots of stuns, for example Dynamo's Black Hole, run Unstoppable: proc it and you won't be stunned for 6 seconds and can get a mass lift off. [15:50]
+- Soul Rebirth in super late game is almost a must have: two lives. [15:50]
+- Leech is even better on Wraith now because it gives cooldown reduction, so cards come back faster and DPS is a bit higher; another great alternative. [15:50]
+- On the Shadow Weave rush meta: he thinks rushing it now is a poor choice; it makes you a budget Haze. Playable and good if you initiate and gank a lot, but it doesn't add much damage. [16:22]
+- Shadow Weave's 55% spirit power doesn't add much card damage to your ambush; it was a card Wraith option that is now much weaker. [16:54]
+- Vampiric Burst is better in most cases: it lasts only 4.5 seconds instead of 8 and gives no invis, but gives 100% lifesteal, a permanent 25% weapon damage, more health and move speed. [16:54]
+- If you like that play style you can run Shadow Weave instead of Vampiric Burst for a guaranteed lift off, but with decent positioning a good Wraith gets the lift off anyway. [17:25]
+- Spirit Armor sits in utility only because some games don't need it; he buys it almost every game. [17:25]
+- Slowing Hex he buys against a lot of opponents and actually rushes, usually delaying Bullet Resist Shredder or Quicksilver Reload; it stops the enemy moving, and many movement abilities break Wraith's ult. [17:57]
+- Buy Slowing Hex against Infernus (slow then lift and he can't run) and especially Mirage, who was buffed and is strong this patch: Slowing Hex then ult and he can't Tornado, a free kill. [17:57]
+- He buys Slowing Hex maybe 30 to 40% of the time, so it stays situational, though some Wraiths buy it every game. [18:28]
+- He almost never buys Return Fire any more and doesn't think you need it at 1,250. [18:28]
+- Reactive Barrier was buffed and is really good against Bebop. [19:00]
+- Ethereal Shift is better than before: it now gives spirit resist after the duration ends and a big movement speed boost. [19:00]
+- Wraith feels weaker in lane this patch, so 1v1s are harder to win and you leave lane with less money; that makes this farm-heavy build even better, with unmatched farm speed from Fleetfoot, Quicksilver Reload and Tesla Bullets, and Titanic Magazine lets you clear the map almost without reloading. [19:31]
+- Wraith is still an insane late game character. [20:02]
+
+## Disagrees with
+- none recorded yet
