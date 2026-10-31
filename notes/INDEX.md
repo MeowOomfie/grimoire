@@ -351,6 +351,14 @@ One line per digested video: `- <id> | <channel> | <title> | <topics>`. Newest f
 - c4RfSsfBNUc | Metro Deadlock | The New Deadlock Hero Isn’t What Anyone Expected, Graves Analysis | graves, new hero, auto aim, split shot, area denial
 - nnJOUczIldc | Deathy | Deadlock's Open Beta is Getting Closer, Early Patch Preview | patch, street brawl, new items, base rework, hero voting
 - uQa2deOmqmw | HERESY | Applying Real Pressure, E6 Coaching Session Sample | mina, coaching, side lane, urn, mid boss, farming
+- gKVmYovT82E | Deathy | What is Going On With Deadlock's Ranks? | ranks, mmr, smurfs, matchmaking, leaderboard
+- SbRAwraX2-A | Shotty | Deadlock Is Losing Players But Not For The Reason You Think | matchmaking, ranks, placements, rank reset, player count
+- m5_o7MhK2CA | Metro Deadlock | The Best Deadlock Hero for YOU (Based on What You Play) | new players, hero picks, roles, beginner heroes, street brawl
+- bGY-2U8A5FI | Metro Deadlock | The Best and Worst Heroes in Deadlock Street Brawl | street brawl, tier list, aoe ultimates, stuns, item rolls
+- 9aFkofg3Lxc | Metro Deadlock | The 5 Levels Of Deadlock Players Explained | player levels, ranks, habits, movement, trophy collector
+- tsq0e24Cfi0 | Deathy | 9 Things Deadlock Doesn't Teach You | guardian parry, self deny, unsecured souls, mantle slide, center sacrifice, item checks
+- 5WP7_gPu1iw | Metro Deadlock | How I Farm 2000 Souls Per Minute | gameplay, unstoppable, phantom game
+- PRjWVA5CmbQ | Deathy | The Biggest Economy Change EVER in Deadlock - How does it affect you? | economy, soul sharing, patch, urn, soul rebirth, tempo builds
 
 ## General and other heroes
 

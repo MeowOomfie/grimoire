@@ -17,7 +17,7 @@ Big AoE ultimates and stuns win; single-target pickoff heroes and heroes that ne
 - Bebop: S+, top three in the mode. Hyperbeam from behind your tower nukes the whole wave and anyone in line of sight, even in the veil; take Lightning Scroll. He is weak in normal mode right now. [1:32]
 - Billy: A tier (Metro considered B). Decent tank with a strong AoE ultimate and Bashdown that gets value on multiple targets, but hard to build because he wants melee and close-range items and long-range rolls leave him with nothing. [2:02] [2:33]
 - Calico: C tier. She is a pickoff assassin who puts Gloom Bombs on one person, does little AoE damage and suffers against the stuns everyone buys. [2:33] [3:03]
-- The Doorman: D tier. His ultimate is single target and cannot set up a kill because the other three enemies are always nearby, so it only stalls; his normal-mode tricks (doors on your walker, relocating one enemy) do not apply. [3:03] [3:33] [5:34]
+- The Doorman: D tier. His ultimate is single target and cannot set up a kill because the other three enemies are always nearby, so it only stalls; his normal-mode use (putting it on your walker, relocating one enemy back) does not work here. [3:03] [3:33] [5:34]
 - Drifter: same problem as The Doorman; he is good in isolated fights, and with four enemies in the lane his isolation spell is active 0% of the time. [4:04]
 - Dynamo: S tier, almost S+. Black Hole once a round is scary (twice with Refresher), but he does not scale much and is not meta-defining like Bebop. [4:04] [4:34]
 - Grey Talon: C tier. Single-target damage does poorly; he can sometimes land an AoE owl from the back and finish kills, and needs very specific items (lots of spirit or long-range abilities). [4:34] [5:04]
