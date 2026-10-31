@@ -1,6 +1,0 @@
-# Clean 150m squad wipe
-# channel: Sensu
-# date: 2018-06-30
-# url: https://www.youtube.com/watch?v=gWK72gNjPzQ
-
-[0:00] The character, yes, oh yes, he gives it his all.

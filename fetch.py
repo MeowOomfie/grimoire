@@ -4,6 +4,7 @@
     python fetch.py mylist.txt   # any file: one YouTube / Twitch URL, playlist or channel per line
     python fetch.py --cookies chrome   # when YouTube says "sign in to confirm you're not a bot"
     python fetch.py --cookies cookies.txt   # or a cookies file exported from your browser
+    python fetch.py --keep-only deadlock   # drop transcripts that never mention the word (channels carry off-topic videos)
     python fetch.py --selftest   # checks the caption-to-text conversion on a built-in sample
 
 Needs yt-dlp installed for this Python (pip install -U yt-dlp). No video is downloaded, only captions.
@@ -92,7 +93,17 @@ def convert_all() -> int:
     return done
 
 
-def fetch(sources: Path, cookies: str | None) -> None:
+def keep_only(word: str) -> int:
+    """Delete transcripts whose text never mentions `word` (case-insensitive). Returns how many were dropped."""
+    dropped = 0
+    for p in OUT.glob("*.txt"):
+        if word.lower() not in p.read_text(encoding="utf-8", errors="replace").lower():
+            p.unlink()
+            dropped += 1
+    return dropped
+
+
+def fetch(sources: Path, cookies: str | None, keep: str | None = None) -> None:
     RAW.mkdir(exist_ok=True)
     cmd = [
         sys.executable, "-m", "yt_dlp", "--skip-download", "--write-sub", "--write-auto-sub", "--sub-langs", "en.*",
@@ -147,8 +158,9 @@ if __name__ == "__main__":
     else:
         args = sys.argv[1:]
         cookies = args.pop(args.index("--cookies") + 1) if "--cookies" in args else None
-        args = [a for a in args if a != "--cookies"]
+        keep = args.pop(args.index("--keep-only") + 1) if "--keep-only" in args else None
+        args = [a for a in args if a not in ("--cookies", "--keep-only")]
         src = Path(args[0]) if args else HERE / "sources.txt"
         if not src.exists():
             sys.exit(f"{src} not found: put one URL per line in it")
-        fetch(src, cookies)
+        fetch(src, cookies, keep)

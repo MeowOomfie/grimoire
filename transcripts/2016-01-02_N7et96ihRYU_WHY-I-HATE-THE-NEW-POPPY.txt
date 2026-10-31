@@ -1,6 +1,0 @@
-# WHY I HATE THE NEW POPPY
-# channel: Sensu
-# date: 2016-01-02
-# url: https://www.youtube.com/watch?v=N7et96ihRYU
-
-[0:12] 5 mangala

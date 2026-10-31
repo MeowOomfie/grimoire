@@ -1,6 +1,0 @@
-# Over Reaction ?
-# channel: Sensu
-# date: 2011-06-14
-# url: https://www.youtube.com/watch?v=GkxQQXyNFT0
-
-[0:00] oh [ __ ]
