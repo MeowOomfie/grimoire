@@ -1,0 +1,18 @@
+# Best DPS Meter/Enemy Unit Frame for FFXIV - Installation/Setup (Quick Guide)
+# channel: Sensu
+# date: 2021-08-22
+# url: https://www.youtube.com/watch?v=f3qlbBo8xuM
+
+[0:00] [ __ ] if you want to have a nice simple DPS meter an enemy unit frame in Final Fantasy without having to watch a 15 [ __ ] minute long video then follow these steps first thing you want to do is go on the advanced combat tracker download page link is in the description below Download Advanced combat tracker setup open your download folder right click the app go to properties and check unblock and hit okay open act and install it wherever you like hit install press close go to your desktop right click the AC shortcut go to properties compatibility and tick
+
+[0:30] run this program as an administrator and hit okay now you want to open the file hit next on the startup Wizard and let it load so click on download and enable plug-in click okay press next press yes to that popup press next make sure Auto version check is ticked click close now click on the plugins tab in act hit get plugins let it load once it's finished loading Select ff14 Plus others overlay plugin hit download and enable
+
+[1:01] click okay and let it load once it's done loading you can close this window click on overlay plugin. dll hit new type in whatever name you like click on the preset drop down and choose kaguru hit okay all right now you want to go to your start menu type in firewall open your firewall settings go to inbound rules new rule click next click on browse and locate your act file click on Advanced combat tracker if for whatever reason
+
+[1:32] you have a 32-bit processor click on act 86 okay now just click next next again make sure all these are ticked next name it whatever you want and hit finished and you're done all right now if you want to use the enemy unit frames which is under this plugin here click show ff14 overlay and this bar will pop up if you have a mob targeted all right to customize the bar you go to plugins ff14 overlay settings you can tick this and drag around this bar um it's a bit dodgy so if doesn't work you can actually just input the X and Y AIS so I do uh
+
+[2:06] 15769 so you can also change the length and width of the bar by using these two boxes here I change the size to 200 80 um I take hide name it's all just personal preference you can get to change font I go aerial narrow 12 it okay all right now for your DPS meter you can drag this down to whever you want good settings and you can customize it however you you like or you can import someone else's settings um I link
+
+[2:36] mine in the description below import yes now to test it out you want to go hit a mob after you hit a mob the data will be displayed um and you can view different tabs of data so you can see heals per second heals total taking damage for tanks if you want to see more data you go down to tabs you can customize the columns for each so the configured columns here here are the columns that you'll see on the top of the meters so you can configure them how you want if you want to see crit hit percent or
+
+[3:06] Direct Hit percent you can drag them down there hit save and they'll be displayed in your meters the column names aren't showing up now but they'll show up after you get in combat all right so that's pretty much it um you can do it for each tab there's not really much to discuss now it's all personal preference how you want to do it if you have any questions let me know
