@@ -1,0 +1,62 @@
+# Deadlock Just Broke The Early Game (Massive Balance Update)
+channel: Metro Deadlock  date: 2026-05-23  url: https://www.youtube.com/watch?v=eZj9pbRO_CU
+
+## Covers
+Patch rundown: new Urn (melee pickup, mid deposit, comeback resist), mid boss at 0 minutes, new Grit item, base HP nerf, wall breaking nerfs, weaker guardians, medium camps at 5 minutes, later breakables, medic trooper healing over time, 6.4k investment spike, item winners (Tesla Bullets, Capacitor, Spiritual Overflow, Spirit Shielding, Weapon Shielding, Infuser, Vampiric Burst, Arctic Blast, Sharpshooter, Majestic Leap, Magic Carpet), hero changes (Apollo, Yamato, Victor, Warden, Rem, Grey Talon, Celeste, Doorman, Paradox, Pocket, Lash, Haze, Viscous)
+
+## Claims
+- The Urn is no longer picked up by walking over it; you light or heavy melee it, and while carrying it you can still use non-movement abilities, stamina and punches. [0:00]
+- After 35 seconds carrying the Urn you take 5% max health damage, and you can die to it. [0:30]
+- The Urn is now always deposited in the middle of the map above the blue lane, in a deposit spot; after deposit the enemy team has a few seconds to heavy melee it and change the drop off, like king of the hill or a mini mid boss in mid game. [1:01]
+- Deposit timer: 5 seconds for a neutral Urn, 3 seconds for a comeback Urn, 10 seconds for a favored Urn; the depositing side can camp it and parry to stop the switch. [1:33]
+- The team that is behind gets 50% bullet and spirit resist ("50% resist on everything") in a 60 m radius around the Urn while it is carried, dropped or deposited, so the team ahead does not want the team behind picking it up. [2:33]
+- You can no longer juggle the Urn: after one drop it can be picked up once more, and after that it runs back to its spawn. [3:03]
+- Because Urn damage is lethal and higher, you cannot run it to your base and leave it; you die even while healing in base. [3:34]
+- The mid boss now spawns at zero minutes; its HP scales with time, so a team can rush and kill it at level one, ignoring lane. [4:04]
+- New 800 green item Grit: a 200 barrier for 4 seconds on a 60 second cooldown, close to Extra Health's 210 but usable to bait abilities, like 200 healing every 60 seconds. [4:36]
+- Grit builds into every barrier item, and Spirit Shielding and Weapon Shielding got big buffs, so he expects Grit to be very strong, maybe too strong into early shieldings. [5:06]
+- In lane, check whether the enemy has Grit and play around its 60 second cooldown. [5:36]
+- Every hero's base HP dropped by 10 and HP per boon by 3, an overall health nerf that benefits tanky heroes more than squishy ones. [6:06]
+- Wall breaking (Victor and others running into base to kill shrines) was nerfed: shrines can only be targeted after a pair of base guardians is destroyed. [6:06]
+- Base guardians, shrines and walkers all got more bullet resist, which should fix wall breaking. [6:37]
+- Guardians are less resistant, so they die faster; snowballing and laning got more important and early game scaler spirit heroes got stronger again. [7:08]
+- Medium neutral camps now spawn at 5 minutes, so you can start jungling earlier if you win your lane early. [7:08]
+- Breakables now spawn later, so lanes no longer turn into AFK box farming at 2 minutes; you have to be more proactive and fight more in lane, which he likes. [7:08]
+- Medic trooper healing is now always over time, not instant, and killing several healing troopers at once only extends the duration, so killing a big wave no longer heals you to full. [7:39]
+- Total damage reduction debuffs now stack diminishingly rather than additively; he thinks it matters little except some combos such as on Mirage. [8:10]
+- Investment has a new second spike at the 6.4k line, so reaching 6.4k in a category matters more and builds should shift a little. [8:10]
+- Tesla Bullets and Capacitor proc 20% more often, 20% extra damage, back on the menu for fast fire rate heroes running Tesla. [8:41]
+- Spiritual Overflow got better because it now builds out of Spirit Lifesteal, so it is easier to reach. [9:12]
+- Spirit Shielding now grants 18% spirit resist for 8 seconds when it procs instead of movement speed, the same as Enchanter's Emblem, making it a massive anti-spirit item. [9:43]
+- Spirit Shielding will be the lane buy against heavy spirit damage; Weapon Shielding got the same change for gun damage, and he predicts many heroes running Grit into either shielding. [10:13]
+- Gun damage is weaker overall because anti-gun items such as Return Fire and Rusty Barrel were buffed. [10:44]
+- Infuser lasts a full second longer and Vampiric Burst half a second longer, both major buffs; Leech got a small HP increase but most heroes wanting lifesteal will pick Vampiric Burst or Infuser, maybe even Wraith with Infuser. [10:44]
+- Arctic Blast no longer amplifies damage while frozen, but its freeze and immobilize duration, evade chance and height went up, and it stops enemy stamina regen for the full 4 seconds, a massive buff. [11:45]
+- Apollo got gutted, the patch's big loser: easier to hit, base regen halved from two to one, which hurts the laning stage that leads to everything else. [12:16]
+- Apollo's Riposte must now target an enemy player during the cast to stun, so it can no longer be used to run away, and Flawless Advance's hitbox was nerfed; he thinks Apollo is probably quite weak now. [12:49]
+- Apollo players should play Yamato, who got buffs despite already being crazy: recast after Power Slash 200 ms sooner and more spirit scaling on it, a better Flying Slash on base and T3 (less range at T2, an extra charge), and a buffed Shadow Transformation; one of the biggest winners. [13:20]
+- Warden got slight nerfs. [14:23]
+- Victor is another big loser: the wall breaker style was nerfed, he does less bullet damage, Orb of Suffering does half damage to objectives, and Jump Start's slight buff will not stop him dropping to D tier. [14:23]
+- Silver, Shiv and Seven got slight nerfs. [14:23]
+- Rem's Tag Along is better in every way (more healing, faster, more mobility after jumping out, faster ally swaps, better scaling); Rem might be the strongest support now, as Kelvin and most other supports were nerfed and Paige got slight buffs. [14:53]
+- His biggest winner is Grey Talon: Rain of Arrows has a lower cooldown and shorter duration but lets you dash much further, and with stamina items like Stamina Mastery (common on him) two dashes cross the whole map, in or out of fights. [15:23]
+- Sharpshooter now upgrades from High Velocity as well as Long Range, gives the velocity and 10% weapon damage on base, a buff for Grey Talon and Vindicta. [16:24]
+- Celeste got a hitbox nerf but damage buffs to her ultimate and her 3, questionable since she was already crazy. [16:56]
+- Doorman's doorway close sub ability now starts on an 8 second cooldown when anyone else uses the door, so pushed enemies can walk back out and you cannot close the door on a chaser right away; the doorway can now be silenced. [16:56]
+- Paradox got buffs: Time Wall can be spammed more at T3 with a shorter charge delay, and her carbine and swap do more damage. [17:27]
+- Pocket, already the most banned hero in Night Shift last week, is probably by far the strongest hero now despite nerfs, because gun damage got weaker. [17:57]
+- Majestic Leap now gives 50% more air control while its over shield is off, a buff for good movement players and Pocket, already a strong user. [18:27]
+- Lash's bullet damage was nerfed and he can no longer stack extra bullet damage with repeated Grapple casts, compensated by a Ground Strike buff; still very solid, slightly weaker. [18:58]
+- Holiday got slight adjustments and buffs; Haze got buffed with more damage on Fixation, quite a big buff. [19:29]
+- Magic Carpet now gives 825% air control and 15% gravity scale, scaling with low-gravity heroes like Celeste; he still thinks it is a meme item. [19:29]
+- Viscous's Puddle Punch now gives 40% lifesteal at level two, a lot of healing. [20:32]
+- Takeaway: gun even weaker overall, spirit even stronger, and buy Spirit Shielding in the coming weeks. [21:04]
+
+## Disagrees with
+- PI3RZVAW5jw (2025 laning guide) describes the healing creep healing 40 HP every 6 seconds while alive; this patch makes medic trooper healing always over time and extends the duration on multiple kills [7:39].
+- dvs92LW8T_I (2026 laning guide) says guardians take very little damage early, medium camps spawn at 6 to 8 minutes, and losing or even lanes can fall back on box farming; this patch makes guardians less resistant, moves medium camps to 5 minutes and spawns breakables later [7:08].
+- Eb4u-TRmdqw (Sensu): medium neutral camps now spawn at 5 minutes and breakables spawn later, so lanes no longer turn into box farming at 2 minutes vs the earlier video: boxes and golden statues spawn at 2 minutes and tier two camps at 6 minutes. [7:08]
+- 5O2xp1Rc9cU (Deathy): the mid boss now spawns at zero minutes, medium camps at 5 minutes, and breakables later than 2 minutes vs the earlier video: boxes and small camps spawn at two minutes, medium camps at six, and mid boss appears at 10 minutes. [4:04] [7:08]
+- X9yhG5vKca4 (HERESY): medium camps now spawn at 5 minutes and breakables spawn later, not at 2 minutes vs the earlier video: camps and boxes spawn at 2:00 and tier two camps at 6:00. [7:08]
+- n3EdDdPKed4 (Deathy): medium neutral camps now spawn at 5 minutes vs the earlier video: medium camps spawn at 6 minutes. [7:08]
+- Vfw8aqOH0tk (Metro Deadlock): Spirit Shielding now grants 18% spirit resist for 8 seconds instead of movement speed when it procs, and Weapon Shielding got the same change vs the earlier video: Weapon Shielding adds movement speed when it procs. [9:43] [10:13]

@@ -50,3 +50,5 @@ Efficiency and downtime, team souls over personal souls, thinking ahead while fa
 - DEAb-LfSXq0 (Sensu): death timers are tied entirely to game time, not net worth vs killing a player well above your team's average net worth gives them +6 to +22 seconds of respawn. [10:08]
 - YwWdz1h97xc (Deathy): death timers are tied entirely to game time, not net worth vs respawn timers are longer when your net worth is above the enemy team's average. [10:08]
 - jtY2RoO7ax8 (Metro Deadlock): death timers are tied entirely to game time, not net worth vs a well played carry has the longest respawn because respawn grows with money. [10:08]
+- L_yU-0kb24g (Shotty): medium camps spawn at 6 minutes vs the later video: tier two camps spawn at five minutes. [4:31]
+- eZj9pbRO_CU (Metro Deadlock): medium camps spawn at 6 minutes vs the later video: medium neutral camps now spawn at 5 minutes. [4:31]
