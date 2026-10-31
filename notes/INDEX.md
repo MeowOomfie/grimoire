@@ -84,6 +84,35 @@ One line per digested video: `- <id> | <channel> | <title> | <topics>`. Newest f
 - IDxXf-URcXU | Shotty | Just Give Me 33 Minutes, You'll Out Farm Everyone, Deadlock Farming Guide | farming, box routes, soul hierarchy, objectives, sinners sacrifice, negative souls
 - RjV40z_u5i4 | Metro Deadlock | How Farming In Deadlock Makes You Lose Games | positions, farm priority, carries, supports, sinners sacrifice, team comp
 - X_6oZZK-RJg | Natan | Why You're NOT GETTING SOULS in Deadlock, Eternus 6 Coaching | vod review, abrams, overfighting, urn, sinners sacrifice, closing games
+- bfvOzo3h2fE | Deathy | Advanced Mid-Boss Guide - With examples! | mid boss, rejuvenator, objective steals, team roles, hero abilities
+- o9-H6URkfDc | Deathy | The Framework to be Top 1% in Any Game | improvement, mindset, focused practice, vod review, matchmaking, comms
+- rKuS8P-YZcs | Shotty | 2000+ Hours of Deadlock Knowledge in 1 Hour | farming, box routes, lane phase, objectives, mid boss, mental
+- dUWP1ORnSxo | Shotty | You'll Master Deadlock, Just Give Me 40 Minutes | fundamentals, laning, mid boss, objectives, aim, hero picks
+- Hj3p8cSiN_M | Natan | The ULTIMATE NEW Boxes & Healing Bats Guide for Deadlock | box runs, healing bats, map routes, wave priority, tunnel heroes
+- KmeUtYBtGVM | Deathy | How to win more ranked games AND enjoy it. | ranked mindset, deaths, wave pushing, jungling timing, soul split
+- ze6PU0fwEcc | Shotty | Aim is Really This Simple | aim, sensitivity, aim training, technique, vindicta
+- EfFToLk7Htg | HERESY | How to Win by Freezing (With Real Examples) | freezing, wave control, lane phase, victor, soul denial, healing trooper
+- 5bj_EYm06EM | moe9times | How to ACTUALLY play your Role in Deadlock | roles, positions, farm priority, carry, support, itemization
+- DCO1AQQjZG0 | Metro Deadlock | The REAL Way To Get Ahead In Deadlock (New Macro Guide) | jungle, farm routes, sinners sacrifice, map rework, ganking
+- DVMHtOcOSWc | Shotty | Aim is Op in Deadlock, Here's How to Master It | aim, tracking, clicking, sensitivity, venator
+- eQrK5gJ5jOg | Metro Deadlock | Deadlock Is Heading In The Wrong Direction | ranked, duo queue, rift, spirit meta, movement, items
+- 9vmQWQL6AMY | Sensu | How to Switch to Arm Aiming (Ergonomics Guide) | aim, ergonomics, arm aiming, desk setup, posture
+- aWDSUhuAXPA | Shotty | You'll Never Play Deadlock The Same, Just Try This. | aim, aim trainers, sensitivity, crosshair, tracking, clicking
+- CKSjFQJG2Us | Natan | Deadlock Ranked Has a Big Problem | ranked, demotion shields, win streaks, mmr reset, duo queue
+- pKV-x3C39xU | Shotty | 22 Minutes of Brutally Honest Deadlock Advice | farming balance, aggression, rotations, mic use, minimap, unspent souls
+- VDE-EmbWbBQ | Metro Deadlock | 8 Things I Wish I Knew Sooner in Deadlock | hero pool, power spikes, limit testing, laning, initiating, self review
+- Gj8UzKa6MaQ | Metro Deadlock | Deadlock’s First Left-Click Healer Is Already a Problem, Nurse Harrow Quick Start Guide | nurse harrow, abilities, healing, pocket support, build
+- Ek9Gwmhm1Lw | Metro Deadlock | Violet Has The Highest Skill Ceiling in Deadlock, Quick Start Guide | violet, abilities, ink walls, combos, build
+- cRbPjoBApWg | Shotty | You'll Never Play Deadlock The Same, Once You Learn This | wave control, timers, ganks, rotations, target priority, mid boss
+- VZFfsuDT0sw | Metro Deadlock | Find Your Perfect Deadlock Hero (Based on What You Play) | hero picks, new players, roles, moba, hero shooter
+- 5yeuG-xYad8 | Shotty | Every Deadlock Term Explained in 14 Minutes, Deadlock Beginners Guide | glossary, objectives, map, beginners, sinner's sacrifice
+- WlbgB2Beqdw | Metro Deadlock | The HARDEST Character In Deadlock, Solomon Quick Start Guide | solomon, new hero, abilities, combos, build
+- gzacSZxQb_o | Metro Deadlock | Hidden King Has An UNFAIR ADVANTAGE | map sides, hidden king, archmother, jungle routes, bell tower
+- 7L-j1mjASk0 | Deathy | Deadlock for Beginners in 20 Minutes - Updated Late 2026 | beginners, movement, timers, objectives, urn, rift
+- zkoYGTvCsog | Sensu | How to Play Deadlock After The NEW UPDATE (Complete Beginner Guide) | beginner, movement, map objectives, timings, souls, items
+- eUnlY_3MmNM | Shotty | Give Me 17 Minutes, You'll Outscale Everyone | snowballing, power spikes, box running, walkers, mid boss, shrines
+- ikoxrbj5yB4 | Metro Deadlock | Deadlock’s New Tank Is Almost Impossible to Kill, Rat King Quick Start Guide | rat king, abilities, build, ability order, counters
+- 0iLzlvGjfGE | Metro Deadlock | The Only Beginner’s Guide You Need for Deadlock (Updated) | beginner, laning, sinner's sacrifice, rift, mid boss, ziplines
 
 ## General and other heroes
 

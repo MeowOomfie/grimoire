@@ -1,0 +1,67 @@
+# Advanced Mid-Boss Guide - With examples!
+channel: Deathy
+date: 2024-09-24
+url: https://www.youtube.com/watch?v=bfvOzo3h2fE
+
+## Covers
+Mid Boss: what the Rejuvenator gives, when to take Mid Boss and when not to, which heroes steal or protect the Rejuvenator, the three team roles while it drops, and replay examples (team wipe, a Viscous steal, a one-kill Mid Boss at 26 minutes).
+For players who throw games over Mid Boss or can't close games because they never take it.
+
+## Claims
+- Killing Mid Boss drops the Rejuvenator from the sky; the only way to claim it is a heavy (charged) melee, light melees do not claim it. [0:30]
+- The Rejuvenator gives "mega creeps": big Troopers that are much stronger than regular Troopers and will push every lane on their own if you don't touch your waves. [1:00]
+- The Rejuvenator halves your respawn timer, for example 50 seconds becomes 25 seconds. [1:30]
+- The buff lasts 3 minutes. A player who dies loses the Rejuvenator buff and the respawn bonus, but the mega creeps stay for the full 3 minutes regardless of deaths. [1:30]
+- Usually take Mid Boss as soon as you can and as soon as you have an opportunity. [2:00]
+- The two factors are whether you have enough damage to kill it and whether you have the opportunity. [2:00]
+- Damage is rarely the issue: Mid Boss takes extra damage from melee, so five people meleeing it at 10 minutes kill it fairly quickly as soon as it spawns, with no specific items needed. [2:31]
+- With only two people you need heroes that are good at killing it; with three or four, as long as you have some damage you can probably kill it. [3:02]
+- The bigger question is opportunity, because the enemy will contest. Mid Boss sounds a horn alert at half health that tells the enemies you are doing it. [3:02]
+- Mid Boss is an obvious play if you killed all of them; if you killed at least two of them it is worth checking whether you can do it. [3:32]
+- Even with kills, some heroes are much better at contesting Mid Boss than others, so check which enemies are alive and what they have. [4:02]
+- Abrams: his ultimate is extremely strong for contesting; sit in the air, wait for the Rejuvenator to drop, ult to stun everyone and steal it. One of the most iconic stealing ultimates. [4:02]
+- Bebop is somewhat okay: Uppercut punches people away from the Rejuvenator so he can steal with his melee; it has been done but you can usually deal with it. [4:33]
+- Dynamo is fairly scary: he can't steal alone, but his Singularity on top of the Rejuvenator pulls everyone so they can't hit it while a teammate steals. [4:33]
+- Grey Talon's bird (ultimate) is okay since it is an AOE stun, but the stun is very short, so it is not great at stealing. [5:03]
+- Haze's ultimate is very strong at the Rejuvenator because the area is cramped, so it hits everyone and forces them off, making it easier for a teammate to steal. [5:03]
+- Infernus's ultimate is one of the best for the Rejuvenator since it stuns everyone in an AOE; good offensively and defensively, so as Infernus after you kill Mid Boss consider ulting to secure it. [5:34]
+- Ivy's Stone Form is pretty good at stealing: Stone Form from above, drop down to stun everyone around the Rejuvenator, then secure it. [5:34]
+- Kelvin has little use around the Rejuvenator; Frozen Shelter now prevents capturing, so he must drop it before he can punch the Rejuvenator. [6:05]
+- Lady Geist has no particular Mid Boss interactions. [6:05]
+- Lash's ultimate is pretty good but not great; it can throw people off Mid Boss and then steal. [6:05]
+- McGinnis's wall is super obnoxious: with points in it, it stuns, and it can split the pit to wall the enemy off the Rejuvenator and steal it while stunning them. [6:05]
+- Mo & Krill's grab is better defensively, preventing enemy steals, than for stealing yourself. [6:35]
+- Paradox's swap is good at preventing steals: swap away someone going for a steal to guarantee they don't get it. [6:35]
+- Pocket's Affliction is very good in the Mid Boss fight but not for stealing; it is for contesting and damage, so as Pocket go in before they finish Mid Boss to damage all of them. [6:35]
+- Seven's stun is really strong in the Mid Boss area; a double stun with Echo Shard is a guaranteed steal. [7:06]
+- Shiv and Vindicta have no particularly good stealing abilities. [7:06]
+- Viscous's punch and ball form are both good at the Rejuvenator, stunning and moving people away; a very good hero to steal Mid Boss with. [7:06]
+- Warden has no special interaction; his ultimate is good and decent damage on Mid Boss but doesn't let him steal. [7:37]
+- Wraith's ultimate is a very strong Mid Boss tool once maxed, because it becomes AOE and stuns everyone before she steals; before it is maxed it hits only one person and is not much of a threat. [7:37]
+- When doing Mid Boss, hover over the enemy Wraith on the scoreboard to see how many points she spent and whether she has the AOE ultimate yet. [7:37]
+- Yamato's ultimate is better at securing than stealing: it doesn't stop others capturing, but it makes her Unstoppable so she can't be stunned or moved by a Viscous punch and can stand there and take the Rejuvenator. [8:08]
+- A team needs about three roles at the Rejuvenator. Role one: someone always on top of it parrying, since parry is 360 degrees and stops a steal from any angle. Call "I'll parry". [8:38]
+- Role two: the person who heavy melees the Rejuvenator to secure it as soon as it comes down. [9:10]
+- Role three: the rest of the team goes around the Mid Boss area hunting people who come to steal; the best way to prevent a steal is stopping people reaching the area at all. [9:10]
+- Don't have six people sitting around the Rejuvenator; have two to three next to it while the rest hunt. [9:41]
+- No one can give a 100% rule for when to do Mid Boss; it depends on game state. [9:41]
+- Always try Mid Boss even if you're not sure; if it fails, work out why, and that is how you get better at it. [10:13]
+- If you wipe the enemy team, always do Mid Boss even if it's early. [10:43]
+- Exceptions to the wipe rule: you're not healthy enough, or you wiped them far from Mid Boss (for example at 12 minutes on one side of the map) and their respawn timers are short. If you're close and their timers are long enough, always do it. [10:43]
+- If teammates won't listen to a Mid Boss call, just communicate it and move on. [11:13]
+- Example of a bad Mid Boss: 5v2 on paper, but one ally died and another went back to base low, so only three were at Mid Boss against a living Viscous (very strong at Mid Boss) and a Lash without ult. [12:13]
+- Mistake in that example: everyone stood on top of the Rejuvenator, and Viscous punched them all away and took it. [12:43]
+- Against Viscous or anyone who can punch you away, stand on the high ground and only drop down at the very last second when you can punch the Rejuvenator. [12:43]
+- As Yamato, ulting on top of the Rejuvenator makes it more guaranteed: you're Unstoppable, so a parry doesn't knock you down and abilities can't knock you off. [13:14]
+- Dropping from high ground at the last second, charging the punch and taking it, is the play against Viscous and sometimes against McGinnis, though her wall can still wall you off. [13:45]
+- Example: two kills (Haze and Wraith dead about 40 seconds), no objectives nearby, team close to Mid Boss at 26 minutes, so they took Mid Boss fairly quickly. [14:16]
+- Punch (melee) damage does far more to Mid Boss than other damage, maybe 4x or 2x; it feels like insane DPS even on a gun hero, so melee it. [14:47]
+- As soon as you get Mid Boss, go aggressive and pressure the enemies out of the area; standing and waiting while the Rejuvenator drops makes stealing much easier. [14:47]
+- Have one person zone up top so it's harder for enemies to drop down from above and steal; this is correct even if that player dies doing it, as long as you get Mid Boss. [15:17]
+- One or two kills can be enough for Mid Boss depending on the enemy comp. [15:47]
+- In that example the threats were Yamato's ultimate, Haze's ultimate (kills everyone in the pit) and a maxed Wraith ultimate; Paradox's swap was a minor threat and Grey Talon's bird not a big deal. [15:47]
+- With Wraith dead and both Haze's and Yamato's ultimates on cooldown, every threat was gone, so they could proceed safely with only one kill. [16:17]
+- It is not about getting a lot of kills; it is about getting the right kills and making sure the enemy lacks the abilities needed to stop you. [16:49]
+
+## Disagrees with
+- none recorded yet

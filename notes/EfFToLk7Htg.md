@@ -1,0 +1,62 @@
+# How to Win by Freezing (With Real Examples)
+channel: HERESY
+date: 2026-07-23
+url: https://www.youtube.com/watch?v=EfFToLk7Htg
+
+## Covers
+Freezing trooper waves in Deadlock: what it is, the conditions that let you start one, why it works (engagements, health swings, jungle states), when to stop, and freezing while losing. Walked through a Victor game where over 2,000 souls of troopers were frozen in the first 10 minutes. For players who know lane basics and want finer wave control.
+
+## Claims
+- Freezing over 2,000 souls of troopers in the first 10 minutes let Victor bypass his weak early game and become a late game hard carry. [0:00]
+- Freezing means deliberately not clearing enemy troopers so the survivors kill your troopers, denying the enemy players who are not nearby the souls from the wave. [0:30]
+- Because every hero can farm camps and boxes, freezing is most practical in the late lane phase and early mid game. [1:00]
+- You cannot freeze whenever you want; conditions must be met first. [1:30]
+- Condition one is good wave RNG: when the enemy troopers focus one of yours while yours spread their targets, they kill one first, creating a 4v3, and your wave dies before the enemies touch it. [1:30]
+- Condition two is a bigger enemy wave: after a 30 second fight while waves are in lane, the next wave arrives with the first still alive, giving 6v5 or 5v4 troopers. [2:00]
+- When an enemy (Infernus with Flame Dash) half clears your wave and a surviving trooper damages your new wave under tower, the next enemy wave should win, so walk around the wave without taking aggro to freeze it. [2:00]
+- Refusing to clear that wave and walking around it denied Infernus 600 souls and a health pack. [2:30]
+- Why freeze, reason one: it creates good engagements, because the weaker enemy must walk up to the wave alone (and die) or bring a teammate (which can create 5v4s elsewhere on the map). [3:01]
+- Reason two: favorable health states. 500 souls from a wave heals you about 250 HP via the healing trooper, while 500 souls from a camp deals at least 250 damage to you. [3:31]
+- Reason three: favorable jungle states. An enemy matching your souls by farming their own jungle eventually runs out of camps, while you stay healthier with a full jungle, making their moves limited and predictable. [4:32]
+- Countering a freeze by farming your jungle is a losing strategy: at the 5 minute mark tier 2 camps are worth about 150 to 300 souls each while a full trooper wave is worth 440, so you need 1.5 to 2 tier 2 camps (and their HP cost) to match one frozen wave. [5:02]
+- If you can freeze and are strong enough to bully people off the wave, strongly consider doing it. [6:03]
+- When the enemies are this slow in lane after an aggressive trade and you have the health advantage, attempt to finish them with a tower dive in most cases. [6:34]
+- After taking heavy damage on a weak early game hero like Victor, take a full reset instead of lingering, since lingering means minutes before you are healthy enough to fight. [7:05]
+- If an enemy (Drifter) is nearby and healthy enough to stay, you cannot fully freeze; dying troopers still drop souls near him, but his big wave killing your troopers before he can see them still gets some denies. [7:35]
+- When ahead but not strong enough to walk past the neutral wave and bully both enemies off it, leverage the lead by playing for farm and boxes instead of forcing a freeze. [8:06]
+- Freezing works best when you can isolate one enemy on the wave; two enemies arriving together are very hard to deny both from soul pickup range. [8:06]
+- Most freezes come after you destroy their tower (Guardian), because the lane opens up and you get 1v1s, which are far more controllable. [8:37]
+- Victor has consistent gun damage rather than poke, so let the poke hero (Viscous) poke while Victor hits the tower. [8:37]
+- After kills and ganks, crash the wave to get a timer to roam while the next wave comes. [9:07]
+- After the tower falls, the better roamer (Viscous) goes to impact the map while the better farmer (Victor) stays to solo farm the lane. [9:07]
+- A freeze opportunity appears when the enemy laner rotates to their back jungle tier 2 camp right after clearing your wave; first check whether your wave has good RNG. [9:07]
+- Stand well back from your own wave: do not take minion aggro and do not pick up the health pack. [9:39]
+- Picking up the healing trooper's health pack heals your own troopers so they kill the enemy wave first, breaking your own freeze; freezes require playing at a distance from your wave. [9:39]
+- If a much weaker enemy comes to clear your frozen wave, run at them and kill them to punish the contest. [10:09]
+- Victor's respawn (ultimate) means a near-death fight is less dangerous than it looks. [10:39]
+- When your team pushes the wave in and gets temporary map control, take the vaults (Sinner's Sacrifice) as they spawn. [10:39]
+- When two of your waves are about to crash into an enemy's respawning wave, the enemy can freeze you just by not shooting the wave, denying you 500 souls; clearing it instead kicks the farm to your side. [11:10]
+- Listen for the enemy killing your wave; if you realize the enemy is freezing you, turn and fight, even using your ultimate while low, since being denied 500 souls at that stage is terrible. [12:12]
+- When far ahead, test whether the enemies will let you siege the Walker; fall back when several of them show up. [12:12]
+- Do not forget the bridge buff timer while making other decisions; the survival buff makes you stronger in 1v1s. [12:43]
+- When an enemy partially clears your wave, is too low to stay, and the enemy wave is stronger, the best play is doing nothing: let your wave die and deny him over 500 souls, no RNG required. [12:43]
+- Clearing his wave immediately would have given him the heal and the souls; starving the enemy of souls beats farming marginally faster, such as taking a tier 2 camp a little sooner. [13:44]
+- Cash in power from freezing and farming by bullying the enemies off the lane where the Rift is spawning to secure it for your team. [13:44]
+- Freezing loses value when you are close to a big item spike (Infuser for Victor): sitting on thousands of unspent souls without your ultimate you are not much stronger, so clear waves fast and take the untaken tier 2 camps. [14:14]
+- Freezing fades after the early mid game; first, your build now farms jungle faster and keeps your health, so clearing waves fast then doing two or three camps before the next wave gives more souls per minute. [14:45]
+- Second, denying the health pack matters less later: at 8 minutes getting a health pack while the enemy misses one and farms a camp is a 600 to 700 health swing, about a third of a health bar, but much smaller later. [15:15]
+- Walkers are almost out of resistances by then, so pressuring the enemy jungle and objectives matters more; holding a freeze on your side lets enemies rotate to kill teammates, siege your Walkers or steal your jungle. [15:46]
+- Fed or not, certainly after the 12 or 13 minute mark, probably after the first Rift, start shoving waves out as far and as fast as you can. [16:17]
+- You can freeze when losing; freezing depends less on player strength and more on whether players can walk up to the wave. [16:47]
+- Freezing in Deadlock is less something you force and more punishing people who are lazy with waves (not clearing fast, missing waves, letting them crash), which happens in every elo including pro play. [17:17]
+- When losing early with the enemy shoving into your Walker and your jungle too dangerous to farm, hold the freeze at your Walker: let them take your jungle but deny the wave, taking health packs and not risking ganks; it can be safer and more souls per minute. [17:47]
+- Holding a freeze at your Walker gets riskier later; at the 18 minute mark the enemy can make a cross-map play for Walkers, Mid Boss or the Rift. [18:48]
+- If an objective fight like the Rift or a significant team fight happens across the map, or in the blue lane, push your wave out instead of holding the freeze. [18:48]
+- Applying wave pressure should practically always be your default. [19:19]
+- Freezing is weaker in Deadlock by design: duo lanes mean more people can clear and absorb wave souls, you can secure troopers from much longer range than in League, and waves die faster, so stacking waves for perma freezes is hard. [19:49]
+- In Deadlock a freeze usually amounts to one wave at a time; holding five waves in a row is rare unless a group shows up to stop you. [20:20]
+- The healing trooper makes perma freezes hard: if you play on top of the wave to bully people off it, you pick up the health pack and heal your wave. [20:50]
+- You cannot plan freezes far in advance or go into a lane phase planning to freeze; use it sparingly when it appears, but keep it in your skill set. [20:50]
+
+## Disagrees with
+- none recorded yet
