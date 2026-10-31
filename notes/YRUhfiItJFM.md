@@ -1,0 +1,78 @@
+# The New Meta In Deadlock (Halloween Patch)
+channel: Metro Deadlock
+date: 2025-10-25
+url: https://www.youtube.com/watch?v=YRUhfiItJFM
+
+## Covers
+Winners and losers of the 2025-10-25 Halloween balance patch: Ethereal Shift and jump pad changes, item nerfs and buffs (Mystic Shot, Capacitor, barriers, Fortitude, Trophy Collector, Rusted Barrel, Spirit Snatch) and every hero change with a tier verdict.
+Main theme: gun characters keep getting nerfed while spirit nukers and tanks stay on top.
+For players asking whether their hero is still viable and what to buy after the patch.
+
+## Claims
+- Item changes are small overall; only the outliers were adjusted. [0:00]
+- Ethereal Shift cooldown now 45 seconds instead of 20, more than double; 100% deserved. [0:30]
+- Ethereal Shift is still one of the best 6k items in the game; you will probably only be able to use it once a fight. [1:00]
+- Movement while in Ethereal Shift is slower now, and you can no longer target allies in Ethereal Shift with things like Rescue Beam. [1:00]
+- The Ethereal Shift effect is unchanged: still spirit power, spirit resist, movement speed and 4 seconds invulnerable. [1:30]
+- The Ethereal Shift nerf hits Victor, Pocket and Mina, who combined it with Transcendent Cooldown to use it several times a fight and perma cycle cooldowns; it is still core on them and probably still broken. [1:30]
+- Jump pad change: shooting someone as they jump on the pad stuns them; they still fly but cannot control velocity or trajectory, so no air strafing left or right and no dashing. Escaping over vents is weaker. [2:33]
+- There is a 0.6 second window: you must hit the enemy with any damage right as they are on the jump pad, or it does nothing. [2:33]
+- As the chaser, take the jump pad right after them and hit them so they are stunned; if you only shoot them without taking the pad, they still fly far and escape. [3:04]
+- Vents were the best way to escape in the game; the jump pad stun is probably the best change of the patch. [3:35]
+- Mystic Shot nerfed over 10%: base damage 45 instead of 50 (it shows more because of spirit scaling, which got slightly better); much weaker in lane. [3:35]
+- Mystic Shot now does about the same damage as base Headshot Booster; buy Mystic Shot for harass only if you want the spirit power or the lack of damage falloff at long range. [4:06]
+- For lane harass Headshot Booster is now the better choice in most cases: half the price for the same damage, and it does not go on cooldown if you miss, while Mystic Shot does. [4:36]
+- He predicts a Headshot Booster nerf next patch because early lane damage is very strong; if you win the lane you win the game if you play it properly. [5:06]
+- Warp Stone bullet resist now 35% instead of 40%. [5:06]
+- Bullet characters are terrible right now; the last two considered gun carries, Infernus and gun Doorman, both got hit hard. [5:06]
+- Capacitor nerfed: bonus fire rate from 8 to 5 and cooldown from 40 to 60; still a crazy item and worth buying if you play a gun character, but gun and fast fire characters are weak this meta. [5:37]
+- Guardian Ward got a 5 second cooldown increase. [6:07]
+- Spirit Shielding and Weapon Shielding barrier health nerfed (25 less), while Reactive Barrier only got 2 seconds more cooldown, so Reactive Barrier is now better and you probably buy it in most games, especially on spirit characters. [6:07]
+- Fortitude was buffed (healing kicks in at 13 seconds instead of 14) because it statistically underperforms; he says it is still bait. [6:37]
+- Only buy Fortitude on Calico, who benefits from the movement speed; otherwise buy barriers for the same health at half the price or Enduring Speed for movement. [7:08]
+- Trophy Collector buffed from 25 to 30 souls per minute per stack; at max it gives 480 souls a minute instead of 400. [7:38]
+- Trophy Collector might be viable on supports in lower rank games, up to about Phantom or Ascendant; most Eternus and high Ascendant games last only 25 to 30 minutes, so it still does not pay off there. [8:08]
+- Buy Trophy Collector at low rank if it is good on your hero, for example Mo & Krill or Dynamo, and if your games average longer than 30 minutes. [9:10]
+- Majestic Leap cooldown increased, not a big deal. [9:10]
+- Divine Barrier cooldown increased by 5 seconds; still a crazy item. [9:10]
+- Rusted Barrel buffed again with 10 more bonus health, now 70, almost as much as Rebuttal; a good lane buy against gun characters. [9:40]
+- People skip Rusted Barrel because no gun character is good and gun does no damage in lane; buffing gun counter items instead of gun is the most questionable choice of the patch. [9:40]
+- Against gun heroes like Haze, Infernus or Wraith, supports can buy Rusted Barrel and it wrecks them in lane; 20 second cooldown, good stats, and it upgrades into Disarming Hex. [10:10]
+- Rusted Barrel and, as a result, Disarming Hex (buffed several times) are big winners; if you struggle with gun characters, buy Rusted Barrel. [10:40]
+- Spirit Snatch nerfed hard: stolen resist and spirit power last 10 seconds instead of 14, and spirit damage from 75 to 50 (a 33% nerf). [10:40]
+- Spirit Snatch is the biggest item loser besides Ethereal Shift and now situational; probably still solid on melee characters, less seen on Pocket. It nerfs Billy, Abrams, Calico, Pocket and Viscous, who used it for a sneaky melee. [11:40]
+- Calico nerfed: Gloom Bombs longer cooldown, damage from 55 to 45, scaling nerfed. [12:10]
+- Calico compensation: every Gloom Bomb after the first now does 65% instead of 50% (up to seven bombs), so hitting six or seven with a mid game build does more damage than before, while lane damage is lower. [12:42]
+- Calico has an item combo that guarantees Gloom Bomb hits if you go in and make sure you hit all of them; it still hurts a lot. [13:13]
+- He dislikes the Gloom Bomb change because the ability is RNG except at melee range, so the change makes it more RNG at mid range. [13:43]
+- Calico is a bit weaker but probably still S tier; not a winner or loser. [14:14]
+- Doorman is a big loser only if you play gun Doorman: headshot damage reduced 25%, which nerfs the wall-pin into free headshots combo; Doorman is supposed to be a spirit, supportive nuker. [14:14]
+- Doorman is still playable: Call Bell scaling increased, so a more spirit or hybrid build does a lot more damage with it; base bullet damage also decreased a tiny bit. [14:46]
+- Drifter is the only gun character buffed: about 3% more base bullet damage and higher bullet damage growth, while isolated kills now give 4% bonus weapon damage instead of 5%. [15:17]
+- Drifter is probably quite a bit more playable, at least at low rank, and better the longer the game goes; at the highest ranks people group up so he gets less value. Third place, winnerish. [15:48]
+- Dynamo got a fire rate increase on Quantum Entanglement, which also applies to allies he teleports with ("gun Dynamo is back"), and his aura cooldown is about 3 seconds shorter; a bit better, and good that Black Hole was left alone. [16:18]
+- Infernus is the biggest loser: bullet growth from 0.12 to 0.08 (33% nerf), Flame Dash T2 from 35 to 30, Afterburn spirit reduction 20 instead of 25, Afterburn tier three from 28 to 26 extra DPS. [17:19]
+- Infernus went from S tier to B tier at best, maybe C tier, also because Capacitor, which he used a lot, got nerfed. [17:50]
+- Kelvin, the most broken hero for months, only got about 20 seconds more ult cooldown, base regen down by 1 and headshot reduction from -20 to -25; still easily S tier. [18:21]
+- Paradox base bullet damage nerfed a tiny bit and swap cooldown up 5 seconds, now 60 instead of 55 at max level; still completely broken and picked or banned every game in pro play. [19:22]
+- Mina and Pocket, the spirit nukers running the game, got no changes; arguably a bit worse only through the Ethereal Shift nerf. [19:52]
+- Seven Lightning Ball scaling now 0.55 instead of 0.43, a big buff; experiment with ball builds, which are probably now his best build for farm and damage. He predicts Seven stays C tier or low B tier at best. [20:23]
+- Shiv got a slight nerf to his shotgun knockback, so less movement for escaping or reaching places he should not; still S or high A tier. [21:23]
+- Victor's biggest nerf is Ethereal Shift because it is the item that makes him work. [21:54]
+- Victor Pain Battery levels swapped: level one now applies slow and level two damage, so less lane damage; Aura of Suffering base max damage and tier 2 max damage both lowered (also less self damage). With Infernus, probably the biggest loser. [21:54]
+- Vyper's Screw Jab damage and on-stack damage got more spirit scaling, so a hybrid Vyper with some spirit items is more viable; players already run more purple items and he thinks that is the way to go. [22:26]
+- Vyper's Lethal Venom max venom damage scales 2.8 times, and her ult also scales well; she may show up more, even in pro play. [22:58]
+- Laning is the biggest indicator of success in the current meta; Vyper is already very strong in lane, a big winner. [23:28]
+- Warden base bullet damage 16.2 instead of 15 and Binding Word radius 20 m instead of 19 m; not a big deal, he is probably still C tier. [23:28]
+- McGinnis healing Specter now keeps healing if you tap out and back in within a second; at the end of its duration there is no extra linger (he corrected himself on camera). A big deal because in fights you want to step out of the heal and back in. [23:58]
+- McGinnis was D tier last patch and is maybe C tier now. [24:59]
+- Big winners: S tier heroes that were not nerfed. Abrams is the biggest winner, untouched except via Spirit Snatch; Drifter got quite a bit better; Kelvin wins because he was not nerfed enough. [24:59]
+- Big losers: Infernus by far, then Victor, who is still good. [25:30]
+- Ethereal Shift will still be bought on every good Mina and Pocket: they use an ability to escape, Ethereal Shift if caught, then the ability again once it is off cooldown; chasing them is often still a waste of time. [25:30]
+- Seven and Drifter get a participation award: no longer useless, more playable in public games; maybe Warden, but he doubts it. [26:32]
+- Every gun character is a loser; with Capacitor nerfed (deserved, it was too strong) there is no clear gun carry to pick, maybe Ivy. [26:32]
+- Wraith is too weak compared to spirit nukers and got a bit weaker because Capacitor rush was one of her main power spikes; Ivy also wanted Capacitor. [27:03]
+- It is still a spirit nuke meta: the spirit nukers and tanks in S tier are the same or stronger; play spirit nukers. [27:33]
+
+## Disagrees with
+- none recorded yet

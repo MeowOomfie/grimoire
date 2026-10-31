@@ -1,0 +1,71 @@
+# The New Meta In Deadlock (MASSIVE Balance Update)
+channel: Metro Deadlock
+date: 2025-11-22
+url: https://www.youtube.com/watch?v=XXw9qv7-vN4
+
+## Covers
+Day-one breakdown of the big late-November 2025 balance patch, out on the day of this 2025-11-22 video: soul orbs, healing creep aura, bounties, neutrals, Sinner's Sacrifice, spirit vs gun, 4.8k investment bonuses, walkers, flex slots, Rejuvenator, buffs, items (Capacitor, shieldings, Silence Wave, Focus Lens, Spirit Snatch) and hero winners and losers.
+For players who want the new meta picks and what to avoid.
+
+## Claims
+- This is the biggest balance update in the last 9 months. [0:00]
+- On a last hit a deniable soul still pops, but a second part of the soul drops as a ball you must secure by getting within a radius (Metro thinks 12 m); it stays on the ground until picked up and the enemy can't deny it. [0:31]
+- You can no longer soak souls freely from behind a wall; the change makes laning more interactive. [1:01]
+- Healing creeps no longer heal you; killing the enemy healing creep drops a healing aura that heals 10% of max HP plus 75 when you step close (160 healing at level one). [1:01]
+- Play the lane more aggressively and use the enemy troopers for healing; the days of just shoving the wave are gone, aggression is your friend. [1:31]
+- Starting bounty is a bit higher, so you can buy your first item right after the first wave if you hit all the creeps. [2:02]
+- Trooper value increased by 10%; troopers are the most important thing for map control. [2:02]
+- The camera position of your model is a bit more zoomed out; you can change FOV manually if you don't like it. [2:33]
+- Neutral bounty increased by 10%, but neutral damage and HP also went up, so overall it is a jungle nerf. [2:33]
+- Only hard carries that clear jungle well benefit from the neutral change, like Seven, Wraith, Infernus and maybe Victor. [3:03]
+- Sinner's Sacrifice is nerfed: you now take 80 damage per hit, about a 25% increase; they were the best source of souls at 8 minutes besides lane creeps, and now there is more counterplay to punish people farming them. [3:03]
+- Sprint and out-of-combat regen were nerfed and take longer to kick in when fighting neutrals; out-of-combat regen was one of the best stats to stay healthy early in the old meta. [3:33]
+- The damage of all ability upgrades was nerfed, so spirit got nerfed across the board. [4:03]
+- Pocket was hit on every ability: Barrage upgrade damage nerfed by 10%, plus the damage of cloak, Satchel and Affliction. [4:03]
+- Gun heroes are also hit, for example Wraith's tier two Card Trick upgrade and Full Auto damage, but heroes with more spirit ability upgrades lose more, so overall it is a gun buff. [4:34]
+- Gun base damage and growth increased for every hero except Paige, so gun feels stronger on any hero; heroes that shoot a lot benefit more than spirit nukers. [4:34]
+- The headshot multiplier was reduced; Metro dislikes this because headshots are skill expression. [5:04]
+- Wall jumps now cost 0.25 stamina and stamina regen is 5% lower; Metro does not like the stamina nerfs. [5:04]
+- Think of the spirit and gun changes as making everyone's gun do more in fights, so spirit resilience or spirit healing will not be the number one choice every time. [5:34]
+- At 4,800 in a category there is an extra bonus: weapon gets an extra 20% weapon damage (49% instead of 29%), vitality another 12% health, spirit another 20 spirit power. [6:05]
+- 20 spirit power and 12% bonus health are much stronger than 20% weapon damage, so early spirit and vitality investment got even better compared to gun; reaching 4.8k spirit early gives a massive early spirit nuking spike and might turn out too strong. [6:37]
+- Objectives are much tankier: side walkers now have the same base HP as the mid walker and every walker has 40% more HP, so games in every rank will last longer. [7:07]
+- With more lane healing from enemy healing troopers, laning should feel more even and super early guardian stomps are less likely. [7:38]
+- Walker damage resist decays over the first 20 minutes, so killing a walker at 14 to 16 minutes is very hard where it used to be easy; this combats one-sided matches. [7:38]
+- You now have nine base slots and only three locked slots; each walker killed unlocks one flex slot. Metro likes it because it encourages fights and build freedom. [8:09]
+- The Rejuvenator (mid boss) was nerfed: the team-wide 10% HP, 15% fire rate and spirit amp buffs are gone. [8:39]
+- The team that kills the mid boss gets two buffs per teammate, so killing it still matters, but the mid boss was game-deciding before (the first mid boss team almost always won in Eternus) and the nerf is welcome. [9:09]
+- Urn changes are small; jump pads got a slight nerf to escaping. [9:09]
+- Buff readjustment: survival buffs are a bit weaker early, movement and gun buffs a bit stronger; survival was the strongest buff all game and movement and gun buffs were bad. [9:41]
+- Items changed little except the big outliers. [9:41]
+- Capacitor no longer removes buffs, so you can't use it against a Surge of Power Seven or a Viscous cube; it now silences stamina usage and movement for its duration, which is 4 seconds instead of 5. Still a good item, much weaker. [10:12]
+- Shieldings were nerfed across the board, too lightly in Metro's view: the proc threshold is 50 higher and all their cooldowns went up, but they are still great if you want early survivability. [10:12]
+- Silence Wave was gutted: it no longer reduces enemy spirit and spirit resistance, does a bit of damage, and no longer upgrades from Spirit Sap. [11:14]
+- Spirit Sap now upgrades into Focus Lens, which has a lower cooldown and now carries Silence Wave's old effect of shredding enemy spirit resist and spirit power; it is easier to buy and will show up much more. Focus Lens is the only real item winner. [11:14]
+- Holliday was hard nerfed in everything: base Powder Keg damage, its level upgrade, gun base damage and gun scaling (by a lot), plus base lane regen of 1. [11:45]
+- Lane is the most important stage of the game: a higher chance to win lane means entering mid and late game stronger, so lane nerfs to a hero are very impactful. [12:45]
+- Paradox, the other broken gun initiator, also got massive nerfs: base HP, base regen, bullet damage growth and health per boon were reduced, plus a few more. Holliday and Paradox were too strong in Eternus and are now gutted. [12:45]
+- Pocket got slight nerfs; the trend is that spirit nukers were nerfed. [13:17]
+- Ivy is the first big winner and might be absolute S tier: she was already the strongest gun hero, Kudzu Bomb got a slight nerf but its spirit scaling increased, she gets more lifesteal from Watcher's Covenant, and Stone Form cooldown was reduced. Play Ivy. [13:47]
+- Weak early laners got buffs: Dynamo's Kinetic Pulse got a significant lower cooldown and more range, plus more lane regen. [14:18]
+- Drifter now has 3.5 base regen and a cooldown buff; he is better but Metro does not expect him to be broken, he was very weak before especially in high rank. [14:48]
+- The Doorman and Calico got a bit weaker in lane. [14:48]
+- Billy was buffed even though he was already insane: Rising Wrath's bonus weapon damage was buffed, so gun Billy is back in the meta. [14:48]
+- Spirit Snatch now gives only 70% of its benefit on a light melee, a nerf on heroes like Pocket who did one quick Spirit Snatch to shred, but a buff on Billy because he lands so many light hits and the cooldown is the same; still a crazy item on most heroes that ran it. [15:18]
+- Wraith is another big winner: more card damage and a 6 second shorter teleport cooldown. [15:49]
+- With the green Wraith build (maxing teleport), max teleport cooldown is now 14 seconds without any cooldown reduction, so you can teleport in for the overshield and have it back 14 seconds later; maxing teleport first is now 100% the way to go. [16:19]
+- Wraith is a bit stronger in lane and more survivable in the mid game. [16:49]
+- Yamato got heavy lane nerfs: base regen to 1.0, Power Slash damage lower unless max charged (max charge unchanged), Crimson Slash cooldown from 11.5 to 15, and a slightly better T3. [16:49]
+- The patch trend is to make broken laners less broken. [17:19]
+- Sinclair is a bit weaker in lane but got probably the craziest buff: he can now swap with Spectral Assistant twice, so after baiting and teleporting out he can double back again; a good Sinclair will rarely die and his mid and late game get much stronger. [17:19]
+- Kelvin's dome was addressed: the tier two upgrade no longer reduces its cooldown, it lasts a bit longer at that tier but is shorter on base; his bullet velocity is much slower and Frost Grenade base damage is lower, so he is less frustrating in lane. [18:19]
+- The patch rewards playing more aggressively instead of shoving the wave and shooting the tower. [18:51]
+- Seven is a bit stronger in lane because he takes less headshot damage again, and Lightning Ball got a slight radius increase, but he is probably still bad because stronger gun makes Seven weaker. [19:22]
+- Shiv only got nerfs to Rage bonus damage and slight ult nerfs; he historically does well in gun metas because he buys items like Reactive Barrier, so he is the tank to pick if you see more gun and may be dominant S tier. [19:55]
+- Mina got nerfs, notably she can't use dash and air jumps again after teleporting, but her laning, the thing that made her broken, barely changed and she still does huge lane damage. [20:26]
+- Big winners: Ivy, Shiv, Wraith, and Warden as a decent winner from the gun buffs. Big losers: the OP laners Paradox, Holliday and Yamato. [20:56]
+- Bomb Bebop now gets 5 m/s bonus movement speed when he sticks someone, even at base level, so Sticky Bomb plus Echo Shard gives huge movement speed; it no longer gives the 30% damage reduction on the enemy, but Metro calls it overall a buff. [21:27]
+- Bebop otherwise got nerfs to health and uppercut, but Metro does not think he is out of the meta. [21:57]
+
+## Disagrees with
+- none recorded yet

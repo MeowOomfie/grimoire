@@ -246,6 +246,34 @@ One line per digested video: `- <id> | <channel> | <title> | <topics>`. Newest f
 - NNevOpe1lF0 | Deathy | Deadlock's Items are ready for release - Initial Patch Breakdown | patch 2.0, item system, slots, investment bonuses, healing nerfs, time to kill
 - vz7HRAiQzAs | Metro Deadlock | The Best and Worst Items In Deadlock 2.0 | patch 2.0, item tier, winners and losers, anti-heal, barriers, armor items
 - orI-u4l2MBk | Metro Deadlock | Every New Item In The BIGGEST Deadlock Update Explained | patch 2.0, every item, new items, first impressions, capacitor
+- wtiK_9ejiQc | Metro Deadlock | The Metro Deadlock Patch (Eternus vs Initiate Testing) | custom balance patch, low rank vs high rank, items, lash, seven, improved spirit
+- JCFFWt1t5yU | Metro Deadlock | The OFFICIAL Deadlock Hero Tier List | tier list, spirit burst meta, new heroes, doorman, resist items, win rates
+- g6VkyUbuoNI | Metro Deadlock | The Biggest Update In Deadlock History | patch reaction, mina, new heroes, hero models, map changes
+- hHoiw3oTNJk | Metro Deadlock | Ranking Every Hero In Deadlock From Strongest To Weakest | tier list, hero ranking, patch meta, hybrid builds, 4.8k investment
+- -b84YJLbyhI | Deathy | Biggest Deadlock Balance Patch YET | patch notes, laning changes, walkers, items, spirit nerf, gun buff
+- XXw9qv7-vN4 | Metro Deadlock | The New Meta In Deadlock (MASSIVE Balance Update) | patch notes, meta heroes, items, laning changes, winners and losers
+- kWMdouDC4AE | Deathy | HUGE Nerfs to Jump Pads, Deadlock Patch Notes | patch notes, jump pad stun, ethereal shift, trophy collector, kelvin, calico
+- YRUhfiItJFM | Metro Deadlock | The New Meta In Deadlock (Halloween Patch) | patch winners losers, gun carries, spirit meta, rusted barrel, infernus, ethereal shift
+- CIsvCWMQOvg | Metro Deadlock | Initiate To Eternus Deadlock Hero Tier List | tier list, low rank, eternus, hero picks, carries
+- PJV3KBozOSQ | Deathy | New Deadlock Rank Changes Explained | rank distribution, percentile, mmr, badges, statlocker
+- rIqA1wT_kXQ | Metro Deadlock | Deadlock Just Changed Forever (Massive Balance Patch) | patch notes, hero reworks, golden goose egg, item changes, winners and losers
+- 3kujAIL6cpI | Metro Deadlock | HERO BANS ARE HERE (Massive Deadlock Balance Update) | hero bans, patch notes, curse nerf, dispel magic, bebop, viscous
+- iNpIZgytlWM | Metro Deadlock | I Played Deadlock's Biggest Update - Here's What Actually Changed | new heroes, street brawl, map rework, new items, ui changes
+- Hl_7fC48xdk | Deathy | 5 Takeaways from the New Patch(es) + TIER LIST | vitality investment, kill bounty, roaming, urn, patron, tier list
+- OT1WXp_Siic | Metro Deadlock | The OFFICIAL Deadlock Hero Tier List | tier list, death ball meta, tanks, hybrid builds, hero rankings
+- ywC2b6uFS6A | Deathy | They Patched This Already?!, Deadlock Patch Notes Breakdown | patch notes, self deny, item changes, spirit shiv, metal skin, siphon bullets
+- ipV--I1l7DI | Deathy | Are The New Deadlock Heroes OP?, Meta Report | meta report, tier list, s tier, builds, new heroes
+- SmcxEQ38Uto | Metro Deadlock | Ranking Every Hero In Deadlock From Easiest To Hardest | hero difficulty, tier list, new players, hero picks, all heroes
+- CEkOo4iv9rc | Metro Deadlock | Ranking Every Hero In Deadlock From Strongest To Weakest | tier list, hero ranking, ladder, meta, counters
+- DZ-0vfTEE7g | Metro Deadlock | Ranking Every Hero In Deadlock From Strongest To Weakest - New Patch | tier list, hero ranking, patch, meta, tanks
+- N19iXuIIe_M | Metro Deadlock | Mina Is Still OP? Massive Balance Patch Breakdown | patch notes, balance, items, mina, vyper, victor
+- B6wcg8mTRww | Metro Deadlock | Ranking Every Ability In Deadlock From Strongest To Weakest | ability tier list, all heroes, ultimates, mobility, counterspell, high rank
+- KYsMES2qT_c | Metro Deadlock | Ranking Every Hero In Deadlock From Strongest To Weakest - Halloween Patch | hero tier list, halloween patch, eternus, spirit nuke meta, balance
+- GYK07EilY_I | Deathy | New Deadlock Patch has some CRAZY changes, Patch Breakdown | patch notes, holliday, urn, comeback, hero balance
+- ODn-bYsY5ck | Deathy | The Urn Has Been Reworked AGAIN, Patch Breakdown | urn, king of the hill, comeback, patch notes, snowball
+- fM2V11-6d9E | Sensu | The New URN Changes Just RUINED Deadlock… | urn, macro, split pushing, team comp, feedback
+- 2jYvtTRrIns | Deathy | URN REWORKED? Balance Changes + More! New Patch | patch notes, urn, items, hero balance, guardians, movement
+- 9ULlmUQxRw8 | Metro Deadlock | This Deadlock Patch Makes No Sense | patch notes, vitality, hero balance, items, victor, tier list
 
 ## General and other heroes
 

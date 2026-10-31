@@ -1,0 +1,71 @@
+# Ranking Every Hero In Deadlock From Strongest To Weakest
+channel: Metro Deadlock
+date: 2025-11-23
+url: https://www.youtube.com/watch?v=hHoiw3oTNJk
+
+## Covers
+Day-one tier list for the big late-November 2025 balance patch (spirit nerfs, gun buffs, 4.8k investment breakpoints), released just before this 2025-11-23 video.
+Goes hero by hero with a tier (S+, S, A, B, C, "doodoo") and the patch change behind it, meant as an average across all ranks.
+For players picking a hero to climb on the new patch.
+
+## Claims
+- The new patch makes a lot of heroes feel very strong; the tier list aims to be early so you can climb on the broken heroes before others figure out the meta. [0:00]
+- McGinnis (placed high, possibly S tier): her turrets got buffed and are tankier, and as a true hybrid she gains a lot from getting 4.8k investment in all three categories early. Run early turret items and get to 4.8k investment. [0:33]
+- Shiv (S tier, still top five): he is probably the best spirit nuker in the game after the spirit nerfs because he was barely hit; build him hybrid. [1:39]
+- Shiv's nerfs are slightly worse movement and slightly less Rage damage, but at max rage he still does enough damage to kill everyone. [2:09]
+- Shiv gains from gun being meta: he uses Return Fire well, tanks in the front line, and has historically been strong against gun heroes. [2:09]
+- Vindicta (A tier, above average): she got no direct changes; before the patch snipe with Rapid Recharge did huge damage, now spirit damage is lower like everyone, but hybrid Vindicta is great. [2:41]
+- Vindicta is not S because she dies faster this meta: gun heroes like Warden can now just shoot her out of the sky while she flies. [3:11]
+- Abrams (S tier): he got a lot stronger and his gun hurts without buying basically any gun investment. [3:11]
+- Abrams build: get to 4.8k, buy Spirit Snatch plus one spirit item, then Kinetic Dash and a melee charge item; hybrid Abrams was already meta and does big damage with gun and melee. [3:41]
+- Bebop (B tier, down from A): a maxed bomb now gives 5 m/s movement speed when you stick someone or self-stick, so you can run around with Echo Shard, a funny build but not meta-defining. [4:12]
+- Bebop was nerfed hard overall: much less HP per boon, uppercut nerfed, ult nerfed, plus the spirit nerfs; gun Bebop is still stronger than the bomb build. [4:12]
+- Billy (S+, top three): he got buffed, and because weapon damage is higher his melee also does more; he was already solid in lane and every other strong laner was nerfed while he was not, so he feels like Thanos in lane. [5:13]
+- On Billy, Cultist Sacrifice got better because it now gives weapon damage, which also counts for melee; for most heroes that wanted its fire rate it was a nerf. [5:44]
+- The Spirit Snatch change did not hurt Billy, since many Billy builds max it first and open with a heavy melee to get its value anyway. Billy is the best tank in the game. [5:44]
+- The top three are a separate S+ category. [6:14]
+- Warden (S+, probably the best hero with a proper build): increased gun scaling and base gun damage plus the weapon investment buff let him hold mouse one and beam everyone; Metro won fights on Warden while 10k behind enemy Vyper and Wraith carries. [6:45]
+- Warden is Thanos in the late game; Metro runs Ranger's published Warden build. [7:15]
+- Warden build: aim for 4.8k spirit and 4.8k gun investment, get Superior Duration plus Quicksilver Reload or a bullet resist item, for a very long lasting ult with huge gun damage; his ult felt impactful for the first time in a long time even though it got slightly weaker. [7:15]
+- Calico (no tier given, fell off): she was a spirit nuker and her ult amp and ult cooldown were nerfed; her gun damage is too low to build gun, so spirit nuke is the only viable way and it is worse. [7:46]
+- Drifter (B+): he performs well in low rank and got much better in lane (more vision in lane, a faster cooldown, and he is a gun user), but did not feel scary; grouping up against him works, and Wraith, Warden or Billy do more damage. [8:49]
+- Dynamo (A tier, very solid, above average): Kinetic Pulse has 5 m more range from level one and a lower cooldown, so he is playable in lane and less bullied since the heroes that beat him in lane got nerfed. [9:50]
+- Dynamo combo: rush early Rapid Recharge plus Improved Spirit for big early damage, then go support with Warp Stone and later Refresher. [9:50]
+- A hero who gets stronger in lane gets stronger for the whole game, because a good start carries into mid and late game. [10:20]
+- Paige (below average, playable but not "doodoo"): she was the only hero excluded from the 10% gun damage buff, and her overshield ability got much weaker in lane (needs more levels, less value at low level, shorter duration), which was her one lane strength. [10:51]
+- Grey Talon (very good): a gun meta means players buy less spirit healing and spirit resilience, so a spirit Talon is not hard countered and does more damage. [11:51]
+- Grey Talon combo: early Rapid Recharge plus Improved Spirit gives roughly 500 damage arrows right after lane; the 45 spirit at 4.8k spirit investment lines up well with an early Rapid Recharge. [12:22]
+- Grey Talon should go hybrid: still more spirit than gun, but reach at least 4.8k gun investment, then build more spirit. [12:52]
+- Haze (high A): she got better from the gun changes but got no direct buffs and is not meta-defining. [13:22]
+- Haze fills the initiator role with Sleep Dagger into Silence Wave, Slowing Hex or Focus Lens (called broken) and then ult; with Paradox and Holliday nerfed she is probably the better initiator, though for a full gun carry there are better choices. [13:52]
+- Holliday (B, average): she was hit hardest of anyone; base gun damage, gun scaling and Powder Keg base damage were nerfed and her movement is worse. [14:22]
+- Holliday can no longer use the tech of getting a speed boost from jump pads, so her escape is worse; she went from god tier to B, is not oppressive in lane, and can no longer be built as a full gun carry with the same damage. [14:54]
+- Infernus (got better, best Toxic Bullets user in the game): Toxic Bullets lasts 4 seconds; build early Suppressor, a super early Toxic Bullets and early Superior Duration so burn and Toxic last very long, and with Suppressor enemies can't fight back. He also feels better in lane. [15:25]
+- Ivy (still S tier): the Kudzu Bomb nerf means she can't clear jungle camps as fast, and the Capacitor/Tesla Bullets nerf means she is not at Thanos level as early. [16:25]
+- Ivy got spirit scaling buffs, so there is value in early spirit; expect a build shift in the coming days and weeks. [16:55]
+- Kelvin (B, still insane utility): finally hard nerfed; dome has no cooldown reduction upgrade anymore, Frost Grenade does much less damage and his bullet velocity is much lower, so don't run him gun. In coordinated play dome keeps him strong, in ladder play he is much weaker. [17:26]
+- Pocket ("doodoo"): hit hardest after Holliday; every one of his abilities had spirit damage on level ups so the spirit nerf hit him hardest, Affliction does much less damage, and he is no longer oppressive in lane. [18:27]
+- Lady Geist (S+, top three, a little below Billy and Warden): she was already played as a gun carry buying spirit items, so everything she does got better early and mid game with the same late game. [19:28]
+- Lady Geist already ran regen items in lane; get to 4.8k spirit investment, since she uses gun, health and spirit equally. [19:58]
+- The meta rule: if your hero can use all three stats equally in the early game, it is better than before. [19:58]
+- Lash (high B, slightly above average): Flog got big buffs to lifesteal and damage so his laning is much better, but Counterspell still stops his ult and he does not benefit from building gun as much as others. [20:29]
+- Mina (S, despite the spirit nerf): nerfed much less than Pocket and almost the same in lane; she likes about 4.8k gun investment from Cultist Sacrifice plus one more, such as Kinetic Dash or Mystic Shot, while still building spirit. [21:29]
+- Mirage (A for the average player, S in Eternus-only games): as a hybrid build Surge of Power on your 3 plus another spirit item, then gun for the rest, for strong burst; his ult and Scarabs got buffs. Low ranks still struggle to play him. [21:59]
+- Mo & Krill (average, not above): his lane regen dropped from 3 to 1, but Scorn still keeps him alive and he can still ult; the other tanks survived the patch fine. [23:00]
+- Paradox (below average): many Paradox players did nothing; he still has swap but lacks gun damage, his health was nerfed hard, and the cooldown reduction nerfs hit him a lot. [23:31]
+- An unnamed hero ("her", previously up to S tier) was nerfed hard, feels much weaker and had her laning weakened. [24:02]
+- Seven (no reason to play him as a carry): small buffs, a better ball and headshot reduction back to 35, but he takes too long to come online, and gun heroes like Warden, Infernus and Mina kill him by hitting his head. [24:33]
+- Sinclair (average, situational, more fun): lane nerfs of 50 less base HP and regen 1 instead of 3, but he can now swap with Spectral Assistant twice; overall still weaker than before because the lane nerfs matter more. [25:36]
+- Sinclair depends on enemy ults and may turn out better because Warden will be meta and Sinclair loves stealing the Warden ult. [26:37]
+- The Doorman (all right, possibly below average): fell off a cliff, mainly from weaker laning and less damage on the Call Bell. [26:37]
+- Victor (C tier, below average): gun heroes beat him; he was a one-trick running an aura and spamming Pain Battery, his gun got a bit better but every other gun got a lot better, and he was hit hard by the spirit nerfs. Metro killed him easily on Wraith and Warden. [27:07]
+- Viscous (S tier, meta-defining): Splatter is better except a longer level one cooldown, his cube got better, and his one-shot potential went up; if you want to spirit nuke, Viscous is the hero for it. [28:07]
+- Viscous build is about 50/50: Escalating Exposure (caption "expression") plus some gun, which makes Puddle Punch and Splatter stronger; run the one-shot Majestic Leap build, not old Viscous. [28:38]
+- Vyper (not that good, a glass cannon): her gun buffs helped her far less than Warden's, and she no longer gets extra resistances while sliding, so she is squishy all game. [28:38]
+- Infernus and Ivy are both better than Wraith. [29:09]
+- Wraith (A): much better than before, the teleport buff helped and the green Wraith build works well, but her lane is still weak, she needs to farm a lot before fighting, and she needs Tesla Bullets/Capacitor to function even though Capacitor is worse; Infernus no longer needs Capacitor. [29:40]
+- Yamato (A, down from S): lane is still very good, but Crimson Slash cooldown went from about 11 to 15-16 seconds, a slash does less damage, and she has less regen. [30:10]
+- Outliers are Warden, Billy and Lady Geist; if you are good on those three, grind them and you will win, and the same goes for the S tier heroes. [31:42]
+
+## Disagrees with
+- none recorded yet

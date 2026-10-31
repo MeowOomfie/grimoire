@@ -1,0 +1,65 @@
+# Ranking Every Hero In Deadlock From Strongest To Weakest
+channel: Metro Deadlock
+date: 2025-09-10
+url: https://www.youtube.com/watch?v=CEkOo4iv9rc
+
+## Covers
+A tier list of every hero for ladder (ranked) play, not pro play, averaged across all ranks, on the patch live as of 2025-09-10 (the video does not give the patch date; it follows the buffs to the newer heroes such as Mina).
+Heroes are taken in alphabetical order with a reason for each placement and some counter tips. For ranked players of any level choosing or countering heroes.
+
+## Claims
+- The list is for ladder play, not pro play, and is an average over all ranks, because some heroes perform strongly in Eternus and weakly in low rank and others the reverse. [0:00]
+- Tier meanings: S is broken (the best characters in the game), A is super playable, B is average, D is very tough; with a D tier hero you will struggle to do much. [0:30]
+- Abrams: mid A tier. A super solid, inherently tanky tank that works in almost every rank, not great in lane; his combo is basically guaranteed because a hit Shoulder Charge lets you land a heavy melee. Two tanks do the tanking job a bit better. [1:01]
+- Bebop: high B tier. Big buffs last patch gave more gun damage and better gun range scaling, so the Bebop meta is gun, and he still has the deadly hook and bomb stacks. [1:31]
+- Bebop struggles against the new heroes, Mina among them, who can negate his damage, and against Debuff Remover and Counterspell, which are bought almost every game in every rank. He can be higher if played really well but is not a hard carry. [2:02]
+- Billy: S tier, broken, one of the best characters in the game. He was buffed again with more HP and a lower cooldown on his 2. [2:33]
+- Billy is weak in lane until his chain (or level two of his 3), then he is the best mid game character in the game, insane in team fights and solo; he falls off late game and cannot 1v6. After lane you mostly don't want to melee with him, and most Billies still misplay and get parried. [3:05]
+- Against Billy, buy Rebuttal: they almost always melee and won't expect it; parry, and if you miss a parry, parry again and they die. [3:35]
+- Calico: average or above average (B area). She got spirit scaling buffs, heals more with her 2, Gloom Bombs do more damage and she gets an extra Gloom Bomb, but she still feels mid; a solid tank, a bit less tanky than Abrams with a bit more spirit nuke damage. [4:05]
+- The Doorman: dropped from S+ last time to B+, then "low B tier actually". His card got nerfed hard and stuns for much less even at max level, ending the old double card meta of Echo Shard on the 3 to stun forever. [4:35]
+- The Doorman's ult got better: if you jump down in the ult and Counterspell, it now teleports you back so you always take the full damage. [5:05]
+- The Doorman struggles in ranked because he is a support whose insane abilities need a team that follows up; with a good team he is insane. [5:36]
+- Drifter: S tier for ranked. If the enemy is alone he kills for free, and he scales well and kills in late game team fights; he is useless if the enemy groups up, and a bit weaker from Eternus or Ascendant up where people group and are aware. [6:07]
+- To counter Drifter in any rank: when he goes on a teammate, be there immediately, because he does far less damage once you are in range of your teammate. Fight Drifter as at least two people. He is insane in low rank because players don't group up fast enough. [6:37]
+- Dynamo: weak, will need some love. He still has arguably the second best ult in the game after Warden's, but he is weak in lane and the rest of his kit is mid; the new heroes do his job better. [7:08]
+- Mina shuts Dynamo down well: even if he Singularities, she can nuke or disable him, and there are a lot of stuns in the game. [7:38]
+- Grey Talon: nearly in a "needs buff" tier. Playable in high rank but always hard to balance because of his arrow damage; okay in lane, not great at jungling. The meta is max the bird (Guided Owl), which is a team fight ability that needs your team in the right space, so he gets stronger the higher you go and is very weak in low rank. [8:12]
+- Haze: B tier as an average of D tier in Eternus and A+ in low ranks like Ritualist. In high rank she is very squishy, dies to everything and the meta is heavy spirit nuke; Fury Trance helps her live a bit longer. [9:14]
+- Against Haze: walk out of her ultimate and you will be fine, and fight her instead of running, because she has so little HP and will kill you if you run. [9:45]
+- Holliday: still broken despite a small nerf, though hard to get into. Best initiation in the game with the lasso, some of the best mobility with the jump pads, insane lane damage with Crackshot, and her barrel (Powder Keg) at level two does around 250 early in lane. [10:15]
+- Infernus: average, probably above Haze. Flame Dash was nerfed so the dash build is no longer great; run gun again, a hybrid with maybe an extra charge or Rapid Recharge. He used to be a hard carry and is now okay in lane, mid and late game, "the most average character in the game". [10:45]
+- Ivy: super good, but needs a lot of skill and her impact is easy to miss until you watch the replay. Her ult is one of the best in the game (get anyone out of or into the fight, massive AoE silence), and enemies walk through her Kudzu Bomb for a lot of damage. [11:15]
+- Ivy is versatile and scales decently; many Ivys run gun or transition into a carry with fire rate, Tesla Bullets and Siphon Bullets. [12:16]
+- Kelvin: A+ tier. Always insane, but Frozen Shelter (dome) is a bit weaker in a meta of nukes rather than damage over time; good in lane and really tanky, but not as broken as Billy, Holliday or Drifter in ranked. [12:16]
+- Lady Geist: solid B+. A great hero to start the game with: her drain (Life Drain) can't be missed and her 1 (Essence Bomb) is easy to hit, so the skill ceiling is hitting gunshots, which do a lot of damage, while you spam abilities. [13:18]
+- Lash: really good, no changes this patch. Held back slightly because the meta is so spirit heavy and everyone buys spirit resist, but his ult and mobility are insane. [13:49]
+- McGinnis: average. Doesn't do much but doesn't hard feed; better than Infernus at split pushing, very survivable, and can build as a tank, a gun carry or both. [14:22]
+- Abrams is really strong but not a 1v6 meta defining hero like the S tier characters. [14:53]
+- Mina: S tier, will need nerfs eventually. Her win rate is below 50% in Eternus because she is one of the hardest heroes to play: the squishiest character in the game, she must play perfectly, proc her 3, aim, get into melee range for her 1 and use her 2's two teleports to dodge abilities. [15:24]
+- Mina's buffs made her ult last very long and do huge damage. In low rank people don't damage her fast enough; in high rank good Minas run Restorative Locket, teleport twice and then dash more and never die. She has the highest spirit nuke in the game. [15:56]
+- Mina is now the best laner in the game, especially once Love Bites is level two, when it nukes or one-shots you. She has enough base damage to do very well in any rank. [16:28]
+- Mirage: mid, balanced, no buff needed. He was once the scariest laner and now does little damage in lane; his ult still lets him split push and show up in team fights, but no Mirage has carried in about two weeks in any rank. "Why pick Mirage when Mina exists." [17:30]
+- Mo & Krill: S tier, broken in any rank, the other of the two best tanks with Billy. He doesn't die, and anyone he grabs is dead. The S tier is not in order. [18:02]
+- Paige: needs help. She is good at healing the team with overshield buffs, and her ult is strong but on a very long cooldown. Her 1 (Conjure Dragon) is a weaker Kudzu Bomb, and her 3 is very hard to hit, with some lane combos or Slowing Hex to land it. [18:34]
+- Paige falls off because her shield doesn't scale well late. Her 1 and 3 need to be stronger, especially the 1: you can run through her fire and take almost no damage, unlike Infernus's Flame Dash, which is easier to hit. [19:34]
+- Paradox: A tier, almost Holliday level. She got a slight gun nerf but is still crazy. [20:05]
+- Pocket: S tier, the lowest of the broken tier but a top six hero in high rank. He nukes and escapes for free like Mina, can nuke the whole team with Affliction, does less single target damage and is easier to aim. Hard for new players in low rank. [20:36]
+- Seven: nerfed but still an amazing carry, the best for farming and hard carrying late game; he needs his team to hold until he is online, then he is Thanos. He has a weak lane. [21:06]
+- Seven build: max his 3 (Power Surge) then stun max, not the ult build; the ult is still great for staying alive but does less damage now. [21:36]
+- Heroes who scale well into the late game overperform in low rank and get worse the higher you go, because low rank games last longer; Seven is arguably the best late game scaler. [22:07]
+- Victor: C tier ("not dog but close to it"). Absolute trash in Eternus and stronger the lower you go (Archon, Emissary or below). Solid in lane, then useless at dealing damage for a long time with gun or spirit aura builds; he must AFK farm, and at around 35k souls he can 1v6. [22:38]
+- Against Victor: stay out of his radius, know he is not strong until he has a lot of farm, and end the game earlier; don't let him AFK farm for 30 minutes. [23:08]
+- Wraith: D tier (C by the low rank logic, but she needs buffs). She is inconsistent: cards miss because of bugs and the teleport is inconsistent. She is the weakest laner in the game, can't win 1v1s until about 20k souls and does little in team fights; she is good at that net worth, but if the enemy plays correctly she never gets there. [24:10]
+- Valve could make Wraith weaker late game if they buffed her early game. Nerfing heroes because low rank games last long is not balance; games will get shorter as players improve, and these late game heroes will get worse. [25:12]
+- Shiv: easily A tier. Buffed multiple times, nearly back to his old tankiness, with a stronger dash and bleed; the meta is spirit Shiv, building green and purple items. [25:44]
+- Sinclair: a bit better than before. His ult cooldown is much lower and the rabbit got buffed, but he is one of the hardest heroes in the game, rarely played, and very strong when played well. [26:14]
+- Vindicta: still super solid but not Thanos. Hard nerfs to her stake combo (stake lasts shorter and pulls in less) and her crow, which ended the Suppressor build that debuffed for 10+ seconds. Flight got better, so a gun build does more damage: shoot more and spam less AoE, like the sniper she is meant to be. [26:44]
+- Viscous: broken, the best support in the game. His cube one-shot protects anyone from anything, he doesn't die in his ball, and Puddle Punch relocates allies or enemies in or out. Very hard to play; he feels less strong in low rank because low rank Viscous players don't abuse the whole kit, and he becomes more broken the higher you go. [28:17]
+- Vyper: needs buffs. Her spirit was buffed, but she is still a gun hero who slides and perma shoots; her 1 still feels like it does nothing even with the higher scaling. The ult got a bit better. He wants a hybrid Vyper whose 1 slows and does good damage, not the old one-shot gun Vyper. [29:19]
+- Warden: S tier, an ult bot. Buy Majestic Leap and run the ult build (Superior Duration, Mercurial Magnum, Lightning Scroll, Boundless Spirit), Majestic Leap in, press 4, and they all die. [30:20]
+- Warden is the best hero to win a mid fight with, great to dive a walker and great to defend, with a good lane and no downside. He would like gun Warden to be better again, maybe a cage buff and an ult nerf. [30:51]
+- Yamato: A tier. Still one of the best laners in the game, though Mina is stronger; not meta defining, and can build really tanky. [31:22]
+
+## Disagrees with
+- none recorded yet
