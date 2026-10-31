@@ -1,0 +1,70 @@
+# Rank 1 Billy - Macro and Build Guide
+channel: HERESY
+date: 2025-11-29
+url: https://www.youtube.com/watch?v=1JiSgXReJt8
+
+## Covers
+Billy after the big balance update: why he is the best jungler (Blasted heals him off camps), passive lane play until two points in Blasted, the Rebuttal trap, the ult-up playmaker vs ult-down jungler loop, mid boss focus, skill order (Blasted tier three first) and the full item build with alternatives (Life Strike, Escalating Resilience, Slowing Hex, Vortex Web).
+For Billy players and front-liners who want a macro plan, from a NA top 50 player; a longer written version is on statlocker.gg.
+
+## Claims
+- With jungle damage and spirit resistance buffed, many former junglers struggle, but Billy heals while jungling through Blasted, the only hero who does without significant item investment. [0:30]
+- Billy has a very impactful team fight ultimate and should play very differently depending on whether Chain Gang is up. [1:01]
+- With ult up, be a playmaker who responds to or creates fights over guardians, the Urn or enemy jungle invades; with ult down, farm the jungle with little downtime so your carries can take the waves. [1:31]
+- Carries like Infernus, Mina and Seven now have a much harder time farming the jungle themselves. [1:31]
+- Billy is a front-liner like Abrams, Shiv, Mo & Krill and Victor; his niches are a widely impactful team fight ultimate and superior jungling. Play to them. [2:01]
+- In lane play Billy quite passively for the first several waves until he has two points in Blasted, which gives two Bashdowns per fight. [2:31]
+- Billy is a weak trader with no poke and low base ability damage; he relies on opponents failing a parry, then is exceptionally effective. He punishes over-aggression rather than creating openings. [2:31]
+- Track enemy item buys, especially Rebuttal: opponents with it often bait by failing parries early, expecting you to commit your four or five light melees. [3:01]
+- Into strong sustain lanes like Lady Geist and Mo & Krill, Billy and Shiv can't poke them down and must wait for enemy mistakes. [4:03]
+- When the enemy walks up too far, push forward with your lane partner to punish; a badly timed parry as you leave the veil lets you land light melees. [4:35]
+- Light melees after a failed parry restore lots of health, letting you win trades even when your partner dies. [5:05]
+- Play around power spikes: items like Melee Lifesteal, ability spikes like two points in Blasted, and timers like camps at 2:00 and buffs at 5:00. [5:05]
+- If the opening waves go right, around this time you have Melee Lifesteal and Blasted with high health after clearing the wave; often the best move is to attack the enemy small camp, using close range dueling and minion healing. [5:36]
+- With a health advantage over half health enemies (Abrams and Grey Talon in the example), bully them and steal their farm. [6:08]
+- Use Blasted on camps to heal and extend its duration so it keeps procing through the following fight. [6:08]
+- Dash into Grey Talon's trap on purpose to proc Reactive Barrier for 400 extra health against his poke. [6:39]
+- Grey Talon is much weaker after using his long cooldown flight ultimate; re-engage from the veil with Rising Ram and Bashdown then. [6:39]
+- Mid and late game: whenever the high impact ult is up, make a play with it; when it is on cooldown, be a high tempo jungler that can even fight in the enemy jungle, instead of being useless like Dynamo or Mo & Krill. [7:09]
+- Good junglers must prioritize jungle camps more than ever this patch. [7:09]
+- Previously two players splitting a wave earned 130% total souls, so 2-2-2 splits were common and carries also ate the jungle. [7:40]
+- Jungle is now worth more souls but much harder to kill, especially for primarily spirit damage heroes like Mina, Pocket and Infernus because camps have much more spirit resistance. [8:10]
+- Let Billy take the jungle and let carries like Infernus and Pocket take side waves alone to keep high soul counts; the whole team farms faster. [8:42]
+- Don't AFK farm the back of your jungle when the ult is down; show up to plays when needed and pressure the enemy jungle. AFK farming is almost never correct. [9:13]
+- Attack enemy vaults preferentially: Sinner's Sacrifice can chunk up to 400 health per vault, but Billy is usually full health from jungling and can fight contesters or escape with Rising Ram and bounce pads. [9:43]
+- While jungling, watch the map state and predict where the next fight will be (a guardian, the Urn); these aren't random. [10:15]
+- Leave the jungle before your ultimate comes off cooldown so you can spend your souls first. [10:46]
+- Spend souls frequently on Billy; he doesn't save for 6k spikes and most shop stops have something reasonable (2,400 and 1,600 upgrades, isolated 3k items). [10:46]
+- Mid boss is how you win games; nearly everything in the mid and late game (picks, getting stronger to initiate fights) should create chances to secure it. [11:17]
+- Skill order: take Blasted to tier three before Bashdown tier three. [12:19]
+- Together's patch build rushes Blasted tier three without even a point in the ultimate; ABL also goes Blasted while putting points in the ultimate and Rising Ram, which you can consider. [12:49]
+- Crayon and Metro prioritize Bashdown tier three because it counts Bashdown as a heavy melee, which reduces the item cooldowns of Life Strike and Spirit Snatch. [12:49]
+- Spirit Snatch was reworked so light melee procs are 70% as effective instead of doubling the cooldown; since Billy procs it without getting parried thanks to Bashdown, this is a soft buff for him. [13:20]
+- Jungle camps hit harder now, so Blasted's extra health bonus gives far more health while farming; Bashdown tier three gives more health only in PvP, not PvE. [13:50]
+- Blasted tier three lets Billy tank and heal off the jungle, never needing to go back to base, like the old Calico running Fortitude. The flat bonus early in the game is extremely potent. [14:21]
+- Build changes vs Together's build: prioritize Life Strike over Reactive Barrier by default, and Escalating Resilience instead of Fleetfoot for the 4.8k vitality break point. [14:52]
+- Build goes left to right: Close Quarters and Monster Rounds, upgrade into the item the captions call "cult sacrifice" to reach 4k, then Extended Magazine for the 4.8k weapon proc. [15:23]
+- Extended Magazine is a high DPS upgrade on Billy because his melee procs restore a percentage of ammo; it mainly serves to upgrade into Escalating Resilience. [15:54]
+- Escalating Resilience is one of the most effective armors in the game, especially on Billy, whose high fire rate stacks it almost instantly. [15:54]
+- Life Strike is very strong now because of farming to full health in the jungle: after a tower dive or skirmish leaves you at 300 health, clear a tier three camp for about a thousand souls and be full health instead of backing for 25 seconds or running boxes for 40 seconds waiting on Fortitude. [16:25]
+- Over a camp clear Life Strike heals about 1,000 health on its own; on Billy it works like Fortitude as out of combat regen but is also effective in combat. [16:57]
+- Life Strike procing on Bashdown adds a lingering slow, making it a real CC tool, not just survivability. [17:28]
+- Besides Spirit Snatch, prioritize Slowing Hex to hit the 4.8k spirit spike; it has incredible synergy with Billy. [17:28]
+- Slowing Hex helps stick to enemies with Blasted and locks down hooked carries with escapes, like Mina, Pocket, Infernus and Ivy. [17:59]
+- Chain Gang's weakness: once pulled in, enemies are no longer CC'd, and anyone with Warp Stone or a movement ability escapes before Bashdown. Slowing Hex the most threatening target while they are still tethered. [18:29]
+- With Slowing Hex a Chain Ganged Mina dies, Pocket can't throw his cloak, and Lash, Infernus and Ivy are stuck; much more kill threat on half the important carries. [19:00]
+- Against lobbies whose carries are not hypermobile, skip Slowing Hex and go from Spirit Snatch more directly into Torment Pulse. [19:30]
+- The top row of core items gets all your 4.8k break points; after that the build is situational with at least two flex slots, commonly filled with Extra Charge. [19:30]
+- Situational: Escalating Resilience when you need armor; Point Blank and Enduring Speed when out of slots; Torment Pulse around 20 minutes after a guardian if you don't need Spirit Resilience; then Rapid Recharge. [20:00]
+- Spirit Snatch procing every fight gives some spirit resilience even though Billy otherwise has none. [20:31]
+- Against lots of DoTs and lockdown, Debuff Remover or Warp Stone can replace Extra Charge; Extra Charge is cost-effective at 800 but not worth more than their utility. [20:31]
+- If you need slots in the mid-late game and can't yet take Walkers, sell Extra Charge. [21:01]
+- Sleeper pick: Vortex Web, with a 13 m capture radius; it sets up Chain Gang, pulls enemies together for an effectively 8-second tether that can't be debuff removed. [21:01]
+- Cast Vortex Web on yourself so every enemy you Chain Gang is slowed like with Slowing Hex; late game kills convert straight into mid boss and the game. [21:32]
+- Alternative to Life Strike: get Reactive Barrier very early in lanes where it fits or when many enemies have hard CC that procs it. [22:02]
+- With Reactive Barrier skip Spirit Shielding, which is overkill now; get Sprint Boots earlier so Reactive Barrier, Sprint Boots, Melee Lifesteal and Battle Vest hit the 3.2k vitality spike. [22:32]
+- Most important takeaway: use your ultimate as often as reasonably possible but not for poor reasons, and plan its use before it is needed because objective fights are frequent and predictable. [23:02]
+- Loop: use your ultimate; when it is on cooldown, jungle to recover health; right before it comes back, spend souls for a power spike; then use it in the best way. Rinse and repeat. [24:03]
+
+## Disagrees with
+- none recorded yet

@@ -187,6 +187,34 @@ One line per digested video: `- <id> | <channel> | <title> | <topics>`. Newest f
 - YGrFz00_Gio | Deathy | HOW TO FIND YOUR MMR IN DEADLOCK - And analyzing your stats | mmr, stats, post-game graphs, lane stats, souls per minute
 - 83_xwq7I3bI | Deathy | ULTIMATE IVY GUIDE FT. CATGIRL | ivy, hero guide, skill order, sliding, builds, support
 - VdQhXgTKKUI | Deathy | DEADLOCK - Shiv is BROKEN - How to win with Shiv (showcase) | shiv, hero guide, farming, siphon bullets, leech, counters
+- xYK-v_aoZFk | Metro Deadlock | The New Item Meta in Deadlock Explained | items, vitality investment, toxic bullets, patron stall, stamina, patch meta
+- 4jRjJBVdd_g | Deathy | My NEW Tierlist & Builds for this Deadlock Patch | tier list, billy, infernus, vindicta, bruiser meta, wraith
+- 1JiSgXReJt8 | HERESY | Rank 1 Billy - Macro and Build Guide | billy, jungle, build, skill order, chain gang, mid boss
+- 34TjExTk7iw | Metro Deadlock | Deadlock's New Build System Is Actually Broken | investment system, hybrid builds, focus lens, curse, grey talon, infernus
+- 9Wu9ryF3mWM | Deathy | The Most Misunderstood Items In Deadlock | item mechanics, out of combat regen, anti-heal, resist shred, stacking
+- 2RXuxlhkv_U | Deathy | NEW ITEM! and Trophy Collector Is Good?, Patch Breakdown | patch notes, indomitable, trophy collector, boons, item changes, hero balance
+- ix9H5IIAaD0 | Deathy | Haze NERFED, Item Changes and MORE in New Patch! | patch notes, haze, item changes, hero balance, parry
+- CmF4-6Btlvo | Shotty | This Changed How I Build In Deadlock, Deadlock Build Guide | builds, statlocker, vyper, build order, method
+- SHzklsOihzc | Metro Deadlock | The Items Everyone Gets Wrong In Deadlock (Secret Tech) | item interactions, resistances, shred, anti-heal, unstoppable, cooldown items
+- NV8G-p3xzmI | Metro Deadlock | The Deadlock Item Guide: What’s Actually Worth Buying | counter items, spirit shielding, reactive barrier, dispel magic, counterspell, itemization
+- eXAUCwQavJM | Sensu | Drifter Is Unstoppable On The New Deadlock Map... (BROKEN BUILD) | drifter, new map, gameplay, shadow weave
+- YinpOpNjpLg | HERESY | An Eternus' Guide to "Optional" Items | optional items, dispel magic, counterspell, warp stone, spirit resilience, unstoppable
+- amAIzrkIdQc | Deathy | Mathematically Misunderstood Items | spirit rend, heroic aura, silencer, spirit sap, mercurial magnum, weakening headshot
+- p7JZIsLBKvc | Sensu | I Tried the Rank 1 Drifter Build In Eternus...and it's BROKEN | drifter, gameplay, stacks, inhibitor
+- 9iK7Ea-xpug | HERESY | YOU Don't Understand These Deadlock Items | close quarters, heroic aura, tankbuster, return fire, transcendent cooldown, sharpshooter
+- Cu0F1DViKbI | Metro Deadlock | They Just Buffed The Worst Items In Deadlock (New Item Added) | patch notes, indomitable, item reworks, gun nerfs, hero balance
+- RAvOQCYRFMg | Metro Deadlock | The BEST Items In Deadlock Right Now (META Guide) | items, spirit meta, greater expansion, healbane, counterspell, golden goose egg
+- eM-iY3IvHO8 | Metro Deadlock | The Best Build For Every Hero In Deadlock (NEW META) | builds, every hero, item order, skill order, spirit meta
+- iXUzrpNpT3U | Deathy | Deadlock's First TRUE Balance Patch, Reworks, new item & more | patch notes, reworks, golden goose egg, ability upgrades, hero changes
+- o86aZ5u0_M8 | Deathy | Gun Builds Are Boring | gun builds, fire rate, resist shred, investment categories, kinetic dash, item math
+- w8i5cPb5uH4 | Metro Deadlock | The Best Build for Every Hero in Deadlock - 2026 Update | builds, every hero, 4.8k investment, toxic bullets, item meta, roaming
+- hFjEY37gz-Q | HERESY | Rank 2 Victor - Macro & Build Guide | victor, pain battery, lane phase, jungle invading, build, infuser
+- x3vpYZLMOu8 | Metro Deadlock | The Best Build for Every Hero in Deadlock | hero builds, item builds, tier list, winter 2025, how to play
+- jplVMEomwmM | Metro Deadlock | I Tried YOUR Deadlock Builds for a Week - Here’s What Happened | viewer builds, off-meta builds, haze, drifter, infernus, seven
+- nWWqj1qt088 | Metro Deadlock | Why The Worst Item In Deadlock Is Loved By Everyone | trophy collector, soul economy, power spikes, item value, cultist
+- dYCgnZ4Wp-A | Metro Deadlock | The Best Build For Every Hero In Deadlock | hero builds, item builds, troll builds, spirit meta, how to play
+- SytB0zKkUlQ | Metro Deadlock | The Ultimate Guide To Deadlock Items | items, investment bonuses, counter items, anti-heal, build crafting, seven
+- ns5xI252NjE | Natan | The ULTIMATE Deadlock Build Crafting (and Item Shop) Guide | build crafting, item shop, ability point order, investment bonuses, mina, item tier list
 
 ## General and other heroes
 
