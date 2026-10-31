@@ -151,6 +151,42 @@ One line per digested video: `- <id> | <channel> | <title> | <topics>`. Newest f
 - _tBLhjtdDWo | Sensu | YOU'RE Playing the Wrong Deadlock Hero. | hero choice, micro, meso, macro, roles, self review
 - ejPLLctB3C0 | Natan | Why Deadlock is a TURN BASED Game | tempo, waves, cross map, weak side, throws, death timers
 - OL_7Oi-t4sA | HERESY | How To Play Your Favorite Character Like You're Eternus 6 | hero tips, roster, hero identity, map reading, ultimates
+- V7SF5fuOA4c | Metro Deadlock | The Best Build for Every Hero in Deadlock (And How to Play It) | builds, every hero, skill order, items, roles, meta
+- FKAu-mVNAUM | Sensu | Drifter is META with this Spirit Punch BUILD | drifter, spirit build, fortitude, gameplay
+- oHRJR4wcmk4 | Deathy | Why you are LOSING fights that you should NEVER lose | teamfight roles, target selection, yamato, lash, paradox, itemization
+- AQxArnNQdKs | Deathy | What is a Power Spike? And how can YOU abuse it | power spikes, farming with intent, unsecured souls, aggression timing, lash
+- mf8ShdalkN0 | Natan | EASILY Improve Your Aim in Deadlock - Eternus 6 Aiming Guide & Tips | aim, sensitivity, settings, aim training, enemy movement
+- QVJyCI1wGDM | Deathy | This lash has lost 15/16 games. Why? | vod review, lash, map pressure, sinner's sacrifice, efficiency, side lanes
+- 4zwLo1g2b4Q | Metro Deadlock | Deadlock Has A Big Problem Right Now | balance opinion, meta, hero power curves, wraith, lane bully
+- xoZnMOvrKyg | Deathy | Win more Deadlock games - The Winning Trifecta (TM) | closing games, urn, walkers, mid boss, base push, snowballing
+- yUOzWDDdXJs | Metro Deadlock | The Ultimate Guide To Infernus - Hardcarry 1v6 DPS | infernus, hero guide, build, afterburn, carry, items
+- gUe-_cD12kM | Metro Deadlock | 5 Tips That Will Instantly Make You Better at Deadlock | macro, team fights, split push, mid boss, closing games, respawn timers
+- EwlgaIcjNMk | Metro Deadlock | The Ultimate Guide To Wraith - Dominate Every Duel In Deadlock | wraith, hero guide, build, card trick, split push, kiting
+- lYUjWpA__vE | Metro Deadlock | The Biggest Winners And Losers In The New Deadlock Patch | patch notes, lane souls, items, early ganks, hero balance
+- 29qdxbvdbBQ | Metro Deadlock | The Big Problem With Deadlock Right Now | jungle value, lane stacking, macro choices, lane bullies, meta opinion
+- v1B8FKJ80R0 | Deathy | The state of Deadlock's Jungle - Too much? | jungle, farm items, sinner's sacrifice, objectives, punishing junglers
+- QHtQOP6M4x8 | Metro Deadlock | The Biggest Winners and Losers In Deadlock 2.0 | three lane map, laning denies, sprint speed, sinner's sacrifice, hero tiers
+- OWu_-kIj_T8 | Deathy | Is Veil Walker Dead? Deadlock Hotfix Dec. 21st | hotfix, veil walker, shields, knockdown, vindicta
+- EgabVyWhDMU | Metro Deadlock | The Ultimate Guide To Victor - Undying Carry Machine | victor, hero guide, build order, jungle farming, late game carry
+- uxMhMBr-MP0 | Metro Deadlock | You Are Playing Your Character Wrong - The Ultimate Guide To Roles In Deadlock | roles, carry, support, hero tiers, farming vs fighting
+- sReFpuQSdcs | Metro Deadlock | Why Can't I Rank Up In Deadlock? - Explained | ranked, matchmaking, win streaks, hero-based rating, new players
+- 2eoETHLPSgY | Deathy | Deadlock has a BIG problem, and it's not what you think. | cooldown reduction, ultimates, items, dynamo, pocket, game design
+- pFBFI9Wpq-I | Deathy | How to Split Push EFFECTIVELY in Deadlock | split pushing, walkers, macro, mid game, wraith
+- qWgd3BbxRME | Deathy | Everything you NEED to know about Deadlock's Latest Patch - Patch Highlights | patch notes, new items, walkers, soul sharing, urn, haze
+- J8cTvPIxBOw | Metro Deadlock | The BIG Problem with Deadlock Macro | soul sharing, macro, jungle, split pushing, comeback souls, wraith
+- 9aK1ZB_VEmI | Deathy | Biggest Winners and Losers of the recent patch - Patch Highlights | patch notes, grey talon, vindicta, paradox, shiv, lady geist
+- UHI53V2cm6M | Deathy | Roles in Deadlock Explained | roles, drafting, support, carry, rescue beam, itemization
+- 07y2WnAJKNY | Deathy | Jungling is LOSING you games - A response to @Your_Deadlock | jungling, wave farming, bridge buffs, stealing camps, pressure, seven
+- 9M5pYQVuxiw | Metro Deadlock | The Ultimate Guide To Billy - DPS Monster Tank | billy, hero guide, build, skill order, jungle stealing, mid boss
+- 6TZBLvNNook | Deathy | 5 Advanced Movement Techniques You NEED To Be Using In Deadlock | movement, air strafing, sliding, heavy melee, wall jumps, stamina
+- 8Wnsw9qlxOY | Metro Deadlock | The Ultimate Beginners Guide for Deadlock - New Player Tips and Tricks | beginners, laning, jungle camps, sinners sacrifice, mid boss, flex slots
+- x_ISyG5yvFg | Deathy | 3 tips for every hero - Part 1 | hero tips, abrams, haze, holliday, infernus, kelvin
+- 3Ps5UtSBihc | Metro Deadlock | Why I Play Gun Wraith Over Card Wraith. | wraith, builds, card vs gun, hybrid build, itemization
+- C3LfEIC6clg | Deathy | Melee in Deadlock: Everything you need to know | melee, parry, heavy melee, mind games, last hits
+- nutJm9fiFd8 | Deathy | Stop throwing away your lead! How to END Deadlock games | closing games, mid boss, rejuvenator, late game fights, macro
+- YGrFz00_Gio | Deathy | HOW TO FIND YOUR MMR IN DEADLOCK - And analyzing your stats | mmr, stats, post-game graphs, lane stats, souls per minute
+- 83_xwq7I3bI | Deathy | ULTIMATE IVY GUIDE FT. CATGIRL | ivy, hero guide, skill order, sliding, builds, support
+- VdQhXgTKKUI | Deathy | DEADLOCK - Shiv is BROKEN - How to win with Shiv (showcase) | shiv, hero guide, farming, siphon bullets, leech, counters
 
 ## General and other heroes
 

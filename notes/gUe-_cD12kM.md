@@ -1,0 +1,71 @@
+# 5 Tips That Will Instantly Make You Better at Deadlock
+channel: Metro Deadlock
+date: 2025-10-08
+url: https://www.youtube.com/watch?v=gUe-_cD12kM
+
+## Covers
+Five general improvement tips plus a bonus: take more team fights, die for value, keep farming between fights, push advantages after kills (respawn timers, Mid Boss, Walkers, Urn), and close out games with pickoffs before pushing.
+For players who win lane but fall behind later, and for anyone stuck in lower ranks with long games.
+
+## Claims
+- Macro is every decision about where you are on the map (when to split push, team fight, farm, take Mid Boss, back out); you learn it over time without training it specifically. [0:31]
+- Micro (aim, movement in fights, ability usage and timing) is only really learned by taking team fights and 1v1 or 1v2 engagements. [1:01]
+- Micro example: rather than going in first looking for a Lash ult, sit on the sidelines, wait for the enemy to use an ult like Dynamo's Black Hole, then counter with your Lash ult to swing the fight. [1:31]
+- Tip 1, you are not taking enough team fights: in every rank players are scared to fight, protect their KD and only fight when ahead. Waiting for a numbers advantage is often smart macro but not always correct. [2:03]
+- Sometimes you want to fight down: split push and take a 1v1 or 1v2; even a bad trade can let your team win a bigger fight elsewhere. [2:34]
+- Taking fights teaches you what you can get away with and which 1v1s you can take; example: a 10k net worth Wraith probably can't beat an equal net worth Haze without ult. [3:05]
+- Players who only take fights they know they win never become dangerous micro players. [3:35]
+- When learning a new hero, "limit test": take engagements you're unsure you can win (not 1v6) to learn to judge fights. [4:05]
+- Any fight with a 60 to 70% chance of winning is a good fight, unless it is the last fight of the game where you want to be surer if you are winning. [4:36]
+- When behind with one last chance, take a 50 to 60% fight to turn the game rather than sitting in base and losing. [5:07]
+- Teams facing an enemy with Rejuvenator avoid fights at all costs, then someone gets picked and they can't fight at all; take more fights, it is the number one improvement tip. [5:38]
+- Fighting teaches counters, for example on Infernus you can take a 1v1 against Wraith and Flame Dash out when she has ult. [6:08]
+- KD in Deadlock is irrelevant; ignore it, unlike in games like COD. [6:08]
+- Tip 2, you are not dying enough: your life is a resource like any other. [6:38]
+- If a 4v4 fight breaks out across the map while you split push, don't back off to farm or run to a fight you may not reach; push the Walker, since at most two enemies can defend it and realistically one or zero. [7:08]
+- Dying to take a Walker is almost always worth it, 99% of the time, unless it is the last team fight; it is worth sacrificing two or even three players early to kill a Walker, for the gold, map control and later kills. [8:40]
+- If a Walker is at 1 HP and you will probably die finishing it, do it 99% of the time; securing a flex slot and money is worth more than your life. [9:10]
+- A 2 and 7 player who pressures the map and takes objectives can win the game more than a 2 and 0 teammate who AFK farms; the matchmaker only counts wins and losses. [9:40]
+- If you split push and four or five enemies come to kill you, it is an excellent trade even with zero Walker damage: it opens the map for your five teammates. [10:43]
+- Even if teammates just farm with that time, four enemies spending about 20 seconds to kill you is lost time for all of them for a bit of kill and assist gold, while your team farms and pushes other lanes. [11:14]
+- The higher you climb, the more your team uses the space you create; communicate it ("I'll push this lane, shove the other lanes") so the enemy faces several threats at once. [11:45]
+- Active gameplay beats reactive gameplay; dying for objectives and value beats staying alive and doing nothing. [12:16]
+- Tip 3, you are not farming enough: this applies to all players, not only carries; many players fight too long and ignore basic farming between fights. [12:46]
+- Fighting a lot on early fighters like Abrams or Mo & Krill is good, but still maximize souls in downtime. [13:16]
+- Only have two players on a lane unless you are looking for a fight; more than two loses money. Even a support can sometimes take a wave with a carry. [13:46]
+- During rotations farm boxes and gold statues; between fights ask whether you can take a jungle camp or steal an enemy Sinner's Sacrifice in the next 10 seconds. [13:46]
+- Low rank players fall behind by treating Deadlock like Overwatch with permanent team fighting. [14:16]
+- Check your team's soul net worth; if you are far behind you probably won't do anything in fights, so it's fine to step back and farm and tell your team. Exception: a hero like Dynamo with Black Hole still gets value when far behind. [14:47]
+- Playing optimally isn't always being greedy; it is knowing when you can fight and when you can be greedy. [15:18]
+- Tip 4, not pushing advantages: respawn timers grow over the game for everyone. [15:49]
+- From about 12 to 13 minutes, respawn timers are long enough that a kill lets you take Mid Boss or push a Walker before the enemy returns; before that you are too weak to do either in time. [16:21]
+- After 12 to 13 minutes, one, two or three kills should give your team enough time to take Mid Boss. [16:21]
+- Mid Boss is the strongest buff in the game: three extra lives plus more HP, damage and spirit power for the whole team. [16:51]
+- Early and mid game Walkers are huge: a flex slot and a big amount of money. [16:51]
+- Any time after 12 to 13 minutes when the enemy has more players dead, do something: push Walkers, steal enemy jungle, push out all lanes, or take Mid Boss. [17:22]
+- When up, don't farm your own jungle: you can do that safely anyway, and while the enemy jungle stands they retake theirs on respawn and the lead evens out. Take enemy jungle or objectives instead. [17:54]
+- Avoid the mid Walker until very late: it is the easiest for the enemy to reach, has the highest HP, and can be defended even 4v6 around 14 minutes. Side Walkers are easy to crack then. [18:26]
+- If the enemy is down two and you're not ready for Mid Boss, push out the yellow lane while your team pushes the green lane for a good chance at a Walker; trading kills for it is still worth it. [18:57]
+- After 20 minutes, up two players with Mid Boss up, always take Mid Boss rather than pushing base or the blue Walker; take the buff, then push with three extra lives. [18:57]
+- When behind two players at 14 minutes, expect the enemy to do the four things: watch for Mid Boss, enemies invading your jungle, and defend lanes so they can't push your Walkers; keeping lanes pushed makes your Walkers hard to take. [19:58]
+- Contest Mid Boss even 4v6 unless the enemy has game-winning ults like Black Hole or Lash; even with over a 50% chance to lose the contest, giving up the Rejuvenator for free is almost always a lost game or a big deficit. [20:28]
+- If one or two enemies invade your jungle after going up two, turn and kill them with four; being behind doesn't mean hiding in base. [20:58]
+- The further behind you are, the riskier you must play to come back; sitting in base or your own jungle lets the enemy take map control, money and Urns. [21:29]
+- When up in kills but unable to take Mid Boss or a Walker, take the Urn for a free lead. [21:59]
+- Tip 5, not knowing how to close games: it is why low rank games last much longer than high rank ones. [21:59]
+- In Eternus games average about 25 minutes; the coach's recent Eternus 6 games averaged about 26 to 27 minutes, so longer games mean your team can't end efficiently. [22:29]
+- With Rejuvenator but an even 6v6 and only the blue Walker left, pushing in six is very risky: the whole enemy team defends, Walkers give defensive bonuses and the blue Walker is very hard to crack. [23:29]
+- Teams that force it lose fights, the losing side gets comeback souls, Rejuvenators are wasted and the game drifts back to even. [24:00]
+- Smarter close: push out all lanes, then look for ganks in the enemy jungle; if no one is there, take their jungle to extend the lead. [24:30]
+- Don't take risky 6v6 pushes into strong defensive ults such as Dynamo's unless you are very far ahead in souls. [25:00]
+- With Rejuvenator, push lanes and look for pickoffs on the enemy side; usually someone shows on a side lane, or the enemy fights you on open ground, which you should win up money and lives. [25:00]
+- When ahead, take fights on even ground or get a pickoff first; once the enemy is down one or two, walk in, kill the mid Walker and push their base to snowball and end. [25:31]
+- Don't take even fights in enemy territory just because you are ahead; make fights where you have numbers. [26:03]
+- Bonus: the team that is proactive in the mid and late game usually wins, in every rank up to Eternus 6, regardless of being 10k souls ahead or behind when no Rejuvenator is up. [26:33]
+- In the late game group up as six and look for kills; whoever gets the jump first usually wins the fight even if behind in money; about 90% of the coach's games are decided by the late game catch. [27:04]
+- At 30+ minutes a kill means a very long respawn timer and an easy path to victory. [27:34]
+- When far behind (enemy with Rejuvenator and 40k lead), the only comeback is catching a farming carry on a side lane with your whole team, killing them twice through the Rejuvenator, then fighting 6v5. [27:34]
+- To close games, look for kills first, then push the enemy base; AFK farming when ahead lets nothing happen until someone makes a mistake, which is why low rank games run long. [28:35]
+
+## Disagrees with
+- none recorded yet
