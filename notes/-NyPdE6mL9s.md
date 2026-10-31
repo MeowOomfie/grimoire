@@ -111,4 +111,10 @@ For brand new or returning players.
 - Push the enemy base only when powerful: a numbers advantage or souls advantage, ideally both, and Rejuvenator buffs as a bonus. [37:48]
 
 ## Disagrees with
-- none recorded yet
+- R2lq-BXPjo4 (Natan, 2026-02-26): The Urn always spawns at 10 minutes in the yellow lane, then alternates sides every 5 minutes. [12:35]
+- nATqIjtkpoA (Deathy, 2025-04-16): A team with zero Guardians taken is locked out of a flex slot, so defend your Guardians. [8:39]
+- zkoYGTvCsog (Sensu, 2026-10-07): Each wall jump after the first costs 0.5 stamina, chaining them within 1.25 seconds gives a weakened jump, and wall jumping in combat cuts stamina regen for 5 seconds. [2:30]
+- 8Wnsw9qlxOY (Metro Deadlock, 2025-08-31): You can punch the Rejuvenator up to three times on the first Mid Boss and up to four times on every Mid Boss after [37:55]
+- 7L-j1mjASk0 (Deathy, 2026-10-08): The Mid Boss now spawns at 0 minutes, where it used to spawn at 10 [12:44]
+- BiZ29Dtc-Wo (Deathy, 2026-04-19): Mid Boss screams once at 50% HP and does not scream again if you leave and come back [1:02]
+- 0iLzlvGjfGE (Metro Deadlock, 2026-10-01): While carrying the Urn you cannot use ziplines but can use abilities and shoot [27:01]

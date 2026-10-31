@@ -41,4 +41,7 @@ For lower MMR players who want a hero to climb with when teammates do their own 
 - To climb out of lower MMR, pick S or A tier heroes from this list; he climbed out of low MMR mostly with Lash, Infernus and Paradox, which work well against inexperienced players. [12:55]
 
 ## Disagrees with
-- none recorded yet
+- DmLuOrj6NWI (Metro Deadlock, 2025-03-23): Shiv is only low B for ranked, able to carry pubs just to an extent, with a win rate under 50% in every meta. [6:36]
+- DmLuOrj6NWI (Metro Deadlock, 2025-03-23): Seven is S tier and the best hard carry right now, getting better the lower your rank. [5:36]
+- oXAqVuI14Ic (Metro Deadlock, 2026-08-03): On a list rated by solo carry power Mo & Krill is A tier, almost S, solo grabbing and killing people 1v1 and often the richest player in the lobby. [1:02]
+- oXAqVuI14Ic (Metro Deadlock, 2026-08-03): On a solo carry list Viscous is insanely strong and overbuffed, a hero who can do everything by himself. [16:54]

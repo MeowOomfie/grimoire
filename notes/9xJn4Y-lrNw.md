@@ -93,4 +93,5 @@ For Billy players and any team-fight hero unsure where to be after lane.
 - Catching many waves gives your team tempo, but you had basically no influence on any team fight. [41:26]
 
 ## Disagrees with
-- none recorded yet
+- oHRJR4wcmk4 (Deathy, 2025-08-13): Counterspell wins a hard 1v1: as Infernus against Wraith you bait her ult, Counterspell it and win the duel. [11:43]
+- D0KSefw6iKk (Deathy, 2026-06-30): You cannot manually drop the Urn, so you carry it the whole way [6:09]

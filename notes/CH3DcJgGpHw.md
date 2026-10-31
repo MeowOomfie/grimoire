@@ -43,4 +43,5 @@ For any player catching up on that patch. Early 2025; the game has changed a lot
 - Warden got slight laning buffs; he wasn't that bad, his lane just sucked, and he should be much more pickable now. [10:46]
 
 ## Disagrees with
-- none recorded yet
+- OQ8ofLZiJr0 (Shotty, 2026-03-27): If it is the enemy's comeback Urn, take it and run to deny it, even if it just resets. [20:50]
+- xoZnMOvrKyg (Deathy, 2025-05-27): Even if it is a comeback Urn for the enemy, still pick it up and try to do it [4:04]

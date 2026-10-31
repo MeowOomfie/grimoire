@@ -77,3 +77,4 @@ Freezing the wave (2024 map): what it is, last hitting creeps only when they fla
 - 4VKA3fxPKoA (Metro Deadlock): Mirage into Infernus is very advantageous for Mirage, and against Mirage the lane is unplayable for almost every hero unless you keep the wave at your tower vs the later video: you can trade with Mirage in lane since his gun damage is low, and in a straight 1v1 he cannot trade efficiently unless much more farmed. [1:00] [4:00]
 - UorraSZ2XT0 (Deathy): Pocket has -5 spirit resist vs the later video: Pocket starts with -15% spirit resistance. [14:08]
 - wU29_RfH8Ks (Deathy): Pocket has -5 spirit resist vs the earlier video: Pocket has -15% base spirit resist. [14:08]
+- EfFToLk7Htg (HERESY, 2026-07-23): You cannot go into a lane phase planning to freeze; most freezes come after you destroy the enemy Guardian, in the late lane and early mid game. [20:50]

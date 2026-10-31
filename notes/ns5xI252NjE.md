@@ -243,4 +243,4 @@ For beginners through experienced players who want to judge builds and make thei
 - A build isn't finished until you've played the hero with it; that is the next step. [47:16]
 
 ## Disagrees with
-- none recorded yet
+- xRlHOsufXkQ (Metro Deadlock, 2025-05-27): Spirit Shielding and Weapon Shielding are trash tier passives that only give HP and nothing else. [23:14]

@@ -38,4 +38,6 @@ Short meta report on the patch live as of 2025-07-14 (after the spirit changes):
 - After two headshots on a target, Spirit Rend gives more shred than Crippling Headshot for spirit damage, plus a little lifesteal. [11:16]
 
 ## Disagrees with
-- none recorded yet
+- V7SF5fuOA4c (Metro Deadlock, 2026-10-29): The Abrams meta build is melee and gun at close range, ignoring Siphon Life. [19:21]
+- x5Okw4A83T4 (Metro Deadlock, 2025-09-28): Builds that make Lightning Ball the main damage are much less consistent and most high level players avoid them. [2:33]
+- -KTJ0sUZV8o (Metro Deadlock, 2025-06-24): Vindicta is the lone C tier hero, not great at anything. [13:21]

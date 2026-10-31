@@ -81,4 +81,4 @@ For Yamato players and mid-rank players learning decision making.
 - The game was won with one mid boss in about 30 minutes, which he calls decently fast by current standards where many games go 35 to 40 minutes. [24:52]
 
 ## Disagrees with
-- none recorded yet
+- -NyPdE6mL9s (Metro Deadlock, 2026-02-03): The Urn spawns at 8 minutes. [26:02]

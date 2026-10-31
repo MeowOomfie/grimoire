@@ -42,4 +42,5 @@ For players picking up or playing against Celeste in February 2026.
 - Verdict: broken, better and cooler than he expected; he jokes that as a spirit hero she will not get nerfed, so enjoy her while you can. [11:22]
 
 ## Disagrees with
-- none recorded yet
+- JouUab99B4Y (Metro Deadlock, 2026-10-21): Celeste is the exception among off carries, kind of weak in lane. [11:12]
+- VZFfsuDT0sw (Metro Deadlock, 2026-10-11): Baba and Celeste are quite difficult for new players. [13:42]

@@ -50,4 +50,6 @@ For solo queue players who want to win games their team is losing, with Seven an
 - Killing enemies after you half is better than before, because their respawn timer is not reduced by you having the Patron: a free kill and a 70 second timer, enough to win off one good fight. [11:42]
 
 ## Disagrees with
-- none recorded yet
+- 5O2xp1Rc9cU (Deathy, 2026-02-02): Before four minutes in a neutral or losing lane you can do boxes or gank and let the wave crash into your tower. [12:41]
+- DEAb-LfSXq0 (Sensu, 2026-05-18): Kill Guardians as early as possible so your troopers push toward Walkers and you can roam the enemy side. [9:46]
+- 0iLzlvGjfGE (Metro Deadlock, 2026-10-01): Ziplines are faster than the ground. [37:42]

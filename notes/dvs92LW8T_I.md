@@ -81,3 +81,6 @@ Laning: wave prio, creep aggro, soul securing and testing denies, cover and high
 - ErL1ZOb58eM (Deathy): in every lane, shove the creep wave first and then look for damage on enemy players vs the earlier video: against Mirage or in a terrible matchup, do not push and keep the wave frozen near your own tower. [1:01]
 - slLifALpnns (Deathy): denying souls is usually not worth it, since you always get your own soul when you both shoot it vs the earlier video: prioritise denies; every deny is roughly an 80 soul swing and denying a whole wave is about as good as a kill. [2:04]
 - XCF_7_3vJRQ (PeerContent): denying is usually not worth it, and shooting uncontested souls wastes time since they secure automatically after 2 seconds vs the later video: aim for denies and always shoot the orb after the last hit (a VOD checklist item). [2:04] [22:24]
+- PI3RZVAW5jw (Metro Deadlock, 2025-09-08): Kill the enemy healing trooper first even when you are low, since it heals them every 6 seconds while it lives. [11:43]
+- Xq1hjjEE1K4 (HERESY, 2026-07-12): Take trades with the enemies directly to force them off the wave, then delay pushing so the wave crashes when the camp spawns. [1:01]
+- ncI8oJiNn1w (Deathy, 2026-07-26): Parrying the tower works about 99% of the time and takes no skill. [4:11]

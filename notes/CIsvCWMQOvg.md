@@ -88,4 +88,10 @@ For any player choosing a hero to climb with, especially below Ascendant.
 - Unless you are about Ascendant or higher, the Initiate list is probably the one that applies to you. [48:12]
 
 ## Disagrees with
-- none recorded yet
+- V7SF5fuOA4c (Metro Deadlock, 2026-10-29): Infernus is still best as a tank heavy front line disruptor dash build. [9:09]
+- EgabVyWhDMU (Metro Deadlock, 2025-09-24): Victor falls off massively in the mid game and only becomes strong late. [0:00]
+- StmNPefzc5c (Metro Deadlock, 2026-01-16): Haze is not recommended as a gun carry because she falls off late and is the easiest hero to kill. [18:53]
+- SmcxEQ38Uto (Metro Deadlock, 2025-09-01): Mina is by far the hardest hero in the game. [15:29]
+- KYsMES2qT_c (Metro Deadlock, 2025-10-28): Grey Talon is still bad in high rank, mediocre at best. [6:40]
+- SmcxEQ38Uto (Metro Deadlock, 2025-09-01): Mirage is easy: stay mid range, shoot, Tornado and throw Scarabs. [17:34]
+- eQrK5gJ5jOg (Metro Deadlock, 2026-08-30): In Eternus lobbies you can often call the winner when one team has three duo stacks and the other six solo players. [7:09]

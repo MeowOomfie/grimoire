@@ -54,3 +54,4 @@ Countering Seven in lane, mid game, team fights and late game: Power Surge, ligh
 ## Disagrees with
 - Lane items against Seven: recommends regen items (Restorative Shot, Extra Regen, Healing Rite) and gun items (Headshot Booster, Close Quarters, Rapid Rounds, Mystic Shot) against Seven in lane; wU29_RfH8Ks says there are no specific items you should buy against Seven in lane, just keep the wave even.
 - Hitting Seven: recommends gun poke items such as Headshot Booster; wU29_RfH8Ks notes Seven's 8% base bullet resist makes him more resistant to bullet spam.
+- YinpOpNjpLg (HERESY, 2026-09-12): Knockdown is an anti-flyer and anti-ult item to buy only on supports, preferably ones with CC follow-up like Paige. [9:36]

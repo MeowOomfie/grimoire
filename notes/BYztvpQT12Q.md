@@ -46,4 +46,7 @@ Solo queue hero picks for the patch where Trophy Collector became cheap and gun 
 - Buy Trophy Collector, buy green (vitality) items which are really strong, and avoid buying a lot of orange (weapon) items. [10:08]
 
 ## Disagrees with
-- none recorded yet
+- S9Z3eaPVapQ (Metro Deadlock, 2026-06-18): Apollo is niche C tier after his lane nerfs, struggling even in the mid game. [11:41]
+- oXAqVuI14Ic (Metro Deadlock, 2026-08-03): Silver was nerfed a lot and is rated lower than all the other tanks. [15:21]
+- 2TR6pE_dqN4 (Deathy, 2025-10-15): Trophy Collector gets better the lower the rank: terrible at Eternus, pretty good at Initiate where games go long. [35:09]
+- 2TR6pE_dqN4 (Deathy, 2025-10-15): Trophy Collector on an all-green build does not work, because you cannot get the assists it needs if you do no damage. [14:47]

@@ -45,4 +45,7 @@ For any player wanting the history of the three-lane map. Early 2025; the game h
 - First impression: a good step in the right direction that streamlines the game, makes it less complicated and should bring in new players. [16:14]
 
 ## Disagrees with
-- none recorded yet
+- Eb4u-TRmdqw (Sensu, 2026-04-26): Tier one camps respawn 1:25 after being killed. [2:32]
+- 9itR8G0BfKE (Metro Deadlock, 2025-07-31): The Sinner's Sacrifice heavy melee success bonus now grants four buffs rather than three, with higher retaliate damage. [13:52]
+- PRjWVA5CmbQ (Deathy, 2024-11-11): Prioritize lanes and objectives over the jungle, whose long respawn timers suggest the game is not built around it. [14:52]
+- 8Wnsw9qlxOY (Metro Deadlock, 2025-08-31): You start with eight slots plus four flex slots, unlocked by all three guardians, one walker, all three walkers and a set of base guardians [30:13]

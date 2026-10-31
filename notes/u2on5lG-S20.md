@@ -52,3 +52,4 @@ Seven, duo lane with Grey Talon vs Haze and Lash, Power Surge first vs ball, Col
 ## Disagrees with
 - Calls the ult useless with this build and uses it to clear camps; scgjparadeA treats the ult as a fight tool to time after enemy cooldowns and buy Unstoppable for.
 - Puts the tier 3 Power Surge spike at 8K souls; luLGER0Tbqg (a later patch) puts it at 8.4K.
+- gUe-_cD12kM (Metro Deadlock, 2025-10-08): Teams facing an enemy with Rejuvenator avoid fights at all costs, and taking more fights is the number one improvement tip [5:38]

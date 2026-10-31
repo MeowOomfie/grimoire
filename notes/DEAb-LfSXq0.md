@@ -98,3 +98,8 @@ Mid to late game macro: comeback mechanics, bounty and respawn timers, Urn (stat
 - 3Cta_ITcDlY (Metro Deadlock): the soul Urn is arguably the most important objective vs the later video: the Rift is the most valuable objective and the Urn is the lesser one, a side quest. [1:02]
 - 3Cta_ITcDlY (Metro Deadlock): delivery gives the team 3,600 souls for the first Urn plus a buff for every player, with 35% more for the carrier vs the later video: the Urn gives much less money and only to the carrying player, roughly 950 souls for the first. [1:33]
 - 3Cta_ITcDlY (Metro Deadlock): you can delay the enemy by dropping the Urn in your spawn vs the later video: you cannot drop the Urn manually, it only resolves when deposited or punched off you. [3:04]
+- ncI8oJiNn1w (Deathy, 2026-07-26): All the Urn souls go to the carrier who secures it. [20:52]
+- z3SfKOCdE0I (DattoDoesDeadlock, 2026-10-19): If you are behind you are statistically going to lose, so work out why you fell behind instead of planning comebacks. [9:40]
+- rc7HCrGVS6U (Shotty, 2026-06-10): By 10 minutes you can walk down their tower anyway, so do not overvalue getting the Guardian early. [3:34]
+- BiZ29Dtc-Wo (Deathy, 2026-04-19): Around the 26 minute mark is a realistic time to take Mid Boss in many games [3:34]
+- 7L-j1mjASk0 (Deathy, 2026-10-08): Shrines are protected until you kill base guardians, and killing both base guardians in any lane makes them vulnerable [20:48]

@@ -62,4 +62,6 @@ Ends with Bogur playing a game on his own after the session.
 - In the coach's own Rat King games he has more damage to neutrals at 10 minutes than Bogur had at 20. [15:53]
 
 ## Disagrees with
-- none recorded yet
+- zkoYGTvCsog (Sensu, 2026-10-07): Boxes and golden statues in the tunnels take 5 minutes to spawn and to respawn. [10:09]
+- V7SF5fuOA4c (Metro Deadlock, 2026-10-29): Rat King is not a tank but a tanky late game carry who farms nonstop and then becomes a 1v6 monster. [10:41]
+- Hj3p8cSiN_M (Natan, 2026-10-02): Boxes inside the tunnels spawn at 5 minutes and respawn after 5 minutes, not 3. [7:35]

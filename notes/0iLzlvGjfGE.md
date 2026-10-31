@@ -104,4 +104,11 @@ For brand new and returning players.
 - With two or more enemies in the pit you cannot damage the Patron, and with one its damage taken is halved; kill the enemies in the pit first, avoid curses, then kill the Patron. [42:48]
 
 ## Disagrees with
-- none recorded yet
+- SMLXUyD5Q54 (Shotty, 2026-09-30): There are two spots with triple Sinner's Sacrifices, the purple mist pool and the Chinatown bell tower. [2:32]
+- cRbPjoBApWg (Shotty, 2026-10-14): Better players kill the healing minion early (first, second or third), because its pickup heals them and their whole wave. [0:30]
+- XCF_7_3vJRQ (PeerContent, 2026-10-13): In the first two waves even a single deny delays the enemy item and level spike, so do not be afraid to aim for denies. [19:22]
+- 7L-j1mjASk0 (Deathy, 2026-10-08): Boxes spawn at 3 minutes. [8:11]
+- rc7HCrGVS6U (Shotty, 2026-06-10): The zipline is slower than everything else you can do and walking is faster half the time. [6:37]
+- 6lQ71BcyyyQ (Deathy, 2025-07-31): A parried player is stunned for 3 seconds, and debuff resistance no longer shortens it. [6:06]
+- -ljQqwvt7g4 (HERESY, 2026-06-24): You can force Mid Boss even with all six enemies alive if you have other reasons to be confident of winning the fight [17:27]
+- -NyPdE6mL9s (Metro Deadlock, 2026-02-03): Carrying the Urn makes you much tankier but you cannot shoot or cast, only melee [26:33]

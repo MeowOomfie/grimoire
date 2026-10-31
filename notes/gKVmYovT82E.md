@@ -24,4 +24,4 @@ Mostly speculation; the few game facts are below. For players wondering why thei
 - Yoshi posted in the Discord that the team was working on long queue times; forcing players into matches faster could make matchmaking worse. [11:36]
 
 ## Disagrees with
-- none recorded yet
+- 6rZ6jJQf-IE (Metro Deadlock, 2026-08-01): Personal performance does not affect your rank points. [7:36]

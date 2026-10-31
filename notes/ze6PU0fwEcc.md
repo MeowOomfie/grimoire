@@ -31,4 +31,4 @@ A general aim talk from an aim coach, framed like gym training: technique, varie
 - A routine can stay under 30 minutes and still improve you. [13:17]
 
 ## Disagrees with
-- none recorded yet
+- 8NmFosO4_pE (Metro Deadlock, 2026-05-14): Constantly readjusting sensitivity week to week is a common mistake; pick one and stick to it. [3:03]

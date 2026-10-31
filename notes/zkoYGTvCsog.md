@@ -113,4 +113,11 @@ For new and returning players.
 - The best way to learn is to stop watching videos and play. [19:45]
 
 ## Disagrees with
-- none recorded yet
+- CHEaxYKDEmQ (Deathy, 2024-09-21): Small neutral camps respawn every 4 minutes. [2:32]
+- c3T4WMro7AA (Bogur Two, 2026-10-23): Every box, sewer boxes included, respawns every 3 minutes. [2:45]
+- -b84YJLbyhI (Deathy, 2025-11-22): Spirit investment gives 45 spirit at 4.8k. [5:10]
+- dUWP1ORnSxo (Shotty, 2026-05-15): Shooting the soul orb gives you 40% of the minion's souls and the other 60% is in the orbs that drop. [6:38]
+- 5yeuG-xYad8 (Shotty, 2026-10-10): The zipline boost first unlocks at 5:10. [1:00]
+- -NyPdE6mL9s (Metro Deadlock, 2026-02-03): Wall jumps cost no stamina, so you can chain movement combos without spending any. [11:43]
+- D0KSefw6iKk (Deathy, 2026-06-30): The dash jump input window was only widened from 0.2 to 0.25 seconds this patch. [13:20]
+- dUWP1ORnSxo (Shotty, 2026-05-15): Once the enemy Patron is taken to half, all enemy respawn timers are cut in half, a 60 second timer dropping to about 35 [41:38]

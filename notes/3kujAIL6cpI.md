@@ -47,4 +47,5 @@ For ranked players deciding what to ban and what to stop auto-buying.
 - Graves was not adjusted and is absolutely busted (the coach is about 14 and 1 on him); new heroes are not affected by bans yet. [11:57]
 
 ## Disagrees with
-- none recorded yet
+- nWBBSTxizdI (Natan, 2026-03-28): Cursed Relic removes all non-ultimate buffs at the cost of 10% less outgoing damage. [17:42]
+- StmNPefzc5c (Metro Deadlock, 2026-01-16): Haze is the best Curse user and Curse is her major spike: Sleep Dagger, Curse, ult. [19:25]

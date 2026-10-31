@@ -101,4 +101,4 @@ For competitive and aspiring pro players, and anyone who wants to play macro as 
 - "I am very strong right now for this reason, can we make a play" should be a commonplace call from the 8 minute mark on. [45:19]
 
 ## Disagrees with
-- none recorded yet
+- Gg7_0yLOICs (Deathy, 2026-04-07): With one Rejuvenator left, base guardians are the bare minimum and one shrine is good, but do not force it [24:23]

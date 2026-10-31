@@ -44,4 +44,4 @@ Examples from Deathy's games on Yamato, Lash, Paradox and Lady Geist. For player
 - With over 150 items, ask of each one: what does it give me that I did not have before, and what does it let me do against the enemy heroes that I could not do before. [12:45]
 
 ## Disagrees with
-- none recorded yet
+- 9xJn4Y-lrNw (HERESY, 2026-05-07): Counterspell shines in four and five person fights; in 1v1s and 2v2s the most you block is something like Paradox's Carbine or Seven's stun. [12:19]

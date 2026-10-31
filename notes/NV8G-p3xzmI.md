@@ -61,4 +61,6 @@ For players who over-buy green items or buy the wrong defensive item; examples o
 - Save Dispel Magic for the one thing you know can kill you (here the Focus Lens); doing so won him a kill and a much better trade later. [19:26]
 
 ## Disagrees with
-- none recorded yet
+- B6wcg8mTRww (Metro Deadlock, 2025-11-09): A 3k Counterspell counters Lash's whole kit and works against the other five enemies too, so if a Lash is scary, buy Counterspell. [55:58]
+- YRUhfiItJFM (Metro Deadlock, 2025-10-25): After the shielding nerf Reactive Barrier is now better and you probably buy it in most games, especially on spirit characters. [6:07]
+- SytB0zKkUlQ (Metro Deadlock, 2025-09-02): On Seven get at least 9.6k spirit and probably 9.6k vitality, since vitality is always good. [47:33]

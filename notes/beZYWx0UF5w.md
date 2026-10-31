@@ -55,4 +55,4 @@ For ranked players who want to know which heroes can carry solo queue.
 - Mirage is probably the best hero in pro play, first banned every game, and also insane on ladder; you can't trade against him in lane because he perma-applies Djinn's Mark stacks and scarabs heal him back. [23:54]
 
 ## Disagrees with
-- none recorded yet
+- -KTJ0sUZV8o (Metro Deadlock, 2025-06-24): Paradox drops to B because her win rates say she is weak. [13:21]

@@ -72,3 +72,5 @@ Health bar plus souls model of the lane, matchup nuance (Mina, Graves), sustain 
 - n3EdDdPKed4 (Deathy): tier two camps spawn at five minutes vs the earlier video: medium camps spawn at 6 minutes. [16:46]
 - XCF_7_3vJRQ (PeerContent): waves spawn every 30 seconds vs the later video: waves are about 25 seconds apart (it used to be 30). [5:02]
 - XCF_7_3vJRQ (PeerContent): if you are the carry, take the Urn every time you can vs the later video: the Urn is almost always taken by the roamers; the M1 takes it only in a rare case and otherwise stays in the side lane. [19:50]
+- 8Wnsw9qlxOY (Metro Deadlock, 2025-08-31): Medium (tier 2) camps spawn at 6 minutes. [22:57]
+- EfFToLk7Htg (HERESY, 2026-07-23): At the 5 minute mark tier 2 camps are worth about 150 to 300 souls each. [5:02]

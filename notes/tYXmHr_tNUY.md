@@ -46,3 +46,4 @@ Winning solo queue games in the first 10 minutes: early wave focus and few trade
 - XCF_7_3vJRQ (PeerContent): in the first 3 minutes focus the wave, minimize trades and try not to take much damage vs the later video: during your learning period always be aggressive in lane, even in matchups you supposedly should not win. [1:31]
 - e5WJbcIYgqc (Deathy): in the first 3 minutes focus the wave, minimize trades and try not to take much damage vs the earlier video: never default to playing a lane passively unless you are a top player, and not trading enough is the number one thing holding players back. [1:31]
 - 5O2xp1Rc9cU (Deathy): in the first 3 minutes focus the wave, minimize trades and try not to take much damage vs the earlier video: be aggressive in lane; someone who plays 100 lanes aggressively improves faster than someone who plays them passively. [1:31]
+- -BxnwsE49f4 (Metro Deadlock, 2025-07-13): Kills give more souls than anything else. [16:51]

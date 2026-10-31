@@ -63,4 +63,7 @@ For any player wanting to improve movement, from new players to people learning 
 - Some ledges, like the rail in the mid trench, have slanted geometry that keeps you in contact longer and makes corner boosts easier (they can even be surfed); sharper ledges give a tighter timing window. [21:02]
 
 ## Disagrees with
-- none recorded yet
+- 2jYvtTRrIns (Deathy, 2026-05-23): A patch now cuts stamina regen by 25% for 5 seconds after any in-combat wall jump, nerfing every hero's movement. [3:05]
+- Hl_7fC48xdk (Deathy, 2025-12-19): Mina's base stamina regen is 3.64 seconds against 4.55 for Lady Geist, after every hero's regen was buffed. [10:15]
+- sg4R3ZT_BWQ (Deathy, 2026-01-26): Learn the dash jump first; it is mostly timing and is your go-to way to move around the map. [1:02]
+- foN-aAbeO6E (Metro Deadlock, 2025-11-16): The zipline is the best movement tech in the game and only vents come close. [38:26]

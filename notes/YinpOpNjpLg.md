@@ -57,4 +57,6 @@ For players who copy high-rank builds and want the reasoning behind the situatio
 - After the nerf Veil Walker should still have a place on heroes with hard CC they want to land on the right target, since stealthing up close is good; consider it on Mo & Krill or Holliday. [11:37]
 
 ## Disagrees with
-- none recorded yet
+- WDXm_ggBpk8 (Metro Deadlock, 2025-05-13): Unstoppable is a great item and he rushes it every game. [27:12]
+- 2TR6pE_dqN4 (Deathy, 2025-10-15): Against this team Metal Skin is okay, but you probably buy Bullet Resilience. [32:36]
+- MgVcYiag1bE (Deathy, 2024-08-28): Casting Knockdown the moment Seven ults cancels it with little damage taken, and this drill works on any hero. [17:46]

@@ -130,4 +130,6 @@ For players who treat every hero like a carry and keep farming after their peak.
 - Too many players reach their big power item and keep farming instead of realizing that is the point to fight. [49:33]
 
 ## Disagrees with
-- none recorded yet
+- CIsvCWMQOvg (Metro Deadlock, 2025-10-14): Haze is S tier at low rank and scales well into long games, the pick for new players who like shooting. [7:38]
+- V7SF5fuOA4c (Metro Deadlock, 2026-10-29): On Paige Knockdown is optional, only against flyers or ults; with practice hit your 3 with Slowing Hex instead of crutching Knockdown. [16:50]
+- 3kujAIL6cpI (Metro Deadlock, 2026-01-31): Do not buy Curse on carries anymore, it used to go on Haze and anyone with money; buy it on supports. [3:05]

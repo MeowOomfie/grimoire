@@ -56,4 +56,10 @@ Metro's early August 2026 tier list, just after the first ranked season launched
 - Yamato: placed with no reasoning given, as a channel running joke. [18:29]
 
 ## Disagrees with
-- none recorded yet
+- fvfrYqAubNI (Deathy, 2024-08-27): Mo & Krill is C tier for solo carrying, mostly utility and quite hard to carry with. [11:22]
+- fvfrYqAubNI (Deathy, 2024-08-27): Viscous is D tier for solo carrying because he is 100% utility and lacks damage. [11:53]
+- DMAVxcaYdoQ (Deathy, 2026-03-21): Lash falls off later in the game while Wraith and Warden scale. [0:00]
+- BYztvpQT12Q (Metro Deadlock, 2026-05-06): Silver, played well, is probably the best hero in the game. [9:07]
+- S9Z3eaPVapQ (Metro Deadlock, 2026-06-18): Celeste is S tier and no lower, never weak. [14:46]
+- V7SF5fuOA4c (Metro Deadlock, 2026-10-29): Graves is resurging in the slow meta and is played as a carry. [8:08]
+- bytdF6lX7o4 (Deathy, 2024-12-07): The matchmaker now tries to give each team at least two frontliners. [1:32]

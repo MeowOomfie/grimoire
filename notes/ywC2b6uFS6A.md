@@ -109,4 +109,7 @@ For players who want to know what changed in the meta and which builds or heroes
 - Overall most changes look good to Deathy, with only small issues here and there. [22:28]
 
 ## Disagrees with
-- none recorded yet
+- nWWqj1qt088 (Metro Deadlock, 2025-09-26): Trophy Collector deletes 3,200 souls and gives basically nothing back. [0:00]
+- SytB0zKkUlQ (Metro Deadlock, 2025-09-02): Metal Skin makes you take no damage from a gun hero for three and a half seconds. [28:10]
+- orI-u4l2MBk (Metro Deadlock, 2025-05-09): Siphon Bullets is better than before, stealing 65 health per bullet steal; he calls it insane. [52:35]
+- PI3RZVAW5jw (Metro Deadlock, 2025-09-08): If you win a fight but are very low you can die to the enemy guardian on purpose, which at about seven seconds early is still faster than going back to heal. [16:20]

@@ -61,4 +61,9 @@ For any player who wants the big picture of the patch without reading every line
 - The next patch is aimed for December, without a guarantee. [14:49]
 
 ## Disagrees with
-- none recorded yet
+- Vfw8aqOH0tk (Metro Deadlock, 2025-11-30): Sinners deal about 80 per hit over four damaging hits, about 320 total, and the last hit does no damage. [4:33]
+- zkoYGTvCsog (Sensu, 2026-10-07): 4,800 souls of spirit items gives +38 spirit power. [18:45]
+- X9yhG5vKca4 (HERESY, 2026-01-27): Killing the healing trooper first guarantees the shove and wave priority, and the extra self-heal from saving it last is marginal, maybe 50 HP. [22:23]
+- Eb4u-TRmdqw (Sensu, 2026-04-26): Guardian damage resist decays from 75% to minus 50% over 12 minutes. [2:32]
+- xYK-v_aoZFk (Metro Deadlock, 2025-12-19): A hotfix made wall jumps cost no stamina again and made stamina regen 25% faster. [10:44]
+- 8Wnsw9qlxOY (Metro Deadlock, 2025-08-31): While the team holds a Rejuvenator charge it gets more fire rate, weapon damage, spirit power and health for about five minutes [37:55]

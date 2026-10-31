@@ -65,4 +65,5 @@ For any player wanting to learn the laning stage. This is a 2024 video: soul rul
 - Easier to win while ahead than behind, and you get ahead in the laning stage, so practice winning your lane first, then how to farm efficiently in the mid game while staying alive, before counter builds or late game. [22:56]
 
 ## Disagrees with
-- none recorded yet
+- PI3RZVAW5jw (Metro Deadlock, 2025-09-08): Do not spend much time denying, the enemy has first-hit advantage on their souls so you will almost never deny them. [4:38]
+- PI3RZVAW5jw (Metro Deadlock, 2025-09-08): Do not spend much time trying to deny enemy souls, because a correct enemy has first-hit advantage and you will almost never deny them. [4:38]

@@ -96,4 +96,9 @@ For brand new players.
 - One enemy in the Patron circle gives it significant damage resistance and two or more make it fully invulnerable, so kill the defenders first; if no enemies are in the pit, just kill the Patron. [22:21]
 
 ## Disagrees with
-- none recorded yet
+- x27JQtqo6bc (Metro Deadlock, 2025-09-13): The Mid Boss area box farm is the highest souls per minute on the map. [19:31]
+- 0iLzlvGjfGE (Metro Deadlock, 2026-10-01): Boxes spawn at 2 minutes. [19:53]
+- ws2OywOYNKM (Metro Deadlock, 2026-10-06): In close fights like the Mid Boss pit, sit in the middle and spam heavy melee; a few enemies parry but the rest die. [8:48]
+- -NyPdE6mL9s (Metro Deadlock, 2026-02-03): Mid Boss spawns at 10 minutes but is very tanky and risky to take until around 20 minutes [33:44]
+- -ljQqwvt7g4 (HERESY, 2026-06-24): After wiping most of their team with long respawn timers you can push the base even with no Mid Boss alive [26:44]
+- DEAb-LfSXq0 (Sensu, 2026-05-18): You can currently skip base Guardians and hit Shrines directly, since they do not need troopers to take damage [12:48]

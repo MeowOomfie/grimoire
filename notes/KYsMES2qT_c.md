@@ -60,4 +60,4 @@ For high rank players and anyone wondering why heroes that win in lower ranks fa
 - The heroes broken for months, especially Mina, Paradox, Kelvin and Pocket, plus Shiv, got no real nerfs while the weakest heroes got no meaningful buffs; the meta is the same as before but spirit nukers are even better. [22:34]
 
 ## Disagrees with
-- none recorded yet
+- CIsvCWMQOvg (Metro Deadlock, 2025-10-14): At Eternus 6 Grey Talon gets a massive upgrade and is the highest spirit nuker with a team around him. [30:46]

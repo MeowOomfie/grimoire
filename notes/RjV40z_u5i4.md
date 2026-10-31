@@ -85,4 +85,5 @@ Gives a position for most of the roster and how to read your team composition in
 - Always ask: should I be the one farming the jungle or pushing objectives, and who should get the Sinner's Sacrifice to give the team the highest chance to win? [29:54]
 
 ## Disagrees with
-- none recorded yet
+- XM7SOBSoAf0 (Metro Deadlock, 2024-09-12): Sinner's Sacrifices spawn after 10 minutes. [12:18]
+- SNmByf4pHHs (Shotty, 2026-10-07): In solo queue always take the Sinner's Sacrifice yourself and rely on your own scaling. [15:20]

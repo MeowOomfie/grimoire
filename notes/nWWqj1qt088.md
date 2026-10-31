@@ -57,4 +57,6 @@ Ends with what to buy instead and a warning about Cheat Death. For lower rank pl
 - The longer the game goes the faster you get money, so be smarter with money spent early; later you can sell items that don't fit your build without being punished as hard. [21:23]
 
 ## Disagrees with
-- none recorded yet
+- wWYU3lKS5Lw (Shotty, 2026-05-12): The coach buys Trophy Collector every game and makes 7,000 to 8,000 souls from it by 30 minutes, and higher ranked players buy it nearly every game. [6:36]
+- ywC2b6uFS6A (Deathy, 2025-09-05): Trophy Collector costs 2,400 souls, a gamble that is insane with quick kills and worthless when the game goes badly. [17:51]
+- qcPoi9e7LRo (Deathy, 2025-11-17): Out of combat, with enough sprint speed just sprinting around the map is fine. [15:18]

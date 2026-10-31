@@ -74,4 +74,7 @@ For players who throw leads by pushing Walkers or the base too early, or who nev
 - Don't spend all day farming unless you are the hard carry, and even the hard carry eventually has enough farm and should start fighting. [22:58]
 
 ## Disagrees with
-- none recorded yet
+- YwWdz1h97xc (Deathy, 2026-02-14): If dying for a Walker lets the enemy get Mid Boss, do not do it, because trading a Walker for Mid Boss is a very bad play [13:08]
+- jOU6yy5ag4Q (Natan, 2026-08-12): When your waves are shoved in and you are too low to contest, give the enemy Mid Boss [22:39]
+- G7Xy2qIOEwc (Deathy, 2025-10-05): When your team is ahead, the easiest way to progress the game is to run the Urn [16:41]
+- fM2V11-6d9E (Sensu, 2026-05-24): Split pushing is essentially gutted, so in most cases you would rather join the urn fight than trade an objective [0:30]

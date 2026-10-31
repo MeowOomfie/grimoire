@@ -27,4 +27,5 @@ No gameplay advice; the claims are his observations about how ranks behave plus 
 - The top Haze streamer is far better than most of his lobbies in about 8 of 10 games, so even Eternus 6 does not filter players well. [10:40] [11:11]
 
 ## Disagrees with
-- none recorded yet
+- m5HpSuLMKx4 (Deathy, 2026-07-05): A true rank reset would be a terrible idea because new players could meet Eternus 6 players and quit. [8:37]
+- CKSjFQJG2Us (Natan, 2026-08-18): Extra points or smaller losses for MVP is a bad idea, because any performance score can be gamed. [10:05]

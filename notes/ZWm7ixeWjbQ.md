@@ -73,4 +73,5 @@ HERESY explains the mid September 2026 balance patch: the comeback economy nerfs
 - Summary: play tempo, steal enemy jungle camps, run the Urn, fight the rift when winning; AFK farming carries no longer take over the game. [22:23]
 
 ## Disagrees with
-- none recorded yet
+- C7m-UdUIcQA (Deathy, 2026-06-25): Try Golden Goose Egg in lane, as the top player did while focusing on the wave. [15:43]
+- rKuS8P-YZcs (Shotty, 2026-10-21): The team that is ahead should stop fighting in the Rift, let the behind team cap it, then kill them after [65:30]

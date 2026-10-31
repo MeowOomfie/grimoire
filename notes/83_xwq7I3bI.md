@@ -84,4 +84,4 @@ A 2024 Ivy hero guide: Deathy reads the abilities and upgrades, then interviews 
 - Ivy's early game damage is so low that an enemy without even Extra Regen can stand on the bridge at full HP while you keep shooting them. [28:41]
 
 ## Disagrees with
-- none recorded yet
+- 1LZn2lXsNPo (Deathy, 2025-04-03): The common gun Ivy build is wrong and a spirit build has better teamfight impact. [21:06]

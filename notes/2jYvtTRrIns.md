@@ -125,4 +125,7 @@ For players who want every change with a quick verdict. Winners named: Yamato, R
 - Yamato: Power Slash post-cast 0.2 s and spirit scaling 1.86 to 2.1; Flying Slash base range up, tier 3 +15 m and two more charges; Crimson Slash aim bug fixed; Shadow Transformation buffs. Yamato will be very strong. [33:24]
 
 ## Disagrees with
-- none recorded yet
+- dUWP1ORnSxo (Shotty, 2026-05-15): Build around hitting the 4.8k investment spike in each category, where a big buff comes. [39:06]
+- EtHEtvBfC2M (Deathy, 2026-03-05): Treat wall jumps as free stamina: the first costs nothing and later ones little, so wall jump extremely often. [9:38]
+- eZj9pbRO_CU (Metro Deadlock, 2026-05-23): Mid Boss now spawns at zero minutes with time-scaled HP, so a team can rush and kill it at level one, ignoring lane [4:04]
+- fM2V11-6d9E (Sensu, 2026-05-24): Running a comeback urn to the mid bridge while far behind is nearly a death sentence despite the 50% damage resist [1:00]

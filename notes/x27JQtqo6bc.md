@@ -106,4 +106,8 @@ For players who end up poorest on their team or want to get richer.
 - When behind, taking a Walker is worth dying for. [43:29]
 
 ## Disagrees with
-- none recorded yet
+- 42YfJRVhDRo (Shotty, 2026-08-13): Waves give the most souls, then Sinner's Sacrifice, then everything else. [6:11]
+- 7L-j1mjASk0 (Deathy, 2026-10-08): The Urn is very often the highest souls per minute on the map. [15:16]
+- YHc-NMmPjHg (Deathy, 2026-07-02): The mid boxes spawn at 10:00 and then respawn every 3 minutes. [2:32]
+- 42YfJRVhDRo (Shotty, 2026-08-13): Once an M1 carry hits their spike (around 24k on Vyper) they should only fight, perma fighting from then on. [15:22]
+- 6lQ71BcyyyQ (Deathy, 2025-07-31): The new Mid Boss drops three Rejuvenators that give a second life and last 7 minutes [9:40]

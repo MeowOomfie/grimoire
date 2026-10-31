@@ -42,4 +42,7 @@ For players picking heroes to climb on this patch; it is a high rank (Eternus 6)
 - Tier lists are subjective and shaped by what you play against in your region; make your own conclusions at your rank. [10:04]
 
 ## Disagrees with
-- none recorded yet
+- OT1WXp_Siic (Metro Deadlock, 2025-12-06): Infernus is at the bottom of B tier, below average and the weakest he has been. [2:04]
+- OT1WXp_Siic (Metro Deadlock, 2025-12-06): Drifter was gutted and is D tier, with only Seven below him. [5:38]
+- WDXm_ggBpk8 (Metro Deadlock, 2025-05-13): Plated Armor is an insane counter to Wraith that cuts a meta Wraith build's damage by about 50%. [27:43]
+- EwlgaIcjNMk (Metro Deadlock, 2025-10-06): Metal Skin and Return Fire are the active items that counter Wraith, which is why she wants Capacitor to remove them. [18:53]

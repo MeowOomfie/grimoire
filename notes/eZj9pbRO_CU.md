@@ -60,3 +60,4 @@ Patch rundown: new Urn (melee pickup, mid deposit, comeback resist), mid boss at
 - X9yhG5vKca4 (HERESY): medium camps now spawn at 5 minutes and breakables spawn later, not at 2 minutes vs the earlier video: camps and boxes spawn at 2:00 and tier two camps at 6:00. [7:08]
 - n3EdDdPKed4 (Deathy): medium neutral camps now spawn at 5 minutes vs the earlier video: medium camps spawn at 6 minutes. [7:08]
 - Vfw8aqOH0tk (Metro Deadlock): Spirit Shielding now grants 18% spirit resist for 8 seconds instead of movement speed when it procs, and Weapon Shielding got the same change vs the earlier video: Weapon Shielding adds movement speed when it procs. [9:43] [10:13]
+- 2jYvtTRrIns (Deathy, 2026-05-23): Mid Boss now spawns at the start of the game, but zero-minute Mid Boss strategies are doubtful because it sits in the middle of the map [4:35]

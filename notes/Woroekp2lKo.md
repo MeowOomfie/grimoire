@@ -138,4 +138,4 @@ For any player who wants to know what changed, who got stronger or weaker, and h
 - Yamato: less damage overall, more damage on Power Slash, Flying Strike range nerfed, enemies now know immediately when they are being Flying Striked, and a tier three cast range reduction; the coach wishes they did more. [42:06]
 
 ## Disagrees with
-- none recorded yet
+- 5yeuG-xYad8 (Shotty, 2026-10-10): Mid Boss makes a map-wide sound at half health that tells everyone [10:09]

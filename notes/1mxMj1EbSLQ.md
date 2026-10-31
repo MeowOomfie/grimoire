@@ -75,4 +75,5 @@ For mid-rank Pocket players and any high-soul hero, July 2025 patch.
 - Even in team fights, keep an eye on the map, for example an enemy Seven ending the game on another lane. [28:35]
 
 ## Disagrees with
-- none recorded yet
+- DHRO3E4u-SU (Metro Deadlock, 2025-07-08): Pocket is S tier and can now one-shot people late game. [12:16]
+- WC6YI6wmJYs (Natan, 2026-02-02): In the first few minutes it is often pointless to hit the Guardian after a hard push; poke the enemy laners instead. [1:31]

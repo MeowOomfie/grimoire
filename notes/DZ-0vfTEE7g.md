@@ -53,4 +53,4 @@ Heroes are taken alphabetically with what changed and why each lands where it do
 - Patch verdict: good and bad changes; he is happy Veil Walker and Cultist Sacrifice were nerfed, but Abrams was barely touched and Warden and Seven were gutted undeservedly, so the meta will not change much. [34:05]
 
 ## Disagrees with
-- none recorded yet
+- yUOzWDDdXJs (Metro Deadlock, 2025-10-19): Infernus is considered the best carry hero in the game, arguably other than Victor. [0:30]

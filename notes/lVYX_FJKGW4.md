@@ -63,4 +63,4 @@ For Wraith players who want to carry pubs with the gun rather than play pickoffs
 - Next video is a gun Warden build; Warden fits the 1v1 killing machine power fantasy well right now. [20:27] [20:58]
 
 ## Disagrees with
-- none recorded yet
+- EwlgaIcjNMk (Metro Deadlock, 2025-10-06): Card Trick goes first and you spam cards at every point of the game. [4:35]

@@ -81,4 +81,5 @@ Lane mistakes, playing around Baba's thread pull, ult unlock timing, mid-lane op
 - When a teammate is your win condition, your life is worth less than theirs: going in to draw enemies away from the committing Wraith is worth dying for. [26:25]
 
 ## Disagrees with
-- none recorded yet
+- 9-y0F9f1R6c (Metro Deadlock, 2025-02-19): Do not take Mid Boss right after a won fight if enemy respawn times are still short [27:43]
+- 3Cta_ITcDlY (Metro Deadlock, 2026-07-02): After a decisive Rift win, immediately push that lane with the Rift creeps and at least try to take the Walker [11:43]

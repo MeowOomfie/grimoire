@@ -55,4 +55,6 @@ For players who want to farm faster in the new map and know when jungling is wor
 - Push your lanes first and do the jungle route after you push a wave; do not AFK jungle the entire game. [13:50]
 
 ## Disagrees with
-- none recorded yet
+- SMLXUyD5Q54 (Shotty, 2026-09-30): On the red fast Sinner's Sacrifice start charging the heavy melee around the fifth light. [4:02]
+- 8Wnsw9qlxOY (Metro Deadlock, 2025-08-31): The double sinner room is the best place on the map to farm. [24:30]
+- uXE1ZQN8Y8k (Metro Deadlock, 2026-04-09): Stop farming jungle, apart from Sinner's Sacrifice all creep camps are weak. [2:01]

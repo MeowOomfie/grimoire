@@ -49,4 +49,4 @@ For players who want to win their lane phase and turn it into a lead by 10 minut
 - At a high level the lane phase is incredibly important. [11:07]
 
 ## Disagrees with
-- none recorded yet
+- 29qdxbvdbBQ (Metro Deadlock, 2025-03-16): Laning is the only matchup that matters now: pick a lane bully that is very strong early and you win. [12:39]

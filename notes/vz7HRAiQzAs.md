@@ -74,4 +74,7 @@ Metro's winners and losers of the May 2025 item overhaul (Deadlock 2.0), recorde
 - A 6,400 vitality item with 20% spirit resist that cuts a random ability cooldown by 3 seconds per heavy spirit hit (the description matches Witchmail) is bad; for a tank, buy Plated Armor or Juggernaut instead. Maybe good on Shiv, not on Dynamo. [30:17]
 
 ## Disagrees with
-- none recorded yet
+- TZ4yV937Rv8 (Deathy, 2025-05-10): Unstoppable is not a must buy, though carries should consider it because of all the CC this patch. [19:41]
+- cqWxajdEJY8 (Metro Deadlock, 2025-08-03): The shieldings go in the main build and Reactive Barrier is only optional, because the shieldings always proc while Reactive Barrier often does not. [5:06]
+- xRlHOsufXkQ (Metro Deadlock, 2025-05-27): Boundless Spirit is only a late game luxury on super high spirit characters; it used to heal and now only gives spirit, so it is way weaker. [43:17]
+- TZ4yV937Rv8 (Deathy, 2025-05-10): Unstoppable is not a must buy; carries should only consider it this patch. [19:41]

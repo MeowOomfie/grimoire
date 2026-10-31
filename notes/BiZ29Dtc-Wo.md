@@ -72,4 +72,7 @@ Mid Boss facts (HP, shield, resists, scream, regen, Rejuvenator rules, souls and
 - If a teammate calls an instant parry, delay yours by about 0.7 seconds to catch someone who punches late after the first parries are used. [20:51]
 
 ## Disagrees with
-- none recorded yet
+- -JuKgSLZbXg (Deathy, 2026-07-07): The Rejuvenator now lasts 3 minutes instead of 4, so one team taking Mid Boss is no longer a death sentence [18:12]
+- -NyPdE6mL9s (Metro Deadlock, 2026-02-03): A map-wide warning sound plays when Mid Boss reaches 66% health [34:15]
+- DEAb-LfSXq0 (Sensu, 2026-05-18): Heroes now scale faster, so the first Mid Boss can easily be taken at 15 to 20 minutes [7:13]
+- UGXjdW-Mb1s (Natan, 2026-04-15): Losing one walker is okay, but losing two is pretty much game over [17:37]

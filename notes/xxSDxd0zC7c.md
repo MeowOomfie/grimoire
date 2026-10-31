@@ -80,4 +80,4 @@ Metro's "spirit shred" Wraith build for the May 2025 item overhaul (Deadlock 2.0
 - He says this build was rank one on the leaderboards at the time. [31:45]
 
 ## Disagrees with
-- none recorded yet
+- xRlHOsufXkQ (Metro Deadlock, 2025-05-27): Ethereal Shift was raised from C to B tier after checking its 22 second cooldown, and he wants to try it on Wraith instead of Unstoppable. [44:48]

@@ -35,4 +35,4 @@ Little direct gameplay advice, but it lays out the exact point and shield math, 
 - Giving extra points or smaller losses for MVP or key player is a bad idea, because any performance score can be gamed; Statlocker's performance scores heavily favor carries over supports for MVP. [10:05]
 
 ## Disagrees with
-- none recorded yet
+- SbRAwraX2-A (Shotty, 2026-03-26): New players should move up or down each game by result and performance over about 5 to 10 games. [8:08]

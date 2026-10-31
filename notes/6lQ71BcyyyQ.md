@@ -47,4 +47,7 @@ Ends with his heroes of the patch (Mirage, Pocket, Yamato, Vindicta). For any ra
 - Skipped as pure opinion: his wish for mega troopers to return on another objective or Shrines and that the game needs more objectives. [10:40]
 
 ## Disagrees with
-- none recorded yet
+- 0iLzlvGjfGE (Metro Deadlock, 2026-10-01): A successful parry stuns the attacker for 2 seconds. [14:16]
+- p7JZIsLBKvc (Sensu, 2026-06-30): A parry gives you 20% more damage on the parried target. [15:19]
+- x27JQtqo6bc (Metro Deadlock, 2025-09-13): The first Mid Boss buff lasts 4 minutes, with up to three respawns plus fire rate, HP and spirit damage [35:53]
+- 7kW4TuPwh0U (Deathy, 2024-08-27): Mid Boss makes all your troopers huge like Dota mega creeps so every lane pushes, and gives faster respawns [15:18]

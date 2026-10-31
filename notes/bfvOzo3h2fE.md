@@ -64,4 +64,4 @@ For players who throw games over Mid Boss or can't close games because they neve
 - It is not about getting a lot of kills; it is about getting the right kills and making sure the enemy lacks the abilities needed to stop you. [16:49]
 
 ## Disagrees with
-- none recorded yet
+- A9is0Vf-P_I (Metro Deadlock, 2024-09-10): Taking Mid Boss is a very unsafe strategy at high rank because people contest it unless they are down a lot of players [29:15]

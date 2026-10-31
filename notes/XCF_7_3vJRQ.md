@@ -133,3 +133,6 @@ One-on-one coaching of a one-month position one (M1) player on Mirage and Wraith
 - X9yhG5vKca4 (HERESY): a T1 camp cleared around 2:05 respawns at about 2:25 to 2:30 vs the earlier video: a camp taken about 5 seconds after it spawns at 2:00 respawns at 3:30. [19:52]
 - PI3RZVAW5jw (Metro Deadlock): Wraith's early game is in a fine state now; enemies only snowball her if you misplay vs the earlier video: Wraith is one of the weakest laners, if not the weakest. [17:51]
 - Vfw8aqOH0tk (Metro Deadlock): Wraith's early game is in a fine state now; enemies only snowball her if you misplay vs the earlier video: Wraith is weakest in the early laning stage and early mid game, so she should avoid fighting and farm then. [17:51]
+- 8Wnsw9qlxOY (Metro Deadlock, 2025-08-31): Your number one priority is securing your own souls, denying is an advanced technique for later. [14:45]
+- 0iLzlvGjfGE (Metro Deadlock, 2026-10-01): Secure your own souls first and deny only after, since the securing side has shooter's advantage and denying before securing is not worth it. [17:50]
+- rKuS8P-YZcs (Shotty, 2026-10-21): The Urn gives its souls to whoever delivers it, so the carry or strongest player should run it as fast as possible every chance [64:28]

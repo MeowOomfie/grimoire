@@ -158,4 +158,8 @@ A fast stream tier list of every weapon, vitality and spirit item after the May 
 - Vortex Web is D tier, straight trash. [47:27]
 
 ## Disagrees with
-- none recorded yet
+- xxSDxd0zC7c (Metro Deadlock, 2025-05-10): Ethereal Shift is really bad, and Unstoppable is the more valuable buy now that Debuff Remover was nerfed. [25:40]
+- RAvOQCYRFMg (Metro Deadlock, 2026-03-20): Healbane is the second best item and is overlooked, because most heroes now have a lot of base healing. [3:04]
+- ns5xI252NjE (Natan, 2025-08-25): Spirit Shielding is one of two tier 2 vitality must buys that go in the core build. [37:36]
+- rzUORo1XtxQ (Metro Deadlock, 2025-06-23): Heroic Aura is the best support item in the game; one person, ideally a support, should always have it. [7:45]
+- vz7HRAiQzAs (Metro Deadlock, 2025-05-09): Boundless Spirit is much stronger on many heroes, since every ability cast now gives movement speed and healing. [15:55]

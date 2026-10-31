@@ -86,4 +86,5 @@ For Wraith and other farm-carry players, and anyone learning safe farming and pl
 - In that comp the Vindicta is the kill securer and Wraith is the damage over time. [35:52]
 
 ## Disagrees with
-- none recorded yet
+- 7sd04L47oxY (Metro Deadlock, 2024-11-08): After laning troopers no longer split souls, the player who shoots them gets them. [0:30]
+- bfvOzo3h2fE (Deathy, 2024-09-24): Usually take Mid Boss as soon as you can, since five players meleeing it at 10 minutes kill it fairly quickly [2:00]

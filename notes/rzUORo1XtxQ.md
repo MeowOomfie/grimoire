@@ -67,4 +67,6 @@ For players building their own item paths: regen and vitality picks, Fleetfoot, 
 - Spirit Snatch is kind of broken because of who runs it: it is free on Calico, Abrams, Shiv and Pocket. [21:05]
 
 ## Disagrees with
-- none recorded yet
+- TZ4yV937Rv8 (Deathy, 2025-05-10): On Lash he would rather have early Stamina Mastery, Majestic Leap or Tankbuster than Trophy Collector. [14:06]
+- 9Wu9ryF3mWM (Deathy, 2025-11-13): Healbane is worth buying even with no Abrams, Mo & Krill or Victor on the enemy team, for its heal on kill and because it also cuts health regen. [4:34]
+- xRlHOsufXkQ (Metro Deadlock, 2025-05-27): Heroic Aura was first called a good support item, then argued down because support heroes do not benefit from its fire rate. [5:44]

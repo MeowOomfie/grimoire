@@ -47,4 +47,10 @@ Mostly opinion, but it carries concrete facts about the rank system, the item me
 - The coach buys some spirit resist in nearly 100% of games but often skips gun resist even against one or two gun heroes. [19:27]
 
 ## Disagrees with
-- none recorded yet
+- pIHedIZeRVE (Shotty, 2026-08-03): Metal Skin counters gun only briefly; a decent player disengages during it, and Mercurial Magnum counters it. [33:36]
+- E5CRaB37G5E (Natan, 2026-01-25): Edge boosts need precise air strafing and the timing window is small, so the tech is difficult. [7:06]
+- 6rZ6jJQf-IE (Metro Deadlock, 2026-08-01): Climbing from Oracle 4 to Eternus 6 takes about 670 games at a 55% win rate, at least 10 games a day for a season. [6:03]
+- CIsvCWMQOvg (Metro Deadlock, 2025-10-14): Eternus 6 is solo queue only right now, with no stacks. [40:32]
+- o9-H6URkfDc (Deathy, 2026-09-14): In your correct bracket a win rate above 60% over hundreds of games is nearly impossible, since matchmaking pushes everyone to 50%. [36:01]
+- 42YfJRVhDRo (Shotty, 2026-08-13): Skip the first Rift unless it is in the lane you are farming [13:20]
+- rKuS8P-YZcs (Shotty, 2026-10-21): A team that side pushes, takes Walkers and objectives and farms camps out-scales a deathball [17:20]

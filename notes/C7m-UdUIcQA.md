@@ -97,4 +97,7 @@ His example hero is Abrams (lane plan, Golden Goose Egg, spirit item priority, S
 - A coach speeds the process up a lot, but this method works without one. [35:26]
 
 ## Disagrees with
-- none recorded yet
+- ZWm7ixeWjbQ (HERESY, 2026-09-17): Golden Goose Egg is by far the worst item in the game and unviable, not even situational. [12:11]
+- 5O2xp1Rc9cU (Deathy, 2026-02-02): In lane you should be aggressive; aggression is generally rewarded and makes you improve faster. [0:32]
+- AsmoMLBNdms (Shotty, 2026-04-19): Make an alt account to escape being stuck in a rank and the rank anxiety. [3:34]
+- AsmoMLBNdms (Shotty, 2026-04-19): Most players do not improve because they never VOD review themselves. [11:41]

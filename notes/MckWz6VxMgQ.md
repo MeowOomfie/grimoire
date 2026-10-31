@@ -72,4 +72,4 @@ Ends with a whiteboard "basic gameplay flow" as homework: push the closest wave,
 - Deathy's new player guide covers when everything spawns and the general thought process. [48:27]
 
 ## Disagrees with
-- none recorded yet
+- wjXSMp2RBiY (HERESY, 2026-10-03): Take healing packs instead of going back to base to stay on the map. [34:20]

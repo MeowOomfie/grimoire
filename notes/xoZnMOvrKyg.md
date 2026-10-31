@@ -47,4 +47,5 @@ Shown on an Oracle-level coached game (Warden, Seven, Holliday, Paradox, Wraith)
 - In about 15 community games reviewed on stream, nearly every game that ended under 30 minutes followed this structure; longer games had more back and forth and throws. [18:48]
 
 ## Disagrees with
-- none recorded yet
+- YwWdz1h97xc (Deathy, 2026-02-14): Run an enemy comeback Urn only with an overwhelming advantage, otherwise grab and hold it to delay them. [10:36]
+- CH3DcJgGpHw (Deathy, 2025-04-18): Pick up the Urn when it is a comeback urn for you and leave it when it is one for the enemies [4:06]

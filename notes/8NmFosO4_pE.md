@@ -51,4 +51,7 @@ Aim fundamentals for players of any rank who feel their aim is inconsistent: whe
 - High level aim comes from time and effort, not genes; practice matters far more than talent. [22:59]
 
 ## Disagrees with
-- none recorded yet
+- ze6PU0fwEcc (Shotty, 2026-07-28): Practise one to three weeks at a sensitivity, then change it on purpose to train your weak points. [12:46]
+- pTqs7JKC-PA (Shotty, 2026-04-13): Diminishing returns only start past about an hour and 30 minutes of hard aim training. [13:19]
+- DVMHtOcOSWc (Shotty, 2026-09-18): Do not flick to shoot; 99.9% of players should use a slow, controlled aim style and flick only to close a gap. [12:07]
+- mf8ShdalkN0 (Natan, 2025-08-10): You can run a different sensitivity per hero, higher for short range heroes and lower for long range ones. [3:03]

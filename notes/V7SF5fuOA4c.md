@@ -107,4 +107,13 @@ One recommended community build per hero, picked from hundreds of high rank game
 - Builds go stale after patches; most of these are updated by their authors, so find the build ID in the build page again to get the current version, and do not follow a months-old video. [27:26]
 
 ## Disagrees with
-- none recorded yet
+- CIsvCWMQOvg (Metro Deadlock, 2025-10-14): In high rank play gun Infernus with Rapid Recharge, since perma dash Infernus is probably not good. [35:23]
+- 8OdAH3YWAeM (Deathy, 2025-07-14): On Abrams take points to max Siphon Life for a mid game power spike. [5:08]
+- w8i5cPb5uH4 (Metro Deadlock, 2025-12-24): Ivy is best as a hybrid support and full gun carry Ivy does not do well. [20:50]
+- S9Z3eaPVapQ (Metro Deadlock, 2026-06-18): Warden is S tier, possibly S plus, a meta-defining character. [1:01]
+- oXAqVuI14Ic (Metro Deadlock, 2026-08-03): Graves is bad, bottom of the barrel after several nerfs. [6:11]
+- c3T4WMro7AA (Bogur Two, 2026-10-23): Rat King is played as the tank and is not the best hero to make plays solo. [14:22]
+- StmNPefzc5c (Metro Deadlock, 2026-01-16): Paige's first major spike is Knockdown, which lets her start a pick into her 3. [34:45]
+- x3vpYZLMOu8 (Metro Deadlock, 2025-11-07): Gun and melee Shiv are not very viable; spirit knife Shiv is the way to go. [26:25]
+- dYCgnZ4Wp-A (Metro Deadlock, 2025-09-17): Build Abrams tanky with spirit items too, because his Siphon Life aura has a lot of potential when scaled. [0:30]
+- x3vpYZLMOu8 (Metro Deadlock, 2025-11-07): The recommended McGinnis build is the turret build that does everything, with Cultist, Heroic Aura, healing, debuffs and turrets. [19:20]

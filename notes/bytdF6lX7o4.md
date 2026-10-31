@@ -65,4 +65,4 @@ For players catching up on that patch. This is a late-2024 video; most of these 
 - Leaderboards in the main menu now show ranks and players' main heroes, for example 48 Eternus 6 players in North America vs 74 in Europe. [20:25]
 
 ## Disagrees with
-- none recorded yet
+- oXAqVuI14Ic (Metro Deadlock, 2026-08-03): Since the matchmaking algorithm changed, teams get fewer tanks, usually one, maybe two frontliners. [14:21]

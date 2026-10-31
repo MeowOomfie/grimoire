@@ -226,4 +226,7 @@ Topics: Leaping Slash and Melee Lifesteal trades, stamina, resetting to base, ki
 - You usually know within 5 to 10 games whether a hero is one you will be good at. [88:28]
 
 ## Disagrees with
-- none recorded yet
+- DEAb-LfSXq0 (Sensu, 2026-05-18): Never give up when behind, since comebacks are extremely easy. [1:02]
+- 1TgJ740vu1g (MoistCr1TiKaL Gaming, 2026-10-26): Never go back to base unless you need to reset your HP, the side shop is always better for buying. [19:41]
+- rKuS8P-YZcs (Shotty, 2026-10-21): Try not to go back to spawn; when low use healing bats, vents and Extra Regen or Healing Rite instead. [52:16]
+- -PhKQRhABhg (Metro Deadlock, 2026-02-18): Your own side Sinner's Sacrifices should go to carries, and supports should not take them. [11:09]

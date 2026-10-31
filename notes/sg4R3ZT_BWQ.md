@@ -84,4 +84,4 @@ Marked OUTDATED by the channel: it describes the invite-only era with nine start
 - With only one enemy defender you can usually ignore him and hit the Patron; with two or more, fight them. [16:45]
 
 ## Disagrees with
-- none recorded yet
+- EtHEtvBfC2M (Deathy, 2026-03-05): The first movement technique to learn is zipline tech (drop off and instantly air dash), the most important one in the game. [2:32]

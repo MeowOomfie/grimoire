@@ -40,4 +40,4 @@ For solo or duo queue players who want to rank up rather than just have fun.
 - Most games people lose are lost in the first 15 minutes. [10:09]
 
 ## Disagrees with
-- none recorded yet
+- VDE-EmbWbBQ (Metro Deadlock, 2026-10-25): For 80% of the roster getting ahead means winning fights, if both teams just farm their side the souls split 50-50. [8:08]

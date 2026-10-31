@@ -125,4 +125,8 @@ For players who reach the late game but fail to close out or come back.
 - Most matchmaking teammates won't follow calls or play ideally, even in Eternus 6 lobbies, but applying these ideas personally and making more assertive comms will increase your win rate over time. [48:48]
 
 ## Disagrees with
-- none recorded yet
+- fM2V11-6d9E (Sensu, 2026-05-24): A comeback Urn run gives 50% damage resist. [1:00]
+- 9Wu9ryF3mWM (Deathy, 2025-11-13): You should probably have two Healbanes on your team every game. [6:06]
+- o9-H6URkfDc (Deathy, 2026-09-14): People overrate communication in online games; mute liberally, since the average comm is worth far less than your mental state. [6:36]
+- 0iLzlvGjfGE (Metro Deadlock, 2026-10-01): Walking to Mid Boss with the whole enemy team up is usually bad, since it screams at half HP and the enemy can contest and take the Rejuvenators [32:07]
+- 7L-j1mjASk0 (Deathy, 2026-10-08): Pushing the base before killing the Mid Boss is almost always a mistake [21:19]

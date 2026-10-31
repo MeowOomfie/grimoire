@@ -68,4 +68,5 @@ For players picking a hero to climb on the new patch.
 - Outliers are Warden, Billy and Lady Geist; if you are good on those three, grind them and you will win, and the same goes for the S tier heroes. [31:42]
 
 ## Disagrees with
-- none recorded yet
+- w8i5cPb5uH4 (Metro Deadlock, 2025-12-24): Gun Bebop got much weaker, so rush the 4.8k spirit investment for bomb and ult damage. [4:32]
+- 9M5pYQVuxiw (Metro Deadlock, 2025-09-12): Billy is not a very good laner and is weak in early lane. [3:37]

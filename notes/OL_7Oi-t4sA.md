@@ -110,4 +110,5 @@ For players who already know a hero's basics and want the high-level identity an
 - Yamato is great at hunting specific targets, especially with her ultimate resetting cooldowns, and at shutting down enemy carries who cannot run, but she is equally exposed afterwards, so only engage targets worth it. [32:20]
 
 ## Disagrees with
-- none recorded yet
+- ipV--I1l7DI (Deathy, 2025-09-03): Holliday is strong in lane, mid game and late game and has no real weakness. [1:02]
+- w8i5cPb5uH4 (Metro Deadlock, 2025-12-24): Vyper falls off as the game goes, the best early game hero and an anti-carry. [41:48]

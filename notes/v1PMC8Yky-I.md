@@ -40,4 +40,4 @@ For players adjusting builds after that patch: Transcendent Cooldown, Cultist Sa
 - Slowing Hex and Vortex Web are good on anyone but situational; support players especially should consider them. [7:06]
 
 ## Disagrees with
-- none recorded yet
+- Vfw8aqOH0tk (Metro Deadlock, 2025-11-30): Weapon Shielding procs more easily in almost every lane, at a 150 damage threshold versus 225 for Spirit Shielding. [6:04]

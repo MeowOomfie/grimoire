@@ -75,4 +75,7 @@ Told through a replay of a game the coach (playing Wraith) came back from while 
 - When behind, push out the wave first to get map control, then farm the jungle. [40:27]
 
 ## Disagrees with
-- none recorded yet
+- kmpRSlo3cOM (Metro Deadlock, 2025-05-29): AFK farming Sinner's Sacrifice instead of helping trades your money for your team's chance to come back. [22:07]
+- EtHEtvBfC2M (Deathy, 2026-03-05): Edge boosting might be the most useful movement concept to learn. [16:58]
+- 1TgJ740vu1g (MoistCr1TiKaL Gaming, 2026-10-26): With three Rejuvenators do not be afraid to be aggressive and rip your ult, going super aggressive on the shrine since dying is fine [38:30]
+- Hl_7fC48xdk (Deathy, 2025-12-19): Shrines still die easily and the Patron still dies extremely easily [11:49]

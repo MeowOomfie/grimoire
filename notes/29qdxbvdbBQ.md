@@ -36,4 +36,4 @@ Useful for players deciding between lane, jungle, ganks and invades after 8 minu
 - Laning is the only matchup that matters now: pick a lane bully that is very strong early and mid game and you win. [12:39]
 
 ## Disagrees with
-- none recorded yet
+- kifJcY4e9OE (Deathy, 2025-10-22): Winning the lane phase is not mainly a hero thing; the winning team's Bebop had zero lane kills. [0:30]

@@ -35,4 +35,4 @@ A reaction to the November 2025 patch and the hotfixes in its first 48 hours: st
 - Valve has addressed every death ball meta quickly; more mid game objectives would also help against it. [10:41]
 
 ## Disagrees with
-- none recorded yet
+- XXw9qv7-vN4 (Metro Deadlock, 2025-11-22): Wall jumps now cost 0.25 stamina and stamina regen is 5% lower. [5:04]

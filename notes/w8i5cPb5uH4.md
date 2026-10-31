@@ -176,4 +176,9 @@ Yamato (together's build)
 - If a gun carry shoots back, ult or pop Return Fire (or ult then Return Fire): with your high resists they kill themselves on you. [45:52]
 
 ## Disagrees with
-- none recorded yet
+- xYK-v_aoZFk (Metro Deadlock, 2025-12-19): The early 4.8k spirit rush was nerfed in both the items and the spirit investment tree, so there is less reason to rush it. [2:01]
+- OL_7Oi-t4sA (HERESY, 2026-06-12): Vyper is a late game gun carry. [29:19]
+- hHoiw3oTNJk (Metro Deadlock, 2025-11-23): Gun Bebop is still stronger than the bomb build. [4:12]
+- V7SF5fuOA4c (Metro Deadlock, 2026-10-29): Ivy is best played gun heavy right now with a Tempo Bullet build. [24:55]
+- x3vpYZLMOu8 (Metro Deadlock, 2025-11-07): Below super high Eternus gun Grey Talon is probably better than the spirit owl build. [10:09]
+- x3vpYZLMOu8 (Metro Deadlock, 2025-11-07): Gun Ivy is still the most solid build and is used in pro play. [15:42]

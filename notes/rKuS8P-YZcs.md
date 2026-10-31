@@ -174,4 +174,14 @@ Then lane phase (one shared health bar and souls counter, healing trooper, zipli
 - Lash and Dynamo have game-winning ultimates and are among the easiest heroes to have impact with even on a bad team, since ulting five low HP enemies sets up kills. [77:09]
 
 ## Disagrees with
-- none recorded yet
+- QVJyCI1wGDM (Deathy, 2025-08-01): Hitting two boxes instead of the Sinner's Sacrifice was a mistake, since Sinner's Sacrifices give far more value than boxes. [4:34]
+- n3EdDdPKed4 (Deathy, 2026-01-10): Boxes are lower than most jungle camps, though always worth doing on the way. [8:36]
+- SmcxEQ38Uto (Metro Deadlock, 2025-09-01): Lash is hard without good movement and Wraith is mid, almost hard, a hero he would rather low ranked teammates avoid. [13:27]
+- z3SfKOCdE0I (DattoDoesDeadlock, 2026-10-19): A lot of the time going back to base misses you no money, so do not be afraid to reset. [16:49]
+- BwS2AZBoM8s (Deathy, 2025-02-26): With two players in a lane early, souls are duplicated so both get 100%. [3:05]
+- Hj3p8cSiN_M (Natan, 2026-10-02): A trooper at 3 minutes is worth 106 souls, or 57 each when shared with your lane partner. [0:31]
+- o9-H6URkfDc (Deathy, 2026-09-14): Do not blame yourself for everything; some games are out of your control. [2:34]
+- dUWP1ORnSxo (Shotty, 2026-05-15): Do not try baiting the Mid Boss to force fights until at least Ascendant, since he has never seen it done right [34:05]
+- XCF_7_3vJRQ (PeerContent, 2026-10-13): The Urn is almost always taken by the roamers, and the side lane carry takes it only in a rare case [24:56]
+- ZWm7ixeWjbQ (HERESY, 2026-09-17): If you win the lane phase you can now use your soul lead to contest the rift, and taking it removes a big comeback source [2:03]
+- eQrK5gJ5jOg (Metro Deadlock, 2026-08-30): The team that deathballs almost always wins in random queues, and split pushing or safe farming against it usually gets you killed [8:42]

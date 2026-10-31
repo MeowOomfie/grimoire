@@ -68,4 +68,5 @@ For players who come out of lane even or ahead but can't close games.
 - When behind, push one lane; if they bring back two people to deal with you, your team can fight elsewhere on the map. [18:22]
 
 ## Disagrees with
-- none recorded yet
+- 6lQ71BcyyyQ (Deathy, 2025-07-31): The old Mid Boss half respawn timers and mega creeps were removed, so a team that wins the fight but loses Mid Boss still comes out on top [10:10]
+- 3Cta_ITcDlY (Metro Deadlock, 2026-07-02): The first Urn is roughly 950 souls and only goes to the carrying player [4:05]

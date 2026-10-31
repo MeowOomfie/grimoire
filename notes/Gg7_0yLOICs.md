@@ -90,4 +90,4 @@ For Lash players and anyone who wants to convert a lead into a win.
 - Two of his four deaths came from running into the enemy spawn; do not do that, do what wins for your team, and with Rejuvenator the game should have been a guaranteed end. [31:30]
 
 ## Disagrees with
-- none recorded yet
+- WtulcS8kaN0 (HERESY, 2026-08-24): Leaving after one shrine to be safe was a mistake, since after a wipe nothing is more important than dropping both shrines [26:58]

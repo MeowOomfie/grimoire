@@ -187,4 +187,5 @@ Topics: duo lane play, fog of war and cross angles, the reworked healing trooper
 - If you consistently win lanes, take the map objectives, not just the guardian. [72:47]
 
 ## Disagrees with
-- none recorded yet
+- 6R4LELQ3Drk (HERESY, 2026-03-20): By Poshiepop's buff values a vault (about 350 raw souls plus four golden statue buffs) is worth about 1,150 souls. [13:53]
+- WC6YI6wmJYs (Natan, 2026-02-02): Clear the medic trooper last, when your health is lowest, because its pack heals a flat amount plus 16% of missing health. [1:01]

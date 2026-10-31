@@ -255,4 +255,5 @@ Focus is what to do after lane: wave priority, never sitting in limbo, the side-
 - Abrams is pretty bad in the current meta, but for most of the game's life he has been very strong, and the meta changes often. [133:52]
 
 ## Disagrees with
-- none recorded yet
+- z3SfKOCdE0I (DattoDoesDeadlock, 2026-10-19): Clearing the wave, going back to base, then doing a box run is fine. [16:17]
+- foN-aAbeO6E (Metro Deadlock, 2025-11-16): Rushing in to force a fight in the enemy base or on their Walker after Rejuvenator is a big mistake, so take map control and farm instead [32:16]

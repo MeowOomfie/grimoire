@@ -90,4 +90,5 @@ For Billy players at any rank, and for players trying to beat Billy.
 - At the time of the video Billy is S tier, but not the best new hero: Drifter is surely better and Victor probably better. [33:15]
 
 ## Disagrees with
-- none recorded yet
+- hHoiw3oTNJk (Metro Deadlock, 2025-11-23): Billy was already solid in lane and now feels like Thanos in lane. [5:13]
+- C3LfEIC6clg (Deathy, 2024-09-15): Dashing away at the last second from a heavy melee often still gets you hit, so against a heavy you are always better off parrying. [2:04]

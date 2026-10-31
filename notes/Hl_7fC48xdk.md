@@ -35,4 +35,9 @@ Also points to the coach's updated tier list (Haze, Mina, The Doorman named). Fo
 - Viscous and The Doorman are the two best heroes at running and contesting the Urn and gained a huge amount of value this patch. [13:51]
 
 ## Disagrees with
-- none recorded yet
+- OT1WXp_Siic (Metro Deadlock, 2025-12-06): Mina is only low A tier, having dropped out of the meta after nerfs to her lane damage. [14:50]
+- xYK-v_aoZFk (Metro Deadlock, 2025-12-19): With Extra Health the same healing trooper kill gave about 100 more health solo, every wave. [3:03]
+- kmpRSlo3cOM (Metro Deadlock, 2025-05-29): On most heroes shoot the creeps, secure last hits and farm boxes; only play to win the lane with a very aggressive lane. [1:34]
+- e5WJbcIYgqc (Deathy, 2025-11-27): Being 1-0 up left them only 100 to 200 souls ahead, so freezing a wave beats getting a kill. [24:20]
+- EtHEtvBfC2M (Deathy, 2026-03-05): Stamina regen is 3.9 seconds on Mina, 4.5 on Infernus and 5.5 on Kelvin, with every other hero apparently the same. [1:00]
+- foN-aAbeO6E (Metro Deadlock, 2025-11-16): An enemy pushing your base around 19 minutes usually backs out after the base Guardians, with no way to kill both Shrines and the Patron [26:38]

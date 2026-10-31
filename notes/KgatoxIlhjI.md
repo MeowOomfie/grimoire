@@ -35,4 +35,4 @@ For any player who has not set up their client yet.
 - Auto buy is useful when chased with unsecured souls: run to a shop such as the secret shop with items queued and get the buys off before you die. [8:09]
 
 ## Disagrees with
-- none recorded yet
+- dUWP1ORnSxo (Shotty, 2026-05-15): Set every item and ability to quick cast: tap to cast instantly, hold to see where it goes. [1:31]

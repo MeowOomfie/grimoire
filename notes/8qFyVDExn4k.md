@@ -32,3 +32,4 @@ Seven ult build gameplay with commentary (mostly banter, few stated rules): hard
 ## Disagrees with
 - x5Okw4A83T4 (Metro Deadlock): he no longer uses Superior Duration because his cooldown makes the ability effectively infinitely lasting vs the Metro guide: take Superior Duration over Superior Cooldown, the build is designed around it. [16:42]
 - x5Okw4A83T4 (Metro Deadlock): the ult build is the only decent way to play Seven vs the Metro guide: it is a Power Surge and stun build first, full ult is not great anymore and almost nobody plays it. [1:35]
+- SmcxEQ38Uto (Metro Deadlock, 2025-09-01): Ult Seven is not very valuable anymore after nerfs and Power Surge Seven is by far better. [23:08]

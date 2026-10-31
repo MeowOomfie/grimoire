@@ -68,4 +68,5 @@ For players who want the new meta picks and what to avoid.
 - Bebop otherwise got nerfs to health and uppercut, but Metro does not think he is out of the meta. [21:57]
 
 ## Disagrees with
-- none recorded yet
+- _pzB6i1cRxM (Deathy, 2025-11-24): The first hotfix already reverted the stamina change, so stamina regenerates quickly again. [1:01]
+- YHc-NMmPjHg (Deathy, 2026-07-02): From about 9:00 taking a Walker becomes realistic and past 12:00 it is very easy with a strong wave [2:02]

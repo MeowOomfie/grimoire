@@ -88,4 +88,5 @@ For new and low rank players, October 2025.
 - Improve one thing at a time: pick one focus from the notes each session. [36:29]
 
 ## Disagrees with
-- none recorded yet
+- nUHH2wSoSBo (Metro Deadlock, 2025-05-21): Boxes are way better since the big item update, and early on farming boxes is more efficient than farming creeps. [6:38]
+- bjPveO-_Pgs (Metro Deadlock, 2026-02-24): When ahead, pick up the Urn but not to deposit it, since the drop off is deep on the enemy side and very risky [12:17]

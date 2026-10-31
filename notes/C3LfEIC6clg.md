@@ -38,4 +38,4 @@ A short 2024 explainer on melee: light versus heavy melee, parry timing and rewa
 - Sometimes you will dash and parry with no one meleeing, take a lot of damage and have parry on cooldown; do it anyway, because making these mistakes is how you learn. [6:41]
 
 ## Disagrees with
-- none recorded yet
+- 9M5pYQVuxiw (Metro Deadlock, 2025-09-12): Good players who miss a parry jump or dash out to dodge the follow-up heavy melee. [7:43]

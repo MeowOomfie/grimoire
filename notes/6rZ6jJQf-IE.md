@@ -45,4 +45,5 @@ For any ranked player, from a player placed Oracle 6.
 - He thinks larger stacks (three or four) should come back for ranks up to Oracle, and that duo queue should not be allowed in higher ranks because it is the number one thing being abused to climb. [12:45]
 
 ## Disagrees with
-- none recorded yet
+- gKVmYovT82E (Deathy, 2026-05-13): High Statlocker performance grades moved his MMR up and poor grades with a similar record moved it down, so individual performance now seems to count. [2:02]
+- eQrK5gJ5jOg (Metro Deadlock, 2026-08-30): Demote protection plus win streaks mean you can reach Eternus from any rank with about a 38% win rate if you play enough. [1:01]

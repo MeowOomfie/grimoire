@@ -33,4 +33,4 @@ For players wondering how to lane and farm after that patch. This is a late-2024
 - Myth: don't take the guardian early because the enemy can freeze the wave and farm safely. Deathy says they can freeze, but since you can steal their jungle at 5 minutes you should always take the guardian as early as possible, and all guardians give a flex slot; never delay it. [6:36]
 
 ## Disagrees with
-- none recorded yet
+- X9yhG5vKca4 (HERESY, 2026-01-27): Given the choice between a strong soul advantage and taking the guardian early, err on the side of the soul advantage. [1:01]

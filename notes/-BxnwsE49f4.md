@@ -56,4 +56,5 @@ For anyone following balance and build crafting, not tied to one rank.
 - Gun is not dead, spirit is not dead; characters are the issue. [18:52]
 
 ## Disagrees with
-- none recorded yet
+- 9itR8G0BfKE (Metro Deadlock, 2025-07-31): There is now a reason to jungle, invade and steal enemy camps. [12:19]
+- tYXmHr_tNUY (Shotty, 2026-03-23): The wave gives the most souls in the game and Sinner's Sacrifice the second most. [8:08]

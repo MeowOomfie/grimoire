@@ -70,4 +70,6 @@ Places most heroes with new-item notes (Mystic Regeneration, Healing Tempo, Plat
 - To beat Wraith: punish her in lane, stop her farm for a while, and build properly. [28:14]
 
 ## Disagrees with
-- none recorded yet
+- DmLuOrj6NWI (Metro Deadlock, 2025-03-23): Bebop is one of the best heroes for ranked and he refuses to drop him below S. [8:39]
+- 4jRjJBVdd_g (Deathy, 2025-12-03): Plated Armor is not great against Wraith because Full Auto does not count as on-hit. [7:01]
+- YinpOpNjpLg (HERESY, 2026-09-12): Except on Dynamo, do not consider Unstoppable until after 25K souls; other situational items come first. [9:06]

@@ -71,4 +71,9 @@ For players who want to climb on the patch that runs until the January update.
 - Vitality items are stronger for non-tanks because the health is flat; tanky heroes get relatively less, so they lean on Spirit Resilience, Bullet Resilience and late options like Spellbreaker. [24:03]
 
 ## Disagrees with
-- none recorded yet
+- QHtQOP6M4x8 (Metro Deadlock, 2025-02-27): At 8 minutes leave the lane and farm every Sinner's Sacrifice on your side, and on the enemy side when safe. [12:16]
+- w8i5cPb5uH4 (Metro Deadlock, 2025-12-24): Not rushing the early 4.8k spirit investment (on Vyper) is a big mistake. [41:48]
+- uQa2deOmqmw (HERESY, 2026-01-21): Siphon Bullets is the best 1v1 item in the game; with it and Fixation Haze beats Mina late. [54:07]
+- Hl_7fC48xdk (Deathy, 2025-12-19): It is a myth that Extra Health adds about 100 HP of healing trooper healing; tested at 1 HP the extra was only about 45 to 50. [2:34]
+- -b84YJLbyhI (Deathy, 2025-11-22): The patch made the first wall jump cost 25 stamina and cut stamina regen by 5%. [5:40]
+- OT1WXp_Siic (Metro Deadlock, 2025-12-06): The meta is still a death ball meta where stacking as four or five is really strong [0:31]

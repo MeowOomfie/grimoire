@@ -133,4 +133,12 @@ A stream segment where Deathy's Twitch chat votes every hero into S to D tier wh
 - Deathy's top of A order: Grey Talon, Paradox, Holliday, Sinclair, Seven; Paradox is probably better than Holliday. [61:44] [62:14]
 
 ## Disagrees with
-- none recorded yet
+- gsDCzCI5yh0 (Metro Deadlock, 2025-01-20): Kelvin is insane and if you like support you should play Kelvin and win. [23:05]
+- gsDCzCI5yh0 (Metro Deadlock, 2025-01-20): Vyper is one of the weakest heroes in the game after a 33% damage cut. [28:12]
+- gsDCzCI5yh0 (Metro Deadlock, 2025-01-20): Mirage is the hardest hit hero, dropping from S to middle of the pack (B) at best. [40:00]
+- gsDCzCI5yh0 (Metro Deadlock, 2025-01-20): Ivy is S tier, the best support besides Kelvin. [22:35]
+- gsDCzCI5yh0 (Metro Deadlock, 2025-01-20): Sinclair is probably the most broken hero in the game and will be the best hero. [6:11]
+- gsDCzCI5yh0 (Metro Deadlock, 2025-01-20): Infernus is low S tier because the gun nerf does not touch his Afterburn and ult damage, and few heroes carry better. [21:34]
+- DmLuOrj6NWI (Metro Deadlock, 2025-03-23): Wraith is really bad, loses lane, and sits in B only because she is better in pubs. [10:09]
+- DmLuOrj6NWI (Metro Deadlock, 2025-03-23): Yamato is S tier, a top three laner who becomes unkillable with farm and can walk into a 1v6. [13:18]
+- 83_xwq7I3bI (Deathy, 2024-09-01): Ivy's gun DPS build, rushing Siphon Bullets, made her the best carry and is the way to climb with randoms. [9:48]

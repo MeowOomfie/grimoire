@@ -38,4 +38,5 @@ Mostly suggestions, with a few facts about how the current ranked system works. 
 - Post matchmaking feedback on the official forums; the developers are active there and read them. [14:45]
 
 ## Disagrees with
-- none recorded yet
+- uaxXgf9O_-A (Sensu, 2026-06-03): Solo queue odds slightly favour you, because your team has five possible throwers against the enemy's six. [2:01]
+- SbRAwraX2-A (Shotty, 2026-03-26): A rank reset is necessary, ideally at open beta. [10:10]

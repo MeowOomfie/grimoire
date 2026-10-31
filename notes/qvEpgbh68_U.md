@@ -55,3 +55,4 @@ Seven, Power Surge max first, Cold Front farming, skill order, lane and mid core
 - Debuff Reducer is called an amazing item here; M-yo0Z4rXMk says it is no longer great or a must buy, only for building Unstoppable or Debuff Remover.
 - Surge of Power is a confident 11k buy before Improved Spirit here; M-yo0Z4rXMk is "not entirely sure" about it.
 - Early items here include Extra Spirit, Enduring Spirit and Mystic Shot before 5 minutes; M-yo0Z4rXMk says spirit in lane is kind of useless and early items should be gun items.
+- YHc-NMmPjHg (Deathy, 2026-07-02): Tier two camps spawn at 5:00 and respawn every 4 minutes 50 seconds. [3:33]

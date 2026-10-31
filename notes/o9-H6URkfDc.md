@@ -77,4 +77,8 @@ For players of any team game, Deadlock included, who want to climb with limited 
 - When the whole team is chatting and having fun, that good morale is important and fine. [42:04]
 
 ## Disagrees with
-- none recorded yet
+- aWDSUhuAXPA (Shotty, 2026-08-29): Aim trainers are worth it: 10 minutes of aim training is more direct practice than three or four Deadlock games. [23:29]
+- eQrK5gJ5jOg (Metro Deadlock, 2026-08-30): Top players show much higher win rates in duo than solo, which is how they reach 60 to 80%. [6:08]
+- AsmoMLBNdms (Shotty, 2026-04-19): The longer you stay in a rank the more stuck you get; 11 to 15 game win streaks gave only about two rank ups. [3:34]
+- -ljQqwvt7g4 (HERESY, 2026-06-24): Making more assertive comms will increase your win rate over time even when teammates do not follow calls. [48:48]
+- rKuS8P-YZcs (Shotty, 2026-10-21): Keep the blame on yourself even when it is not fully your fault, or you never improve. [74:37]

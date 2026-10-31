@@ -130,4 +130,5 @@ A close game behind from about 12 to 29 minutes: lane power spikes, resets, item
 - Late game Siphon Bullets does a lot of damage against Mo & Krill (almost 6.4K HP) and gives a lot of health; he had almost 6,600 max HP. [33:23]
 
 ## Disagrees with
-- none recorded yet
+- BiZ29Dtc-Wo (Deathy, 2026-04-19): The Rejuvenator gives about 4 minutes of map control and that duration does not change through the game [8:08]
+- D0KSefw6iKk (Deathy, 2026-06-30): A comeback Rift with 12 troopers is basically a guaranteed walker, so push the walker after you win it [4:36]

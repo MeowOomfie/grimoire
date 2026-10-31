@@ -58,4 +58,4 @@ For players who wonder whether an item did anything; heavy on hidden mechanics, 
 - Weakening Headshot is one of the most effective early tower pushing items; combined with Monster Rounds it is the most mathematically efficient tower pushing set in the laning stage. [14:10]
 
 ## Disagrees with
-- none recorded yet
+- 9iK7Ea-xpug (HERESY, 2026-06-09): Heroic Aura is perhaps the most under-purchased item, worth a Battle Vest of bullet resist to the whole team in every team fight for the rest of the game. [1:32]

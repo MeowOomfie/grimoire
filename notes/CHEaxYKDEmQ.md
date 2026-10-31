@@ -61,4 +61,5 @@ It is a 2024 video: the map, camps and soul values have changed a lot since, so 
 - Do not underestimate boxes; many players do not break them, and quite a few boxes add up to a good amount of souls. [14:48]
 
 ## Disagrees with
-- none recorded yet
+- XchfjG4Urb0 (Natan, 2025-02-01): 1,200 souls per minute is standard farming for Seven, about 30k souls at 25 minutes. [1:32]
+- zkoYGTvCsog (Sensu, 2026-10-07): Tier one camps respawn in 1 minute 25 seconds. [9:07]

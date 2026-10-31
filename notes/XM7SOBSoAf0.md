@@ -82,4 +82,5 @@ For players whose teams fall behind early, especially Wraith players.
 - Even when behind on Wraith, the same safe play style works: unless you have half the enemy's souls, you win most 1v1s because of Telekinesis, and you become insane in team fights later. [27:04]
 
 ## Disagrees with
-- none recorded yet
+- RjV40z_u5i4 (Metro Deadlock, 2025-03-07): Sinner's Sacrifice spawns at 8 minutes. [6:10]
+- iMuQFhuarig (Metro Deadlock, 2025-02-11): Do not play Wraith defensively; she is the best split pusher and should take objectives early. [31:12]

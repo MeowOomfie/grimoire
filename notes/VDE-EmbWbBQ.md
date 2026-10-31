@@ -57,4 +57,5 @@ Eight improvement tips from a high-level player: a small hero pool, knowing your
 - Set one specific goal for the next game, for example farm without dropping a 1,000 soul bag, join team fights earlier, or push out waves first so the enemy cannot take Walkers for free while you are in the jungle. [17:46]
 
 ## Disagrees with
-- none recorded yet
+- ts3agTIHqvk (Shotty, 2026-04-03): Farming is by far the easiest way to win a game. [5:05]
+- e5WJbcIYgqc (Deathy, 2025-11-27): Your default mindset should be to play aggressively, always assuming you are the best player in the lane. [29:53]

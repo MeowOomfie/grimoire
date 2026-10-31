@@ -108,4 +108,4 @@ For players who want to play Infernus as a farm-hungry carry; the coach says he 
 - As long as they're burning you're winning; as long as they're not burning you're losing. [40:57]
 
 ## Disagrees with
-- none recorded yet
+- DZ-0vfTEE7g (Metro Deadlock, 2025-10-04): Infernus is top of B tier, only slightly above average, and Victor is C tier after his hotfix. [9:20]

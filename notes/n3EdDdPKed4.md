@@ -52,3 +52,5 @@ Efficiency and downtime, team souls over personal souls, thinking ahead while fa
 - jtY2RoO7ax8 (Metro Deadlock): death timers are tied entirely to game time, not net worth vs a well played carry has the longest respawn because respawn grows with money. [10:08]
 - L_yU-0kb24g (Shotty): medium camps spawn at 6 minutes vs the later video: tier two camps spawn at five minutes. [4:31]
 - eZj9pbRO_CU (Metro Deadlock): medium camps spawn at 6 minutes vs the later video: medium neutral camps now spawn at 5 minutes. [4:31]
+- rKuS8P-YZcs (Shotty, 2026-10-21): Boxes now rank above camps in the early game because camps take too long. [12:42]
+- qcPoi9e7LRo (Deathy, 2025-11-17): The mid boxes are probably a higher priority than tier three camps on most heroes, because anyone can do them. [38:39]

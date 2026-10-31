@@ -74,4 +74,4 @@ Second half walks through six Rift fights from the coach's own high rank games (
 - Chasing with map momentum after the Rift got kills (Sinclair), map pressure, the Urn and farm, cutting the gap from about 12% to under 10%. [24:15]
 
 ## Disagrees with
-- none recorded yet
+- 3Cta_ITcDlY (Metro Deadlock, 2026-07-02): The Rift is now the most valuable objective and the most money on the map [2:33]

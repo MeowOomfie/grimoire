@@ -50,4 +50,7 @@ A reference sheet for any player who wants to plan objectives and farm around th
 - He used the Deadlock Wiki and double-checked most of it; the wiki is almost always up to date. [11:09]
 
 ## Disagrees with
-- none recorded yet
+- qvEpgbh68_U (Natan, 2025-01-19): Tier 2 camps spawn at 5 minutes and take 6 minutes to respawn. [2:34]
+- gzacSZxQb_o (Metro Deadlock, 2026-10-08): Boxes and statues respawn every two minutes. [1:00]
+- x27JQtqo6bc (Metro Deadlock, 2025-09-13): The Mid Boss area box farm spawns at 10 minutes and then about every 2 minutes. [19:31]
+- XXw9qv7-vN4 (Metro Deadlock, 2025-11-22): Walker damage resist decays over the first 20 minutes, so killing a walker at 14 to 16 minutes is very hard [7:38]

@@ -55,3 +55,4 @@ Seven VOD review of an Emissary game, lane vs Mirage and Lady Geist, hard pushin
 ## Disagrees with
 - Recommends hard pushing a hard lane against Mirage and Lady Geist; in qevTcyl8hkA he lets the Mirage push and keeps the wave on his side.
 - Treats the ult as a fight tool to time after enemy cooldowns and buy Unstoppable for; VZykhHHH37o and u2on5lG-S20 call the ult useless with the Power Surge build and use it to clear camps.
+- Xq1hjjEE1K4 (HERESY, 2026-07-12): Players are not going back to base enough; you can ride the zip line home before the 6 minute boost. [4:34]

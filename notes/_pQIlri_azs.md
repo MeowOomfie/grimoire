@@ -95,4 +95,5 @@ For Wraith players. This is a late-2024 video and the game, Wraith and these ite
 - Siphon Bullets looks weak on the damage graph (about 3%) because it came late, but it is good for extra lifesteal and sustain. [42:26]
 
 ## Disagrees with
-- none recorded yet
+- QHtQOP6M4x8 (Metro Deadlock, 2025-02-27): Denies are now 50% of a creep's souls, so denying and harassing matter much more than last hitting. [4:35]
+- pIHedIZeRVE (Shotty, 2026-08-03): About 90% of games are won with Mid Boss and you cannot win a game without it [3:04]

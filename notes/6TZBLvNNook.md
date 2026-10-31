@@ -32,4 +32,4 @@ For players who know basic movement and want to escape and dodge better.
 - Older quick movement guides on YouTube are still valuable because movement has not changed much. [7:07]
 
 ## Disagrees with
-- none recorded yet
+- N4zcDZ-I9HM (Metro Deadlock, 2026-06-12): Whenever you move, plain jumps included, keep moving the mouse and strafe to gain speed. [16:21]

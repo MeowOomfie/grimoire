@@ -62,4 +62,5 @@ For brand new players who don't know what the common terms mean.
 - Chinatown bell tower (grapple up, diagonal across from purple pool): three Sinner's Sacrifices, the most in the game, but hitting anything rings a bell that tells the whole map you are there, so be careful of ganks. [13:14]
 
 ## Disagrees with
-- none recorded yet
+- zkoYGTvCsog (Sensu, 2026-10-07): The zipline speed boost unlocks at 6 minutes. [4:02]
+- Woroekp2lKo (HERESY, 2026-10-30): The Mid Boss roar now happens at 25% HP and the boss is much tankier, so taking it needs longer enemy timers or one more kill [7:08]

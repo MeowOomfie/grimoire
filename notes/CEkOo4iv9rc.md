@@ -62,4 +62,6 @@ Heroes are taken in alphabetical order with a reason for each placement and some
 - Yamato: A tier. Still one of the best laners in the game, though Mina is stronger; not meta defining, and can build really tanky. [31:22]
 
 ## Disagrees with
-- none recorded yet
+- ipV--I1l7DI (Deathy, 2025-09-03): Victor moved up to S tier and is arguably a little overpowered. [2:33]
+- S9Z3eaPVapQ (Metro Deadlock, 2026-06-18): The best Infernus players build all green and purple items in a Flame Dash build, and more orange gun items do worse. [19:53]
+- JCFFWt1t5yU (Metro Deadlock, 2025-08-27): The Doorman is by far the best hero in the game, in a tier above S. [8:43]

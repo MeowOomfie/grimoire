@@ -85,4 +85,4 @@ Each pick gets a short kit walkthrough and why it fits. For brand new players ch
 - Almost every hero is not super hard to learn; pick what you enjoy, since the heroes you enjoy most you play best. Try heroes in a bot match if you're nervous about real players. [22:58]
 
 ## Disagrees with
-- none recorded yet
+- -qdOcYG_JB8 (Metro Deadlock, 2026-02-09): Celeste seems easy to get into. [0:00]

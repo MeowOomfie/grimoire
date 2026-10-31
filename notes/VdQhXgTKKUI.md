@@ -57,4 +57,4 @@ A 2024 commented Shiv game: ability order, lane approach, power farming with a m
 - His in-game guide is for spirit Shiv; he plans an in-game guide for gun Shiv (Berserker Shiv). [19:25]
 
 ## Disagrees with
-- none recorded yet
+- GCuoZWpzse0 (Metro Deadlock, 2025-04-23): Bloodletting is strong against many small damage-over-time bullets, so the better gun heroes get, the better Shiv gets. [6:44]

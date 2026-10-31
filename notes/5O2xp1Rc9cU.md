@@ -85,3 +85,6 @@ Early game (first 10 minutes) fundamentals: aggression, pushing the wave and kil
 - kUPk1pCdAI4 (Eido): be aggressive in lane; someone who plays 100 lanes aggressively improves faster than someone who plays them passively vs the later video: a low ranked player who keeps getting punished can play very passive, and some lanes are predetermined losses where you stalemate at your tower. [0:32]
 - tYXmHr_tNUY (Shotty): be aggressive in lane; someone who plays 100 lanes aggressively improves faster than someone who plays them passively vs the later video: in the first 3 minutes focus the wave, minimize trades and try not to take much damage. [0:32]
 - SNmByf4pHHs (Shotty): the laning stage officially ends at 10 minutes, when the buffs respawn and the Urn and mid boss appear vs the later video: 8 minutes is usually the end of lane. [15:15]
+- Xq1hjjEE1K4 (HERESY, 2026-07-12): Kill the healing trooper first, because it also heals your own troopers and gives you a tankier wave that wins priority. [4:04]
+- rc7HCrGVS6U (Shotty, 2026-06-10): In lane, shoving the wave for the first three minutes is all that matters. [1:01]
+- C7m-UdUIcQA (Deathy, 2026-06-25): The top player did nothing for the first 8 minutes except punish overextensions, and copying that fixed being too aggressive early. [34:56]

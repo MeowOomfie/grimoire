@@ -29,4 +29,4 @@ No balance changes in this patch. Much of the video is reactions to hero models 
 - The game feels smoother and runs at higher frame rates after the update for the coach. [26:44]
 
 ## Disagrees with
-- none recorded yet
+- 8Wnsw9qlxOY (Metro Deadlock, 2025-08-31): The in-game crosshair options are bad, so disable the crosshair and use Crosshair X as an overlay. [41:29]

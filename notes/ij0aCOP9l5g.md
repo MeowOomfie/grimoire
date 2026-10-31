@@ -69,4 +69,4 @@ Patch breakdown read from the notes: parry changes, healing trooper heal, chain 
 - Overall verdict: good Haze and Celeste nerfs, good lane changes, but Venator and Lady Geist are not addressed; the meta will not change much beyond seeing less Celeste and Haze, and what is really needed is a matchmaking patch. [19:23]
 
 ## Disagrees with
-- none recorded yet
+- XNR6JjHe9y0 (Deathy, 2025-12-20): Regen is a little less important now that the healing trooper exists. [13:41]

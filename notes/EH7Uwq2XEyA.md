@@ -63,4 +63,7 @@ For players wanting a meta overview. This is a late-2024 video; heroes, items an
 - A falling win rate can mean players haven't adjusted builds; turret McGinnis was nerfed hard, gun McGinnis is probably the new way to play her, but few players use it. [19:52]
 
 ## Disagrees with
-- none recorded yet
+- gsDCzCI5yh0 (Metro Deadlock, 2025-01-20): Haze is C tier and was D tier before this patch, only a bit better now. [21:04]
+- gsDCzCI5yh0 (Metro Deadlock, 2025-01-20): Gun McGinnis is dead and turrets are the better way to play her after the gun nerf. [29:45]
+- gsDCzCI5yh0 (Metro Deadlock, 2025-01-20): Before this patch Seven was the worst hero in the game. [32:49]
+- DmLuOrj6NWI (Metro Deadlock, 2025-03-23): Warden is kind of bad, with no purpose that other heroes do not do better, even in pubs. [12:46]

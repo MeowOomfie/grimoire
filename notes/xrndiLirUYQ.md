@@ -34,4 +34,4 @@ Tested rules for when you show on the enemy minimap: gun shots, line of sight ra
 - This hunting-hero tip matters mostly above Archon; below Archon you probably do not need to worry about it. [7:40]
 
 ## Disagrees with
-- none recorded yet
+- c8nOj4FXOMI (Natan, 2025-09-21): You show on the minimap whenever an enemy sees you. [14:44]

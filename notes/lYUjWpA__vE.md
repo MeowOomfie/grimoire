@@ -90,4 +90,5 @@ For players planning lanes, early ganks and builds in that patch.
 - Denies now give double souls to the player, a buff to good denying heroes like Abrams or Wraith. [42:44]
 
 ## Disagrees with
-- none recorded yet
+- nATqIjtkpoA (Deathy, 2025-04-16): The 15 minute Urn is the first one that can be a comeback Urn. [20:16]
+- e5WJbcIYgqc (Deathy, 2025-11-27): Freezing a wave and denying the enemy a wave is more effective than getting a kill in the current meta. [24:20]

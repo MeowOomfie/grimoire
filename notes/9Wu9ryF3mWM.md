@@ -51,4 +51,6 @@ For players who want to itemize more precisely; useful at any rank.
 - These damage reduction items are situational and hard to fit into builds, but worth using at times. [17:53]
 
 ## Disagrees with
-- none recorded yet
+- rzUORo1XtxQ (Metro Deadlock, 2025-06-23): Healbane is a shell of itself, and the other anti-heal items are weak too. [12:23]
+- -ljQqwvt7g4 (HERESY, 2026-06-24): Multiple Healbane instances do not stack; only one player's Healbane applies and duplicates just refresh the duration. [40:33]
+- SHzklsOihzc (Metro Deadlock, 2026-03-27): Healbane and Toxic Bullets stack additively, as do Healbane and Decay, for a very big anti-heal effect. [11:11]

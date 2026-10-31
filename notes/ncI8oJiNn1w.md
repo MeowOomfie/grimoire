@@ -118,4 +118,7 @@ Light, fundamentals-only session meant to show to new friends: the trooper rule 
 - Edge boosts on certain surfaces send you much higher; for example, light melee and jump at the same time to barely clear the fence, then edge boost to reach the bridge buff (advanced). [34:36]
 
 ## Disagrees with
-- none recorded yet
+- DEAb-LfSXq0 (Sensu, 2026-05-18): On Urn hand-in 50% of the souls go to the whole team instantly and 50% spawn as contestable orbs. [2:03]
+- IDxXf-URcXU (Shotty, 2026-09-07): Six people killing one Paige might give about 200 souls, the same as one camp. [12:47]
+- dvs92LW8T_I (Metro Deadlock, 2026-04-28): A Guardian parry often fails because its melee has a cooldown and it melees creeps too, so check it has not meleed in the last second or two. [13:47]
+- p7JZIsLBKvc (Sensu, 2026-06-30): An 11 minute Mid Boss is worth it relative to the alternatives [9:16]

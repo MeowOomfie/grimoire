@@ -62,4 +62,5 @@ For players picking a strong hero and build right now; he keeps a weekly updated
 - Paradox is about putting yourself in position to use Wall, grenade and Swap, so items like Warp Stone and Stamina Mastery help a lot. [14:13]
 
 ## Disagrees with
-- none recorded yet
+- CEkOo4iv9rc (Metro Deadlock, 2025-09-10): Victor is C tier, close to the worst, absolute trash in Eternus and only good in low ranks. [22:38]
+- OL_7Oi-t4sA (HERESY, 2026-06-12): Holliday's barrels and Crackshot hit hard early but do not scale well. [11:15]

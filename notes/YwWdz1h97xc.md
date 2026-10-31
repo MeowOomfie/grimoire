@@ -75,3 +75,7 @@ Mid game macro: three pillars (efficiency, pressure, objectives), farm priority,
 - n3EdDdPKed4 (Deathy): respawn timers are longer when your net worth is above the enemy team's average vs death timers are tied entirely to game time, not net worth. [11:36]
 - 3Cta_ITcDlY (Metro Deadlock): picking up a neutral Urn basically forces a team fight, so only pick it up if you want, and expect to win, that fight vs the later video: if the Urn is on your side there is basically never a downside to picking it up. [9:36]
 - j419hATvkR8 (MartinHitsRecord): Lash is a nuker who follows up on engagements others create vs Lash is a highly mobile brawler. [20:12]
+- xoZnMOvrKyg (Deathy, 2025-05-27): Even if it is a comeback Urn for them, still pick it up and try to deliver it. [4:04]
+- JouUab99B4Y (Metro Deadlock, 2026-10-21): Make sure your team has at least one tank, one support and one carry, since without them fights and map movement fall apart. [0:30]
+- bjPveO-_Pgs (Metro Deadlock, 2026-02-24): If you are too far to contest, trading Mid Boss for one Walker is not horrible and for two Walkers it is a good trade [16:53]
+- gUe-_cD12kM (Metro Deadlock, 2025-10-08): It is worth sacrificing two or even three players early to kill a Walker [8:40]

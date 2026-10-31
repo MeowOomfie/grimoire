@@ -105,4 +105,5 @@ For players who AFK farm their jungle and never cross the map, any rank.
 - If a lane is being pushed and there are also boxes or Sinner's Sacrifice to take, take the lane first. [42:07]
 
 ## Disagrees with
-- none recorded yet
+- foN-aAbeO6E (Metro Deadlock, 2025-11-16): An all-vitality Wraith that ignores fighting, shoves waves and farms Sinner's Sacrifices works very well in Eternus games. [36:55]
+- Hl_7fC48xdk (Deathy, 2025-12-19): Never play the lane just to survive; play to win and turtle only where you have no aggressive potential. [5:08]

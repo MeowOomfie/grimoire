@@ -84,4 +84,4 @@ Topics: strafing as the base of all movement, mouse speed vs hero speed, wall ju
 - When starting out, practise in slow motion with host_timescale; slower makes many techniques easier. [76:24]
 
 ## Disagrees with
-- none recorded yet
+- 6TZBLvNNook (Deathy, 2025-09-10): Air strafing is not very useful from a normal ground jump; it pays off only on launches like jump pads. [0:31]

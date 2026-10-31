@@ -133,4 +133,5 @@ For players learning a new hero or recovering from a bad lane. Patch as of early
 - He died to the Patron's curse, a mistake he should not have made. [41:01]
 
 ## Disagrees with
-- none recorded yet
+- IqQFuUoABeI (Natan, 2025-05-25): Going too far for boxes gave the enemy wave priority and Guardian damage; take the wave first instead of running for boxes. [1:30]
+- jtY2RoO7ax8 (Metro Deadlock, 2026-02-09): Roles heavily influence game outcomes, and too many carries on one team hurts it in high rank. [0:00]

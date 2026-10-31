@@ -87,4 +87,4 @@ For Wraith players at mid to high rank. This is a late-2024 video: the item shop
 - He would still like a tanky, long-fight, tracking ADC-style Wraith build, but says that is not a thing right now because every non-rat play style is weak. [31:44]
 
 ## Disagrees with
-- none recorded yet
+- EwlgaIcjNMk (Metro Deadlock, 2025-10-06): Most of Wraith's damage comes from Card Trick, not the gun. [1:00]

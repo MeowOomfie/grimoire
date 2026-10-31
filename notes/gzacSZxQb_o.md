@@ -51,4 +51,5 @@ How to use the edge on Hidden King and how to counter it on Archmother. For play
 - The best box farm route in the game is on Archmother's green side lane: take the box at spawn, then a chain of heavy crates (back, next, jump up); if your partner is fine alone, keep going for more heavy crates up the zipline. It gave about 1k souls in 20 seconds. [16:53]
 
 ## Disagrees with
-- none recorded yet
+- YHc-NMmPjHg (Deathy, 2026-07-02): Boxes and golden satchels spawn at 3:00 and respawn every 3 minutes. [2:32]
+- Hj3p8cSiN_M (Natan, 2026-10-02): Boxes, tough crates and healing bats respawn 3 minutes after you take them. [0:31]

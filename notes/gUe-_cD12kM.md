@@ -68,4 +68,7 @@ For players who win lane but fall behind later, and for anyone stuck in lower ra
 - To close games, look for kills first, then push the enemy base; AFK farming when ahead lets nothing happen until someone makes a mistake, which is why low rank games run long. [28:35]
 
 ## Disagrees with
-- none recorded yet
+- pwr2WGHEKMA (Deathy, 2025-09-14): Mid Boss before 15 minutes needs a lot of coordination and damage and is unrealistic in matchmaking [27:33]
+- u2on5lG-S20 (Natan, 2025-01-17): His team should not fight while the enemy still has the Rejuvenator up, they need to chill and not get caught [15:05]
+- YwWdz1h97xc (Deathy, 2026-02-14): Losing one player for a Walker is usually fine, but losing two is the problem [12:38]
+- WC6YI6wmJYs (Natan, 2026-02-02): Take the middle Walker first or second, because taking both side Walkers first leaves a very tough mid Walker [2:01]

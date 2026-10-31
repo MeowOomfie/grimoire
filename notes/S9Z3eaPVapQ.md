@@ -74,4 +74,8 @@ Every hero gets a placement and the reason, with notes where pro play, Eternus o
 - Overall balance is close: outside the S and S plus heroes the roster is tight, arguably except Haze, and no hero is unplayable. The list is for the average player and some placements may change for Eternus. [30:04]
 
 ## Disagrees with
-- none recorded yet
+- CEkOo4iv9rc (Metro Deadlock, 2025-09-10): The Flame Dash build is no longer great on Infernus, so run gun or hybrid again. [10:45]
+- DHRO3E4u-SU (Metro Deadlock, 2025-07-08): Puddle Punch is weak and you should not run melee Viscous. [20:26]
+- V7SF5fuOA4c (Metro Deadlock, 2026-10-29): Warden is probably the worst hero right now. [13:12]
+- BYztvpQT12Q (Metro Deadlock, 2026-05-06): Apollo is the number one solo carry, able to 1v6 with the best mid game. [7:35]
+- oXAqVuI14Ic (Metro Deadlock, 2026-08-03): Celeste is average, mid, with less burst than other nukers and less tankiness than tanks. [3:37]

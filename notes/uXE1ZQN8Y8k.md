@@ -61,4 +61,4 @@ For players of every rank up to low Eternus who think movement, aim or builds ar
 - Macro is what wins games, and every Eternus player will say so. [17:17]
 
 ## Disagrees with
-- none recorded yet
+- DCO1AQQjZG0 (Metro Deadlock, 2026-09-30): Almost every creep camp is now worth farming and dies faster, so it is worth farming the jungle more. [5:37]

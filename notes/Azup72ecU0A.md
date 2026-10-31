@@ -68,4 +68,4 @@ For Wraith players following his in-game build "Metro wraith". This is a late-20
 - Wraith is still an insane late game character. [20:02]
 
 ## Disagrees with
-- none recorded yet
+- yFJDkvfgGj4 (Deathy, 2024-10-30): Siphon Bullets procs all the time, about 55 damage every 0.5 seconds. [5:06]

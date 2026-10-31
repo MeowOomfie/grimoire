@@ -49,4 +49,4 @@ Aim fundamentals for gun players: where to look (target or crosshair), crosshair
 - Just doing it is 95% of the battle. [18:25]
 
 ## Disagrees with
-- none recorded yet
+- 8NmFosO4_pE (Metro Deadlock, 2026-05-14): Cap aim training at 30 minutes a day because of diminishing returns. [12:15]

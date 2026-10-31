@@ -101,4 +101,5 @@ Main theme: the meta is spirit burst, resist items were nerfed, and the new hero
 - Meta summary: spirit burst. Don't buy Spirit Resilience, it doesn't give enough value; buy Spellbreaker late game, play aggressive and try to kill the enemy before they kill you. [44:04]
 
 ## Disagrees with
-- none recorded yet
+- CEkOo4iv9rc (Metro Deadlock, 2025-09-10): The Doorman dropped from S+ to low B after his card stun nerf. [4:35]
+- nWBBSTxizdI (Natan, 2026-03-28): Wraith's ultimate is hard to react to with Counterspell; use Ethereal Shift after it hits instead. [18:13]

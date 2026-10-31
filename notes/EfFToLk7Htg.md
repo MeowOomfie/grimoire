@@ -59,4 +59,5 @@ Freezing trooper waves in Deadlock: what it is, the conditions that let you star
 - You cannot plan freezes far in advance or go into a lane phase planning to freeze; use it sparingly when it appears, but keep it in your skill set. [20:50]
 
 ## Disagrees with
-- none recorded yet
+- L_yU-0kb24g (Shotty, 2026-09-03): Tier two camps at five minutes are worth only about 95 souls and usually not worth the HP for non-carries. [16:46]
+- ErL1ZOb58eM (Deathy, 2024-11-01): He froze from the early lane as a preventative measure, shooting creeps only under his own tower. [13:07]

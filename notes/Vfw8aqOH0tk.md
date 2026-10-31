@@ -59,3 +59,6 @@ Tank (green) Wraith build against a high burst death ball meta, Project Mind tel
 - nWBBSTxizdI gives the rule of thumb to buy defensive items when ahead and damage items when behind, and says resistances are worth less when you are behind; this video builds tankiness first on a squishy carry to survive her weakest phase and calls Spirit Resilience the top situational buy.
 - eZj9pbRO_CU (Metro Deadlock): Weapon Shielding adds movement speed when it procs vs the later video: Spirit Shielding now grants 18% spirit resist for 8 seconds instead of movement speed when it procs, and Weapon Shielding got the same change. [10:41]
 - XCF_7_3vJRQ (PeerContent): Wraith is weakest in the early laning stage and early mid game, so she should avoid fighting and farm then vs the later video: Wraith's early game is in a fine state now; enemies only snowball her if you misplay. [6:34]
+- -b84YJLbyhI (Deathy, 2025-11-22): Sinner's Sacrifice now deals 80 per punch over five punches, an extra 100 damage per sacrifice. [3:36]
+- -PhKQRhABhg (Metro Deadlock, 2026-02-18): Carries should not take the enemy side Sinner's Sacrifices because they end up low with high death risk. [11:40]
+- v1PMC8Yky-I (Natan, 2025-07-05): Spirit Shielding is much easier for every hero to proc; even Dynamo or Kelvin proc it but struggle to proc Weapon Shielding. [6:06]

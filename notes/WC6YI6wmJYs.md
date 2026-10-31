@@ -72,4 +72,7 @@ For new and returning players.
 - Exceptions that do stack with themselves (diminishingly) when you and a teammate proc them on one target: Rusted Barrel and Crippling Headshot. [12:42]
 
 ## Disagrees with
-- none recorded yet
+- SytB0zKkUlQ (Metro Deadlock, 2025-09-02): Pocket does little gun damage, so investing extra into gun to reach the threshold is not worth it in most cases. [5:40]
+- 4q4XXAcm0sg (HERESY, 2026-01-06): If you want the wave to shove into the enemy tower, kill the enemy healing trooper first. [6:19]
+- 1mxMj1EbSLQ (Natan, 2025-07-16): With a lead, push the wave and hit the guardian, that is what you are there for. [8:50]
+- gUe-_cD12kM (Metro Deadlock, 2025-10-08): Avoid the mid Walker until very late and crack the side Walkers instead [18:26]

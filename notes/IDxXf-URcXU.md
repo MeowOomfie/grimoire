@@ -82,4 +82,6 @@ Also a timeline of the game (2:00 tier one camp, 3:00 boxes, 5:00 tier two camps
 - A good lane start is extremely important, because all of this farming gets much harder if you lose lane phase. [32:41]
 
 ## Disagrees with
-- none recorded yet
+- pwr2WGHEKMA (Deathy, 2025-09-14): Sinner's Sacrifice is always the most important camp. [2:03]
+- ncI8oJiNn1w (Deathy, 2026-07-26): A kill split six ways is still worth about 1,200 souls in total versus about 2,000 solo. [23:58]
+- cIDRQiTnjqQ (Metro Deadlock, 2026-05-12): Trading one life for a Walker in the mid game, especially early at 13 to 14 minutes, is excellent macro [15:13]

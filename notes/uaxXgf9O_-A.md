@@ -36,4 +36,5 @@ For solo queue players whose frustration costs them games at any rank.
 - Climbing is a numbers game: you can't control teammates, but you have full control of your own gameplay and approach. [6:35]
 
 ## Disagrees with
-- none recorded yet
+- m5HpSuLMKx4 (Deathy, 2026-07-05): A solo player is at a disadvantage against a duo, which is more coordinated and has a game plan. [10:07]
+- AsmoMLBNdms (Shotty, 2026-04-19): Just queue, even tilt queue, and use an alt if it removes the rank anxiety. [6:36]

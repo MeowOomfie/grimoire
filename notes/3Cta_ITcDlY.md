@@ -59,3 +59,7 @@ Rift timing and scouting, new Urn rules and value, jungle vs fighting, split pus
 - DEAb-LfSXq0 (Sensu): you cannot drop the Urn manually vs the earlier video: delay the enemy by dropping the Urn in your spawn. [3:34]
 - YwWdz1h97xc (Deathy): if the Urn is on your side there is basically never a downside to picking it up vs picking up a neutral Urn basically forces a team fight, so only pick it up if you expect to win it. [6:38]
 - jtY2RoO7ax8 (Metro Deadlock): the Urn is not necessarily a support's priority and its money goes only to the carrier vs the earlier video: supports pick up Urns because it costs them the least and more Urns delivered means more money for the team. [5:07] [4:05]
+- D0KSefw6iKk (Deathy, 2026-06-30): The Urn bounty starts decaying 45 seconds after pickup and drains over another 45, so holding it for 90 seconds denies it [6:39]
+- 7kW4TuPwh0U (Deathy, 2024-08-27): The first Urn gives AP and around 3,900 souls, with extra souls and AP for the player who delivers it [10:44]
+- Fat6LTvoJMk (Deathy, 2026-10-14): The first and second Rifts are always worth fewer souls than a Walker, so losing a Rift for a Walker is a souls win [1:02]
+- 2M_Yf6EXdTs (Natan, 2026-10-14): Pushing a walker with the Rift troopers is very often bait, since early walkers are tanky and your team usually needs to reset [11:51]

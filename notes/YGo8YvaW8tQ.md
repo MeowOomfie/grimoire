@@ -21,4 +21,4 @@ A short 2024 reaction to Valve's fix for double soaking: each match now assigns 
 - Verdict: overall the change is better than before, but it does not feel like a very good solution. [5:06]
 
 ## Disagrees with
-- none recorded yet
+- qVmYatJAK8w (Deathy, 2024-08-31): When ganking a solo lane, always stay for the last hits because both of you get full value from the souls. [5:07]

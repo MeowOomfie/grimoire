@@ -57,4 +57,5 @@ A zero to hero movement guide from an Eternus 6 player, for beginners through pl
 - The Deadlock Movement Wiki has more on movement. [9:08]
 
 ## Disagrees with
-- none recorded yet
+- D0KSefw6iKk (Deathy, 2026-06-30): Dash jumps were inferior and a bait for costing two stamina, so the input window had to be widened from 0.2 to 0.25 seconds to help newer players. [13:20]
+- eQrK5gJ5jOg (Metro Deadlock, 2026-08-30): An edge boost straight off a corner gives a large distance for zero stamina and is not hard to pull off. [16:21]

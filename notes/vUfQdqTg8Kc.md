@@ -69,4 +69,4 @@ For Haze players choosing a public build; Part 1 covers six builds and much of t
 - Part 1 standings: Renon 26, PlayWithMe 25, Pars just above Situational Siphon 21, Skip Sleeps 20.5, Jamside 19. [39:43]
 
 ## Disagrees with
-- none recorded yet
+- dYCgnZ4Wp-A (Metro Deadlock, 2025-09-17): On Haze the main thing is getting Siphon Bullets as fast as possible. [13:47]

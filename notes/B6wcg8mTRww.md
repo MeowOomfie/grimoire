@@ -163,4 +163,5 @@ For players who want to know which abilities make their hero strong or weak, how
 - Ivy is the clearest example of ability ratings not matching hero strength: many high rated abilities, but weak raw stats, especially early. [95:40]
 
 ## Disagrees with
-- none recorded yet
+- iMuQFhuarig (Metro Deadlock, 2025-02-11): Sell Extra Charge later because cards do almost no damage after lane and become a reload tool. [17:58]
+- NV8G-p3xzmI (Metro Deadlock, 2026-10-17): Buying Counterspell because a Lash stunned you is a low-level trap that leaves you with no damage at 30k to 34k. [11:16]

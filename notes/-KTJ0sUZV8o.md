@@ -59,4 +59,5 @@ For ranked players choosing a hero; main advice is pick lane bullies.
 - He calls this a perma team fight only, no-macro-skill meta and thinks balance is moving in the wrong direction, while praising the content updates and the item rework patch. [14:53]
 
 ## Disagrees with
-- none recorded yet
+- beZYWx0UF5w (Metro Deadlock, 2025-06-07): Paradox is meta defining S tier. [4:06]
+- 8OdAH3YWAeM (Deathy, 2025-07-14): Vindicta moves up to S tier because pub players cannot counter her. [7:09]

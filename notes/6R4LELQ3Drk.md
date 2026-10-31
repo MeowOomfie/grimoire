@@ -57,4 +57,4 @@ For players deciding whether the egg is worth buying and which heroes can afford
 - Summary: buy the egg only on very particular hyper carries and low damage non lane bully supports, sell it by 8 minutes in most cases to power spike and fight for vaults, otherwise shortly after 10 minutes; holding it longer griefs 99% of your games. [28:44]
 
 ## Disagrees with
-- none recorded yet
+- 4q4XXAcm0sg (HERESY, 2026-01-06): One center sacrifice is worth about 400 to 500 souls including its buffs. [23:24]

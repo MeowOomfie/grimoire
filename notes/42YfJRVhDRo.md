@@ -71,4 +71,7 @@ For players at Ascendant and below who want to climb on a gun hero (Vyper, Wrait
 - Aim trainers fail for people who have no plan or the wrong maps and playlists for the technique. [27:34]
 
 ## Disagrees with
-- none recorded yet
+- x27JQtqo6bc (Metro Deadlock, 2025-09-13): Sinner's Sacrifices done fast are slightly better income than lane troopers. [5:12]
+- mf8ShdalkN0 (Natan, 2025-08-10): Aim training gives most of its value in the first 50 to 100 hours; once you are decent, playing the game may be the better use of time. [7:06]
+- x27JQtqo6bc (Metro Deadlock, 2025-09-13): Carries should usually avoid big team fights unless the fight is close, very one-sided or they are far ahead in souls. [17:26]
+- eQrK5gJ5jOg (Metro Deadlock, 2026-08-30): Rift fights feel mandatory, since the team that shows up with more players usually wins the first Rift and snowballs [8:42]

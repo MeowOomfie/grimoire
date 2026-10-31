@@ -44,4 +44,5 @@ For players who follow left-to-right builds and want the hidden math behind item
 - Only buy Transcendent Cooldown to reduce the cooldowns of a large number of important actives; practically never buy it unless you have full actives. [13:18]
 
 ## Disagrees with
-- none recorded yet
+- kw82hsnanuQ (Natan, 2026-03-11): Tankbuster is now much more important for spirit nukers like Lash, Pocket and Mina, since it bypasses spirit resist on tanky targets. [2:31]
+- amAIzrkIdQc (Deathy, 2026-08-14): Heroic Aura is overrated as a defensive layer, especially past 20 minutes, because bullet resist is not a great stat later. [5:38]

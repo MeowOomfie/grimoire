@@ -122,4 +122,7 @@ Topics: how carries snowball (solo walkers, side lanes, Sinner's Sacrifice), lan
 - The mid boxes are probably a higher priority than tier three camps on most heroes, because anyone can do them. [38:39]
 
 ## Disagrees with
-- none recorded yet
+- cRbPjoBApWg (Shotty, 2026-10-14): Use the rooftop boxes, healing snacks and vents, because if you skip them someone else takes them; nothing is optional, especially as you climb. [6:08]
+- n3EdDdPKed4 (Deathy, 2026-01-10): From 8 to 15 minutes tier three camps rank above the mid boxes in farm priority. [6:03]
+- PI3RZVAW5jw (Metro Deadlock, 2025-09-08): Before the 6 minute zipline boost, going back to base loses at least a few creeps if not a full wave, so you almost never want to go back. [12:44]
+- nWWqj1qt088 (Metro Deadlock, 2025-09-26): Players rotate with dashes, jumps, vents and wall jumps that sprint speed does not affect, so sprint speed adds little. [5:07]

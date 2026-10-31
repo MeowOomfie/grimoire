@@ -43,4 +43,11 @@ For ranked players. Early 2025; the game has changed a lot since.
 - Ivy can be insane with a good team, for example hard carrying by flying the urn. [14:49]
 
 ## Disagrees with
-- none recorded yet
+- fvfrYqAubNI (Deathy, 2024-08-27): Shiv is S tier and without a doubt the best solo carry in the game. [1:34]
+- fvfrYqAubNI (Deathy, 2024-08-27): Seven is C tier and just not a good hero right now, period. [12:25]
+- gsDCzCI5yh0 (Metro Deadlock, 2025-01-20): Calico is low mid, by far the worst of the new heroes, and anyone who thinks she is OP is probably a noob. [44:08]
+- GCuoZWpzse0 (Metro Deadlock, 2025-04-23): Abrams is very weak now, the most controversial pick, a weaker tank than Mo & Krill, Bebop, Shiv or even Warden after heavy melee cancel was removed. [12:22]
+- WDXm_ggBpk8 (Metro Deadlock, 2025-05-13): Bebop is D tier because higher lane HP means hooks no longer guarantee kills and he denies less. [4:05]
+- EH7Uwq2XEyA (Deathy, 2024-12-11): Warden tops win rates across all ranks and is easy to win pubs with. [17:21]
+- 1LZn2lXsNPo (Deathy, 2025-04-03): Wraith is fundamentally broken and would be top three with a buff or a less lane-focused meta. [58:07]
+- 1LZn2lXsNPo (Deathy, 2025-04-03): Yamato is not OP, just frustrating, and sits in the middle of A. [59:39]

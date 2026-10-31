@@ -83,4 +83,11 @@ For players with no Deadlock or MOBA experience, or a few hours in.
 - The new health bars show each enemy's ultimate status on their health bar, so you see instantly whether they have it, which matters against ults like Lady Geist's life swap. [44:03]
 
 ## Disagrees with
-- none recorded yet
+- L_yU-0kb24g (Shotty, 2026-09-03): Tier two camps spawn at five minutes. [16:46]
+- DCO1AQQjZG0 (Metro Deadlock, 2026-09-30): The old double Sinner's Sacrifice, once the best farm in the game, is now outclassed by two other spots. [7:40]
+- XCF_7_3vJRQ (PeerContent, 2026-10-13): In the first two waves even a single deny delays the enemy's item and level spike, so do not be afraid to aim for denies. [19:22]
+- PI3RZVAW5jw (Metro Deadlock, 2025-09-08): Taking damage from both enemies is better than your lane partner leaving lane, which loses multiple waves of money. [10:13]
+- iNpIZgytlWM (Metro Deadlock, 2026-01-23): The reworked settings have proper crosshair options, so you no longer need a crosshair overlay. [16:11]
+- -NyPdE6mL9s (Metro Deadlock, 2026-02-03): A Mid Boss Rejuvenator can be heavy meleed for a buff up to three times [34:45]
+- -b84YJLbyhI (Deathy, 2025-11-22): The Rejuvenator now only gives the extra lives, with the max HP, fire rate and spirit damage amp removed [8:44]
+- S3szHWgcc7s (Metro Deadlock, 2025-02-26): The first flex slot now needs two Guardians, the second one Walker, the third all three Walkers and the last a Shrine [3:34]

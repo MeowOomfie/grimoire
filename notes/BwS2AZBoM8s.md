@@ -29,4 +29,4 @@ Deathy's first reaction to the February 2025 map patch that cut Deadlock from fo
 - The spectated example game had 66 kills in 16 minutes, and he expects the change to make the game better overall. [11:16]
 
 ## Disagrees with
-- none recorded yet
+- rKuS8P-YZcs (Shotty, 2026-10-21): A solo laner gets about double souls per minion, around 50 versus 20 to 25 when shared. [57:19]

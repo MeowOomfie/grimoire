@@ -106,4 +106,10 @@ Heroes: Abrams, Bebop, Billy, Calico, The Doorman, Drifter, Dynamo, Grey Talon, 
 - Yamato pick: Ronald/Fred's build; Fred has thousands of hours and is the biggest Yamato main in the game. [37:12]
 
 ## Disagrees with
-- none recorded yet
+- vUfQdqTg8Kc (Deathy, 2025-06-16): Any build that goes Siphon Bullets early cannot be an active build. [8:57]
+- x3vpYZLMOu8 (Metro Deadlock, 2025-11-07): Gun Kelvin got nerfed last patch; Kelvin is best played as a support right now. [16:12]
+- x3vpYZLMOu8 (Metro Deadlock, 2025-11-07): Warden is buffed and played more as a gun carry again; use the gun build with some spirit. [30:30]
+- eM-iY3IvHO8 (Metro Deadlock, 2026-03-12): On Seven max Lightning Ball first with early Rapid Recharge; not running Rapid Recharge on Seven is throwing. [27:05]
+- eM-iY3IvHO8 (Metro Deadlock, 2026-03-12): Mirage now buys almost no gun damage, only Toxic Bullets and Active Reload, because raw spirit is much stronger on him. [21:56]
+- V7SF5fuOA4c (Metro Deadlock, 2026-10-29): The Abrams meta is a melee and gun build, not the old Siphon Life spirit build: max your 2, then ult, and ignore Siphon Life. [19:21]
+- x3vpYZLMOu8 (Metro Deadlock, 2025-11-07): Vindicta is S tier again as a hard carry spirit nuker: rush Rapid Recharge and go for an Assassinate build. [28:27]

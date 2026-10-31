@@ -91,4 +91,5 @@ For ranked players picking a hero; covers every hero's placement plus build tips
 - Playing anything below B is close to throwing; B tier heroes just exist and hope the team carries. Do not pick C or D heroes. [33:46]
 
 ## Disagrees with
-- none recorded yet
+- 1mxMj1EbSLQ (Natan, 2025-07-16): Pocket falls off late compared to hyper carries like Infernus and Seven. [1:02]
+- S9Z3eaPVapQ (Metro Deadlock, 2026-06-18): Puddle Punch got a massive lifesteal buff and Puddle Punch builds will be back. [28:04]

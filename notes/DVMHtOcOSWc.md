@@ -41,4 +41,5 @@ Examples use Venator, Vindicta, Drifter, Mina, Celeste and Holliday. For players
 - With Venator's ricochet split shot ultimate, slowing down to hit one ricochet on the enemy team can hit all three squishies for a team wipe. [13:07]
 
 ## Disagrees with
-- none recorded yet
+- 8NmFosO4_pE (Metro Deadlock, 2026-05-14): On slow fire rate heroes like Lady Geist or Holliday, flick and click manually for each shot. [8:09]
+- aWDSUhuAXPA (Shotty, 2026-08-29): Passive aim like crosshair placement matters very little in Deadlock; raw aim matters much more. [2:04]

@@ -37,3 +37,8 @@ Advanced laning for players past the fundamentals: slow pushing the third wave t
 - e5WJbcIYgqc (Deathy): kill the healing trooper first, since it also heals your own troopers and gives a tankier wave that wins priority vs the earlier video: kill the healing trooper last instead of first, since it heals for a percentage of missing health. [4:04]
 - PI3RZVAW5jw (Metro Deadlock): players are not going back to base enough; when too low to win a fight, go all the way home and let your ally take the wave vs the earlier video: you almost never want to go back to base before about 6 minutes, since it loses at least a few creeps, more than 400 souls. [4:34] [5:04]
 - XCF_7_3vJRQ (PeerContent): slow push the 1:30 wave so it crashes as the tier one camp spawns; shoving it in too quickly to contest the camp is a mistake vs the later video: push the 1:30 wave for wave prio, because you need it to take your camp. [0:00] [0:30]
+- 2TR6pE_dqN4 (Deathy, 2025-10-15): With two people on a wave each gets 65%, so splitting two ways is efficient. [5:06]
+- 5O2xp1Rc9cU (Deathy, 2026-02-02): As a rule of thumb push the wave in but kill the healing trooper last, since keeping it alive longer rewards aggression. [0:32]
+- scgjparadeA (Natan, 2025-05-08): Basically never go back to base unless you really have to, and only after the zipline boost unlocks; before that buy Healing Rite. [3:45]
+- SNmByf4pHHs (Shotty, 2026-10-07): If the enemy gets the bridge buff it is not a big deal; play back and wait for it to expire. [11:17]
+- dvs92LW8T_I (Metro Deadlock, 2026-04-28): You always have to shove the wave first; new players who fight the enemy first lose because they are not prioritizing the wave. [0:30]

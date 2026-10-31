@@ -113,4 +113,10 @@ Heroes: Abrams, Bebop, Billy, Calico, The Doorman, Drifter, Dynamo, Grey Talon, 
 - Yamato: for more nuke run ABL's spirit build, mostly the same with fewer barriers; Zeno's tanky build is probably the most solid. [33:34]
 
 ## Disagrees with
-- none recorded yet
+- dYCgnZ4Wp-A (Metro Deadlock, 2025-09-17): To win and carry on Kelvin go gun; he is the best gun hero in the game and gun is the way. [17:53]
+- dYCgnZ4Wp-A (Metro Deadlock, 2025-09-17): Gun Warden is pretty bad; his strength is still the ult, the only real way to play him. [33:38]
+- V7SF5fuOA4c (Metro Deadlock, 2026-10-29): The recommended Shiv build is a gun focused one-shot build with huge right click damage. [22:24]
+- w8i5cPb5uH4 (Metro Deadlock, 2025-12-24): Grey Talon was hit hard by the 4.8k spirit nerfs, but you still go spirit and put everything into your arrows. [16:17]
+- w8i5cPb5uH4 (Metro Deadlock, 2025-12-24): Ivy is best as a hybrid support now; full gun carry Ivy does not do well. [20:50]
+- V7SF5fuOA4c (Metro Deadlock, 2026-10-29): McGinnis is best played with a full gun build; Quicksilver Reload and Mercurial Magnum make the turrets strong without spirit, so spirit is not worth it. [25:26]
+- dYCgnZ4Wp-A (Metro Deadlock, 2025-09-17): With the stake much weaker, go more gun on Vindicta to carry pubs. [31:05]

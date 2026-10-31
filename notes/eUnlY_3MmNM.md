@@ -57,4 +57,4 @@ For players who win early but lose the game late.
 - The first shrine is worth dying for if necessary, and more important than a few kills in their spawn or losing Mid Boss or the Rejuvenator. [16:13]
 
 ## Disagrees with
-- none recorded yet
+- e5WJbcIYgqc (Deathy, 2025-11-27): Never default to playing a lane passively unless you are a top Eternus 6 player. [3:03]

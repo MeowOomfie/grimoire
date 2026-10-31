@@ -110,4 +110,5 @@ Stream read-through of the late-July 2025 patch notes (video 2025-07-31), after 
 - Pocket will be S tier because he can 1v1 nuke anyone, even more so with the Affliction and Tank Buster buffs. [45:06]
 
 ## Disagrees with
-- none recorded yet
+- S3szHWgcc7s (Metro Deadlock, 2025-02-26): A heavy melee kill in the Sinner's Sacrifice time window gives three gold statue buffs. [2:34]
+- -BxnwsE49f4 (Metro Deadlock, 2025-07-13): Stealing the enemy jungle no longer matters, the thief just carries unsecured souls into the fight for you. [17:21]

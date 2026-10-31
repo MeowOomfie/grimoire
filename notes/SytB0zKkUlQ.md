@@ -149,4 +149,6 @@ For newer players who follow builds and want to start judging or making their ow
 - As a beginner, follow the build of a creator or pro you like and learn what each item does in it; making your own comes over time. [54:42]
 
 ## Disagrees with
-- none recorded yet
+- ywC2b6uFS6A (Deathy, 2025-09-05): Metal Skin's duration goes from 4 to 5 seconds, about 6.3 to 6.4 with Duration Extender. [17:20]
+- WC6YI6wmJYs (Natan, 2026-02-02): Even on a spirit build reach 4.8k weapon; on Pocket, Swift Striker for the 4.8k weapon spike takes his weapon DPS from 118 to 173. [9:06]
+- NV8G-p3xzmI (Metro Deadlock, 2026-10-17): If your mid or late game investment is mostly vitality you are probably doing it wrong; get the 4.8k green spike, then one counter item at most. [11:46]

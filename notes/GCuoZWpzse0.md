@@ -51,4 +51,5 @@ For ranked players, not pro play. Early 2025; the game has changed a lot since.
 - This is an early tier list and the meta will likely change. [23:14]
 
 ## Disagrees with
-- none recorded yet
+- DmLuOrj6NWI (Metro Deadlock, 2025-03-23): Abrams is S tier and a top three hero in ranked who does not die in lane. [0:30]
+- VdQhXgTKKUI (Deathy, 2024-08-24): Damage-over-time heroes are the best counter to Shiv because his passive is weak against constant damage. [11:11]

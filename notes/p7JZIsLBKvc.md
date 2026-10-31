@@ -22,4 +22,5 @@ For Drifter players wanting the play pattern (stay near fights to stack the pass
 - His health regen reached 56.4 from Juggernaut, Shadow Weave and the health buff. [21:36]
 
 ## Disagrees with
-- none recorded yet
+- 6lQ71BcyyyQ (Deathy, 2025-07-31): A parried player takes 30% more damage from everything. [6:36]
+- ncI8oJiNn1w (Deathy, 2026-07-26): Before 15 minutes Mid Boss pretty much never happens, and at Initiate it comes around 20 to 25 minutes [25:29]

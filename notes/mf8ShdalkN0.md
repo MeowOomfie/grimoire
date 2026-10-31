@@ -36,4 +36,5 @@ For players who feel held back by mouse control.
 - Use the Voltaic benchmarks and routines (playlists for Aim Lab and KovaaK's) to get a rank per aiming category, and their weakness-oriented playlists to fix specific weaknesses like tracking. [8:08]
 
 ## Disagrees with
-- none recorded yet
+- 42YfJRVhDRo (Shotty, 2026-08-13): Just playing more repeats the same flaws; aim trainers find your technique issue and fix it. [27:34]
+- 8NmFosO4_pE (Metro Deadlock, 2026-05-14): Sensitivity itself is not important; what matters is sticking to one and practising with it. [3:33]

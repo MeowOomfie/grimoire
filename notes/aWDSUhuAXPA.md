@@ -60,4 +60,5 @@ For any player who wants more consistent aim, on tracking heroes (Wraith, Venato
 - Sleep enough, keep a normal sleep schedule and work out; exercising before playing makes you more alert and play better. [32:39]
 
 ## Disagrees with
-- none recorded yet
+- o9-H6URkfDc (Deathy, 2026-09-14): Many top players never aim train; playing the game is the biggest way to improve. [21:47]
+- DVMHtOcOSWc (Shotty, 2026-09-18): Use passive aim by mirroring the enemy's strafe; that is how experienced players out aim players with better raw aim. [6:34]

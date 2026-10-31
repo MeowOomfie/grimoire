@@ -56,4 +56,4 @@ For anyone picking up Baba in the first days, framed as a spirit frontline disru
 - Verdict: insane, very high skill ceiling, likely to be nerfed soon; max ability 2. [13:56]
 
 ## Disagrees with
-- none recorded yet
+- 7L-j1mjASk0 (Deathy, 2026-10-08): Avoid heavy melees unless you know the opponent has no parry, and prioritise light melees. [4:07]

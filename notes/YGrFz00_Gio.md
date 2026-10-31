@@ -41,4 +41,4 @@ A 2024 walkthrough of finding your rating on a third-party tracker and reading s
 - Example: a Viscous with a bad KD had a fantastic game itemizing around saving people with his Cube and going in with his ultimate. [11:14]
 
 ## Disagrees with
-- none recorded yet
+- PRjWVA5CmbQ (Deathy, 2024-11-11): After the soul sharing change the common 1,000 souls per minute benchmark is closer to 1,200. [1:34]

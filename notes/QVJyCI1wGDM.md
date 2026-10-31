@@ -45,4 +45,4 @@ For players who win lane then lose momentum, especially on active heroes like La
 - Sinner's Sacrifices are incredibly efficient: quick to do, then fight right after. Each gives four golden statue buffs, so the double gives eight, plus a good amount of souls; spend them right away to hit a mid-game power spike, which is what Lash and many other heroes need to win. [14:45]
 
 ## Disagrees with
-- none recorded yet
+- rKuS8P-YZcs (Shotty, 2026-10-21): Boxes now rank above camps and Sinner's Sacrifice in the early game because camps take too long. [12:42]

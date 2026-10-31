@@ -76,4 +76,4 @@ For Wraith players of any rank who want a farm-first spirit and gun build, shiel
 - The shielding idea came from a viewer suggesting Fortitude; shieldings give the HP of Fortitude for half the price. [21:58]
 
 ## Disagrees with
-- none recorded yet
+- vz7HRAiQzAs (Metro Deadlock, 2025-05-09): Weapon Shielding and Spirit Shielding are the worst items in the game, 1,600 souls for a worse Reactive Barrier. [25:10]

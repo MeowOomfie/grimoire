@@ -81,4 +81,4 @@ For ranked players stuck with teammates who fall behind.
 - In fights, target the Wraith first because she is the scariest enemy. [29:03]
 
 ## Disagrees with
-- none recorded yet
+- bjPveO-_Pgs (Metro Deadlock, 2026-02-24): Contest the enemy Mid Boss almost always if you can get there in time, even down a player or two [15:51]

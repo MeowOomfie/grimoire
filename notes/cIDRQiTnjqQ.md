@@ -87,4 +87,4 @@ For players who focus on mechanics and want the hard carry decision-making after
 - Macro is 80% plus of the game, not flashy movement or aim. [37:36]
 
 ## Disagrees with
-- none recorded yet
+- IDxXf-URcXU (Shotty, 2026-09-07): Dying for a Walker is only worth it if your team is hard soul locked [28:35]

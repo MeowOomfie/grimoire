@@ -45,4 +45,5 @@ For all ranks adjusting to the new map, no single hero.
 - Farming is more important than ever with these changes. [13:39]
 
 ## Disagrees with
-- none recorded yet
+- DCO1AQQjZG0 (Metro Deadlock, 2026-09-30): On a speed Sinner's Sacrifice land the punch between the middle light and the fourth light. [1:00]
+- 0iLzlvGjfGE (Metro Deadlock, 2026-10-01): The Chinatown tower is the only place with three Sinner's Sacrifices together. [23:27]

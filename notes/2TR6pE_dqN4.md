@@ -82,4 +82,7 @@ For low-rank players, especially ones coming from Dota, who fight and jungle but
 - Warp Stone and Phantom Strike fix Abrams' biggest weakness (he is big and must reach people) and play to his biggest strength: when he is on top of people nobody can deal with him. [36:10]
 
 ## Disagrees with
-- none recorded yet
+- Xq1hjjEE1K4 (HERESY, 2026-07-12): Two players sharing a wave get 108% total versus 100% for one, so a second player adds almost nothing. [5:04]
+- BYztvpQT12Q (Metro Deadlock, 2026-05-06): Everyone in Eternus games buys Trophy Collector right now, and it was emergency nerfed because it was still crazy. [6:02]
+- BYztvpQT12Q (Metro Deadlock, 2026-05-06): Buy Trophy Collector and then green (vitality) items, which are really strong, and avoid buying a lot of orange (weapon) items. [10:08]
+- YinpOpNjpLg (HERESY, 2026-09-12): Because gun damage comes in bursts, Metal Skin outperforms Bullet Resilience by blocking all of it. [6:34]

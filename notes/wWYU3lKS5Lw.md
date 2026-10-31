@@ -39,4 +39,4 @@ Why players who farm well and die little still lose: role-based fighting, what t
 - Example from the coach's own Vyper game: he came out of the jungle around 20 minutes, the enemy Seven was already 35k with 12 kills, and the team lost because he farmed too much and missed the fights. [10:08]
 
 ## Disagrees with
-- none recorded yet
+- nWWqj1qt088 (Metro Deadlock, 2025-09-26): Trophy Collector is a scam that deletes 3,200 souls and is one of the worst items in the game, bought far too often in low rank. [0:00]

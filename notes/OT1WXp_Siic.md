@@ -53,4 +53,7 @@ A death ball, tank and hybrid meta: placement and reasoning for every hero the c
 - The average S tier hero is only a little stronger than the average B tier hero, so a B pick like Paradox is almost as strong as the S picks. [26:13]
 
 ## Disagrees with
-- none recorded yet
+- 4jRjJBVdd_g (Deathy, 2025-12-03): Infernus is S+ tier, absurdly strong at all stages of the game. [3:30]
+- 4jRjJBVdd_g (Deathy, 2025-12-03): Drifter went up a lot in success, dealing stellar damage with a good lane and great team fight. [9:03]
+- Hl_7fC48xdk (Deathy, 2025-12-19): Mina is probably S+ tier thanks to the stamina regen buff. [10:15]
+- xYK-v_aoZFk (Metro Deadlock, 2025-12-19): After lane the five-man death ball with one carry farming is mostly over [19:56]

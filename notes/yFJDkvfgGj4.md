@@ -33,4 +33,4 @@ For players wanting a meta overview. This is a late-2024 video; the Urn, walkers
 - Cold Front got a big buff: double damage to non-hero units (creeps and neutrals), so it almost one-shots small creeps with no spirit; later you can one-shot creep waves. It also gives spirit resist and is making a comeback. [7:38]
 
 ## Disagrees with
-- none recorded yet
+- Azup72ecU0A (Metro Deadlock, 2024-10-28): Siphon Bullets steals 55 max HP per stack every 0.8 seconds on hit. [13:48]

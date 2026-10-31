@@ -91,4 +91,4 @@ For players tracking how the meta shifted. This is a late-2024 patch and nearly 
 - Overall verdict: sniper nerfs, Paradox nerfs, a scary Warden buff and really big item changes. [20:44]
 
 ## Disagrees with
-- none recorded yet
+- A9is0Vf-P_I (Metro Deadlock, 2024-09-10): Past the 10 minute mark creep souls are shared, so farming next to a teammate splits them 50/50. [19:58]

@@ -67,3 +67,8 @@ Left vs right vs blue lane advantages, secret shop access, pushing and medic tro
 - XCF_7_3vJRQ (PeerContent): take the double Sinner's Sacrifice fast by switching heavy melees between the two vs the later video: at 8 minutes you cannot do doubles, since each Sinner's Sacrifice takes 320 HP and forces a reset; do a single one and go back to the wave. [8:11]
 - XCF_7_3vJRQ (PeerContent): guardians start with 75% damage resist, decaying to minus 50% by 12 minutes vs the later video: tower damage resist is 50% at the start, 25% at 3 minutes, none at 6 minutes, then 25% bonus at 9 and 50% at 12. [2:32]
 - X9yhG5vKca4 (HERESY): parrying the guardian disables it for 2.75 seconds vs the earlier video: parrying a guardian stuns it for 2 seconds. [10:13]
+- S3szHWgcc7s (Metro Deadlock, 2025-02-26): Small neutral camps respawn in 3 minutes (was 4) and medium camps in 5 minutes (was 6). [4:05]
+- e5WJbcIYgqc (Deathy, 2025-11-27): After the healing trooper rework you should usually kill it last, because it heals a percentage of missing health. [0:30]
+- Hj3p8cSiN_M (Natan, 2026-10-02): Guardians start at 50% damage resist, scaling down linearly to minus 50% at 12 minutes. [2:32]
+- -b84YJLbyhI (Deathy, 2025-11-22): Guardian damage resist decays to minus 50% over 10 minutes. [7:44]
+- X9yhG5vKca4 (HERESY, 2026-01-27): Parrying a Guardian stuns it for 2 seconds. [24:28]

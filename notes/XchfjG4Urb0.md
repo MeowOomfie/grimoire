@@ -26,3 +26,4 @@ Seven, skill order change (Storm Cloud third instead of Lightning Ball), Power S
 - Reverses qvEpgbh68_U's third max (Lightning Ball at 30k) in favour of Storm Cloud third.
 - Says Static Charge second is more impactful than Storm Cloud and argues against maxing or building for the ult first; gnB3z7NN3Ww and M-yo0Z4rXMk then max Storm Cloud second.
 - Says Unstoppable is not mandatory for ult Seven; 8RBqzO0I7VQ says that if you play for your ult, Unstoppable is a must buy.
+- CHEaxYKDEmQ (Deathy, 2024-09-21): After 20 minutes a farming hero should aim for 1,500 to 2,000 souls per minute. [12:46]

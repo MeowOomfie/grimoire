@@ -95,4 +95,11 @@ For new and mid-rank solo queue players; names Lady Geist, Kelvin, Mo & Krill an
 - Mo & Krill and Wraith have a guaranteed kill button in their ultimates, so they can pick off the one or two strong enemy players and you do not need to rely on your team. [43:43]
 
 ## Disagrees with
-- none recorded yet
+- 2jYvtTRrIns (Deathy, 2026-05-23): Investment spikes now come at 6.4k, 8k, 11.2k and 16k in each category. [5:07]
+- zkoYGTvCsog (Sensu, 2026-10-07): A dying trooper drops 50% of its souls as a ground orb and 50% as a floating orb you must shoot or melee to confirm. [8:06]
+- Hj3p8cSiN_M (Natan, 2026-10-02): Only box run when your lane is not productive; if you can get positive trades or Guardian damage, the box run is usually not worth it. [2:02]
+- xwclv0agS3A (Natan, 2026-10-17): If unsure what to do, actively push waves past the midpoint of the map. [0:31]
+- KgatoxIlhjI (Metro Deadlock, 2026-02-25): Turn on instant cast for abilities on almost every character. [3:37]
+- rKuS8P-YZcs (Shotty, 2026-10-21): When far ahead, take Mid Boss to half health, stop hitting it and fight the enemies who drop in to contest [71:04]
+- zkoYGTvCsog (Sensu, 2026-10-07): Destroying Patron phase one cuts defenders' respawn timers by up to 20 seconds, but not below 10 seconds remaining [15:42]
+- 5bj_EYm06EM (moe9times, 2026-07-21): The Urn should no longer be used as a distraction play because the bounty decays and the carrier no longer flashes on the map [42:02]

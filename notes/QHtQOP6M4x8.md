@@ -57,4 +57,5 @@ For players adjusting to the new map and lane rules.
 - Final verdict: big winners Lash and Seven, big losers Mo & Krill and snipers. [21:08]
 
 ## Disagrees with
-- none recorded yet
+- xYK-v_aoZFk (Metro Deadlock, 2025-12-19): Leaving your lane to cross the map for a few sinners is probably not worth it, jungle plus lane gives as much or more. [20:58]
+- _pQIlri_azs (Metro Deadlock, 2024-12-09): Denying now gives only 30% of a soul's worth, so focus less on denying and securing and more on damaging the enemy hero. [1:30]

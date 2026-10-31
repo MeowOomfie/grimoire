@@ -73,4 +73,4 @@ For players who find map control intangible and want to extend leads and end gam
 - A team that is stronger with better vision can defend a Guardian with three against a four-player commit, freeing others to take the last Guardian, then take all the farm and structures, the Urn and the Mid Boss, and end the game. [20:20]
 
 ## Disagrees with
-- none recorded yet
+- xrndiLirUYQ (Deathy, 2026-04-10): An enemy with line of sight reveals you on the minimap only within about 50 to 60 m. [0:30]

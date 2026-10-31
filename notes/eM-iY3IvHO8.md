@@ -117,4 +117,5 @@ Heroes: Abrams, Apollo, Bebop, Billy, Calico, Celeste, The Doorman, Drifter, Dyn
 - Yamato build: Mystic Shot in lane for harass, early Torment Pulse, then Silence Wave; expect to see Silence Wave much more once people realize how strong it is. [38:49]
 
 ## Disagrees with
-- none recorded yet
+- dYCgnZ4Wp-A (Metro Deadlock, 2025-09-17): Ball builds on Seven are not good; the classic build maxes Power Surge first. [25:31]
+- dYCgnZ4Wp-A (Metro Deadlock, 2025-09-17): The gun Mirage build is still the most solid; he does most of his damage with the gun. [21:59]

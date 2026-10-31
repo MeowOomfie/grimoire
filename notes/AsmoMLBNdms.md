@@ -39,4 +39,7 @@ Improvement mindset for players stuck in a rank: stop blaming the team, practice
 - People know what is correct but do not apply it in the moment, so they think they are better than they are; review your own gameplay even though it is boring. [12:42]
 
 ## Disagrees with
-- none recorded yet
+- C7m-UdUIcQA (Deathy, 2026-06-25): Do not make alt accounts to learn new heroes; do it on your main and treat it as a play test. [0:30]
+- o9-H6URkfDc (Deathy, 2026-09-14): Elo hell is not real; if you do not belong in a bracket you will get out with enough games. [37:31]
+- C7m-UdUIcQA (Deathy, 2026-06-25): VOD reviewing only yourself is limited, because you do not know what you do not know. [1:00]
+- uaxXgf9O_-A (Sensu, 2026-06-03): After a tilting game or a loss streak, do not queue straight away; take a short break. [5:03]

@@ -84,4 +84,4 @@ For Seven players and anyone learning comeback macro, May 2025 patch.
 - Slide to extend your magazine. [19:27]
 
 ## Disagrees with
-- none recorded yet
+- nXZVkn0vYtA (Deathy, 2026-05-01): He is not afraid to let the wave crash into his tower while he runs boxes. [4:35]

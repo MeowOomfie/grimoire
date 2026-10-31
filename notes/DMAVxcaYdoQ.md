@@ -44,4 +44,4 @@ For players choosing heroes and items who want to understand early vs late game 
 - Right now gun heroes are not that good overall, though some are; Deadlock has had few gun metas because it has historically been won in the first 15 to 20 minutes, especially at high level. [15:20]
 
 ## Disagrees with
-- none recorded yet
+- oXAqVuI14Ic (Metro Deadlock, 2026-08-03): Lash is S tier, possibly the best hero, killing everyone after lane and scaling well with no weak point. [10:49]

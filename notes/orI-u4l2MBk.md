@@ -122,4 +122,5 @@ Metro's live first read of the whole shop on the day of the May 2025 item overha
 - Vortex Web: throw a vacuum grenade that pulls all enemies into a small area and slows them for 4 seconds after; a big radius and a super powerful effect, like Dark Seer's Vacuum. [58:55]
 
 ## Disagrees with
-- none recorded yet
+- TZ4yV937Rv8 (Deathy, 2025-05-10): The shielding barriers trigger very easily and are a lot of effective HP for the money, especially against burst. [11:36]
+- ywC2b6uFS6A (Deathy, 2025-09-05): Siphon Bullets' max HP steal goes from 55 to 35 and now scales per boon, so rushing it does little. [18:51]

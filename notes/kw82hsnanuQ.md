@@ -36,4 +36,4 @@ For players adjusting builds and hero picks to the new patch.
 - Celeste finally got real nerfs: less damage from her Light Eater on-hits and her ult cooldown is no longer refunded on misses; the coach thinks these were very much needed. [5:04]
 
 ## Disagrees with
-- none recorded yet
+- 9iK7Ea-xpug (HERESY, 2026-06-09): Tankbuster is over-purchased on spirit nukers and is generally better on supports as an extra damage item than on full spirit nuker carries. [4:06]

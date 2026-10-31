@@ -62,4 +62,8 @@ Includes a tunnel loop and ultimate-timing trick for the tunnel heroes Calico, R
 - Climbing drains stamina but is not really an issue; the map is very symmetrical, so learning one side lets you figure out the other. [29:00]
 
 ## Disagrees with
-- none recorded yet
+- gzacSZxQb_o (Metro Deadlock, 2026-10-08): Boxes and statues respawn every two minutes. [1:00]
+- c3T4WMro7AA (Bogur Two, 2026-10-23): Every box, sewer boxes included, respawns every 3 minutes. [2:45]
+- dUWP1ORnSxo (Shotty, 2026-05-15): From 2:00 on never stay in lane after killing minions: kill minions, run boxes or a camp, repeat. [14:48]
+- Eb4u-TRmdqw (Sensu, 2026-04-26): Guardians start with 75% damage resist, decaying to minus 50% by 12 minutes. [2:32]
+- rKuS8P-YZcs (Shotty, 2026-10-21): A solo laner gets around 50 souls per minion versus 20 to 25 when shared. [57:19]

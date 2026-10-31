@@ -33,4 +33,6 @@ Patch-specific; old economy.
 - Prioritize lanes and objectives over the jungle; still farm the jungle when you can, but it is not a high priority, and its long respawn timers suggest the game is not built around it. [14:52]
 
 ## Disagrees with
-- none recorded yet
+- YGrFz00_Gio (Deathy, 2024-09-01): On most characters you should be at least 1,000 souls per minute. [2:35]
+- J8cTvPIxBOw (Metro Deadlock, 2024-11-11): A hotfix cut soul sharing so each duo laner gets 75% instead of the full 100%. [9:10]
+- S3szHWgcc7s (Metro Deadlock, 2025-02-26): With six players, more camps and faster respawns, jungling becomes more important. [4:05]

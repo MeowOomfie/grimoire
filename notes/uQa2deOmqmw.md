@@ -123,4 +123,5 @@ Lane trading and early itemization, soul farming between waves, side laning and 
 - Summary: do not default to fighting; before every fight you should be able to name a reason (ultimates, souls, waves). If you cannot, you should have been in the jungle. [64:27]
 
 ## Disagrees with
-- none recorded yet
+- sO7WgNaPjeE (Deathy, 2024-08-29): Don't rush the shop as soon as you have a lot of souls, push a wave and apply pressure first. [15:54]
+- xYK-v_aoZFk (Metro Deadlock, 2025-12-19): Do not buy Siphon Bullets on any hero; it does 33% less damage and healing and is almost the worst item in the game. [23:02]

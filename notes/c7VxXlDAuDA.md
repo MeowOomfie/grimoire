@@ -105,4 +105,4 @@ Topics: fighting for wave priority, the 4:30 wave and bridge buff, the Urn vs sp
 - Overall he showed stark improvement since last week and needs more discipline. [42:34]
 
 ## Disagrees with
-- none recorded yet
+- e5WJbcIYgqc (Deathy, 2025-11-27): Wave priority is still king but is not as important as before, now valued for the threat of your troopers rather than for killing the healing trooper fast. [4:04]

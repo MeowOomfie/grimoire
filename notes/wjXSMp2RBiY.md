@@ -107,4 +107,5 @@ Winning a weak lane through the new box system and healing packs, rift and urn p
 - The game was won through coordination and communication, not mechanics or draft; it was unwinnable without someone speaking up, and communicating strategies generally helps you win more. [37:23]
 
 ## Disagrees with
-- none recorded yet
+- MckWz6VxMgQ (Deathy, 2026-10-22): At 200 HP go back to base, which is the most efficient way to heal to full. [17:20]
+- vLTBkLYSjXU (Midknight Vods, 2026-07-29): You can give up the mid walker to take the Rift, because the Rift is more souls [146:19]

@@ -70,4 +70,4 @@ For Pocket players and anyone learning lane safety and objective-focused macro. 
 - Item and skill builds are the part of a guide least likely to stay the same while the game changes so often. [16:22]
 
 ## Disagrees with
-- none recorded yet
+- YGo8YvaW8tQ (Deathy, 2024-09-23): With more players than intended in a lane the souls are split in a disadvantageous way, so everyone gets less value. [0:31]

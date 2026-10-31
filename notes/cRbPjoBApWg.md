@@ -53,4 +53,5 @@ What the best players do in each phase: lane phase (wave clear, healing minion, 
 - Ranked now has rank shields, so with well-timed losses you can rank up at 50% win rate or lower; he says rank is mostly playtime and individual performance barely matters. [24:55]
 
 ## Disagrees with
-- none recorded yet
+- 0iLzlvGjfGE (Metro Deadlock, 2026-10-01): If you are full HP, kill the medic creep last so its heal is not wasted. [19:23]
+- qcPoi9e7LRo (Deathy, 2025-11-17): At higher rank skip boxes to rotate faster; boxes are what you do when there is nothing better. [32:34]

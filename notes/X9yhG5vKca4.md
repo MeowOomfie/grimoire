@@ -118,3 +118,8 @@ Lane phase: soul advantage, the big four checks (health, items, souls, ults), wa
 - XCF_7_3vJRQ (PeerContent): a camp taken about 5 seconds after it spawns at 2:00 respawns at 3:30 vs the later video: a T1 camp cleared around 2:05 respawns at about 2:25 to 2:30. [15:49]
 - wU29_RfH8Ks (Deathy): Yamato is a strong laner Valve wants powerful in lane and is rarely vulnerable vs the earlier video: Yamato has the lowest base health at 500 and is extremely vulnerable to getting gone on early, so focusing her early often gets kills. [31:08]
 - 4VKA3fxPKoA (Metro Deadlock): Dynamo's ult is around a 4 minute cooldown vs the earlier video: after Dynamo uses Black Hole you get about two minutes where he is not scary. [4:05]
+- PI3RZVAW5jw (Metro Deadlock, 2025-09-08): Going back to base before about 6 minutes loses over 400 souls, so you almost never want to go back. [12:44]
+- -b84YJLbyhI (Deathy, 2025-11-22): Because the new heal scales with missing health, killing the enemy healing trooper last is now more effective than killing it first. [1:02]
+- PI3RZVAW5jw (Metro Deadlock, 2025-09-08): An aggressive approach is always better than a defensive one, in lane and everywhere in Deadlock. [26:30]
+- s0bCd_dobYI (Deathy, 2024-10-14): Always take the enemy guardian as early as possible and never delay it, since you can then steal their jungle. [6:36]
+- Eb4u-TRmdqw (Sensu, 2026-04-26): Parrying the Guardian disables it for 2.75 seconds. [10:13]

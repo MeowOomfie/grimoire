@@ -83,4 +83,4 @@ For Lash players and anyone learning mid game map pressure. Item names, numbers 
 - Damage dealt by type shows your main sources of damage; his were diverse: gun, Flog, Ground Strike, Improved Burst, gun crits. [36:28]
 
 ## Disagrees with
-- none recorded yet
+- uQa2deOmqmw (HERESY, 2026-01-21): Shoving without spending souls was a mistake, cash in items as soon as possible. [6:39]

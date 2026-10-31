@@ -70,4 +70,5 @@ For mid-rank players who take random fights and miss objective timers.
 - One kill from being slightly better than a guy doesn't give much beyond stopping his farm, and it is risky because you may be overextending and get caught. [21:17]
 
 ## Disagrees with
-- none recorded yet
+- lYUjWpA__vE (Metro Deadlock, 2025-04-19): The first Urn now counts for comeback mechanics, so a team far ahead can no longer take it for free. [6:38]
+- -NyPdE6mL9s (Metro Deadlock, 2026-02-03): Guardians only give souls; flex slots are unlocked by Walker kills. [19:22]

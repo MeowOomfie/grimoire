@@ -282,4 +282,4 @@ Player 4 (Holliday, top-level EU lobby near Eternus 6):
 - You didn't focus the Apollo enough, even though he was the problem. [204:25]
 
 ## Disagrees with
-- none recorded yet
+- wjXSMp2RBiY (HERESY, 2026-10-03): The blue walker is the most important walker, so trading a rift for the blue walker is often correct [12:52]

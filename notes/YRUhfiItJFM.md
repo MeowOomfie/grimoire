@@ -75,4 +75,4 @@ For players asking whether their hero is still viable and what to buy after the 
 - It is still a spirit nuke meta: the spirit nukers and tanks in S tier are the same or stronger; play spirit nukers. [27:33]
 
 ## Disagrees with
-- none recorded yet
+- NV8G-p3xzmI (Metro Deadlock, 2026-10-17): Reactive Barrier is a niche item that is not great in the current meta; with mixed damage Spirit Shielding gives more effective HP. [4:35]

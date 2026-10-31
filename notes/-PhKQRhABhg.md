@@ -62,4 +62,5 @@ For players who fall behind on souls or want to become their team's carry farmer
 - Knowing where to go next and planning ahead raises your souls per minute by a huge margin; efficiency in farming is king. [19:16]
 
 ## Disagrees with
-- none recorded yet
+- Vfw8aqOH0tk (Metro Deadlock, 2025-11-30): Wraith should farm sinners on both sides of the map, and stealing the enemy's sinners is better. [12:43]
+- z3SfKOCdE0I (DattoDoesDeadlock, 2026-10-19): "Carries need to get all the souls" is propaganda by carry players and not true. [36:34]

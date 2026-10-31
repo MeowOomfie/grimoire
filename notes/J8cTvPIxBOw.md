@@ -24,4 +24,4 @@ A 2024 stream rant (the game has changed a lot since) about a patch that made tw
 - The same hotfix reduced Shadow Transformation: bullet and spirit resist 60 to 50, heal 30 to 25, duration 6 to 5.5 seconds; Paradoxical Swap time was increased to help with the camera. [10:12]
 
 ## Disagrees with
-- none recorded yet
+- PRjWVA5CmbQ (Deathy, 2024-11-11): Soul sharing, with both duo players getting full value, was extended from the laning stage to the whole game. [0:01]

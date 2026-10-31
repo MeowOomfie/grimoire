@@ -104,4 +104,4 @@ Heroes: Abrams, Apollo, Billy, Celeste, Calico, The Doorman, Drifter, Dynamo, Ha
 - Yamato's max Flying Strike gives charges and can grapple to ally heroes and structures (walkers, guardians), allowing crazy escapes by cancelling onto them. Her max ult gives even more resist than before. [48:21]
 
 ## Disagrees with
-- none recorded yet
+- SHzklsOihzc (Metro Deadlock, 2026-03-27): Golden Goose Egg's 10% damage penalty does not apply to percent health damage items like Toxic Bullets, Scourge and Siphon Bullets. [12:11]

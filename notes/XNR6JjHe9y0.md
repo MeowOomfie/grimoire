@@ -54,4 +54,4 @@ A response to Metro's claim that rushing the 4.8k vitality investment is broken,
 - Even carry heroes like Wraith should not play to lose the lane; top carry players try to win lane, and only if they lose it do they adapt toward survival and movement speed items to recover. [21:14]
 
 ## Disagrees with
-- none recorded yet
+- ij0aCOP9l5g (Metro Deadlock, 2026-04-11): After the medic trooper heal was cut from 16% to 14%, lane regen items matter more and you cannot sustain on low HP as much. [1:00]

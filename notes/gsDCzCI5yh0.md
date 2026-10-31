@@ -71,4 +71,13 @@ For ranked players (around Ascendant+). Early 2025; the game has changed a lot s
 - In low ranks, gun heroes like Haze and Seven might be a bit better because enemies move worse and are easier to hit. [48:43]
 
 ## Disagrees with
-- none recorded yet
+- DmLuOrj6NWI (Metro Deadlock, 2025-03-23): Calico gets an S+ tier of her own because she is just so good. [0:00]
+- 1LZn2lXsNPo (Deathy, 2025-04-03): Kelvin should be much lower than the community placed him, worse than Grey Talon, Paradox, Yamato and Holliday. [61:44]
+- 1LZn2lXsNPo (Deathy, 2025-04-03): Vyper is probably the most underrated hero, with a top five ult, and Deathy wants his comp team to practice him. [52:27]
+- 1LZn2lXsNPo (Deathy, 2025-04-03): Mirage sits at the top of S tier (62% S votes), zoning people out of lane with no real counter besides hard CC. [32:57]
+- 1LZn2lXsNPo (Deathy, 2025-04-03): Ivy goes down to the top of B tier in Deathy's edits to the community list. [61:12]
+- 1LZn2lXsNPo (Deathy, 2025-04-03): Sinclair moves down to A and is worse than Grey Talon for consistency. [61:44]
+- 1LZn2lXsNPo (Deathy, 2025-04-03): Infernus is the most balanced hero in the game and is placed at the top of B. [19:33]
+- EH7Uwq2XEyA (Deathy, 2024-12-11): Haze was in the extremely strong tier last list and only moves down to strong. [12:46]
+- EH7Uwq2XEyA (Deathy, 2024-12-11): Gun McGinnis is probably the new way to play her after the turret nerf. [19:52]
+- EH7Uwq2XEyA (Deathy, 2024-12-11): Seven is at least okay after slight buffs and Deathy puts him in the good tier. [16:20]

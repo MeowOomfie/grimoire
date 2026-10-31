@@ -181,4 +181,4 @@ Dota-style positions 1 to 6 in Deadlock, defined by farm priority: hard carry, o
 - None of this is law; understand the rules so you know when to break them. [55:03]
 
 ## Disagrees with
-- none recorded yet
+- dUWP1ORnSxo (Shotty, 2026-05-15): Use the Urn as a distraction, running it to a safe area to draw enemies while someone like Wraith solo pushes a Walker [32:34]

@@ -91,4 +91,4 @@ For players learning Victor or wondering why the pure spirit/aura style is falli
 - Victor benefits greatly from macro awareness and efficient farming. [32:45]
 
 ## Disagrees with
-- none recorded yet
+- CIsvCWMQOvg (Metro Deadlock, 2025-10-14): Victor is stronger than before because he shows up in early and mid game fights instead of AFK farming. [42:34]

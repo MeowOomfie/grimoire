@@ -39,3 +39,4 @@ Macro: push the nearest wave, objective timers cheat sheet (sinners, bridge boss
 - jtY2RoO7ax8 (Metro Deadlock): Mina is a side laner vs Minas who sit on a side lane farming like a carry after lane are wrong, she should go around getting kills. [4:34]
 - jtY2RoO7ax8 (Metro Deadlock): Mirage isn't soul hungry and is a very oppressive duelist vs Mirage is one of the weakest heroes and a carry who sits on the side lane for money to scale into late game. [3:33]
 - JouUab99B4Y (Metro Deadlock): Mirage isn't soul hungry vs Mirage is a carry, a hero that needs more farm than others to reach full potential. [3:33]
+- dUWP1ORnSxo (Shotty, 2026-05-15): Never walk past the midpoint of the map without vision on enemies, or you get ganked. [31:03]

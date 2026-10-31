@@ -80,4 +80,4 @@ A full gun Warden build for the May 2025 patch era (right after the big item upd
 - Usually he adds Counter Spell or Unstoppable and follows the build left to right; it works against almost every comp. [26:34]
 
 ## Disagrees with
-- none recorded yet
+- G7Xy2qIOEwc (Deathy, 2025-10-05): Boxes are not a priority; treat them as something to do when there is nothing better to do. [9:08]

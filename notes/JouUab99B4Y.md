@@ -120,3 +120,5 @@ Role system (carry, off carry, support, initiator/catch, frontliner/tank, hybrid
 - xwclv0agS3A (Natan): Mirage is a carry, a hero that needs more farm than others to reach full potential vs Mirage isn't soul hungry. [0:30] [1:00]
 - j419hATvkR8 (MartinHitsRecord): Warden and Victor are carries and Mo & Krill a support vs Warden is an initiator and frontline brawler, Victor a frontline brawler or tank, and Mo & Krill a tank and initiator. [0:30] [12:14]
 - D3Pptd6R5z0 (MartinHitsRecord): Rat King is a carry vs Rat King is a tanky frontline brawler who takes damage for the team. [0:30]
+- -qdOcYG_JB8 (Metro Deadlock, 2026-02-09): Celeste's ricochet left click is an insane lane harass tool. [1:04]
+- YwWdz1h97xc (Deathy, 2026-02-14): Below Ascendant roles do not matter much; just get as many souls as you can unless you are on a support hero. [0:30]

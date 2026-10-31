@@ -81,4 +81,7 @@ For players learning Wraith as a weak-laning, late game 1v1 hard carry.
 - Prioritize lanes over everything else. [35:16]
 
 ## Disagrees with
-- none recorded yet
+- 09zYamjnG_8 (Metro Deadlock, 2024-11-14): Gun is better than cards on Wraith and the build stays a gun build. [7:04]
+- lVYX_FJKGW4 (Metro Deadlock, 2024-12-01): Do not max Card Trick, because cards are weak and capped by the throw cooldown. [6:10]
+- iMuQFhuarig (Metro Deadlock, 2025-02-11): Wraith is a solid 1v1 laner who cannot really lose 1v1 lanes. [1:30]
+- 4jRjJBVdd_g (Deathy, 2025-12-03): Wraith is hard to itemize against because of her hybrid damage, so Bullet Resilience and Metal Skin do not do much. [6:31]

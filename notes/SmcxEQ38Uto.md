@@ -76,4 +76,7 @@ For new or returning players choosing a first hero, or players picking a hard he
 - Yamato's ult is simple, but players still fail to use it in time when low and die; her 3 is not aim intensive but can carry fights. [31:22]
 
 ## Disagrees with
-- none recorded yet
+- rKuS8P-YZcs (Shotty, 2026-10-21): Lash and Wraith are good beginner heroes, Lash among the easiest heroes to have impact with. [77:09]
+- CIsvCWMQOvg (Metro Deadlock, 2025-10-14): Sinclair is the hardest hero to learn and master. [19:27]
+- 8qFyVDExn4k (aquatiq, 2026-09-18): The ult build is the only decent way to play Seven. [1:35]
+- CIsvCWMQOvg (Metro Deadlock, 2025-10-14): Mirage looks simple but needs a precise playstyle and proper teleport use. [14:50]

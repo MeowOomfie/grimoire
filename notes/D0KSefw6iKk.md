@@ -89,4 +89,8 @@ For any player who wants to know what changed and what it means in their games, 
 - Warden: another bullet damage per boon reduction (the second in a row), Willpower tier two and tier three spirit scaling buffed; coach reads this as Valve wanting him as a front line disruptor in a Billy-like range rather than a gun carry. [31:15]
 
 ## Disagrees with
-- none recorded yet
+- zkoYGTvCsog (Sensu, 2026-10-07): The dash jump window after a ground dash is 0.3 seconds. [2:00]
+- E5CRaB37G5E (Natan, 2026-01-25): The dash jump window is generous and the dash jump is a big speed boost worth its two stamina. [2:33]
+- 9xJn4Y-lrNw (HERESY, 2026-05-07): When the Urn is hurting you, run it back to your base, drop it and spend your souls [22:33]
+- 3Cta_ITcDlY (Metro Deadlock, 2026-07-02): If the enemy waits at the drop off keep holding the Urn, since there is no penalty and it disappears after 45 seconds [6:38]
+- -JuKgSLZbXg (Deathy, 2026-07-07): The first Rift is only worth about 1,500 souls and its troopers are by no means a guaranteed Walker [11:10]

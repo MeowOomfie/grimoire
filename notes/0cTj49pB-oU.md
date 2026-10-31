@@ -62,3 +62,4 @@ Seven coaching review of a Phantom player (with a Lash lane partner): weak lane 
 - RaAKf-PPx0o (Tonydadof4): fine for Seven not to farm the Sinner's Sacrifice, he prioritizes hybrid camps vs the beginner guide: Sinner's Sacrifice is the second farm priority after waves. [13:25]
 - 9-y0F9f1R6c (Metro Deadlock): below Oracle, just farm all game and you win every game, mindless farming is correct on Seven vs the earlier video: it is not farming, push lanes and force objectives first, jungle farming always comes after. [10:21] [30:11]
 - 9-y0F9f1R6c (Metro Deadlock): Seven is one of the weak laners and loses any fair fight vs the earlier video: Seven's early and mid game are very powerful. [0:30] [3:34]
+- fM2V11-6d9E (Sensu, 2026-05-24): Running a comeback Urn to the mid bridge while far behind is nearly a death sentence because the enemy has more souls and lane priority. [1:00]

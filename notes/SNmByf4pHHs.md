@@ -86,3 +86,6 @@ Laning after the map update: health bar plus souls model, power spikes (Vindicta
 - XCF_7_3vJRQ (PeerContent): at 8 minutes go for the double Sinner's Sacrifice in the jungle on each side vs the later video: at 8 minutes you cannot do doubles, since each Sinner's Sacrifice takes 320 HP and forces a reset; do a single one and go back to the wave. [23:26]
 - XCF_7_3vJRQ (PeerContent): troopers spawn every 30 seconds vs the later video: waves are about 25 seconds apart (it used to be 30). [20:23]
 - 5O2xp1Rc9cU (Deathy): 8 minutes is usually the end of lane vs the earlier video: the laning stage officially ends at 10 minutes, when the buffs respawn and the Urn and mid boss appear. [13:49]
+- RjV40z_u5i4 (Metro Deadlock, 2025-03-07): Give the Sinner's Sacrifices to your position one and two heroes because they benefit most from the statue stats. [9:45]
+- Xq1hjjEE1K4 (HERESY, 2026-07-12): Bridge buffs are incredibly important, each worth at least a thousand souls of item value. [2:02]
+- RjV40z_u5i4 (Metro Deadlock, 2025-03-07): Give Sinner's Sacrifice to your position one and two heroes, because they benefit most from the statue stats. [9:45]

@@ -71,4 +71,4 @@ For players of any rank who want to know what to buy in a spirit-heavy meta and 
 - Give Greater Expansion a chance on many heroes. [16:23]
 
 ## Disagrees with
-- none recorded yet
+- xRlHOsufXkQ (Metro Deadlock, 2025-05-27): Healbane is C minus and really fell off: the anti-heal is very low now, almost no hero but Shiv buys it, and it upgrades into nothing. [24:16]

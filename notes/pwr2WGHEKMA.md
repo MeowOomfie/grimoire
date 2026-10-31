@@ -107,4 +107,5 @@ For players who feel lost after lane, especially Archon to Ascendant players who
 - After Mid Boss you do not need to walk into their base right away; take the Urn and Walker and keep pushing side waves (one hero left, one right) to keep pressure on the whole map, then end. [39:14]
 
 ## Disagrees with
-- none recorded yet
+- IDxXf-URcXU (Shotty, 2026-09-07): The boxes and statues right above the Mid Boss are on average better than a Sinner's Sacrifice. [3:08]
+- gUe-_cD12kM (Metro Deadlock, 2025-10-08): From about 12 to 13 minutes one, two or three kills give your team enough time to take Mid Boss [16:21]

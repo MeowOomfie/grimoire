@@ -123,4 +123,4 @@ For mid to high rank Calico players. Game from the patch before mid April 2026.
 - They were behind but got the comeback urn, won the fight on it and won the game. [30:32]
 
 ## Disagrees with
-- none recorded yet
+- BiZ29Dtc-Wo (Deathy, 2026-04-19): Two Walkers are only 8,000 souls, so Mid Boss is worth trading any number of Walkers for and Walkers only add flex slots [14:14]

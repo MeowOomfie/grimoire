@@ -69,4 +69,6 @@ Metro's Heroic Wraith build (Heroic Aura, double barriers, Tesla Bullets) compar
 - Do not play Wraith defensively: she is the best split pusher in the game, kills towers, Walkers and objectives faster than anyone, so push objectives; he kills multiple Walkers around 15 minutes in most games, even Eternus. [31:12]
 
 ## Disagrees with
-- none recorded yet
+- B6wcg8mTRww (Metro Deadlock, 2025-11-09): Card Trick played correctly is Wraith's main damage and without it she would be the worst hero by far. [89:29]
+- XM7SOBSoAf0 (Metro Deadlock, 2024-09-12): Wraith's play style is passive, sitting in your territory farming until someone comes to you. [14:49]
+- EwlgaIcjNMk (Metro Deadlock, 2025-10-06): Wraith is one of the weakest laners because her early cards do so little damage. [3:01]

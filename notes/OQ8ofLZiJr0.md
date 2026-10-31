@@ -84,4 +84,4 @@ For low and mid rank players who lose games after lane or give up when behind.
 - After killing a Rejuvenator holder, retreat to spawn and wait; waves crash into your base so you still farm, and the enemy often gives up on using Rejuvenator. [26:26]
 
 ## Disagrees with
-- none recorded yet
+- CH3DcJgGpHw (Deathy, 2025-04-18): Pick the Urn up when it is a comeback Urn for you and leave it when it is one for the enemy. [4:06]
