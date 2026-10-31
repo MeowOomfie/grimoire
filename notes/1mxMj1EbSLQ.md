@@ -1,0 +1,78 @@
+# Why YOU CAN'T CARRY in Deadlock - Archon Pocket Coaching
+channel: Natan
+date: 2025-07-16
+url: https://www.youtube.com/watch?v=1mxMj1EbSLQ
+
+## Covers
+Free coaching review of an Archon Pocket (with Bebop, vs Seven and Lash) who does well early but falls off late.
+Main themes: buy Healing Rite on Pocket, push the lane lead into the guardian, farm efficiently instead of grouping in a 5v5, side-lane pressure and quick decisive fights.
+For mid-rank Pocket players and any high-soul hero, July 2025 patch.
+
+## Claims
+- When lower-rank games turn into everyone grouped in one lane for a 5v5, either make something happen quickly or leave and go farm. [0:01]
+- The later the game goes, the more spirit resist and debuff resist an Infernus gets, so a fed Infernus gets harder and harder for Pocket to deal with. [0:31]
+- Pocket falls off late compared to hyper carries like Infernus and Seven that scale almost infinitely. [1:02]
+- Suppressor is not that good on Pocket because Affliction does not proc it (it only procs once you have Spirit Burn). [1:02]
+- Against M1 carries like Infernus, buy Phantom Strike late game, especially when the target has no Debuff Reducer or Debuff Remover and probably won't buy one. [1:02]
+- Keep some weapon investment on Pocket even late (Kinetic Dash, Mystic Shot or Point Blank), because his gun isn't terrible. [1:32]
+- Pocket and Bebop vs Seven and Lash should be a good lane, especially if Bebop lands a hook on the Seven, which should be an instant kill. [1:32]
+- Start Flying Cloak at level one instead of Enchanter's Satchel: it does about 20 more damage at level one and can AoE the wave and a hero. [1:32]
+- If someone melees you once, get your parry ready, since they are melee hungry. [2:02]
+- When low early, push the wave quickly and buy Healing Rite. [2:32]
+- The Lash can't really kill you with Slam because you can always dodge it with Enchanter's Satchel. [2:32]
+- Don't buy Extra Regen at 1 HP, especially on Pocket; Pocket likes Healing Rite a lot. [2:32]
+- When your Bebop is going to miss the minions, don't hit the wave yourself. [3:03]
+- Use Enchanter's Satchel to dodge Seven's ult. [3:03]
+- Pocket has a low max HP pool, so Healing Rite heals him back up easily, and since he farms a lot it keeps him healthy; never really go Extra Regen on Pocket, go Healing Rite or Restorative Shot. [3:03]
+- Turn motion blur off; the game looks better and things are easier to spot. [3:35]
+- If the Seven pushes the wave into you while the Lash is away, that's good, because the Lash will miss the minions. [4:06]
+- Being constantly at 1 HP all lane is why you buy Healing Rite: grab some boxes and you are back to full and can actually play. [4:37]
+- Staying low lets the enemy Seven play without pressure and farm for free while your guardian is already half HP by 4 minutes. [4:37]
+- Throw quick melees into your Pocket combo; it adds about 70 damage per combo in melee range, and people in this elo don't parry quick melees. [5:42]
+- Trick: use quick melee while the enemy is dashing away from you, because nobody parries while dashing away, so it's a free hit. [5:42]
+- When you're low, the bridge survival buff is very valuable; it spawns at 6 minutes (he first says 5, then corrects to 6). [6:44]
+- After pushing a wave while low, go back to base; you have the zipline boost and can be back quickly. Staying too long forces you to push the next wave first. [7:16]
+- Being constantly low means you can't press a soul lead or take the enemy guardian, which should be your goal in lane. [7:50]
+- You don't always have to cloak backwards; with a weak Lash nearby you can cloak in for the kill. [8:20]
+- Pocket kill combo: look at the target and Flying Cloak, then Enchanter's Satchel, teleport to the cloak, Barrage (caption "cold front"), and a quick melee; don't take time aiming the cloak in another direction, get the combo out as fast as possible. [8:20]
+- With a lead, don't bother going for the kill; push the wave and hit the guardian, that's what you're there for. [8:50]
+- If you can't take the guardian because their wave clear is too strong, take center sacrifices, a jungle camp or boxes, because you need to push your lead somehow. [9:54]
+- Spirit Shielding is a great pickup in this game. [9:54]
+- Compress Cooldown on Flying Cloak is interesting and not bad. [10:25]
+- When you see three enemies on yellow and two on blue, hard push green and take that guardian. [10:25]
+- Take the guardian and get out. [10:57]
+- Use your zipline boost (available since 6 minutes); don't stand around, you can't defend a guardian alone at 1 HP. [11:27]
+- Buy Majestic Leap before Superior Cooldown, because it enables plays around the map. [12:04]
+- Don't use all your stamina bars before engaging. [12:43]
+- Weave in quick melees because no one expects them and they add up. [12:43]
+- Using two Afflictions in one fight early is a bad sign: waiting that long for an angle while grouped means sharing souls instead of farming, and Pocket likes to farm and farms quickly. [13:13]
+- If you don't see the angle quickly, leave and farm, because getting to power spikes is so important. [13:43]
+- Not having Majestic Leap 14 minutes in, 1k souls short, is a big missed power spike. [13:43]
+- A long pointless mid fight gained only about 200 souls toward the next spike, ended in a loss and left the team behind while side waves crashed into walkers. [14:44]
+- Benchmark: going 12k at 12 minutes, 13k at 14, barely 14k at 15 is under 1,000 souls per minute; on Pocket you want more than 1k souls per minute at that point. [15:15]
+- Farming helps your team: power spikes let you fight faster and stronger, and pushing a side wave to the enemy walker forces someone to respond or lose walker HP and a wave of souls. [15:15]
+- When someone responds to your side wave, either take their nearby jungle camps while the wave comes back to a safe spot, or rotate to another lane (for example blue) for a numbers-advantage fight. [15:45]
+- A 5v5 gives no advantage; create fights where you have one, the biggest being numbers, and a power spike is also a strong advantage. [16:15]
+- After taking a fight, check yellow and go defend it if the enemy is pushing there. [16:46]
+- Six minutes of only fighting, with one or two camps and no solo waves, leaves the team with no waves pushed and walkers bleeding. [17:16]
+- On Pocket, especially when only you and Shiv like to side lane, claim a side lane, take all its farm plus jungle camps in between, push it as far as you can, then take enemy camps or rotate to mid for a fight when you have a power spike and a numbers advantage. [17:47]
+- Be quick with fights: once your cooldowns are used, finish the kill or, without an angle, leave and go back to farming. [17:47]
+- You don't need to join a fight just to save one teammate; saving him with Affliction is fine, but chasing a Lash you won't kill unless he does something stupid is not. [18:18]
+- Don't share a wave clear with three people; let teammates clear it while you take the enemy tier two camp. [18:48]
+- Teleporting to green to defend the walker is good. [18:48]
+- When defending a walker, use Majestic Leap at the start before they damage you, since it gives a barrier, then clear the wave; without the wave they take walker damage, can't take the walker, and your team gets time to arrive. [19:19]
+- One of the biggest problems at these ranks is a lack of efficiency on high-soul heroes; be quick and decisive with map movement or you fall behind, especially while perma fighting mid grouped up. [19:56]
+- Don't spend a long time in base deciding what to buy. [20:27]
+- Be at the lane before the enemy so the Seven can't take it. [20:58]
+- You don't have to fear the Seven's ult when you have Enchanter's Satchel to dodge it. [22:11]
+- Warp Stone is a great option; sell Restorative Shot for it at this point, or upgrade to Transcendent Cooldown, also fine. [22:42]
+- Don't fight when heavily outnumbered (6v4) and your Dynamo has no ult; Dynamo without ult staying away to push the other wave is the right call. [23:20]
+- When the enemy wins a fight like that, the smart move is taking mid boss and choking you out to end the game. [23:50]
+- The core failure: no early impact from inefficient farming, so the game slipped away; to carry later you must farm much more efficiently in the early and early mid game. [24:28]
+- As long as the fed Infernus stays out of the Dynamo ult you won't kill him, and they may have Rescue Beam for him anyway. [24:59]
+- When far behind, fight inside your base if you can. [25:31]
+- Hoping the enemy makes mistakes is a weak plan; better to put yourself in a position where you are strong anyway and can carry. [26:49]
+- Even in team fights, keep an eye on the map, for example an enemy Seven ending the game on another lane. [28:35]
+
+## Disagrees with
+- none recorded yet

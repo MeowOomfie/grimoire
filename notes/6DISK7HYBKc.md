@@ -1,0 +1,68 @@
+# The Perfect Early Game | In-Depth Deadlock Analysis
+channel: Metro Deadlock
+date: 2024-09-08
+url: https://www.youtube.com/watch?v=6DISK7HYBKc
+
+## Covers
+Two Wraith duo lanes from September 2024 used to show how to win the early game: rush the first waves, melee your own creeps, deny from close range, Healing Rite sustain, gank timing, when to leave lane, soul splitting with three in a lane, and the 3k ult cut-off.
+For any player wanting to learn the laning stage. This is a 2024 video: soul rules, items (Healing Rite, Tesla Bullets) and towers have changed a lot since.
+
+## Claims
+- The early game is probably the most important part: you can turn fights and the soul lead around later, but starting well is the easiest way to a victory. [0:00]
+- Abrams is almost unbeatable in lane because he regens; Wraith is a mid tier laner; Dynamo and Viscous have a lot of early harass with their spells, so Wraith and Abrams into them is even or favors them. [1:02]
+- How to win lane: take cover, go in and apply pressure early; in the first second he got four melees off on creeps while staying at full HP. [1:02]
+- Rushing the enemy creeps early gives you all the time in the world to shoot the enemy and look for denies. [1:33]
+- Melee your own last hits where possible: it guarantees the full soul amount for you and your teammate instantly and leaves the enemy no chance to deny. [1:33]
+- It is a really big deal at the very start to get in and push the creep wave to their tower early. [2:04]
+- Unlike Dota or League, the tower does not prioritize players: as long as it is shooting one of your creeps you can shoot the enemy or sit at the tower and wait for denies. [2:04]
+- Sit right behind your creeps: bullets have travel time (Viscous and Dynamo have slower projectiles), so being closer to a creep guarantees the last hit or deny. [2:34]
+- After the first wave they were double the enemy's souls and had them on the back foot. [3:04]
+- With many of your creeps on their tower you can chase and dive the enemy, and Card Trick can take a free kill. [3:34]
+- Card Trick tracks to your crosshair, so you can throw cards around corners; with experience they get insane value. [3:34]
+- Healing Rite is probably the best item to sustain in lane: cast it and you heal until an enemy hero hits you, so don't peek aggressively during the channel. [4:05]
+- When ahead, keep pressure on: harass the enemy and take last hits or denies on your own creeps. [4:35]
+- This works only because the enemy creeps were rushed down; with both waves up you must split attention between last hits on yours and theirs, and the lane is more even. [4:35]
+- Pushing that far forward carries a gank risk, but this early people usually don't gank. [5:35]
+- Look out for ganks when someone on the other lane dies (they can respawn and speed into your lane from behind) or when someone is missing from the map; then play more passive. [5:35]
+- Far ahead and maxed on basic lane items, he skipped saving for Tesla Bullets and bought Bullet Lifesteal, so the enemy could not kill him for the next minutes if he played right. [6:36]
+- Souls matter most early because they give levels: each level gives base stats like more health, so with a big soul lead the enemy cannot kill you. [7:06]
+- The further ahead you are, the more wary and safer you should play, because the enemy gets a lot of souls from one counter kill. [7:38]
+- Mistake: after taking the tower, staying far pushed up without noticing the enemy Lash was missing; he ulted them, which was a big catch-up for the enemy. [8:08]
+- After winning lane, instead of staying pushed, back out, look for creep camps or go to other lanes. [8:08]
+- Your lane is technically won when you kill the enemy tower, since they have no protection. [8:40]
+- You can keep farming your lane: with no more than two players on it you get the full soul amount (for 10 minutes); with three or more the souls are split and you lose money. [9:11]
+- Going for objectives very early or stacking three players in one lane is not that good. [9:11]
+- He rotated to the yellow lane because it was pushed to his tower and the stats showed his ally losing hard to Paradox (Paradox had more souls than him). [9:41]
+- Dashing off the zipline with good timing after a crouch spam can get you further behind a target. [9:41]
+- Even a failed gank can force the enemy out; with two players on his lane against one, they forced cooldowns and got the kill. [10:13]
+- Wraith's lift ult has a high cooldown (around 90 seconds now), so a wasted ult hurts. [10:13]
+- Every tower kill opens the map for your team and gives the team more souls. [10:43]
+- After you win your lane, going to other lanes is 100% your number one priority. [10:43]
+- A trade at the tower is not awful if the enemy spent two ults and had to rotate two players; look at the whole map. [11:14]
+- Even after winning lane hard, keeping the lead is not easy; watch which enemy has a lot of souls (an Infernus at 8k), respect what they can do, and help the lanes struggling most. [11:45]
+- Every lane has matchups you win easily, even ones and ones you almost can't win; some heroes are just stronger in lane, and right now Kelvin beats almost anyone. [12:46]
+- When the lane starts pushing in, look for an opening to kill an enemy creep without taking much damage, like a creep in cover. [13:16]
+- Really good players parry (deflect) a melee on the sound alone, so a melee on a creep near the enemy can be risky. [13:16]
+- Denies are the best way to get ahead early: four denies are worth more early than one hero kill. [13:46]
+- Each deny is an 80 soul swing: you take the enemy's 40 and gain 40, and 80 times 4 is more than a hero kill. [14:17]
+- Lane priority: first get your own creeps (melee them where you can) and all the denies, then look for kills. [14:47]
+- Sitting under the enemy tower takes almost no damage while your creeps are attacking it, because the tower targets your creeps first. [14:47]
+- When the enemy Lash left their duo lane, they mirrored: his ally Mo & Krill followed Lash to the lane he went to, so their Infernus wouldn't be 1v2 there. [15:48]
+- At higher rank people rotate and adjust, and you can make your own calls and counter-adjust. [16:19]
+- He had almost 2k souls before first buy because he was always full HP and always had creeps to hit; go back only when you can without losing creeps. [16:19]
+- Track the enemy's souls: the most important cut-off is 3,000, when they get their ult, so you know when something like a black hole is up before you push in. [16:50]
+- Wraith's card pressure in lane is insane. [17:21]
+- After the ult and the tower, at low HP with no healing, back out. [17:51]
+- He stayed in lane after buying Bullet Lifesteal because he could see everyone on the minimap; if someone were missing he would not push up, since dying would throw the lead. [17:51]
+- It is pretty hard to fight under a tier 2 tower (Walker) this early: however far ahead you are, if your wave pushes there you can't punish an enemy behind cover and he punishes you easily. [18:22]
+- His Wraith method: fire passively, rush Tesla Bullets, play passive, and use the ult only defensively when the enemy dives you; get ahead, get huge souls, then hard carry mid to late game. [18:53]
+- Near the enemy Walker the enemy gets more denies, and one Walker hit costs a lot of HP. [19:23]
+- Dynamo has an ability that can get out of Wraith's ult, if he is good. [19:53]
+- When every enemy is playing under their tower and the other lanes are pushed into their bases (ungankable), the best soul source is your own lane plus nearby camps. [20:24]
+- Farm a small camp while the enemy wave walks to your tower, then farm that wave safely there; always look for where you can get the most souls early. [20:24]
+- Tesla Bullets is where Wraith really starts ramping up her farm. [21:24]
+- Farming the tier 3 camp super early at low level is too risky and not worth it, because it took too long. [21:24]
+- Easier to win while ahead than behind, and you get ahead in the laning stage, so practice winning your lane first, then how to farm efficiently in the mid game while staying alive, before counter builds or late game. [22:56]
+
+## Disagrees with
+- none recorded yet

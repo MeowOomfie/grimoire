@@ -315,6 +315,42 @@ One line per digested video: `- <id> | <channel> | <title> | <topics>`. Newest f
 - m0SFyNeH9Yw | HERESY | This Wraith Hit E6 After This Coaching Session | wraith, hyper carry macro, lane conversion, split push, blue lane, shotcalling
 - 9xJn4Y-lrNw | HERESY | Billy Masterclass, Former Rank 1 Billy Coaching Sample | billy, chain gang, urn, investment spikes, counterspell, team fight positioning
 - vLTBkLYSjXU | Midknight Vods | Free Deadlock Coaching, 7/28/26 | haze, silver, shiv, holliday, patch notes, macro
+- CHEaxYKDEmQ | Deathy | One side of the map has MORE souls?! - The Farming Bible | farming, soul values, jungle camps, map pressure, souls per minute
+- 4q4XXAcm0sg | HERESY | How to Win With Your Duo - E6 Coaching Session Sample | duo, lane objectives, dynamo, billy, mid boss, macro
+- qcPoi9e7LRo | Deathy | Coaching A GOAT of Dota in Deadlock (ft. Quinn) | wraith, mina, carry farming, urn, comeback mechanics, walkers
+- c7VxXlDAuDA | Deathy | I Coached SirActionSlacks AGAIN... | abrams, wave priority, warp stone, phantom strike, bridge buff, side lane ganks
+- zyUWb_gpzEw | Metro Deadlock | How To Win On Wraith, Top 0.01% In-Depth Game Analysis | wraith, laning, keeping a lead, glass cannon, ethereal shift, bridge buff
+- YGo8YvaW8tQ | Deathy | They FIXED this - My thoughts on it | patch, double soaking, solo lanes, soul sharing, ganking
+- 8pMgPmfNpgI | Metro Deadlock | How To Win On Wraith (NEW PATCH), Top 0.01% In-Depth Game Analysis | wraith, haze lane, split push, farming efficiency, tower denies, ability points
+- 1mxMj1EbSLQ | Natan | Why YOU CAN'T CARRY in Deadlock - Archon Pocket Coaching | pocket, coaching, farm efficiency, healing rite, side lane pressure
+- -BxnwsE49f4 | Metro Deadlock | Spirit Is Too Strong Now? - Deadlock Meta Analysis | meta, gun vs spirit, item investment, base hp, build variety
+- iMu1lRCMUso | Natan | Educational Eternus 6 Commentary #7, 0 Deaths Pocket Gameplay | pocket, cultist sacrifice, barrage max, wave states, camp stealing
+- IqQFuUoABeI | Natan | The Enemy Team Made 1 Mistake and We Won, Educational Eternus 6 Gameplay Commentary #5 | seven, comeback, flex slots, silence glyph, staggering, wave pressure
+- qPM0eHa65Z8 | Metro Deadlock | I Tested ChatGPT Against the Best Players in Deadlock (It’s Terrifying) | wraith, billy, rebuttal, counter items, rejuvenator, chatbot test
+- 2TR6pE_dqN4 | Deathy | The Most Chaotic Coaching Session I've Ever Done, ft. SirActionSlacks | abrams, trooper damage, veil laning, item investment, trophy collector, sinners sacrifice
+- G7Xy2qIOEwc | Deathy | I Coached An Overwatch Pro In Deadlock, Ft. @Eskay_OW | mina, coaching, mid game macro, power spikes, fight checklist, low rank
+- -kOqWuSVgeY | Deathy | Why Is Deadlock So Frustrating?, My thoughts on matchmaking, draft & more | matchmaking, rank decay, draft, mindset, session goals
+- 8g9sroR7SWo | Natan | STOMPING Victor and Drifter with Ease, Deadlock Eternus 6 Educational Commentary | pocket, wave pressure, map play, rejuvenator, items
+- 6lQ71BcyyyQ | Deathy | My initial thoughts on the new patch - July 31st | patch, melee parry nerf, mid boss rejuvenator, tankbuster, meta heroes
+- A9is0Vf-P_I | Metro Deadlock | How To Play Wraith, Top 0.01% In-Depth Game Analysis | wraith, playing from behind, farming routes, tesla bullets, tanky build
+- 6DISK7HYBKc | Metro Deadlock | The Perfect Early Game, In-Depth Deadlock Analysis | laning, denies, wave pressure, gank timing, wraith
+- Yg-9GvaP04U | Metro Deadlock | How To Play Wraith (Best Method), In-Depth Game Analysis (Deadlock) | wraith, solo lane, buy timing, lifesteal, ability order
+- qVmYatJAK8w | Deathy | WIN MORE AS POCKET! Gameplay analysis - Valve's Deadlock | pocket, losing lane, objective fights, majestic leap, knockdown
+- _pQIlri_azs | Metro Deadlock | How To Play Wraith (Best Build), In-Depth Game Analysis | wraith, build, full auto, jungle stealing, side lanes, telekinesis
+- tjiTmJi-vKg | Deathy | How we ALMOST beat the #2 Team in NA - Fight Night Analysis | mirage, tournament, urn, rotations, comeback, team fights
+- 7sd04L47oxY | Metro Deadlock | Massive Balance Patch Analysis (Shadow Weave NERFS) | patch notes, items, guardians, warden, yamato, nerfs
+- sO7WgNaPjeE | Deathy | Lash is CRAZY! Gameplay analysis - How to win with Lash - Valve's Deadlock | lash, 2024, ganking, soul sharing, items, mid boss
+- SMLXUyD5Q54 | Shotty | Don't Play Another Match of Deadlock Until You Learn This | new map, boxes, jungling, corrupted items, walkers, rotations
+- 6rZ6jJQf-IE | Metro Deadlock | The REAL Way To Climb In The New Deadlock Ranked | ranked, placements, win streaks, duo queue, hero picks
+- C7m-UdUIcQA | Deathy | The BEST Way to Learn New Heroes | learning heroes, abrams, vod review, statlocker, golden goose egg
+- 1LZn2lXsNPo | Deathy | Community Tier List - How good is every Deadlock hero and why? | tier list, hero rankings, meta, balance, pubs vs comp
+- BwS2AZBoM8s | Deathy | Deadlock's Solo Lane is GONE - My initial thoughts on the new patch | patch reaction, three lanes, ganking, mid boss, last hits, rotation
+- WlYUG67ZvOU | Metro Deadlock | How To Play Calico (Best Method), Eternus Live Commentary | calico, live commentary, eternus, lane combo, build
+- TOWK0n2VBCE | Metro Deadlock | The New Deadlock Hero Might Break the Meta, Venator Analysis | venator, new hero, gun carry, build, pure damage
+- 41iNzY4435U | Metro Deadlock | The New Deadlock Hero Isn’t What Anyone Expected, Silver Analysis | silver, new hero, werewolf, build, lifestrike
+- c4RfSsfBNUc | Metro Deadlock | The New Deadlock Hero Isn’t What Anyone Expected, Graves Analysis | graves, new hero, auto aim, split shot, area denial
+- nnJOUczIldc | Deathy | Deadlock's Open Beta is Getting Closer, Early Patch Preview | patch, street brawl, new items, base rework, hero voting
+- uQa2deOmqmw | HERESY | Applying Real Pressure, E6 Coaching Session Sample | mina, coaching, side lane, urn, mid boss, farming
 
 ## General and other heroes
 

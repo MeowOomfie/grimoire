@@ -1,0 +1,73 @@
+# WIN MORE AS POCKET! Gameplay analysis - Valve's Deadlock
+channel: Deathy
+date: 2024-08-31
+url: https://www.youtube.com/watch?v=qVmYatJAK8w
+
+## Covers
+A Pocket game review from August 2024: a losing duo lane against Lash and Grey Talon at 1x speed, then the macro game at higher speed (waves first, Majestic Leap rotations, fighting only around objectives, Knockdown against Haze and Grey Talon).
+For Pocket players and anyone learning lane safety and objective-focused macro. This is a 2024 video: abilities, items and map have changed a lot since.
+
+## Claims
+- Barrage lets Pocket keep his air momentum, which works with dash jumps and Majestic Leap. [0:00]
+- Using Barrage grounded is a good way to take a lot of damage in most scenarios. [0:00]
+- Combo: send Flying Cloak, go into Enchanter's Satchel, then activate the cloak; the satchel damage is done at the cloak's location, useful for hitting an airborne sniper. [0:32]
+- Use dash jumps to get Barrage off on Lash in lane. [1:03]
+- With wave advantage (your creeps pushing into them) you can walk up and look for harass on the enemy heroes. [1:03]
+- Pocket into a lane with a lot of spirit damage is a bad matchup, because Pocket has -5 spirit resistance by default and takes extra damage from nukes. [1:03]
+- Using abilities to push the wave is worth it even if one creep gets denied in the process, when it lets you try for denies and harass. [1:34]
+- Use the Veil to get creeps without being poked. [1:34]
+- When the lane is pushed into you, use geometry to avoid Grey Talon's poke and focus on last hits. [2:04]
+- Mistake: going aggressive when you have no creeps means you take a lot of damage from enemy creeps and your health suffers. [2:34]
+- He bought Enduring Spirit in a heavy poke lane for spirit lifesteal, but in retrospect was not sold on it as the best itemization. [2:34]
+- Position where it is hard to be harassed while you go for last hits. [2:34]
+- Biggest lane mistake: moving up and trying to get too much done in an unfavorable lane, instead of just focusing on last hits. [3:04]
+- When the enemy lane is 600 to 700 souls ahead (a full item) and diving your partner, farm the side camp. [3:35]
+- As a shotgun hero against heroes worse at securing souls, focus on last hits and take less creep damage instead of peeking aggressively. [3:35]
+- With only one shotgun bullet left, use an ability to bring a creep low so the shotgun can secure the soul. [4:06]
+- When losing lane badly, buy several 500 soul items so you can stay active. [4:06]
+- Generally avoid moving up when you are behind (down about 1,000 souls); focus on last hits and look for value in other lanes. [4:37]
+- Being behind does not mean you can't gank other lanes: when an enemy (McGinnis) is far forward on the minimap, call it to your team and go gank. [5:07]
+- When ganking a solo lane, always stay for the last hits because both of you get full value from the souls; when ganking a duo lane, leave right away. [5:07]
+- A gank and a kill can bring you from behind completely back into the game. [5:37]
+- If the enemy laner hasn't died in lane, they will have the speed boost up and come back very quickly, so get out quickly yourself instead of staying greedy. [6:08]
+- Lane build: Hollow Point Ward, Close Quarters, Mystic Shot, Extra Stamina, Sprint Boots, Enduring Spirit and Mystic Burst, for early damage and some survivability. [6:39]
+- Mystic Shot is great for burst damage and spirit power; Hollow Point Ward gives spirit power, some survivability and weapon damage; Close Quarters gives weapon damage and some survivability. [6:39]
+- He buys Extra Stamina on almost every hero; more stamina is never a bad thing. [7:09]
+- Mystic Burst adds damage to the cloak and the satchel. [7:09]
+- After lane, go for kill opportunities but never lose track of camps and objectives. [7:39]
+- When your lane is pushed, ask what objective you can defend or what lane you can push. [7:39]
+- He went onto a Paradox pushing his tower to defend the objective, not to kill her; had she not been at the tower he would simply have pushed the wave. [7:39]
+- Do not take pointless fights; only take fights that help you get or defend objectives. [8:09]
+- The first thing to do on respawn is go to a wave and shove it, then look for where else to go. [8:09]
+- Majestic Leap makes it extremely easy for Pocket to move from wave to wave; don't be afraid to use it to rotate, using Barrage to conserve momentum. [8:39]
+- Show up fast (speed boost) to a fight where your team has numbers and is defending an objective. [9:10]
+- If a teammate is already on one lane (blue), go to the other pushing lane (orange) to deal with that wave instead. [9:40]
+- A common mistake is not looking at what teammates are doing enough. [9:40]
+- If you are not confident you can duel an enemy at a wave, leave and go make a play with your team while someone else handles the wave. [9:40]
+- Fighting too much is a mistake even when the fights work; four early deaths is not great, and being greedier with farm would have been better. [10:10]
+- Use your skills (Barrage, Flying Cloak, Enchanter's Satchel) to clear waves. [10:10]
+- Pocket players don't use their ult enough: use it, don't save it; it is okay but not the best part of his kit, so use it when a fight is coming or a kill is not guaranteed. [10:42]
+- At 15k souls up at 12 minutes, start pressuring objectives together. [10:42]
+- Pocket's map speed with Majestic Leap, the satchel and Barrage is superior to almost every other hero, so he is particularly good at pushing lanes. [11:14]
+- Push a lane, then either join a fight where the enemy is diving your objective or go to another lane. [11:14]
+- In a fight where the enemy is deep on your objective, ult right away. [11:46]
+- Haze's ult does insane damage (after her buffs), so be very careful of it. [11:46]
+- You don't need to go back to base when not full health; lifesteal off the wave instead. [11:46]
+- He bought Knockdown, rarely seen on Pocket, because Haze was running an ult-centered build and Knockdown helps against that. [12:17]
+- Spirit Lifesteal is a standard Pocket item for healing off abilities (satchel and the rest); Warp Stone is for mobility. [12:17]
+- After wiping the enemy, especially near mid boss, taking mid boss is very often a good idea; it lets you press objectives further. [12:48]
+- Right after mid boss, generally deal with the waves. [12:48]
+- Don't forget the bridge buffs; whenever they are up they are super strong. [12:48]
+- Mistake: overestimating how tanky you are after grabbing the buff gets you killed instantly. [13:19]
+- With faster respawns than the enemy and their cooldowns already used, a fight can be taken even after a bad start. [13:19]
+- One of Pocket's strengths is fighting non-committally, weaving in and out with Majestic Leap, Knockdown and the satchel while lifestealing. [13:49]
+- If you are not far enough ahead to go straight to base Guardians, take the remaining Walkers to get a flex slot. [13:49]
+- Knockdown or Curse are the only two items that reliably take Grey Talon out of the sky; pick up Knockdown if you struggle with Grey Talon or Vindicta. [14:19]
+- When the waves are too dangerous to push and your nearby jungle camp is farmed, shoot boxes and hit golden statues. [14:50]
+- Golden statue buffs and souls and box souls scale with game time; past 15 or 20 minutes the statue buffs give a bit more. [14:50]
+- Pocket summary: use Majestic Leap to push multiple waves, and play fights non-committally (cloak around the fight, Majestic Leap to re-engage). [15:21]
+- Use Barrage from the air, and engage on heroes that already have Barrage stacks; Pocket's damage is underwhelming on a hero with no Barrage stacks. [15:51]
+- Item and skill builds are the part of a guide least likely to stay the same while the game changes so often. [16:22]
+
+## Disagrees with
+- none recorded yet
