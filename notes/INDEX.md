@@ -405,6 +405,14 @@ One line per digested video: `- <id> | <channel> | <title> | <topics>`. Newest f
 - nOTjK5ZrLkQ | Midknight | Analyzing and Breaking Down Today's Patch | patch, movement speed, items, shrines, billy, shiv
 - 5yMTAJ3ZlKU | Midknight | Massive Deadlock Balance Patch!!!! | patch, soul orbs, walkers, items, cooldown reduction, hero balance
 - K8FBaLWYX6M | Midknight | I HAD to Make a Video on This Patch | patch, capacitor, resist shred, items, paradox, kelvin
+- 19gKDmxn0Gc | Midknight | You Can't Just Farm, Coaching a Phantom Paradox | paradox, pick hero, side lane, swap usage, trooper damage, heal snacks
+- ETyUAcDa8W8 | Midknight Vods | Free Deadlock Coaching, 10/26/26 | paige, lash, shiv, celeste, comeback rifts, soul awareness
+- NQQssVVPPms | Midknight Vods | Free Deadlock Coaching, 10/22/26 | solomon, paradox, holliday, harrow, side lane, full resets
+- _mKd68LOpvs | Midknight Vods | Free Deadlock Coaching, 10/19/26 | doorman, solomon, victor, danny, urn, itemization
+- O_JhHaqCzPQ | Midknight Vods | Free Deadlock Coaching, 10/20/26 | violet, danny, regen and fortitude, tempo vs scaling items, rifts, new support hero kit
+- futt5air2eQ | Midknight Vods | Free Danny Coaching, 10/16/26 | deadman danny, danny build, rocket jumping, positioning, on-hit items, patch changes
+- DPQVoXZoJaY | Midknight Vods | Free Deadlock Coaching, 10/27/26 | celeste, calico, violet, dead time, item spikes, rift macro
+- qCEbTKhtwPo | Midknight Vods | Free Deadlock Coaching, 10/25/26 | sinclair, violet, graves, deadman danny, dead time, item verdicts
 
 ## General and other heroes
 
