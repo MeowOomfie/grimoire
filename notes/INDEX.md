@@ -3,8 +3,11 @@
 One line per digested video: `- <id> | <channel> | <title> | <topics>`. Newest first.
 
 
-## Seven (23 videos, digested 2026-10-30)
+## Seven (26 videos, digested 2026-10-30)
 
+- 8qFyVDExn4k | aquatiq | How To Carry Literally Every Game on Seven (2026-09-18) | Seven, ult build, gameplay, Drifter, Sinclair, Holliday, Restorative Shot, Spirit Shielding, Fleetfoot, Toxic Bullets, Superior Duration dropped, ball Seven, Unstoppable timing, Infuser, Spirit Burn, Spellbreaker, Siphon Bullets, Refresher, Static Charge checks, farming as carry, Mid Boss, Rift, shrine push
+- RaAKf-PPx0o | Tonydadof4 | Complete Guide to Climb With Seven, Beginner Friendly (2026-08-31) | Seven, beginner guide, Statlocker build, Power Surge, Lightning Ball, Static Charge, Storm Cloud, combo, ult in team fights, no solo ult, Fleetfoot slide, Unstoppable vs Indomitable, farm priority, waves, Sinner's Sacrifice, boxes, golden statues, Escalating Exposure, stealing enemy camps, positioning, Infuser, Arcane Surge, mobility, squishy, cooldown reliant
+- 0cTj49pB-oU | Midknight | This is Why You Can't Carry, Phantom Seven Coaching (2026-04-11) | Seven, coaching review, Phantom, weak lane, Mina, Wraith, Lash, Extra Regen vs Healing Rite, Sharpshooter, Cultist, Opening Rounds, Intensifying Magazine, Fleetfoot, Surge of Power, Colossus, Unstoppable, kill wave, box routing, play for spikes, bag awareness, soul awareness, comeback Urn, Rejuvenator hygiene, over fighting when fed, Sinner's Sacrifice, hybrid camps, low elo farm method, Patron pit fight, rank equivalents
 - pH4tC7ZxnaY | Sensu | How This RANK 1 Seven Build DOMINATES Eternus Duos (2026-09-24) | Seven, weak early game, farming, lane pressure and hovering, Holliday, Wraith, Rift without ultimate, Mid Boss, Indomitable, Curse, playing behind the team, 6v6, peel, live comms
 - dpv_gDdsV9U | Sensu | This Seven BUILD Carried Me To Ascendant (2026-09-12) | Seven, Unstoppable, fixing waves, not chasing, Dynamo veil, Rift, Mid Boss, Walkers, Shrines, Rejuvenator timer, never 5v6, live comms
 - MVYApZVvtjA | Sensu | Seven is Still META With This BUILD (2026-09-07) | Seven, confirming souls, denying, Cultist souls, pushing, Mid Boss timing, resetting with a lead, live comms
