@@ -1,0 +1,63 @@
+# The Deadlock Laning Guide
+channel: Midknight
+date: 2025-10-13
+url: https://www.youtube.com/watch?v=HUyS0sA0hLk
+
+## Covers
+A coach's laning guide (October 2025) for players who want to cut common lane mistakes: lane goals beyond breaking the tower, shooting orbs, power spikes from ability points and items, height and bridge control, playing behind the wave, using time between waves, playing winning and losing lanes, lane timers, and when and how to freeze the wave.
+
+## Claims
+- Your lane goal is not always to break the enemy tower first; a Seven and Ivy into a Yamato and Holliday should keep their tower alive, clear waves and farm boxes and camps rather than fight. [0:31]
+- Yamato and Holliday are very strong laners whose goal is to win lane, break your tower quickly, and turn it into souls on Yamato and roams from Holliday. [0:00]
+- Ivy has great wave clear and loves farm; Seven also loves farm and has pretty good wave clear. [0:31]
+- If neither you nor your partner needs to win lane and you face two heroes that beat you on paper, just clear waves and run boxes; out farming alone can give about a 1k lead by 8 to 9 minutes. [0:31]
+- Against a super strong laner like Yamato, don't give her the fight: out farm her, play in side lanes, buy small defensive items so you can't die, and take the lane slowly so she gets no lane lead, which she needs to come online. [1:02]
+- Always shoot the soul orbs, yours or the enemy's, on a good timing as they come off minions so you don't get denied. [1:33]
+- Never last hit a minion with the last bullet in your magazine; slide to use infinite ammo to kill the minion, then use the last bullet on the orb. [1:33]
+- For most heroes the biggest lane power spike is putting two points into an ability. [2:03]
+- Holliday gets +65 explosion damage at two points; The Doorman's bell gets +50 explosion and +30 impact damage; Sinclair gets 13 seconds off his bolts, halving the cooldown; Viscous's Splatter gets more damage and radius. [2:03]
+- Dynamo's main spike comes from maxing his ability; the +30% bullet damage taken on hit at two points is minor by comparison. [2:03]
+- Items are the other big power spike: after Headshot Booster you are weak at 1.6k total while saving, then strong again once you buy Mystic Shot, so fight on that wave. [2:33]
+- Extra Charge is a big spike in the shown build because it is timed with two points in Powder Keg and gives two Powder Kegs for poke. [3:03]
+- Buying any T2 item in lane is a big spike, and an early Tesla Bullets is a massive spike. [3:03]
+- The most obvious spike is your ultimate; if you get it before the enemies, always try to force a fight on that wave. [3:03]
+- Height matters: oppressive laners like Holliday, Viscous and Sinclair rely on bridge control to be strong in lane, so shove the wave quickly and take the bridge. [3:34]
+- With bridge control, shoot the minions from up there to keep it, and use abilities that both poke enemies and clear the wave, especially on heroes who need lane priority. [3:34]
+- Always play behind your wave: troopers do a surprising amount of damage, and taking trooper damage is the biggest and most common mistake seen in coaching; check trooper damage in your replays. [4:04]
+- Clear the wave before you fight, then fight while your wave shoves so troopers shoot the enemies. [4:34]
+- A fight while your wave pushes is favorable either way: if you die you miss little and the wave pushes back to you, at worst losing two or three minions if they freeze; if they die they miss the full wave plus one or two minions of the next. [4:34]
+- Winning MOBAs is about taking the most statistically advantaged fights. [5:04]
+- Use abilities either when the waves are fighting, to create space or hit both wave and enemy, or after your wave is pushing into them, to suppress them (for example a Crack Shot or a barrel) while they must focus the wave. [5:04]
+- Don't stand in the open while hitting waves, especially against damage over time heroes like Infernus; keep cover between you and shoot the wave from a safe angle without giving line of sight. [5:35]
+- Whenever you shove your wave or both waves die, check the timer for bridge buffs and boxes; with 15 to 20 seconds free, do a box route, or grab the bridge buff if it is up. [6:05]
+- Between waves, check your soul count and know your next item; if you have the 800 for a spike like Extra Charge, go buy it. Don't let unspent souls get egregiously high. [6:35]
+- After shoving: if you have no kill potential under tower, can't get significant poke and can't siege the tower, go get boxes instead of standing around for a 70 damage poke. [7:06]
+- Use wave priority to steal the enemy's boxes. [7:37]
+- When winning, first get wave priority, then steal boxes, camps when up, and center sacrifices (vaults) when up. [8:07]
+- Vaults with their buffs give about a wave of souls, but never miss a wave to farm them. [8:07]
+- The most important thing to do with a lead, especially if you break tower before they spawn, is steal the enemy's center sacrifices around the tower. [8:07]
+- If you can siege the tower without taking much poke, hit the tower; this applies when they can't stop you hitting tower but can't get wave priority either. [8:37]
+- In a losing lane your main goal is to stall so the enemies can't crash waves into your tower and take the guardian. [8:37]
+- The most important buy when losing is Monster Rounds: +25% weapon damage to NPCs (including lane troopers) keeps the wave off your tower, and its out of combat regen helps when behind. [8:37]
+- Don't be afraid to buy defensive items like Extra Regen, Restorative Shot and Healing Rite when behind. [9:08]
+- If Healing Rite ever stops you from missing a wave it has paid for itself; below about 25% HP, buy it pretty unconditionally. [9:08]
+- Spirit Shielding is great into a double spirit lane. [9:39]
+- Reactive Barrier is amazing into any CC, with 2.1 spirit scaling on the barrier; force it into double CC lanes such as Abrams and Bebop. [9:39]
+- Don't ego fight: a Yamato 2k souls up beats you 1v1; when behind, your goal is to keep the wave away and not fight, unless you can leverage having your ult when they don't. [9:39]
+- When behind, stall for your other lanes to win or for teammates to come, and farm in the meantime to catch up passively. [10:11]
+- Three deaths in lane is excusable (or a final death where they dive you and kill tower); five or more lane deaths means a major mistake, so review those deaths in a replay for ego fighting. [10:11]
+- Boxes and tier one camps spawn at 2:00. [10:41]
+- The first bridge buff spawns at 5:00. [10:41]
+- Tier two camps spawn at 6:00. [10:41]
+- The boost timer comes at 6:05; monitor it in lane, including when the enemies have it. [10:41]
+- Center sacrifices (sinner's sacrifice) and tier three camps spawn at 8:00; steal the enemy's when ahead, secure yours when behind. [10:41]
+- From 10:00 on, every 5 minutes (10, 15, 20) bridge buffs and the Urn spawn. [11:12]
+- To freeze, don't last hit the enemy's troopers: thin the wave so it doesn't push into you, let it kill your troopers while you kill theirs, keeping about three enemy minions alive at your stairs or wherever you want. [11:12]
+- Freeze when very ahead: leave the wave frozen and poke aggressively, keeping the enemies at their tower so their wave dies away from them. [11:44]
+- The range for being zoned off minion souls is criminally short, so a frozen wave cuts enemies off from the souls entirely. [11:44]
+- Freeze when extremely behind and the enemy keeps hard shoving (for example a Seven who shoves then farms): don't push it straight back, freeze it. [11:44]
+- If your teammate dies, don't shoot the enemy's wave; let the enemy push it into you, since every minion you kill without your ally there is souls they miss. [12:14]
+- If one player traded in each lane, letting the enemy wave push in leaves their returning laner minus three minion souls while yours collects the troopers. [12:44]
+
+## Disagrees with
+- none recorded yet

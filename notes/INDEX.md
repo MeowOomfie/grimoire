@@ -359,6 +359,52 @@ One line per digested video: `- <id> | <channel> | <title> | <topics>`. Newest f
 - tsq0e24Cfi0 | Deathy | 9 Things Deadlock Doesn't Teach You | guardian parry, self deny, unsecured souls, mantle slide, center sacrifice, item checks
 - 5WP7_gPu1iw | Metro Deadlock | How I Farm 2000 Souls Per Minute | gameplay, unstoppable, phantom game
 - PRjWVA5CmbQ | Deathy | The Biggest Economy Change EVER in Deadlock - How does it affect you? | economy, soul sharing, patch, urn, soul rebirth, tempo builds
+- p6YcMYbxKOQ | Midknight | Stop Being a Passenger in Your Own Games, Coaching a Mystic Paige | paige, comeback rifts, ability usage, side lanes, rotations, support comms
+- HUyS0sA0hLk | Midknight | The Deadlock Laning Guide | laning, power spikes, wave management, freezing, lane timers, losing lane
+- 96_qaKv3ByE | Midknight | How to Counter Every Hero in Deadlock, Part 4 S-Z | counters, counter items, key cooldowns, sinclair, warden, yamato
+- htzy8KSpeq0 | Midknight | How to Have Multiple Ping Wheels in Deadlock | settings, ping wheel, autoexec, config, communication
+- u74ABWsZ8rI | Midknight | How to Counter Every Hero in Deadlock, Part 3 M-S | counters, counter items, key cooldowns, mo & krill, pocket, seven
+- k_Cp61-CJg0 | Midknight | How to Gank and Anchor, Deadlock Guide | roaming, ganking, anchoring, lane phase, wave clear, mirroring roams
+- e22YGw2TxoE | Midknight | How to Play Mirage in 3 Minutes, 3 Minute Guides | mirage, hero guide, gun carry, urn, builds
+- JHH0X-UuV90 | Midknight | How to Play Holiday in 3 Minutes, 3 Minute Guides | holliday, hero guide, lasso, pick role, combos
+- 4VsD-4QfolA | Midknight | How to Play Pick, Deadlock Role Guide | pick role, ganking, invading, hovering, vision, urn
+- 3LE-uzeI-Bc | Midknight | The Deadlock Mental Guide | mental, tilt, mute, flaming, conditioning, improvement
+- UtvCgCg87gk | Midknight | How to Play Rem in 3 Minutes, 3 Minute Guides | rem, hero guide, support, tunnels, sinner steals
+- DqHCxPjXEFM | Midknight | How to Counter All The New Heroes, Deadlock Counters Pt. 5 | counters, apollo, celeste, graves, silver, venator
+- MwNHut-8PYE | Midknight | How to Play Pocket in 3 Minutes, 3 Minute Guides | pocket, hero guide, combos, majestic leap, invading
+- 0-UYMP2KoRU | Midknight | How to Play Calico in 3 Minutes, 3 Minute Guides | calico, hero guide, arctic blast, combos, box farming
+- srzv8MOo-zc | Midknight | How to Play Abrams in 3 Minutes, 3 Minute Guides | abrams, hero guide, shoulder charge, melee combos, invading
+- 8LBPvuwVoRw | Midknight | Why you aren't Improving in Deadlock | improvement, limit testing, farming, builds, learning heroes
+- zFn1yGu5wkQ | Midknight | The Most Misunderstood Mechanic in Deadlock, Urn Guide | urn, comeback, staggering, tapping, mid boss, macro
+- 7aH1OFo2xxY | Midknight | How to Transition to The Mid Game, Deadlock Guide | mid game, sinners sacrifice, urn, rift setup, wave setting
+- fmspuuEetbA | Midknight | Everything You Need to Know About the Egg, Deadlock Guide | golden goose egg, items, buff tiers, laning
+- 7XwnSvkuGaM | Midknight | Ignoring Rifts is Losing you Games, Deadlock Guide | rifts, comeback mechanics, timers, wave setting, split push
+- 5OrW14Esmlc | Midknight | Shrines are Ridiculously Broken, Deadlock Guide | shrines, base guardians, super troopers, sieging, defending
+- ViQx1AXkn5s | Midknight | How to Play Spirit Carry, Deadlock Role Guide | spirit carry, role guide, invading, urn, picks, timers
+- YuoeMkVhD8s | Midknight | How To Carry, Deadlock Role Guide | gun carry, role guide, farming, split push, spikes, timers
+- -MLs9gpA0uw | Midknight | The Art of Meleeing, A Deadlock Guide | melee, parry, light melee, conditioning, mechanics
+- zPFxSm60VFg | Midknight | How to Support, Deadlock Role Guide | support, role guide, ganking, counter items, box routes, urn
+- bEqpqwAUkpY | Midknight | How to Counter Every Hero in Deadlock, Part 2 H-M | counters, items, cooldowns, haze, lash, mcginnis
+- As7eWdaHAZo | Midknight | How to Counter Every Hero in Deadlock, Part 1 A-G | counters, items, cooldowns, abrams, dynamo, grey talon
+- eIi7dARGT4I | Midknight | How to Manipulate Deadlock's Matchmaking | matchmaking, hero queue, pick rate, billy, queue quality
+- SVEw1HsHv7k | Midknight | How To Change Your Cursor In Deadlock | cursor, customization, game files, settings
+- ghjuMUmYiK4 | Sensu | Why Seven's Ultimate is Still META with this BUILD | seven, lightning ball, gameplay, respawn timer
+- yGe9ioWEvuc | Midknight | How to Build & Play Venator, 3 Minute Guides | venator, hero guide, combos, farming, urn
+- S-fihFot6FE | Midknight | How to Build & Play Mina, 3 Minute Guides | mina, hero guide, combos, jungle invade, slowing hex
+- wDu1n4Y-BzI | Midknight | How to Build & Play Dynamo, 3 Minute Guides | dynamo, hero guide, support, ultimate, urn
+- -nc7-DzlU0Q | Midknight | How to Build and Play Rem Ft. @peercontent & @skeletonhoney, Eternus Rem Coaching | rem, support, helpers, box routes, build, ability order
+- tStHVQcEVeE | Midknight | A Pretty Good Patch, 9/16/26 | patch 9/16/26, comeback souls, parry, veil walker, item changes, hero changes
+- fRNeNb8K8Zw | Midknight | Lots of Changes in Today's Patch, Deadlock Patch Overview | patch 5/1/26, new item, item reworks, hero changes, weapon scaling
+- 9S-bfqIabI0 | Midknight | Best Heroes For Anchoring, Deadlock Tier List | tier list, anchoring, laning, wave clear, anti-dive
+- hA-3BxoVzv8 | Midknight | Best Heroes For Roaming, Deadlock Tier List | tier list, roaming, ganking, laning, monster rounds
+- f9lhiPxnk5M | Midknight | A Complete Overview of The Hero Changes in Deadlock's Patch 3/6/26 | patch notes, hero changes, 3/6/26 patch, tier spikes, golden goose egg
+- 6T4Vp-qletU | Midknight | How Strong is Each Hero in Lane? | lane phase, tier list, lane bullies, matchups, slow play
+- ZVMgoNeTv4I | Midknight | The Best Box Routes in Deadlock (Updated) | box routes, breakables, farming, map, ganking
+- 4za_y_9IkW4 | Midknight | The New Heroes Will be Meta and You Will Love It, Deadlock Patch Analysis | patch, new heroes, celeste, rem, venator, shrines
+- kMPZJ1IfiD8 | Midknight | Deadlock's BIGGEST PATCH EVER, Patch Overview | patch, new heroes, street brawl, map rework, base guardians, ui
+- nOTjK5ZrLkQ | Midknight | Analyzing and Breaking Down Today's Patch | patch, movement speed, items, shrines, billy, shiv
+- 5yMTAJ3ZlKU | Midknight | Massive Deadlock Balance Patch!!!! | patch, soul orbs, walkers, items, cooldown reduction, hero balance
+- K8FBaLWYX6M | Midknight | I HAD to Make a Video on This Patch | patch, capacitor, resist shred, items, paradox, kelvin
 
 ## General and other heroes
 
