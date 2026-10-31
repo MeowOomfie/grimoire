@@ -297,6 +297,24 @@ One line per digested video: `- <id> | <channel> | <title> | <topics>`. Newest f
 - S3szHWgcc7s | Metro Deadlock | The BIGGEST Deadlock Update Of All Time | patch notes, new map, three lanes, soul orbs, jungle camps, mid boss
 - gsDCzCI5yh0 | Metro Deadlock | The OFFICIAL Deadlock Hero Tier List (With All New Heroes) | tier list, gun nerf, spirit meta, new heroes, item changes
 - 1TgJ740vu1g | MoistCr1TiKaL Gaming | Deadlock Coaching with Deathy | infernus, venator, wave priority, side lane, mid boss, movement
+- vvvBqCcZ9wc | Deathy | Explaining Every Thought In My Eternus 6 Game | yamato, replay review, urn, comeback, playing from behind, target priority
+- nXZVkn0vYtA | Deathy | Learning a New Hero in Top Elo, Vod Review | kelvin, comeback, urn, dead time, roles, mystic reverb
+- UGXjdW-Mb1s | Natan | Breaking Down My Eternus 6 Game, Educational Deadlock Gameplay Commentary | calico, roaming, box runs, urn, mid boss, comeback
+- WtulcS8kaN0 | HERESY | Is Everyone Bad At Deadlock?, DLNS Analysis | pro play review, team coordination, cross-map pressure, deathball, closing games, power spikes
+- V0pC0OHE9Uk | Deathy | How Good is @supertf ACTUALLY at Deadlock? | lash, vod review, wave states, side lane pressure, kill share, teamfights
+- 2M_Yf6EXdTs | Natan | Explaining ALL MY THOUGHTS In an Eternus Deadlock Match | pocket, mid lane, baba matchup, urn, mid boss, target focus
+- UUyFPKxq2Mk | Metro Deadlock | They just added a NUKE to Deadlock, Deadman Danny Analysis | deadman danny, new hero, abilities, build, express shot
+- ws2OywOYNKM | Metro Deadlock | The Most Broken Hero Ever Released, Baba Analysis | baba, new hero, abilities, build, spirit snatch
+- wjXSMp2RBiY | HERESY | How to Think Like an Eternus on The New Patch, Educational Commentary | billy, boxes, healing packs, rift, rat king, shot calling
+- Gg7_0yLOICs | Deathy | Reviewing my Game as the #1 Lash | lash, vod review, ganking, urn, mid boss, itemization
+- R2lq-BXPjo4 | Natan | Breaking Down My Eternus 6 Game, Educational Deadlock Gameplay Commentary | yamato, vod review, lane, centers, urn, itemization
+- IsA7ubVNM1A | Metro Deadlock | The Most Broken Hero Ever Released In Deadlock, Apollo Analysis | apollo, new hero, abilities, build, skill order
+- -qdOcYG_JB8 | Metro Deadlock | The New Deadlock Hero Isn’t What Anyone Expected, Celeste Analysis | celeste, new hero, abilities, build, skill order, counters
+- ncI8oJiNn1w | Deathy | Coaching a BRAND NEW Player! (feat. @Thatsthemixup aka Zyzx_) | venator, new player fundamentals, trooper rule, sinner's sacrifice, urn, side lanes
+- -JuKgSLZbXg | Deathy | Analyzing my EVERY thought in Deadlock, Eternus 6 Commentary | warden, eternus commentary, playing from behind, rift, mid boss, itemization
+- m0SFyNeH9Yw | HERESY | This Wraith Hit E6 After This Coaching Session | wraith, hyper carry macro, lane conversion, split push, blue lane, shotcalling
+- 9xJn4Y-lrNw | HERESY | Billy Masterclass, Former Rank 1 Billy Coaching Sample | billy, chain gang, urn, investment spikes, counterspell, team fight positioning
+- vLTBkLYSjXU | Midknight Vods | Free Deadlock Coaching, 7/28/26 | haze, silver, shiv, holliday, patch notes, macro
 
 ## General and other heroes
 
