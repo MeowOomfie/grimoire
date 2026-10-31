@@ -60,6 +60,31 @@ One line per digested video: `- <id> | <channel> | <title> | <topics>`. Newest f
 - MgVcYiag1bE | Deathy | HOW TO COUNTER SEVEN, A Deadlock guide (2024-08-28, old map) | Seven counters in lane, mid game, team fights and late game, Power Surge, stun delay, denies, jungle tracking on minimap, unsecured souls, objective pressure, Knockdown, Curse, Unstoppable, Debuff Remover, Warp Stone, Superior Stamina, Phantom Strike, Improved Spirit Armor, anti-heal, lane regen and gun items, Seven, Warden, Lash, Vindicta, Wraith, Paradox, Pocket, Viscous, Dynamo, Ivy, Grey Talon
 - slLifALpnns | Deathy | Top 5 reasons you are losing lane in Deadlock (2024-08-26, old map) | laning fundamentals, hitting creeps, creep advantage and wave equilibrium, lane items, Healing Rite, kill items, denies and soul swing, rotation and ganking solo lanes, soul sharing, Lash
 
+## Guides, digested 2026-10-31
+- StmNPefzc5c | Metro Deadlock | Why You Feel Weak in Deadlock (Even When You’re Ahead) | power spikes, investment breakpoints, every hero, fight vs farm, hero tempo
+- cIDRQiTnjqQ | Metro Deadlock | Losing Early Doesn't Matter If You Know This (Eternus 6 POV) | wraith, lost lane, macro, urn, mid boss, shrines
+- -PhKQRhABhg | Metro Deadlock | The REAL Way To Get Ahead In Deadlock (Macro Guide) | farming, box routes, sinner's sacrifice, jungle camps, souls per minute, side lane
+- nsrlmZU8Lek | Metro Deadlock | The BIGGEST Mistake In Deadlock (Why You Can't Win) | macro mistakes, lane vs jungle, playing from behind, split push response, counter items, k/d
+- c8nOj4FXOMI | Natan | The MOST IMPORTANT Objective in Deadlock | map control, trooper waves, vision, minimap, snowballing, wave priority
+- oaV545XfrMA | Metro Deadlock | How Deadlock Pros Control The Map To Win The Game | farm vs fight, wraith, bridge buffs, loser camps, objective trades, mid boss
+- pwr2WGHEKMA | Deathy | How To Win More Deadlock Games, The 3 Pillars of Macro | macro, wave pressure, jungle priority, mid boss, walkers, urn
+- x27JQtqo6bc | Metro Deadlock | The Ultimate Guide To Deadlock Macro - Be The Richest Person On The Team | macro, farming, side lane, unsecured souls, mid boss, comebacks
+- kmpRSlo3cOM | Metro Deadlock | The BIGGEST Macro Mistakes In Deadlock (Why You Can't Win) | macro, wraith, shove lane, boxes, jungle priority, walkers
+- nATqIjtkpoA | Deathy | Play like an Eternus - Deadlock Macro Guide | macro, urn, game stages, objective timers, sinner's sacrifice, lash
+- bjPveO-_Pgs | Metro Deadlock | How To Stop Throwing In Deadlock (Macro Guide) | macro, walkers, split push, urn, mid boss, base siege
+- pIHedIZeRVE | Shotty | How To Get So Good At Deadlock Your Team Doesn't Matter, Deadlock Guide | solo queue, mid boss, roles, trophy collector, parry, carry
+- Fat6LTvoJMk | Deathy | When should you actually fight Rift? With Eternus Example | rift, comeback resistances, objectives, mid boss, macro
+- aLnBCg527wk | Metro Deadlock | The New Deadlock Objective Changes EVERYTHING | patch notes, unstable rift, urn, bounties, hero balance
+- 42YfJRVhDRo | Shotty | Just Give Me 29 Minutes, You'll Carry Everyone | m1 carry, farming, sinner's sacrifice, bag discipline, item spikes, aim
+- jOU6yy5ag4Q | Natan | How To CARRY BAD TEAMMATES in Deadlock Ranked, Educational Gameplay Commentary | pocket, comeback, power spikes, rejuvenator push, mid boss picks, base defense
+- XM7SOBSoAf0 | Metro Deadlock | How To Carry Bad Teammates In Deadlock (It's Easy) | wraith, safe farming, bridge buffs, tesla bullets, solo mid boss, not dying
+- 7kW4TuPwh0U | Deathy | How to get AHEAD in the midgame - Valve's Deadlock | mid game, ability points, objectives, urn, mid boss, lash
+- OQ8ofLZiJr0 | Shotty | You'll Master The Mid Game, Just Give Me 27 Minutes, Deadlock Mid Game Guide | mid game, rotations, farming when behind, urn, mid boss, walkers
+- -ljQqwvt7g4 | HERESY | Play The LATEGAME Like an ETERNUS, Comprehensive Lategame Guide | late game, rejuvenator, base siege, shrines, itemization, shot calling
+- IDxXf-URcXU | Shotty | Just Give Me 33 Minutes, You'll Out Farm Everyone, Deadlock Farming Guide | farming, box routes, soul hierarchy, objectives, sinners sacrifice, negative souls
+- RjV40z_u5i4 | Metro Deadlock | How Farming In Deadlock Makes You Lose Games | positions, farm priority, carries, supports, sinners sacrifice, team comp
+- X_6oZZK-RJg | Natan | Why You're NOT GETTING SOULS in Deadlock, Eternus 6 Coaching | vod review, abrams, overfighting, urn, sinners sacrifice, closing games
+
 ## General and other heroes
 
 - D3Pptd6R5z0 | MartinHitsRecord | Every NEW Deadlock Hero Explained (2026-10-23) | Rat King, Baba, Solomon, Deadman Danny, Violet, Nurse Harrow, hero abilities, hero roles

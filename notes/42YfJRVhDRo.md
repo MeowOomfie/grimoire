@@ -1,0 +1,74 @@
+# Just Give Me 29 Minutes, You'll Carry Everyone
+channel: Shotty
+date: 2026-08-13
+url: https://www.youtube.com/watch?v=42YfJRVhDRo
+
+## Covers
+How to play an M1 (gun) carry through every phase: lane goal of not getting snowballed, lane choice, winning vs losing lane, two-wave farming, unrealized souls, Sinner's Sacrifice, invading the enemy carry, bag discipline at the bridge and midline, first Rift, item spikes, team fight spacing.
+Second half is about aim (tracking, smoothness, aim trainers) and health habits.
+For players at Ascendant and below who want to climb on a gun hero (Vyper, Wraith, Vindicta).
+
+## Claims
+- Gun heroes are balanced around average or below average aim, so with above average aim their damage is far higher than a spirit hero's. [0:32]
+- Spirit heroes do a lot of damage quickly and early, but as the game goes longer M1 carries dominate; a Wraith you barely see all game pops up and you lose. [0:32]
+- Nearly every M1 hero also has some spirit in the kit (Vyper with Mercurial Magnum, Wraith's cards, Vindicta's gun scaling with ult stacks while the rest scales with spirit), which makes them hard to counter build. [1:02]
+- Countering a spirit hero can be as simple as buying Spellbreaker; countering an M1 hero takes more knowledge (how to answer Wraith's cards, whether to buy Dispel Magic into Vyper). [1:33]
+- Most of the roster is dominated by spirit items, and M1 carries are among the best heroes in ranked and to climb with. [1:33]
+- An M1 carry plays differently from other heroes: less roaming, fighting and objective chasing. [2:34]
+- In lane phase your only goal is to not get snowballed and not set yourself up to be unable to farm or easy to gank. [2:34]
+- When choosing a lane, avoid the strongest enemy laners; if the enemy has McGinnis, make sure you are not in her lane. [3:05]
+- To win the match you only need to leave lane phase not 5k souls behind; being neutral, or 1k to 2k behind after losing your Guardian, is manageable. [3:05]
+- Ending lane phase with five deaths is close to game over if the enemy team is good. [3:36]
+- Your whole job is to scale: think about how to reach 25 to 30 minutes, or 30k souls, without losing. [3:36]
+- If you win lane and take the Guardian first, you can farm safely almost for free, as long as your positioning does not leave you at risk of a Guardian dive. [3:36]
+- After lane phase the enemy usually needs two or three people to take your Guardian, which pulls resources off the other lanes and opens the map; worth it as long as you are not traded for it. [4:07]
+- If you lose lane, play around your Walker as hard as you can: you get extra resistances under it and there are boxes and usually two to three camps nearby. [4:39]
+- Playing near your Walker lets you stay on your side of the map with little risk and reach late game scaling as easily as possible. [5:09]
+- Higher ranked teams will dive your side of the map for picks when they hear you at Sinner's Sacrifice or camps, assuming you are low health. [5:09]
+- If you lose lane badly, enemies like a Haze with a big soul lead can walk into your jungle and kill you with almost no counterplay. [5:41]
+- When farming, always push out two waves, so you can take a camp without immediately running back for the next wave. [6:11]
+- Take each wave as soon as it is available; waves give the most souls, then Sinner's Sacrifice, then everything else. [6:11]
+- "Unrealized souls" are the soul tax of teammates dying or giving up objectives: five kills that each put a teammate on a 60 second timer remove five minutes of farming from your team. [6:41]
+- Each death also gives the enemy souls, so a death costs you roughly double (you lose 1,000 and they gain 1,000). [7:43]
+- Take Sinner's Sacrifice as much as possible, starting the second it hits 8 minutes. [7:43]
+- M1 carries benefit from every Sinner's Sacrifice buff (fire rate, spirit, gun damage, magazine size, reload, cooldown), while a spirit nuker like Apollo wastes the gun buffs. [8:15]
+- When doing the double Sinner's Sacrifice, use your mic and ask a teammate to hover nearby in case someone jumps you. [8:45]
+- If you have an easy getaway (Wraith's teleport, Vyper's mobility) or are far stronger than your lane opponent, invade and shut down the enemy carry. [9:15]
+- Example: as Wraith into a Seven, buy Dispel Magic and fight him on his side; dispel his stun, then he must panic ult and still dies to your cards, or you wait for his ult and then ult him. [9:15]
+- Most M1 heroes have very good 1v1 potential; Vyper's ultimate is a strong 1v1 tool, and with Mystic Burst her combo can stun an enemy for half their HP bar. [9:15]
+- Farming heroes are often under half health, so the enemy carry often is too; shutting them down (usually the only enemy who can contest you) can decide the game. [10:16]
+- Do not invade the enemy carry while carrying a bag. [10:16]
+- With a bag, never walk up to or past the side lane bridge you fought at in the first 10 minutes. [10:47]
+- The average player cannot track where enemies are well enough to walk past the bridge safely; spend the bag first, then push up. [11:18]
+- Do not push past the midline of the map unless at least four enemies are accounted for. [12:50]
+- The enemy health bars on the top bar only show for heroes seen very recently; a hero with no health bar there is not on vision and is missing. [12:50]
+- Skip the first Rift unless it is in the lane you are farming; if it is in your lane, spend your bag first, then fight it. [13:20]
+- Skipping the first Rift gives more farm, guarantees you are not split pushed, and can let you split push if the enemy carry goes to the Rift, earning a solo Walker bag. [14:21]
+- These generalizations work for most players at Ascendant and below. [13:50]
+- On Vyper, Shotty buys Mercurial Magnum and usually Ricochet and Split Shot by 20-something k souls, and after that never farms again. [14:51]
+- Newer Vyper players should farm instead of roaming, because the roam style makes it easy to throw, while lane farming lets you carry by getting very powerful. [14:51]
+- Once you hit your spike (around 24k on Vyper), only fight; M1 carries and most carries should perma fight after their spike. [15:22]
+- Ricochet and Split Shot are strong on Vyper because with her 2 maxed and Split Shot active she does huge gun damage, Mercurial Magnum adds spirit damage, and Opening Rounds (less built now) puts enemies under half health in one clip. [15:22]
+- On Wraith, Mercurial Magnum, Ricochet and Dispel Magic with cards maxed (or 3 or 4 maxed) is ready to take on the world; maxing 2 is also strong because the short cooldown gives a near permanent shield and reposition. [15:52]
+- Figure out your hero's spike, reach it every game, then never stop fighting. [16:23]
+- In team fights the enemy will throw everything at the farmed carry (Curse, Mo & Krill's Burrow, Majestic Leap, Lash's ult), so Unstoppable, Indomitable or Dispel Magic are very strong on carries. [16:54]
+- Stand about 10 meters behind your front line so hooks like Bebop's and other abilities hit them first; use them as a meat shield. [17:25]
+- Hold the Alt key in the practice range or at spawn to see distance markers in meters. [17:25]
+- If your front line is weak, or you are much stronger than everyone, you can front line yourself and run people down. [17:25]
+- On a gun hero half or more of your damage comes from your gun, so going from 20% to 40% accuracy doubles your damage, more with headshots. [18:55]
+- Aim is hand-eye coordination you train, not muscle memory; Shotty stays near top 200 scores on random sensitivity. [19:26]
+- Treat aim like fitness: practicing one skill last is like always doing shoulders last, and poor sleep, too little water and no progressive overload stall progress. [20:27]
+- A cited study: reaction time differs only about 50 ms between a 20 and 60 year old, but about 100 ms between 6 and 8 hours of sleep, so 6 hours of sleep is worse than aging 40 years. [21:27]
+- Eating more blueberries gave Shotty a noticeable reaction time improvement. [22:27]
+- Take care of your health before aim training. [22:57]
+- Practicing with the same playlist every time helps get into the zone, like studies where the same music during study and exam improved recall. [23:28]
+- Every M1 carry is a tracking hero (automatic gun, stay on target the whole time). [23:59]
+- Under 1% of the 2,000+ people Shotty coached can draw a perfectly straight tracking line. [24:30]
+- The main tracking flaw is staggering or jittering: stopping and starting the mouse like slamming gas and brakes instead of adjusting speed smoothly. [25:01]
+- Aim in smooth, consistent lines, like drawing without lifting the pencil; most aim inconsistency is a lack of smoothness. [25:32]
+- If you cannot track a big target smoothly you cannot track a small headshot hitbox. [26:02]
+- Aim trainers find your technique issue and give you a way to fix it; just playing more repeats the same flaws. [27:34]
+- Aim trainers fail for people who have no plan or the wrong maps and playlists for the technique. [27:34]
+
+## Disagrees with
+- none recorded yet

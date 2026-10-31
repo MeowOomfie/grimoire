@@ -1,0 +1,72 @@
+# How Deadlock Pros Control The Map To Win The Game
+channel: Metro Deadlock
+date: 2024-10-09
+url: https://www.youtube.com/watch?v=oaV545XfrMA
+
+## Covers
+A replay review of Metro's own Wraith game on map control and the farm versus fight question: what to do after winning lane, ganking off the zipline, farming near middle instead of the "loser camps", bridge buffs at 10 and 15 minutes, trading a lost fight for a Walker or Shrine, and securing the Rejuvenator at Mid Boss.
+Aimed at carry players (Wraith, Haze, Infernus, Vindicta, Yamato) unsure whether to keep farming or join fights.
+
+## Claims
+- The principles apply to any hero but most to carries that want farm (Wraith, Haze, Infernus, Vindicta), who constantly face whether to keep farming or join a fight and risk dying. [0:31]
+- After winning lane and taking your Guardian, a big mistake most players make is going straight back to farm that lane, chase more kills on the laner or push his Walker. [2:04]
+- Pushing your lane up to the enemy Walker exposes you to ganks, and the enemy laner can farm safely under his Walker, so there is little reason to stay close. [2:35]
+- After the lane is won, look for farm on the map or ganks instead. [2:35]
+- At 6:50, with the tier two camps not yet up and his own lane pushed far, there was nothing efficient to farm, so Metro looked for a gank on a pushed-up Haze. [3:06]
+- Zipline speed boost: when speeded on the zipline, press Ctrl to drop and dash immediately after getting off for a speed boost. [3:06]
+- Coming from where the Haze can't see you while the laner (Paradox) baits gives a free kill; one 25 second rotation helped Paradox go even in lane and took another tower. [3:38]
+- After the gank, back out instead of pushing further. [4:08]
+- Fleetfoot is about the best item on Wraith for getting around, farming faster and chasing targets. [4:08]
+- Return to your lane when the enemy laner hasn't seen you for a minute and thinks he can take your Walker; with your ultimate up and more souls you catch him if he oversteps, a good trade even if he takes the Walker. [4:39]
+- Ideally get there faster so you can also deny the enemy your tower gold. [5:09]
+- As a well farmed player with a decent power spike, a gank is ideally better than farming camps, but not when all lanes are pushed deep into enemy territory, which makes ganks very hard and risky through the enemy jungle. [5:39]
+- Taking multiple towers early gets the Flex Slot early and lets you look for deeper kills or farm the enemy territory, since their lanes being pushed deep gives them less map control. [6:10]
+- When contesting enemy farm, don't fully commit if you can hear another enemy nearby; stealing a creep still denies farm. [6:40]
+- Looking at the minimap is always the number one thing to find the next most efficient farm. [6:40]
+- Staying in the right position near your team without fully committing let Metro turn back and secure two kills when a teammate got caught. [7:10]
+- If you are the active team, a bit ahead, or feel more powerful than the enemy on average, play around the middle: control your mid waves, help the team fast, and reach anywhere on the map quickest. [8:13]
+- The side camps far from the action are called the loser camps because the losing team ends up farming them; farming them passively means you can't help. [8:44]
+- When not behind, take the forward spot so even while farming you can help your team at a moment's notice. [8:44]
+- Bridge buffs at around 10 minutes are the best thing in the game; not looking for them is almost throwing. [9:14]
+- The survival buff, the weakest, gives about 400 HP (1,400 instead of 1,000 HP early) and strong regen, and lasts 3 minutes. [9:14]
+- The casting buff gives about 25 extra spirit and lower cooldowns (Wraith's cards charge faster and steal more damage); the gun buff gives more ammo and faster fire rate. [9:44]
+- Look for the bridge buffs every time at 10 minutes and ideally also at 15 minutes. [9:44]
+- Tesla Bullets is Wraith's main farming item; once bought, start farming camps. [10:14]
+- Pick camps close enough to defend a threatened Walker and help a teammate getting ganked, rather than a big camp far from the action; always stay in a position to be helpful even while AFK farming. [10:45]
+- The four camp area on the left side is very risky to take alone. [11:48]
+- Instead of a tier three camp, go push a lane the enemy laner is pushing if you can kill him 1v1, which Wraith can do against anyone as long as you know two or three aren't coming to gank. [11:48]
+- Pushing a lane is worth more than AFK farming: more souls on average, especially early, and more map control. [12:18]
+- While farming a tier three camp, watch the minimap and back out immediately when an enemy like Dynamo is coming. [12:49]
+- Being proactive while farming made Metro's net worth jump far ahead in about two minutes; farming a random pushed-up wave is probably faster than the loser camps. [13:19]
+- When ahead and confident nobody can instantly kill you, take mid control and teleport onto mid when teammates call out an enemy (Lash) to help with pickoffs. [13:50]
+- With your whole team around, use Wraith's ultimate even when you can't shoot the target yourself, knowing teammates will follow up for the kill. [13:50]
+- Warden's ultimate did almost no damage; Metro called Warden a very bad hero at that time. [14:21]
+- Wraith bursts down towers very fast. [14:21]
+- Don't force an even 4v4 under the enemy Walker: the defenders have it easier to set up, so someone will probably get caught; stay close to your team in a position to help instead. [14:53]
+- When the enemy has six in middle and you are the highest net worth on the team, joining a lost fight just gets you killed for maybe one kill; call the back off, and if teammates keep fighting you can't help them. [15:23]
+- When a wave is pushing your Walker, defend the Walker rather than farming the many nearby camps. [16:27]
+- When even or ahead, play around middle looking for kills only where at least one teammate can back you up. [16:59]
+- After a failed kill attempt, push the lane a bit and rotate back toward the middle where you can help the most teammates. [17:29]
+- As soon as three or four enemies show on the map deep in your territory (for example collapsing on a teammate at the Urn), go push a Walker on the other side; they are too far in to make it back, often not even by zipline. [17:59]
+- Metro called his own back-off from a 1v1 with Warden too safe: a Wraith with 23k souls against a 15k Warden can lift him during his ult and burst him down. [18:30]
+- Once Warden has used his ult he is basically useless against you, so worst case you get a Walker for free. [19:32]
+- If the whole enemy team is in the main fight, joining makes it 5v4 at best, which still doesn't favor you; take the safer play, an objective. [19:32]
+- The one thing not to do when your team is fighting is AFK farm a jungle camp; that is the answer to when to farm versus when to fight. [20:03]
+- If five enemies are fighting your team, even if your team dies you can almost always guarantee an objective and trade it for a Walker, an even trade as long as not your whole team dies. [20:35]
+- Losing teammates in the fight is still a good trade if you get the Walker and know nobody can come to save it. [21:05]
+- An enemy who hasn't been shot for two seconds often stops respecting your damage and dies to a burst like Wraith's cards. [21:05]
+- A defender who sees a lone attacker in base assumes his team will help, without noticing they are in a 5v4 elsewhere; commit for the Shrine in that window. [21:36]
+- Dying for a free Shrine plus a Walker is an amazing trade; the team was even in souls but far ahead in map control afterwards. [22:37]
+- In teamfights, play somewhat back where you still provide damage without dying; the number one thing not to do is die, and lift a Warden the moment he ults so you can burst him. [23:08]
+- When the fight is basically over and chasing a fast hero like Pocket is pointless, take mid control instead. [23:38]
+- With deep forward map control it is hard for the enemy to engage, so a Mid Boss even at 5v5 can work, though it is risky. [24:08]
+- On Wraith, to secure the Rejuvenator stand a bit outside the pit so you can lift the target you need; Metro lifted the Lash, saw Haze ult so she couldn't punch, then took the melee last hit before Shiv could. [24:41]
+- Using so many enemy cooldowns (Haze ult, Infernus ult) on one tanky carry who survives wins the following teamfight easily. [25:11]
+- When low in the enemy base and you don't want to back out, hit the side lane Walkers still standing and heal with Bullet Lifesteal, which Metro thinks is too strong. [26:14]
+- Farm versus fight is mostly about positioning: when ahead or even, farm spots that are safe but close to your team and the middle, so you can join fast when a fight breaks out or a teammate gets caught. [26:44]
+- The worst thing a carry (Haze, Yamato) can do when even is sit in the loser camps or the tier three camp on your side while the fight happens on the other side of the map. [27:16]
+- Pushing lanes gives more souls on average and more map control, so you benefit twice. [27:16]
+- It's better to farm safely than to die; don't rush into the jungle to take a tier three camp about 10 minutes into the game. [27:46]
+
+## Disagrees with
+- none recorded yet

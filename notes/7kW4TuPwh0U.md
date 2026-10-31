@@ -1,0 +1,71 @@
+# How to get AHEAD in the midgame - Valve's Deadlock
+channel: Deathy
+date: 2024-08-27
+url: https://www.youtube.com/watch?v=7kW4TuPwh0U
+
+## Covers
+An early (2024) mid game guide built on a replay of a lost lane as Lash: when lane phase ends, why AP lead matters more than souls, taking objectives, shoving lanes, the Urn, Walkers and flex slots, when to take Mid Boss, and choosing good fights.
+For players who come out of lane even or ahead but can't close games.
+
+## Claims
+- The laning stage is generally over once one of the towers goes down; even if no tower has fallen, consider it over around the 9 minute mark, though in most cases a tower falls before 9:00. [0:32]
+- Once your tower is down you have no nearby objective to protect, so you are free to do different things on the map. [1:02]
+- Shiv is very broken (at the time of the video); he dove and killed the coach at 7 minutes, ending the lane. [1:02]
+- Don't only look at souls at the top; the AP (ability point) lead is a very important factor in the mid game. [1:34]
+- AP also scales your bullet damage and your health; the total power increases shown at the bottom left are determined by your AP. [2:05]
+- You get AP from soul thresholds and from objectives; buildings give AP. [2:05]
+- You need a significant amount of AP to win mid game fights; being down 11 AP with even souls makes fights very hard because enemy abilities are much higher level. [2:35]
+- Count spent and banked ability points on an enemy (for example Shiv with 8 points vs your 5) to see how far behind you are; three points is extremely significant. [2:35]
+- Once the laning stage is over, the best way to get ahead is to take as many objectives as you can. [3:05]
+- When the enemy has all their tier one towers and Guardians up and you are behind in AP, it is not to your advantage to take fights. [3:35]
+- If you are ahead in AP, souls or both, press objectives: go at towers and take them rather than just staying in your lane. [3:35]
+- If you won your lane, go to other lanes to help your teammates win them and take their towers. [4:05]
+- When the enemy defends towers well, look for picks first so that you can then take the tower (for example kill a Yamato who is too far forward after she uses her ult). [4:35]
+- Shove lanes: shoving lets you take objectives and put on pressure, and troopers do a lot of damage to objectives in this game. [5:06]
+- If your lanes are always pushed you will be able to take objectives; that is the main way to take them, though you usually need to hit them yourself too. [5:06]
+- After getting two picks near a tower, look to push an objective instead of continuing to fight. [5:36]
+- Against a player who constantly shoves out one lane, respond with one hero who is good at counter shoving (Kelvin, with his beam, grenade and good wave clear) so they can't take the Walker and get little value. [6:06]
+- Don't get involved in bad fights your teammates are taking; if your team is fighting elsewhere, taking the tower in front of you is often the correct play. [6:37]
+- Don't overcompensate by going to too many fights; taking objectives is extremely important. [7:07]
+- Even when you are not directly winning fights, pushing objectives with spare players can bring AP back to nearly equal, which puts you in a much better position to take fights. [7:40]
+- A common mistake is taking too many fights and not taking advantage of the space on the map. [7:40]
+- Walkers (tier 2 towers) are much harder to take than the first towers: they are tankier and bigger. [8:11]
+- Whether a fight is good is generally a question of strength and numbers and knowing what your hero can and cannot do. [8:41]
+- Always look at the minimap; it is your source of information and often deserves more attention than the game itself. [8:41]
+- Use wave positions on the minimap to place enemies (which hero is in which lane) before deciding where to go. [9:12]
+- Shove a wave as deep as you can for two reasons, more information and more pressure, then take their jungle. [9:12]
+- If you push a wave and they don't respond, keep going and push the objective; they must respond or you get the objective and a huge AP lead, and with a huge AP lead fights are easy. [9:42]
+- If they do respond to your push, go to the nearby jungle camp to accelerate your farm. [9:42]
+- It is okay to show up to fights when you see a good opportunity; know your hero and your limits, and experiment a little to learn what works for your hero. [10:12]
+- The Urn spawns every 5 minutes and shows on the minimap. [10:44]
+- The Urn gives AP and a significant amount of souls (the coach believes around 3,900 souls for the first one, unsure), with extra souls and AP for the player who delivers it. [10:44]
+- The Urn is very valuable when there is nothing else to do on the map, and still valuable when there is. [11:15]
+- When the enemy knows your carrier has the Urn and plays around the drop off, the carrier should wait for the right moment, such as when a teammate creates space by drawing the enemies onto himself. [11:15]
+- This is a MOBA, not Overwatch: much of the game is wave clearing, pushing waves and going for objectives, not just brawling. [11:46]
+- There are only three types of objectives: buildings, the Urn and the Mid Boss. [12:16]
+- The Mid Boss is similar to Roshan in Dota, and its second life or faster respawn is similar to an Aegis. [12:16]
+- As Lash, with Rapid Recharge and Superior Stamina you can stay in the air a very long time to take an objective while an enemy like Infernus is nearby. [12:46]
+- Taking the first Walker is extremely important: it gives AP and a flex slot. [12:46]
+- Flex slots are very important because filling all your item slots is fairly common and you want room to buy other items. [13:17]
+- After the first Walker, taking other Walkers is important but lower priority. [13:17]
+- A fight where the enemies are grouped up pushing your objective is a good fight for Lash, because it makes a good Death Slam easy. [13:48]
+- After almost wiping the enemy (five kills), Mid Boss makes the most sense, especially when the enemy has no ultimates available to contest it. [14:18]
+- The Mid Boss is very easy to contest with heroes good at contesting it: Infernus, Abrams, Dynamo, anyone with a big AOE stun or AOE control ability. [14:18]
+- If the enemy has those contesting heroes alive, doing Mid Boss is risky because they can steal it (for example Infernus diving in with his ult or a Dynamo). [14:48]
+- Taking Mid Boss when Infernus is dead and without ult and nobody else can contest, while your team defends it well, gives a huge advantage. [14:48]
+- Mid Boss makes all your troopers huge, like Mega creeps in Dota, so all your lanes push, and gives faster respawns on your second life (Rejuvenator). [15:18]
+- Take Mid Boss whenever you can, but newer players should be careful: in lower elo it is bait more often than not because people go too late and kill it too slowly, letting the enemy contest, steal it and wipe you. [15:18]
+- Go to Mid Boss when you get a really good fight near it that ends in a wipe, and the later in the game the better, because respawn timers are longer. [15:48]
+- Even with Rejuvenator you can lose a fight if your team is very split and takes a bad fight. [16:19]
+- Don't get caught up in your teammates' bad decisions; if a teammate gets caught and dies you don't have to help at all costs, look for something else to do on the map. [16:19]
+- As Lash, wait near an objective for the enemy to push it, then look for a Death Slam pick on whoever shows up. [16:49]
+- Lash has pick off potential most heroes don't have. [17:21]
+- Any time you get a pick, ask whether you can get an objective or a fight; if no objective is nearby, go for the fight. [17:21]
+- After winning a fight, push the lane. [17:52]
+- How to push your advantage in the mid game: first take objectives, second take their jungle if you can. [18:22]
+- Take fights when you have a numbers advantage and when you are ahead in the game. [18:22]
+- If you are behind, push lanes and take objectives as much as possible and try to split the enemy up. [18:22]
+- When behind, push one lane; if they bring back two people to deal with you, your team can fight elsewhere on the map. [18:22]
+
+## Disagrees with
+- none recorded yet
