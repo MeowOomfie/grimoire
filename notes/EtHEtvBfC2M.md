@@ -1,0 +1,66 @@
+# Deadlock 2026 Movement Guide (Featuring Leif)
+channel: Deathy
+date: 2026-03-05
+url: https://www.youtube.com/watch?v=EtHEtvBfC2M
+
+## Covers
+Movement guide in two parts: Deathy's practical techniques in the order to learn them (stamina as a resource, zip dash, dash slide hop, slide to save ammo, mantle slide, instant air dash with a keybind, wall jumps as free stamina, vents and air strafing), then Leif's advanced mechanics (air drag numbers, slide friction, strafe and dash angles, edge boosts, dash cancel, corner boosts).
+For any player wanting to improve movement, from new players to people learning advanced tech.
+
+## Claims
+- Practice movement in the Explore NYC mode, for example wall jumping on the pillars there; there is also an option to explore the map while in queue. [0:30]
+- Stamina regen differs by hero and shows on the hero's stats: Mina 3.9 seconds, Infernus 4.5 seconds, Kelvin 5.5 seconds. [1:00]
+- Kelvin has significantly longer than average stamina regen and Mina shorter; as far as the coach knows every other hero has the same, but it may change. [1:30]
+- Heroes start with two, three or four stamina; three is standard but many recent heroes have two, for example Graves and Mina. [1:30]
+- Base stamina count only changes how much you can store, not regen; Graves's two stamina doesn't regen faster. [2:02]
+- Stamina is a resource: don't sit on full stamina, but don't spam it, especially if you may need it to escape or will need it once you arrive at a fight. [2:02]
+- The first technique to learn is zipline movement: get on the zipline, let go with Ctrl, then instantly air dash; it is the most important movement technique. [2:32]
+- Whenever you want to go somewhere, ask whether a zipline can take you; for example from mid lane to the shop, zip dash into a wall jump, or zip for initial momentum toward the jump pad to gank another lane. [3:03]
+- Second, learn dash jumps into a slide and then a bunny hop to keep momentum; combine with slides on stairs and wall jumps. It isn't always the most efficient way across the map but is easy and useful. [4:04]
+- Third, when low on ammo, dash into a slide to keep shooting; sliding makes your magazine last significantly longer, which is very important late game and on heroes like Graves who want to keep shooting. [4:34]
+- You can slide on pretty much any slope; learn the surfaces you can slide on. [5:06]
+- Mantle slide: mantle (hold W and press Space), then hold Ctrl while mantling to slide off with extra momentum; for escapes, mantle slide into an air dash. [5:06]
+- Heavy melee into a mantle slide is incredibly important for gaining momentum while being chased; mantle slide by default and learn the exceptions later. [5:36]
+- Instant air dash: jump and immediately air dash in any direction. [6:06]
+- Keybind trick: in keybinds select all heroes and add a second dash bind (the coach uses V alongside Shift), so Space then V pressed with the thumb almost together gives a consistent instant air dash without breaking Shift muscle memory. [6:37]
+- Other easier ways to instant air dash exist but might get removed, so rebinding is the safer method. [7:07]
+- The biggest advantage of the instant air dash is that you stay actionable: a normal dash stops your shooting, while an instant air dash keeps firing the whole time, which is especially important on Graves and for chasing a fleeing Infernus. [7:37]
+- You can parry while instant air dashing, for example to escape a chasing Billy, and it is easier to chain into wall jumps because a normal dash locks you straight with little control. [8:07]
+- With Superior Stamina (stamina mastery, which raises air jump and dash distance) you are always better off instant air dashing than regular dashing; never use regular dashes then, especially on bucket two or three stamina heroes. [8:37]
+- Dash speed comes in buckets: bucket one fastest (Paradox has the fastest dash), bucket three slowest (Abrams); instant air dashing and stamina mastery are better for bucket one heroes and worse for bucket three. [9:07]
+- Treat wall jumps as free stamina: the first wall jump costs no stamina and later ones little, and they make you less predictable while saving stamina. [9:38]
+- Example: reaching a high ledge with stamina, double jump and heavy melee to mantle, versus wall jump into air dash into melee, another wall jump, for only one stamina (with stamina mastery). [10:08]
+- When chased (for example by Billy), chain wall jumps that propel you forward with mantle slides; wall jumps also let you change trajectory, for example instantly going backwards to be unpredictable. [10:39]
+- Wall jump extremely often when traversing the map and combine it with air dashes. [11:10]
+- Vents (bounce pads) are almost as important as zipline tech for moving around; to gank from mid lane, ride the zipline, strafe right to the vents, then wall jump for free stamina. [11:10]
+- On vents, holding W flies you straight; let go of W and hold A or D to air strafe and change your path significantly, even on a poor movement hero like Graves. [11:40]
+- Air strafing: look left while holding A and smoothly move the mouse; look right and hold D for the other side. It matters more on Celeste or Holliday, who have increased air control. [12:12]
+- Bounce pad strafe paths can escape safely or gank a lane by going over the roof to get behind the enemy lane, for example as Lash; easier with stamina mastery but possible without. [12:43]
+- Movement in Deadlock can be very creative; take the coach's routes with a grain of salt. [13:13]
+- Leif: air drag slows characters in the air over time; the minimum air drag value is 0.2 in the console, a percentage of velocity subtracted each tick. [13:44]
+- At the end of an air dash you lose about 20% of your total velocity as an air drag penalty. [14:16]
+- After leaving a zipline with a crouch you are immune to air drag for 2 seconds; dodging the air drag penalty is what makes zip dashes so good. [14:16]
+- A true instant air dash leaves you grounded, and sliding immediately avoids the air drag penalty. [14:16]
+- Slide friction coefficient is 0.1875, decreasing to 0.175 for dash slides. [14:57]
+- After landing into a slide from a slide hop, jumping before 0.5 seconds pass gives a large air drag penalty. [14:57]
+- If a slide lasts too long, slide friction rises above 3.0, so sliding is better for keeping speed only for a small window. [14:57]
+- Air strafing lets movement keys accelerate you beyond the air control limit; holding W in zero gravity accelerates only to 80 units, the default limit, unless you change the acceleration angle. [15:27]
+- The faster you move, the steeper the strafe angle needed; strafing between 85 and 90 degrees is typically best, and done right it makes being airborne better than sliding for keeping speed. [15:27]
+- Air dashing in the direction you already move eventually gives no velocity, only the 20% penalty; at running pace angle the dash about 50 degrees away (hold W plus A or D and turn into the dash slightly), widening toward 90 degrees as you go faster. [15:57]
+- Strafing or strafe dashing into walls at angles can generate velocity. [16:27]
+- Edge boosting might be the most useful movement concept to learn: wall jumps work briefly after losing wall contact, and a wall jump done after sliding off the end of a wall adds its impulse to your existing velocity. [16:58]
+- Where a wall and floor end in the same place, an edge boost needs only one jump input after walking off the floor; edge boosts are harder at high speed but useful at any speed. [16:58]
+- A mantle jump input can also trigger a wall jump if you are airborne at the end of the mantle, so some mantles pressed against a wall give both with one jump input. [17:28]
+- Many spots let a mantle set up an edge boost, chaining speed forward instead of sideways; you can also mantle jump straight into an edge boost with two jump inputs, such as the mid to vent jump. [17:59]
+- Dash cancel: input two crouches, or bind crouch to scroll wheel and scroll once, to cancel a dash early; double tapping crouch gives a slide you can jump out of. [18:29]
+- Scrolling to cancel the dash and immediately jumping gives a short hop, useful for spacing edge boosts since dash distance can't otherwise be shortened while still allowing a jump. [18:29]
+- Corner boost: a wall jump performed while colliding with the upward-facing ledge at a floor's edge gives greatly increased jump height; jump only while in contact, since too early or too late wastes your double jump or gives a regular wall jump. [18:59]
+- Strafing slowly toward the ledge gives better control of where you collide, and adjusting keys and camera keeps contact longer for a larger corner boost window. [19:30]
+- Practical corner boost: holding Space, approach a railing head on (a quick melee lets you press Space without jumping), and after mantling the railing time a jump input; signs work similarly, the most useful ones next to the "rune towers" (caption). [19:30]
+- Strafe the mantle slide into railing corner boosts to gain horizontal velocity. [20:02]
+- You can mantle slide within a 180 degree cone centered on your facing when the mantle starts; turn the camera very slightly before the slide to put the A or D input inside the cone edge, sliding as close to 90 degrees as possible. [20:02]
+- Many map surfaces don't match their collision boxes, so practice edge and corner boosts on as many walls and ledges as possible. [20:32]
+- Some ledges, like the rail in the mid trench, have slanted geometry that keeps you in contact longer and makes corner boosts easier (they can even be surfed); sharper ledges give a tighter timing window. [21:02]
+
+## Disagrees with
+- none recorded yet

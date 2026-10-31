@@ -113,6 +113,44 @@ One line per digested video: `- <id> | <channel> | <title> | <topics>`. Newest f
 - eUnlY_3MmNM | Shotty | Give Me 17 Minutes, You'll Outscale Everyone | snowballing, power spikes, box running, walkers, mid boss, shrines
 - ikoxrbj5yB4 | Metro Deadlock | Deadlock’s New Tank Is Almost Impossible to Kill, Rat King Quick Start Guide | rat king, abilities, build, ability order, counters
 - 0iLzlvGjfGE | Metro Deadlock | The Only Beginner’s Guide You Need for Deadlock (Updated) | beginner, laning, sinner's sacrifice, rift, mid boss, ziplines
+- foN-aAbeO6E | Metro Deadlock | The Most Misunderstood Mechanic in Deadlock | ziplines, map control, wave pushing, walkers, rejuvenator, macro
+- D1BMbHJ0pd0 | Metro Deadlock | Deadlock Has a Serious Problem (And It’s Getting Worse) | balance, meta, carries, nuke heroes, team composition, game length
+- kifJcY4e9OE | Deathy | How Deadlock Pros Win Games In The First 10 Minutes | laning, wave priority, power spikes, rotations, jungle stealing, pro analysis
+- 8NmFosO4_pE | Metro Deadlock | Why Your Aim Is Inconsistent in Deadlock (And How to Actually Fix It) | aim, sensitivity, tracking, bullet velocity, aim training, setup
+- wWYU3lKS5Lw | Shotty | How To Get 3x The Souls of Everyone in Your Games | fighting vs farming, trophy collector, roaming, losing lane, roles
+- ZstCN3v1KK0 | Deathy | Positioning is simple, actually | positioning, sightlines, stamina, cover, high ground, fight roles
+- RmBpFNI0Wsg | Sensu | How I Dropped 137K DMG against Deadlock’s MOVEMENT GOD | seven, gameplay, mid boss, late game, comms
+- BYztvpQT12Q | Metro Deadlock | The Best Heroes To Climb In Deadlock Right Now | hero picks, meta, trophy collector, apollo, warden, solo queue
+- 8dHrw9-0G3Y | Shotty | This is Why Your Leads Don't Win Games | carry role, unsecured souls, kill value, comebacks, vod review
+- sg4R3ZT_BWQ | Deathy | A Complete Deadlock Guide for BEGINNERS - (OUTDATED) | beginner, movement, objectives, urn, walkers, patron
+- E5CRaB37G5E | Natan | Why You Should STOP HOLDING W, Deadlock Movement Essentials Guide | movement, air strafing, dash jump, wall jump, edge boost
+- XNR6JjHe9y0 | Deathy | Metro is still wrong. Here's why. @MetroDeadlock | itemization, vitality investment, laning, power spikes, response
+- 3m2VXxdQWV8 | Metro Deadlock | The New Meta In Deadlock (Movement Is Dead) | patch notes, movement nerf, vitality investment, shrines, item tier
+- _pzB6i1cRxM | Deathy | Valve is listening. But is it in the right direction? | patch notes, death ball, walkers, gun meta, soul split
+- N4zcDZ-I9HM | Metro Deadlock | I'm The Worst Deadlock Movement Player, So I Called The Best | movement, strafing, wall jumps, instant air dash, jump pads, practice drills
+- rc7HCrGVS6U | Shotty | Watch This To Win Every Solo Queue Match | solo queue, carry, walkers, box routes, farming, rotations
+- uaxXgf9O_-A | Sensu | How Your Mindset is Ruining Your Rank, Deadlock Mental Guide | mental, tilt, communication, toxicity, breaks
+- AsmoMLBNdms | Shotty | 13 Minutes of Brutally Honest Deadlock Advice | improvement, mindset, alt accounts, vod review, hero pool
+- BiZ29Dtc-Wo | Deathy | What Does Midboss ACTUALLY Give, And When Should You Do It? | mid boss, rejuvenator, objectives, contesting, parry
+- pTqs7JKC-PA | Shotty | You’ll Master Aim, Just Give Me 19 Minutes | aim, crosshair, sensitivity, tracking, sleep
+- ij0aCOP9l5g | Metro Deadlock | Deadlock Finally Fixed The Meta? (Balance Update) | patch notes, celeste, haze, items, parry, balance
+- xrndiLirUYQ | Deathy | How Map Vision ACTUALLY Works in Deadlock | vision, minimap, invisibility, troopers, rotations
+- uXE1ZQN8Y8k | Metro Deadlock | Why Is Eido So Much Better Than You At Deadlock? | macro, team fights, jungle, deaths, counter items, closing games
+- ts3agTIHqvk | Shotty | Climbing In Deadlock Is Easy Once You Master This. | climbing, gun carry, split push, unsecured souls, solo queue, igl
+- DMAVxcaYdoQ | Deathy | Why Gun Heroes OUTSCALE Spirit Heroes | gun vs spirit, scaling, itemization, resist reduction, counter items
+- 6R4LELQ3Drk | HERESY | Egg Philosophy | golden goose egg, golden statue buffs, soul value, vaults, itemization
+- kw82hsnanuQ | Natan | NEW Deadlock Hotfix Update SHIFTS THE META | patch, health changes, item meta, shiv, celeste, calico
+- EtHEtvBfC2M | Deathy | Deadlock 2026 Movement Guide (Featuring Leif) | movement, stamina, zip dash, instant air dash, air strafing, edge boost
+- KgatoxIlhjI | Metro Deadlock | You’re Playing Deadlock On Hard Mode (Fix This) | settings, mods, topbar plus, instant cast, instant air dash, auto buy
+- aoFar1097UU | Deathy | The Problem Every Deadlock Player Has | ganking, lane rotation, camp stealing, tower safety, rem, map awareness
+- -NyPdE6mL9s | Metro Deadlock | The Only Beginner’s Guide You Need for Deadlock | beginner, laning, souls, sinner's sacrifice, urn, mid boss
+- WC6YI6wmJYs | Natan | Deadlock Mechanics EVERY PLAYER Should Understand | hidden mechanics, objectives, comeback souls, investment spikes, resistance shred, hero stats
+- IhziPXJHPA0 | Metro Deadlock | Deadlock - EVERY REM ABILITY, Full Breakdown Guide & Tips | rem, ability breakdown, support, skill order, vents, sinner's sacrifice
+- m5HpSuLMKx4 | Deathy | A Matchmaking Update is Coming. Here's What It Should Fix. | matchmaking, ranked, smurfs, bans, hero mmr, solo queue
+- YHc-NMmPjHg | Deathy | 14 Deadlock Timers You Need To Know | timers, guardian resistance, camps, urn, rift, mid boss
+- _tBLhjtdDWo | Sensu | YOU'RE Playing the Wrong Deadlock Hero. | hero choice, micro, meso, macro, roles, self review
+- ejPLLctB3C0 | Natan | Why Deadlock is a TURN BASED Game | tempo, waves, cross map, weak side, throws, death timers
+- OL_7Oi-t4sA | HERESY | How To Play Your Favorite Character Like You're Eternus 6 | hero tips, roster, hero identity, map reading, ultimates
 
 ## General and other heroes
 
