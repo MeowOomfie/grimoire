@@ -1,0 +1,104 @@
+# THE NEW PATCH HAS ARRIVED
+# channel: aquatiq
+# date: 2026-08-01
+# url: https://www.youtube.com/watch?v=BUVVHkFDI7Q
+
+[0:00] There's there's brick, stone, iron, bronze, silver, gold, platinum, diamond, and they are like subranks. So, there's now sub ranks and there's main ranks. Initiate, seeker, acolyte, centennial, mystical, ritualist, emissary, oracle, phantom, ascendant, eternist. None of the top ranks change. So, emissary does emissary exist still, but there's no um the all the ranks that were here just don't exist anymore. They're they're completely new. seasons. We have eligibilities. We have draft. Oh, there's so much. To
+
+[0:31] be eligible to queue for ranked mode, you must have at least 60 wins in the standard mode. To ensure high quality games, ranked mode expects that you have a solid understanding of the heroes you play. I'm so curious to see what my my characters are. But if you're a Vindic player, let's say you have 800 games on Vindicar and you have 10 games, let's say on Viscus, and you want to play Viscus, the game literally won't let you play. Ranked mode has seasons with the first season starting today and ending October 7th, after which the following season will begin. At the conclusion of the season, the highest rank you achieve
+
+[1:02] will be permanently saved in your rank history page. So, if you make it to Eternis and you're currently Oracle, your rank history page will show Eternis. That's really good news. I like that. As the season starts, everyone will enter a calibration phase for eight games. All players will have soft reset of their prior rank. Maintaining some history of your previous performance relative to other players to help seed you in initially uh into Okay, so basically uh you maintain your match history. It's going to slot you in compared to other players that have performed similarly to you so that
+
+[1:33] you're not just literally getting put with like if you're a Phantom right now, which is don't let anyone tell you otherwise. Phantom is a very high rank. People are very stupid and they like to they like to do this thing where like if you're not eternalist, you're not actually playing deadlock. Players can only exit calibration at a max rank of oracle 6. You cannot party during calibration matches. You can't smurf your way to a calibration. When you win a loser game, you will see your rank points update with a visible progress bar. This is exactly what I wanted. This is exactly I don't need to go to stat locker to look at like dude,
+
+[2:04] I don't have to go to stat locker to look at my rank anymore. Fighting you. I'm great. I'm fantastic. I'm so glad this happened. I'm so excited for this this rank update. Um, you'll see a visible progress bar after each match. Each win or loss will grant you plus or minus 250 points on average, though these numbers could vary slightly depending on the expectations that the matchmaker had from the game or while on a win streak. To progress to the next sub rank, you need to collect a,000 rank points for each promotion. Wow. Distinctive like points to show me when I'm going to rank up. I don't have to
+
+[2:34] guess anymore. Wow, that's so cool. However, the final sub rank before moving to a new rank, Mystic 6 to Ridless One, requires 2,000 points. Once you reach a tonus one, there will no longer be a fixed amount of points needed to progress from one subrank to another, as a threshold will be dynamically updated daily to segment the subranks on a percentile basis. That's only helpful for high like for literally all the people that play [music] in uh Night Shift pretty much. There's also rank loss protection when you're playing ranked. Yes, I was begging for this. We need we need rank loss protection. You
+
+[3:05] have five games of loss protection when on the boundary of a full rank. So if you're Mystic one with zero rank points, you will maintain Mystic until you lose five games, which shouldn't technically be possible. You shouldn't lose five games. If you really truly belong what in what rank you are in right now, you shouldn't lose five games. And I'm not saying everyone does this, but if you have the same teammates just griefing your games and running it down, cuz I've seen it happen. I had a pocket on the enemy team. It was like 7 minutes into the game. He walked into our base, sat
+
+[3:35] under our shrines for the whole game cuz he he died like twice. I don't know why people are mad about this. This is the best thing that they've added to the game since freaking old gods, bro. Like entering a match and hero selection. Okay, this is people were begging for this as well. We think the ability to cue a very specific hero in mine is an important popular feature with most players, even more so in ranked where it is critical that everyone has a good understanding of how to pilot their selected hero. By having hero selections done in advance of a game format, we are able to utilize the matchmaker on the back end to mix and
+
+[4:06] match players from the larger queue to meet everyone's preferences that players are able to get the hero they want uh while also allowing us the ability to create a reasonable team composition. As part of this update, we've done some improvements on the matchmaker's ability to create solid team composition. This is also something we expect to improve over time as the player pool grows and as more heroes are released. Ooh, wait. Leaked leaked. The matchmaker will have I hope Zergi comes back, bro. Honestly, the matchmaker will have some more opportunities to create balanced matches with good team composition. Is that why
+
+[4:36] Zergie stopped playing? Cuz he knew this was coming while also increasing the chance you get the hero in your highest priority. However, we also recognize that uh even in long-term, the matchmaker won't always be able to do a great job at this depending on who is in the queue at the specific time, especially at ranks or regions where the queue is much thinner. Yeah. So, basically, OC as such with this rank update, we are choosing the we introducing the ability to change your hero. You can also use the new pregame waiting area to adjust your starting lens. You won't be able to zipline swap after this. Okay, so you can't zipline swap anymore. Pause will be disabled
+
+[5:07] until 2 minutes. Way better. What? Dude, my frames are so good. Look stability. What? No way. Oh my god. Stability. What do you mean? What do you mean my game is stable? >> No. No. No. No. No. No. No. No. [laughter] No. No. No. What do you mean?
+
+[5:40] I have frames. One patch. My frames are back. I was telling you all this whole time. It's a patch. A patch did it. No one believed me. I feel stable again. My wife and kids are back.
+
+[6:11] What? Okay. I'm not I'm not mentally stable, but like the game is stable, you know? You could tell this Vindic actually believes she deserves to be alive. >> Very funny. No way. I can't believe it.
+
+[6:42] I cannot believe it. There's a damn healing minion over there. It's cooked. Oh, my game of seven is actually going to go good. >> All I need to do is farm after lane and that's it. I need to remember that.
+
+[7:15] This is crazy. You know, guys, I mean, I'm I'm going to bite my tongue later and it's just going to die when I'm in base, but >> it's doing so good right now. It's crazy. Yoshi, you did something. Oh my god, Yoshi, you are the man. I mean, yeah, late game Deadlock is
+
+[7:45] pretty bad usually. So, it's going to it's going to be the same as before, but pretty much Well, we'll see if they do some more optimization. Well, obviously they've optimized the game cuz it's literally way better than it was. It's like 10 times better. Like, in my laning stage, I couldn't even play the game properly. It's just night and day. I don't know what they did, but they did something. Something happened, man. Something I'm telling you.
+
+[8:19] >> Something Something's different. >> I don't know what it is. I'm buying this. >> Thank you. Mystic. Interesting. I mean, naturally, I feel like Frammy because of OBS, but other than that, and not really that much of a difference between before and now.
+
+[8:57] Oh frick. >> Here she's the goat. Whoa. Whoa. Don't go that far just yet. I wouldn't say that. >> I can actually aim, bro. It's crazy. >> And someone's going to say, "Oh, you could aim before?" Yeah. No, not not really. You're right.
+
+[9:33] Bonkers, bro. It feels it's it's plausible that a video comes out on the weekend. No way. Well, this is why I always used Yoshi in Mario games. >> Me, too, man.
+
+[10:04] >> This is also why I always used Yoshi in Mario games, cuz I freaking love Yoshi. Yoshi the goat, honestly. Shy guy. Damn. Yes, Vindic. Stand near the tower, you dumb monkey. You dumb Chihuahua. No one knows what that quote's from.
+
+[10:36] If you know you're the goat, actually, if you know where that quotes from, you are the goat. and weep. >> Oh, >> that guy's got balls. >> Hell, >> you dumb Chihuahua. >> Maybe I should see what I can buy. You'll be the last one standing.
+
+[11:08] >> Oh, how am I even in that? >> I see the enemy. >> I ain't going to lie. >> Five, seven, >> six, seven. Oh, my dog's barking. >> Huge >> missing. >> 67.
+
+[11:42] >> We need to advantage. >> All right, you can have this solo. >> W my goat. My goat. My dog just went autistic mode. W >> be ranked down to ascendant. He's Oracle. Everyone is. No one's going to be No one's going to be high rank anymore. They have to grind it. They have to grind on it. >> Well, then you can come take yellow. I mean, green. I mean, >> he's not He's going to be the rank that
+
+[12:13] he despises so much. >> Ball of lightning. Me and your mother. Ball of lightning. Jump scare. I just got jump scared in my own farm. >> Yeah, we're good. >> Oh my god. >> Uh, make sure they don't grab. >> Well, I guess I can do that. >> Freick off. I can hear you behind me, you monkey.
+
+[12:52] >> I mean, I don't know what she's doing. She has no wave. >> Well, interesting. Surely a strat one. [laughter] >> Surely a strat. Thank you. >> Thank you. >> Rift. Yellow. I'm going to be pooping useless. Lash, >> I'm going to be pooping useless
+
+[13:22] for a bit. >> Wait, she's so poor. Why is she so poor? She sure has an interesting way of like what the heck is she doing? I'll get him the there. I probably got
+
+[13:52] that for you, I think. No parry. Nice. >> Uhoh. Nice. Sit in it. >> Indictor's not here. >> Oh, that's mine.
+
+[14:22] >> Get him. He just brought me to your teammate. You monkey. What are you doing? Be up just dragged me to the infernace. [laughter] Kill that guy. Thank you.
+
+[14:53] >> Billy's free kill. Billy's free kill. >> I'm one. I'm sorry. >> I'm coming in. I'm coming in. Coming in. [laughter] >> He dragged me to the infernace. [laughter] >> Oh, these players are so funny. Oh man, [laughter] he hooked me. The infernace was hiding and he hooked me into the infernace. >> I got so many stacks from that >> with my with my freaking alt on. Oh my god. What are you doing? Your arcane
+
+[15:25] mastery will grow. Let's go. >> I see the enemy. >> Warden's so rich. Look how rich this I've been sideling the whole game and I'm I feel rich, but I'm not. Come here, wench now. What the freak is she doing?
+
+[15:55] >> I'm going mid. We need to You can push green. Honestly, >> I have to pick green or contest the um >> that was extremely hard to aim straight up at the Vindictor there. >> Wow. >> Oh, okay.
+
+[16:25] >> Wait, are we winning? >> Should help with Rift Flash. I see the enemy. >> We're so up on money. Holy god. Mama mia. Pizzeria. >> Who the heck is chucking things at me? >> He's chucking minions at me. The little chances. Gross.
+
+[16:55] If there's anybody out there that isn't subscribed, you should subscribe or follow the Twitch, whatever platform you're on. Broadway is under attack. >> I'm going. I'm going. Damn it. >> Did she just? >> She did. Interesting. She staked the tower. Never seen that
+
+[17:25] one before. I mean, she was she was like actually molesting the tower. Um, I have a 900 bag. Is it the play to become a standard warrior till you have 15 wins at every character? I mean, you can. You might as well just get good at one carry, one support, and one damage character. You're going to do that. But no, you don't need to do that. Middle beasting. >> Support is invaluable.
+
+[17:58] >> Um, I might as well just Yeah, by situation. Uhoh. Cheerio. Uh-oh. My team is dying. That's bad. That is very bad. >> You sure? >> I don't know why we're fighting on their walker, lads. It's like M >> please >> excuse me. >> You got to remember this is obscurus. >> Yes, but I'm sure we all like somewhat have a brain and have no
+
+[18:30] obscurest buddy. [laughter] >> No such thing. >> They're going mid. >> Yeah, probably. We're all dead. >> You have rem Oh, you don't have sleep. Oh, these guys are just terrible. They're not going to go mid. All right, >> one of you guys need to go green. Are going to lose green as well. >> Let's take out
+
+[19:01] >> monitor. >> Nice. >> We can go mid instead. >> Yeah, we can. Yeah, we can. We can. Let's go. >> Clear the wave. Rem. Do it. Do it. >> I'll clean. I'll clear blue >> middle blue. >> Wait, why didn't they go mid though? I don't understand. >> Obscure. >> Yep. Literally. >> I don't get why they don't go mid there ever. What? That doesn't even make sense to me. Oh, this rank is going to be so hard to
+
+[19:32] play in. People are so poo. >> The rejuvenator is >> a What the freak, man? They don't even know to go mid. A clear green. Oh my god. I can't like I actually just can't believe they don't go mid there. They threw the entire game for no reason. I mean, they were already giga losing, so it doesn't matter. But oh my god, I can already tell I'm getting put with
+
+[20:03] bot wipes for for like enemies. Like I I think bot wipes might be better than these people. Genuinely, it's going to be either stomp or getting stomped for a while. It's fine though.
+
+[20:35] is coming. >> Oh god. >> All right, you guys should get out. That's criminal. >> Yep. >> Oh my god. Pretty sure they were saying the match is only going to kind of suck. Yeah. I mean, no kidding. But like still, it's it's insane to me, man. Do they have a knockdown? They do. Okay. I need to get Oh, they do. Yeah. Yeah. I need to get unstop then which sucks because I don't want to use that slot for unstop but whatever. It is what it
+
+[21:06] is. >> Okay. If we're fighting I'm fighting. >> I want to put this here. Hello Lash. >> I don't have count spell. Yeah, it's getting a little laggy now. A little. It's a bag there.
+
+[21:38] Oh my god. Victor does a million damage. Help. Victor does 1 million damage. Need metal skin. Jesus, that's awful to play against. Survival buff. I need that. All right, just leave. No more reg. Wait, no, we can just get base guards here. Maybe >> it's time to play.
+
+[22:12] >> They'll come probably. Um, I don't know if I want. I don't care. I just want to end the game. >> I see the enemy. We should leave. I made a mistake. Get out. Get out. Get out. >> I made a mistake. >> We're killing people. No way. >> Yeah. I don't know.
+
+[22:42] >> Holy base. >> We [ __ ] winning. >> Go the teammates. Holy. Oh my god. My teammates are the best. Let's go, George. Hi. Please die, bro. My god. >> Why is He's [ __ ] Hello.
+
+[23:17] That's so annoying. actual scum. >> Okay, well this is a fun match. Didn't barely do anything. >> Kill them all. >> Kill the arch mother. Kill the arch mother. Kill her.
+
+[23:48] He's dead. >> [laughter] >> Yeah, we should definitely leave. >> Yeah. Okay. >> Suicide. >> Yeah, pretty much. You're right. >> I'm so glad the Vindicta sucks. Balls.
+
+[24:20] I'm not letting my flawless game end like that. Oh my god. It does feel laggy in the base, but it's nowhere near as bad as it was before. I might just get infuser so I live forever. I I use it in my alt. Bam. Bam. >> And I don't need cultist at this point, do I? I'll get this. I'm so close, bro. Oh, useless this game. We need to press the advantage.
+
+[24:51] >> Oh, this Yoshi's vision, bro. Yoshi's vision. >> It's looking It's looking crazy. Oh, brother. No, you're not knocking me down. Are we going in? Oh, if we're going in, I'm coming. I don't have al. Yeah, you do fear no one.
+
+[25:33] >> Oh my god. >> GG. >> My god. >> What a game. noobs down. [laughter] >> That's just it's not right, man. >> Friendly word of advice. You might want to stay away from Time Square tonight.
+
+[26:04] Seven

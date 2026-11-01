@@ -1,0 +1,75 @@
+# You're Over Rotating | Coaching a Phantom Billy
+channel: Midknight
+date: 2026-09-06
+url: https://www.youtube.com/watch?v=lG-QanVGK6U
+
+## Covers
+Midknight coaches a Phantom-rank Billy player (2026-09-06 patch). Laning is skipped because the player's micro was good.
+Themes: over-respecting and re-engage timing, the Cultist item timer around the Rift, over-looking for fights in the mid game, hitting boxes and camps, resetting when low, Rejuvenator secure with chain, mid boss baiting, and Billy itemization (Spirit Snatch, Slowing Hex, Silencer, Close Quarters, Point Blank, Indomitable).
+
+## Claims
+Player (Billy, Phantom):
+- You over-respected the Yamato ult: with a soul lead of about 2.5k and only a second or two left on her ult, you can re-engage. [0:30]
+- Re-engage when the Yamato ult has about 20% left, not after it expires; it lasts about five seconds, so start re-engaging at about three seconds. [1:01]
+- Waiting let them space past the wave, so you had to force through the wave without your Mina, which cost a lot of HP and speed and left the Mina unable to catch up. [1:31]
+- Most of your soul advantage sat on the Mina, so you can't really fight without her without being at a big disadvantage. [2:03]
+- You sat on souls and bought late; after that death you should simply have bought the Cultist item (captioned "Cold Estoise" / "Cold Ice") at 8:30. [3:33]
+- Cultist item timing: pop it on 8 minutes or after 9 minutes, never between 8 and 9, which essentially guarantees it is down for the Rift. [4:35]
+- Popped on 8 minutes you have the recast for the Rift about 40% of the time if the Rift spawns a little late; popped after 9 you have the buff for the Rift about 40% of the time; popped at 8:20 to 8:30 only about 10-20%. He says these numbers are not exact. [4:35]
+- When your team sees three enemies after an objective, don't force the fight; you were sitting on a huge spike and should have farmed red souls to get Spirit Snatch before the Rift. [5:36]
+- Spirit Snatch is a huge item for your strength. [6:06]
+- Against melee Abrams, just parry them and they die. [6:39]
+- Taking a deep fight with bad waves (mid neutral, left side really bad) and zero map information means you should expect the enemy to reinforce. [7:40]
+- If the enemy is not stealing your left side, they have to be on the right side of the map. [8:10]
+- Hard focusing the Warden and trading one for one for him is worth it. [8:41]
+- He sees many 30-minute Golden Goose Eggs and does not understand who convinces people the item is good. [8:41]
+- You are fighting too much: waiting to fight at the urn while sitting on an item and your spirit spike, with zero health items, leaves you really squishy. [9:11]
+- Playing for urn denies is fine, but play them from a roof; from a bad angle they can run you down. [9:42]
+- Hit boxes when you walk by them; you stood between two boxes without hitting them. [9:42]
+- After a loss streak of about four games, take a break. [10:17]
+- Ivy's stone form is not stopped by Slowing Hex and has zero counterplay. [10:17]
+- You can't fight that Ivy alone. [10:48]
+- If Ivy had no stone form you would go on Ivy, but because she has it she can't be committed on, so going on the Victor is correct. [10:48]
+- Calico's ult is stopped by Slowing Hex; he thinks it should cleanse slows, because slowed in her ult you barely move. [11:49]
+- At 47% HP that was a bad fight; reset. [11:49]
+- You need to hit camps; there is a lot of dead time where you just run in circles. [12:19]
+- When the enemy trades a walker for something, try to take the other walker, or at the minimum steal their farm; just running over to mid lane is not it. [12:53]
+- Good movement beats Calico's ult because it is static movement. [13:56]
+- You keep sprinting from one lane to the other doing nothing, and you got out-farmed by everyone in the lobby. [13:56]
+- Slowing Hex and Spirit Snatch are both buys: Slowing Hex with Spirit Snatch in about 70% of games, BRS with Spirit Snatch in about 30% (his arbitrary numbers). [14:27]
+- Billy is the only frontline that is good in solo queue because he does so much damage you don't need anyone else the way other frontlines do. [15:35]
+- You haven't caught many waves at all. [15:35]
+- Bebop sitting in mid lane and hooking people is a real high-value play on him. [16:12]
+- Check the veils while the Rejuvenator is falling. [16:43]
+- Billy has near-infinite CC: if you see both enemies coming you can lock them out of their heroes by spamming your abilities so they can't get to the Rejuvenator. [16:43]
+- Get up there and zone the Rejuvenator even if you probably die for it; if it gives your team the Rejuvenator it is worth it. [17:16]
+- Use your 2 and then your 1 on the Abrams so he can't charge onto the Rejuvenator crystal. [17:16]
+- Don't chase a target when his whole team is there; once you miss the window to kill, back up. [18:48]
+- Scourge rush is broken in general, and even in gun-heavy comps like this one the enemy heroes still do a lot of spirit damage. [18:48]
+- You could have instantly used your ability to dodge the Ivy stone form; the tactic of following up with your chain was right, just a second too late. [19:19]
+- Trying to catch the overextended Victor was a good attempt even though they were looking for a pick. [19:49]
+- Forcing the mid walker is not ideal, but your team needed the flex slot; the call should be to snowball the kill rather than the walker. [20:55]
+- You were a little late popping Scourge. [21:28]
+- When dead to rights, try to grab the zipline for the boost. [21:28]
+- You should have reset before that mid boss; it would not have cost much. [21:59]
+- When your mid boss secure is bad and theirs is good, bait mid boss and fight them instead of forcing it. [21:59]
+- With your Mina cleaning waves the pit fight becomes a 5v5 that should not go your way given the comps, so prefer a bait over a force. [23:01]
+- You are not chaining in the pit: chain so the pull lands as the Rejuvenator drops. [23:01]
+- If your team has good AoE damage, ult them all on the Rejuvenator, parry, and let your team dump cooldowns; if your team has bad secure, pull them all out of the pit so your team can hit the Rejuvenator. [23:32]
+- Rapid Recharge is okay but not a fan on Billy; there are more soul-efficient items, and when slot locked those souls could go into a tier four. [24:04]
+- He would not buy Spellbreaker: its passive gives little value into these comps because the enemy breaks it with an ability before the one you want to block. [24:42]
+- Silencer is a better anti-spirit item: its active cuts their damage by 25%. [25:13]
+- Witchmail is another anti-spirit option. [25:45]
+- You have resistance in the Rift, so it is good to actually fight in there. [26:20]
+- Instead of Spellbreaker, Ethereal Shift or Colossus; Colossus would have felt great. [27:22]
+- Stalker is a really high sell priority item. [27:53]
+- Point Blank is well statted, but Close Quarters gives about 40-50% of its value, so buy Close Quarters and only upgrade it when you are slot locked. [28:56]
+- Indomitable can also be procced for its cooldown reduction: when a fight is about to end, rip heavy melees to get the CDR. [29:59]
+- Souls by source: neutrals need to be about 20%, not 13%; kills should not be higher than neutrals; breakables at 6% need to be higher. [29:59]
+- Summary: you spent the mid game hovering and looking for fights that weren't great; spend that time farming instead. [30:29]
+- When the enemy shows mid lane, look for something on the side lanes instead of rotating to the mid fight. [31:00]
+- Also farm mid camps, reset when you're low, and chain in the pit. [31:00]
+- Stalling the Abrams so he couldn't charge onto the first Rejuvenator could have changed the game. [31:00]
+
+## Disagrees with
+- none recorded yet

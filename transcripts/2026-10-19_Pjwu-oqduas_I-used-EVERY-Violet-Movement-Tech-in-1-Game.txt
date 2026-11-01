@@ -1,0 +1,110 @@
+# I used EVERY Violet Movement Tech in 1 Game...
+# channel: Eido
+# date: 2026-10-19
+# url: https://www.youtube.com/watch?v=Pjwu-oqduas
+
+[0:06] Hello YouTube. >> No, no. >> What's up, YouTube, tube, tube? >> Yo, I'm literally making up cuz y'all are as high as possible. >> This is a Violet guide. I'll be talking about all the movement tech on here, and I'm going to really break down and explain what exactly the tech from her one is, okay? Everyone knows about the brush. I'm not going to go over the flow state. It's a pretty simple spell, right? You slide infinitely so long as you have the the brush out. You do some tech to get closer to your brush, right? Like a little bit of a 180 there to keep it closer to you. But ultimately, it's a
+
+[0:36] very simple spell, all right? It scales with your movement speed, right? When you go down ramps, it's faster. Um when you go up ramps, it slows it down slightly, right? As you can see on the right side, my movement speed just went down a little bit on the bottom right. So, the left click is not as important, right? It just shoots a ball, and it does some damage, right? This is your main DPS skill. Obviously, the paint acts as a wall, right? Bullets can't go through it or anything like that. And the only way to break it is with a heavy punch currently, and it does damage to
+
+[1:06] your enemy. But one thing I want you guys to understand is that the paint that you draw creates hitboxes, right? That's why you can't move through it. And these hitboxes are perfect squares. It's accumulation of a bunch of squares, and it's as your strokes continue, it creates more squares, right? To fill in the areas that are newly drawn, basically. All right, so I'm going to show you guys in a command here what exactly that means. I'm going to type in this command here, which is cl_n_v collide_wireframe, and you'll be able to see the hitbox of the paint itself, right? It's a perfect
+
+[1:36] square. And the more I go down the the paint stroke, there's a it's accumulation of a bunch of squares put together. All right, so now that you understand like that the living ink paint brush strokes are just accumulation of squares, what does this mean, right? It means that you can use it like any other terrain in the video game, like an edge boost, right? You can edge boost off it by just jumping off the corner like that, Right? Or you can just do a normal wall bounce if it's a it's a if it's a bit higher. Right? Just a normal wall bounce on like say this part of the square. Right? Basically, it's it's better that
+
+[2:07] you want to edge boost anyways because what the edge boost does is it gives you more uh vertical height and also horizontally as well. Now, knowing this that the paint you draw is accumulation of squares, how do we manipulate it in a way that it can meet our character's feet and be able to boost off of at the same time? And that's where the S shape comes in. And the S shape is basically just like this, right? On these little corners here, right? You start slightly back.
+
+[2:38] And then on these little um edges here of the paint that you're drawing, these hit boxes, is where your character's feet are going to meet for the boost, okay? Sometimes you can get edge boosts which you'll see a noticeable amount of like distance gained, but most of the time it'll be like a wall bounce as especially when you're starting off fresh, including myself, right? It's very hard. And then you can chain it into a second one where the top of the S is trying to do the same thing again, right? Uh as you can see on this edge as well.
+
+[3:09] And that's basically just of it. You're manipulating the squares to be at your feet and ready for when you want to press space and jump again to carry your momentum and velocity. So, let's try it. I'm just going to show some examples and then we'll keep breaking down after. We lost. I see right there, that was a double boost, right? Those were both wall bounces off of the squares that I created. This is a very important tech to know because it'll help you escape.
+
+[3:40] And because you're drawing while boosting, enemies that are chasing you are going to be stuck behind you trying to catch up, right? They're forced to stop moving and heavy punch. But by that time, you're already like really far away. Another thing you'll see me doing occasionally is sometimes I will be [music] using the paint to block a lot of stuff. For example, if Flash is about to all above you, simple. Stroke above and hide under, right? Another way to use the paint is by blocking enemy attacks including the towers. Okay, you just draw paint stroke up and you can literally just LS the tower completely. You can run up to it,
+
+[4:11] you can block it completely, and it just won't hit you, right? That's another way you'll see me use the paint. Now, I think these are the most practical uses of the paint. There is some other cool tech. For example, you can like make an L shape and then boost off of it. Like that. And the reason why of course is like the accumulation squares that you can angle. But, that stuff is like very niche and I feel like this um other tech is going to be much more viable. Anyways, those are the main techs that I'll be using for Violet that you'll be seeing in the videos. If there's any other tech that you think I should know,
+
+[4:41] feel free to leave in the comments, but I feel like these are going to be the most valuable in both comp matches and in standard games. And yeah, hope you enjoy the rest of the video. Peace. >> Flash is missing. I see I see. >> What is this?
+
+[5:14] >> I can try. >> H is being >> mean to me. >> You know, probably wasn't the best plan to be in. >> I see Flash. >> Did you see the pigeon lady? >> What? >> Paint goes where I lead it. >> Oh. >> Thanks.
+
+[5:45] >> Yeah, whatever. >> I was meant to ask. >> Not that I'm even close, bro. Not even close. >> Bro, it's like There's the ultimate like getting at the game. I'm not used to it. >> The inferno >> Actually, she's going to want to pop that on. They're taking our camp.
+
+[6:21] >> You have a good eye. >> What? I shot it. Maybe I blocked myself, too. >> The inferno
+
+[6:51] >> I want them. >> Thanks. >> Watch out, Lash. Watch out for Lash. >> Messy, but it works. Okay. >> Slow me down. >> Let's take out the pigeon, ladies. >> Be right back. >> Watch out for weak Lash. >> Weak Lash is >> Never mind. >> Only fun to PLAY WITH HEXTECH.
+
+[7:23] RISE THE INK. >> I AM HONORED TO be your patron. >> Be right back. >> I got that guy. He's getting it. Yo.
+
+[7:53] That must be so tilting. It must be. It just It just has to be. >> Someone's using a noodle. >> Preparing attack. The yoga. >> My words are perfect. >> Perfect location. >> Damn so.
+
+[8:23] What for? >> I see red. >> I think they're I'll push this. I'm controlling my butt. Wait, no parry on this Ivy. Ivy's half. I think it Oh. Oh, she's she's on the road. >> Yeah. >> I think Thomas on her is >> Decisions. >> There's two on left bridge. >> Don't push forward.
+
+[8:53] >> Oh, no. My daddy is dead. >> I see inferno. >> Jesus. >> got help up. >> Let's take out the ninja lady. >> Thanks. >> No, I can't buy my I want to miss a
+
+[9:24] shot. >> Your mind and spirit will be reborn. >> image Oh. Holy roller, what the [ __ ]
+
+[10:06] Nice. Good job. Oh. Oh, I got him. Nice. >> Finally, it is showing your strength. >> He had four and it was weird. I don't know how that missed.
+
+[10:47] Wait, I'm trolling. I thought there was a third player. Sorry, I trolled. I thought there was a third player. The haze is getting in a silly range. That's the third player. Okay, well, that didn't work out very well.
+
+[11:19] Haze behind you. Thanks. Did you just save them? I got him. I got him. also same one. Oh my god, nice.
+
+[11:52] Oh my god. Is this flow state? You want that soul ivy? You give me not every [ __ ] virus. Just give me anything around. I will.
+
+[12:22] He's one. Oh, what the [ __ ] Oh, nice. My bad. I thought our violet was much lower. It did It just scared me, bro. Like I got pulled into the back rooms. Didn't know what the [ __ ] I was. >> Great work. Thanks. >> Hello.
+
+[13:02] Oh, I don't understand what you're doing. They both though. What's his plan? >> Stand is almost ready. >> I'm going to save my old match. >> Get inspired. >> Thanks.
+
+[13:32] >> I'll take it. I'll take it. Oh yeah, I'll take it. Hey Paul, you want this? >> We need both here. >> I can help with that, Hayes.
+
+[14:03] >> Sorry. >> You're good. I'm a little far though. >> You want to take over a green viper? >> Never mind. >> This is so much more exciting than a gallery opening. >> I'm doing bell tower. >> I'll deal with the troopers. >> Y'all want zombie? I'm a little griefing now, but >> Yeah.
+
+[14:33] >> Yeah, you're good. I'm griefing, don't worry about it. >> Yeah, they're flying to you as well. Ivy with another Probably Yamato. >> You play this, thanks. Come here, buddy. >> Hey, look at the size. >> I'm going to go green instead. We should play this. >> I got to go red to pop. >> Yeah, that's fine. Just go.
+
+[15:06] >> Yeah, Boba coming up behind. >> You got to move. >> I'm going to try to hold my own for Marshall. Okay. >> [screaming] >> No, I missed.
+
+[15:37] >> I got one. >> Oh, he's just on your kid. >> Oh, she's doing the most. [ __ ] I missed my ones. But
+
+[16:11] >> They've taken our blue guardian. Our blue walker is under attack. >> Take out with a portal bot. >> The only thing I died to is the furnace, huh? >> I remove a game. >> Inferno is going to die here. >> They destroyed the guardian on yellow. I'm leaving now. >> going to dash out. >> No, no, we can kill.
+
+[16:42] Oh, he's ulting me. He's pissed. >> The class you should have turned away from. >> I should >> They will grow to fear Fencer's blade. Your way IS UNDER ATTACK.
+
+[17:13] >> COMING. I DON'T KNOW IF I GOT MUCH, BUT I'M HERE. >> THEY'VE TAKEN OUR BLUE GUARDIAN. I'm probably dead here. >> That's a lot on right. >> Yeah. I don't want to roll in. >> Yeah, maybe push it. I have all in 20 seconds. >> Thousand bag on that Baba if she didn't buy anything.
+
+[17:48] >> Oh. >> [ __ ] hell, how did I get beaming me, bro? I was like, dude, I know there's a situation for Hazel. I just couldn't remember what it was in the moment. I was like, no, I have a way to counter this. I was like, [ __ ] I just need to run. It's too late. >> OVER HERE. >> THAT WAS MY BAD, I ALREADY CALLED. >> I'M DEPO ON DEPO.
+
+[18:22] >> I WAS DONE. >> Someone Danny. >> We didn't try to force match. >> Yeah, we can. >> Yeah, I have a three points staggered. I match one. >> I match one as well. >> They do have last hope. >> Yeah, I'm playing my life. He isn't playing fair. I match one though. I'm trying to kill her. I'm going to petrify the last hope.
+
+[19:05] >> Can we win with? >> It might not be safe to be by myself. >> Want to take glue? Lost? >> Yeah, I'm coming. >> Yeah, yeah, yeah, we're good. >> I'm pushing green. >> LET'S PUSH BROADWAY. WE LOST THE BOMB up top.
+
+[19:36] I see hay. >> [ __ ] me. >> Let's get out of THE SPOT. LET'S PUSH GREENWICH. >> Oh my god. It's so hard to hit, bro. I'm so bad, man. I don't understand the like the medium range like 10 meter-ish ones yet. Ranger says like Wraith cards, but like I don't know what that means cuz I never played Wraith. I don't know what that means.
+
+[20:08] >> Drift is on green. >> Cool. >> Okay. >> Cool. I got to hide. I have a ultimate for this. Black can do fine. Appreciate you.
+
+[20:45] >> Broadway is under attack. >> I'll deal WITH THE TROOPERS. I CAN GET MESSY SOMETIMES. >> SORRY. >> All right, [ __ ] it. >> Hey, that's nice and
+
+[21:26] It's kind of end. We have regions. >> I'm going to put a flag on your >> 20 seconds on our regions. I don't think we should push. >> We need blues. >> Oh. >> Okay. >> Thanks. >> That timing is so depressing, man. >> No. >> Go busting in. >> The rejuvenator has expired.
+
+[22:05] >> The only thing to do now is just live. >> I will live. I don't know what that does, but my kid says all the magic >> I think I'm going to take a bath. Thank you. >> Do you want to run? >> I don't really care about that. >> Oh. You don't want to know data. >> You want to know me? >> I have the ivy here, too.
+
+[22:38] >> I see someone is home. >> Just stop the ivy from flying. >> Okay, what are we doing, actually? What is she doing? There's four on me. Got him. >> needs help. >> Okay, someone needs to get yellow. >> Knock him out. >> You will be making every black hole count. >> There's a lot here. >> Items on cool down. >> They're running back.
+
+[23:09] >> Bring your enemies low. >> AND IT'S NOT READY. >> I'm going to limit test a bit here. It's a little risky. >> OKAY. >> HM, NOT WORKING. GIVE ME THAT.
+
+[23:43] >> GOOD LUCK COMPLETING THE RITUAL. >> YEAH, I'm working on their left. >> Let's move. >> I'm with you. >> The furnace and lash are under the walker. >> The infernus. The infernus. >> There's >> Let's pick out the infernus. I see lash. Let's push yellow.
+
+[24:15] The altar will speak for itself. >> Focusing walker. I have two greens. Follow two on the follow. Going green. I have mid mid boss. Yeah, it's >> We're trying to get some to follow. But >> You okay? >> I'm coming. Green. You fight? >> Let's pick out the infernus.
+
+[24:47] >> I [ __ ] love it. Oh [ __ ] It's all about >> The infernus. >> This is where the shrine is doing the damage. >> I'll deal with the troopers. >> I have my >> I guess if I could wall them off at the same time it'd be kind of broken.
+
+[25:17] >> Oh. >> It lasted about 20. It did damage. >> I'll save it. >> Show them what you make of violence. >> I got an unstoppable.
+
+[25:48] Should be honest already. >> No. >> I'll follow. Confession. >> [groaning and screaming] >> The major is descending.
+
+[26:29] >> I see Adam. >> I would pay this before. Remind me. >> I was bad. I just got to run. >> Okay. >> Uh Russian, you might want to go back and take this. >> I was pushing first time. you might want to go back and pick some of this. >> Yeah, yeah, yeah.
+
+[27:10] >> What? >> All right, Russian is coming back. >> How we doing today? >> We could just back up here. Let's just back up. >> I use an M.
+
+[27:41] >> I'm okay. >> I'm going to go pick up bus. >> I have all in 30 seconds. >> back up, back up. >> Yeah, I have I have all in 30 seconds. >> Okay, then I'm just going to [ __ ] this guy's name up. >> I'm coming. >> Don't worry about me, bro. >> Okay. >> I got three. >> He's making a movie. >> Jesus. >> Nice. >> Yeah, I was I was trolling. My bad.
+
+[28:13] >> I think I can die. >> Wow. Wow, that was like I'm so satisfied off
+
+[28:44] that game. Holy smokes, bro. That from beginning to the tech of Violet that you could possibly do. Apparently, except for like freezing the wave. I'm so sad that she was fifth, but I'm actually happy at the same time cuz there's so many other new characters that everyone's playing all the other new characters. I'm so excited to play more of this hero, bro.

@@ -1,0 +1,646 @@
+# Free Deadlock Coaching | 6/25/26
+# channel: Midknight Vods
+# date: 2026-06-26
+# url: https://www.youtube.com/watch?v=qUiPWhCp04I
+
+[0:00] Yo, how's it going, VOD watchers? You guys know the drill. Time stamps in the description for free coaching sessions. >> Hanging out and having a good time. Did not mean to click Apollo. Uh, yeah. No time for analysis and no time for analysis today because I have my GOU class tonight or teaching a class tonight. Um, okay. I get bad watcher. I'm like tired. So, pray's just going to be me waking up. Um, let me get everything going. I also have like a very sneaking suspicion I'm
+
+[0:30] forgetting something like I was going to do something right before I went live and then I just forgot. Hey, I didn't add more things to the config, but it's not that big a deal. 25th. Yeah. Okay. Um, there's something I need to do. I don't remember. Swear there was something. Wait one sec.
+
+[1:00] I should put fishing on the one second scene, shouldn't I? So you don't miss fishing about the BRB. Um, why did that not work? That works. Oh, the cam bumping. I forgot. Let me add that to my to-do list. Um,
+
+[1:34] we do love fishing. Okay, what do I need to do? So, there was something there was something I was going to do. Also, I am really low energy today. I went on a walk this morning. I thought it'd be better. Also, that's why I'm like I'm a little late, which is surprising because like I mean I I don't know. I I don't know. I guess I had time to walk my dog before stream, which was great, but like I to walk should not have taken as long as it did. And I don't know why it took so long.
+
+[2:05] There's something I needed to do. What was it? I saw a message that reminded me, I think. Um Oh, the HP bar is not working. Yeah. Also, so I like the auto like Okay, so I try to do this stupid ass command, the HP bar command. So putting the auto exec in my properties or whatever. I do like plus citadel, turn new HP bars on, whatever the [ __ ] just doesn't work and
+
+[2:35] then I put it in an auto exec command and it just broke completely broke the HP bars. Um, which is like I don't know what's happening. What's the command? Citadel use new Really? It's use new unit. Use new. Oh, did they change the command? Is that why it's [ __ ] me? But this doesn't work unless someone resets. Maybe they just change the command and that's why I'm getting griefed.
+
+[3:06] Um, there's an easier way to do this. I guess I make mimic bound. I need to like get all my binds back. I haven't rebound. All right, dude. He does not is not using the new HP bar. W um what's the best way to check this? I guess I just re Oh, here. Let me check my properties. Did I remove that from my properties? I probably did to be honest.
+
+[3:37] Oh, no, I didn't. Citadel HUD health bars use new. Citadel HUD health bars use No. I have the right command then. Okay. W. Let me try one thing. Change all the TRS to one. If this works, I'm going to scream. Um, okay.
+
+[4:16] Add some meter up. Wait, I hardcoded to use new health bars. Am I auto? Sorry, not hardcoded. I'm used to saying I hardcoded Steam in offline mode. It's not [ __ ] launching in offline mode. Um, but I made it so uh the health bars would work or I put the auto health bars in auto exact and it just completely broke my game and I couldn't even see health bars. It sucked.
+
+[4:49] Uh, it's not in quotes, but I didn't have it in. Yeah, see, when it actually works, it does this. It just I have no health bar. When the command goes through, it just turns off my health bar, and then this guy's not even using the new health bar. Let me try launching without modded or launching without mods. It's going to be a mod breaking it. I guess that's probably the most likely solution. But I use like one mod which is the um task [ __ ] thing in hideout which is
+
+[5:20] so useful. Oh my god. Sorry. I'm really tired. I'm not even tired though. I'm just like bit foggy mentally which is weird cuz I woke up a while ago. I walked. I like I don't know. It is probably going to work honestly. No, it's not even mods. So I literally just can't use the new health bars anymore. I [ __ ] hate this game, man. Okay, cool. Thank you, Yoshi. W patch.
+
+[5:51] Okay, that's so cool, man. And my game won't even close. Oh, I [ __ ] hate this game. Also, is it actually real that Yoshi said like it's too early to think about a p or talk about the patch? from users. Yoshi. Oh, great. I can't [ __ ] search this cuz I'm in stream
+
+[6:22] mode. Okay. How do I do from users? Also, my game isn't crashing. From a specific user, Yoshi. Most recent thing he said was, "Wait, what? Oh, he's making jokes. Yeah, he has said anything real.
+
+[6:57] Okay. Well, oh, there we go. Now it crashed. That should forever. Where is real Yoshi? I hate in mode. It's so hard for me to find the real Yoshi. I just have to sort through all these fake ones. Yeah. No, I I can't find real Yoshi because of the stupid [ __ ] stream mode. Said that a couple weeks. I thought I'm trying to find it, but like I can't even [ __ ] figure this [ __ ] out. I hate
+
+[7:28] that Yoshi type [ __ ] in general. Can we ban Yoshi from typing stuff in general and just have him say stuff in announcements? My god, ironically, man. Okay, I found I have his real account now. How do I check his from user Yoshi Deadlock? Um, J better now. We're still working on it. We're looking into this. Yeah, [ __ ]
+
+[8:20] Wait, what? Oh, we're taking my shival. Yeah, we're taking my shival. Okay. Sorry, I got trapped in this message log. Um, all right. Do I sound tired? I probably do again. I'm just like low energy right now. The health bar is still gone. Oh, I [ __ ] hate this [ __ ] I do hate everything. I'm so [ __ ] tilted. Also, good morning.
+
+[8:50] How am I rest? I've been up for like an hour. I normally stream like within I don't know 30 minutes of waking up, but like I went on a whole [ __ ] adventure. I went up for like 2 hours. I should not sound sleepy. Oh, okay. I did not mean a screenshot. Also, my dead luck literally crashes every time I close it, which is so cool. So [ __ ] cool, man. It's going to be a good stream. You can tell. Are streams better or worse when I'm tilted?
+
+[9:21] I know I'll shake it off, but like [ __ ] off, man. What's the raffle at? Almost done. Um, okay. Do I have my HP bar on my screen? Okay, we have the HP bar on the screen. Thank you, Yoshi. I I lost the [ __ ] game because of this stupid [ __ ] the
+
+[9:52] other day. I just was on REM and I couldn't tell when I needed it, too, because I didn't have the visual feedback of my HP bar getting low. Um, yeah, it's a fair way of putting it. Okay. Phantom. Okay. I just got to wake up. I'm awake though. I don't I don't know. I never understand myself. Whenever I do the healthy stuff, I feel like [ __ ] Whenever I treat myself like [ __ ] I
+
+[10:22] feel great. I I don't know. I I just don't get it. I don't get it. Like I've I did everything correct yesterday. I've been doing well. I woke up. I walked. And yet I just feel worse than I have in like the past eight days where I've like slept way too much or not slept at all and like [ __ ] my sleep schedule and barely ate. Here we are. Rough one. Okay. Yeah, no worries.
+
+[10:52] How long is the game? 39 minutes. Okay. The thing is I have had good habits though. Like that's the thing is like I've had I I had like months where I had like really good habits and it just like didn't fix [ __ ] Then I just go back to the bad habits. Like I had I don't know. I was doing really good for like probably like four
+
+[11:22] or five months. And I just kind of gave up. I had I really had bad habits for years though. Like I guess in school my schedule like had to be normal and I ate well cuz like I just had meals made for me. Only time I really started like when did I really start falling apart
+
+[11:52] physically? Yeah. really it just didn't really happen. I don't get it. I don't know. I just have for my entire life had to oversleep. So then I always feel tired and then it just like grease me. Anyway I lock in. I'm going to get erase 30 years of my life because of sleep habits. Yeah, me too. But like again it's not even like anything I can do. So it's cool. I just have to sleep 10 hours a day and there's no nothing I can do or I feel awful. Uh, my ashars.
+
+[12:25] All right, log in. We have slash marker. That means I actually have to focus. Uh, it's fine by a little far back, but it's fine. Yeah, it's a good spot to fight Venador cuz you're in the open. Every time I see Vendor now, I think of that stupid tech, but I'm not. I will not spread the evil. I want to say it. Uh, extra spirit. Okay.
+
+[12:56] Yeah. I mean, your focus does feel a little bad. You're also kind of cod reloading, which is also feeling bad. Have to I have to analyze Amina soon. I'm realiz I'm realizing cuz I don't know. Like, I feel like something looks wrong with your lighting stage, but I can't put my finger on it. Yeah, I mean it's fine though. Again,
+
+[13:27] what's the lane? It's Amina and Billy into Benador Celeste. I mean, yeah, you guys definitely have an advantage. Just two broken heroes into one broken Well, two broken heroes, but one broken hero that doesn't do anything in laning doesn't do that much in laning stage and it's not the M1 smile. That's Yeah, you're right. one shots the tier one creeps with extra spirit, right? >> Yep. You game balance. Good steal. I hate your hero. I'm probably going to complain, but it's fine.
+
+[13:58] You should be pushing. Oh, no. You're defending yours. Okay. Yeah. Yeah. I This is a great catch. If your teammate was with you and if you Okay. Yeah, you really agree. If you're positioning there, you need to be behind him. You should jump into the camp. Also 100% should be on Mike telling your ability to back you up. Yeah, but le the passive movement just makes less OP, man. That [ __ ] is so broken. I don't understand why. Well, I do know why they gave it to her cuz literally no one would play the hero if
+
+[14:28] she didn't have that movement. They just made an insanely boring and bad hero and they were like, "All right, let's just give her some artificial [ __ ] so people play her instead of just being like, let's just scrap this hero for a patch. I want your blood.
+
+[14:58] I mean, I like the movement. I don't like this positioning. You were in a great spot to fight a vaner and then you just moved against a wall when fighting him. So, he's just going to you now, right? Yeah. I got lucky I didn't stun. >> Yeah, but like again the spell magic and okay, I agree she's bad to Billy, don't get me wrong. Again, I'm not saying like again this is a winning lane for me on Billy, but I also think Celeste is still too strong. Um, still matching bad right now. Yeah.
+
+[15:28] Yeah, it's pretty bad. This is probably the worst patch we've had. Oh yeah, that's cuz you didn't buy your burst. Wait, does your rake pro burst on creeps? Not sure. Let's see. >> I think if you had bought your burst, this would have one shot. For one, you're opposition to rak wall, which is really grieving you. But for two, not having your burst kind of nukes you here. I did not look I rebound to look at the damage and I did not look at the damage. But yeah, smashing patches. This is probably the worst patch that lock has been in um like ever. It's really bad.
+
+[16:01] Okay. 77. And yeah, missing burst would have gotten you there cuz it would have given six damage. I think the spirit power would have given six damage. I guess only has to give what, like four. And then the missing health is the other two. I don't know. I don't want to do the math. >> Saw rush. I see. Yeah, that's fine. Giving your souls. I've thought about making
+
+[16:33] um like why I dislike this patch video. It's it's on my radar. I'm not sure if I'm going to do it cuz like I don't think it would affect anything for the game balance. It would like I think it would do well because we're kind of in a complaining meta right now, but like Yeah, it is. Exactly. It's free money, but also like I don't know. I could put my that time into like a guide, so I'm not sure. I also haven't landed on like a title or thumbnail. I think it's like why this
+
+[17:04] patch sucks and the thumbnail says it feels like League. I think that's the premise of the video is that this patch just feels like League of Legends. Lovely. Your own buff timers. I This looks good. This look like Okay, the biggest I'm seeing are mechanical. Oh, that feels so bad you don't kill him honestly. Like, okay, it's great you vent stunned him. This is a just as a minor note cuz I never talk about this just a really minor thing. You can wait to vent stun them till a little later in
+
+[17:35] their trajectory so he falls closer and you could have killed or you could have gone on him. >> Uh the game ends by just one guy getting bored and getting picked. Jungle M1 just feels disgustingly broken and like they have 50% more agency than any other role in the game. Also, let me al this dog. Oh my god. Oh my god. He just does not give a [ __ ] man. But it feels kind of bad. It's Yeah.
+
+[18:10] >> Yeah. Yeah. He's kind of just here. >> You really like sparking. I don't know why. >> You're kind of slowing yourself down a lot. I mean, not buying your mystic burst there hurts. And then also by grabbing three boxes so you're late to wave but then not really hitting the wave. Like I would just say what I'm just seeing is a lot of minor inefficiencies and how you're going about what you're doing. Like you're making good decisions. You're just making them inefficiently which is really just
+
+[18:40] putting hours in the game to fix efficiency. >> Yeah, we did. Oh, that's our Billy. Never mind. Uh yeah, you have on them so you engage. Yeah, it's engaged by your ability. You should use your two to dodge his bolt. Feels really bad we did not. But also, even if you did, you would have gotten evaporated. If you used your two here, you have to be lying for cover. Your two has to go here and the recast goes behind this pillar and you like down dash and play this wall. Either way, you were dead. But you definitely should have to his second shot. Uh, spirit wait spirit hurts and vice.
+
+[19:13] Yeah. Yeah. No, I again I also think there's like a well that's thing there also also a second video I could make talking about how like power creep is killing this game because like Holiday just they made baby mode and like every year they're just kind of doing that too. And I agree ability range is a problem. The movement you are they don't have actually we're fine. Feels really bad. You have to burn
+
+[19:44] your two now to play pretty passively with it offline. That was kind of a pointless I mean, you know, with one minion in the tower, we shouldn't really have gone up to siege siege it, but it's fine. >> Yeah, extra health makes sense. Why is everyone getting back on the extra health train? Don't get me wrong, I think extra health is a good and strong item, but why did everyone stop buying it and then just randomly go back to buying it? Yeah, I I do. Again, another point in
+
+[20:15] that video would be how like movement just feels irrelevant right now with all the changes like the the added dash slows, the increased minimum speed, the stamina, uh redu regen reduction on wall bounces in combat like feels bad. >> I mean, you're really strong right now and you have on them. Okay, never mind. Wait, what the [ __ ] How is Ven up?
+
+[20:45] Oh, I guess. Oh, I did not realize these abilities were on similar cool downs. In my head, Venol is so much longer than me. Yeah, that was like a long time ago that that happened. That's like what, 2 months ago? Month and a half. And people are just now buying extra health like a week ago. I'm seeing it pop up again on like every hero
+
+[21:15] like people just realize >> uh so spikes are still pretty relevant. Some heroes kind of build around like Mina mean already got her spear like some heroes will buy like eight extra health. Most heroes will buy like eight tier one green before a spike. most. If you need a tier one green, most heroes will buy a tier one green. But if you can get away with not, it's more efficient not to basically
+
+[21:57] feel a little bad. I mean, yeah, I it feels bad, but you couldn't steal farm with the pressure you had in lane, but since your Billy's kind of gone, it's fine. Your Billy's getting a lot of of uh what's the word I'm looking for? A lot just like he's getting a lot of farm right now, which is good. And obviously centers are I think literally most efficient on Billy the permanent buffs cuz he just uses everyone so well. It's like kind of disgusting. But, you know, Billy's not a
+
+[22:28] problem or anything. Billy's a fair hero. We love 10% max HP damage on the two, which he scales with spirit. That was a I could also make a whole another video on how max HP and current HP damage be removed from the game because if everyone in the game does max HP damage, then it doesn't matter what anyone builds. It's so stupid. But anyway, I digress.
+
+[22:59] Yeah, I mean again um >> wait what exactly do you mean by that question? SC also did you just kind of lose HP for fun? Yeah, he really goes for buff. You don't respect that. You burn your too early and then you're just meed. Yeah. Yeah, that's a little unfortunate. Why the [ __ ] does he have sharpshooter?
+
+[23:29] Is that on you? I mean, the issue is that you put yourself in a circumstance against that Abrams where you had to burn your two, so he knows you're caught out in the open without your two. Like, that's the main issue. Why do people hold [ __ ] doing centers? Um, I mean, it gives you more information. It's slower, but if you're kind of scared, backing up gives you more information. So it like can be >> fine. It doesn't slow you down by that much. So it depends how valuable the information is.
+
+[24:06] >> Siphon bullets are just kind of meta right now because they've been overtuned for forever. Siphon bullets are disgustingly strong. Again, max HP damage is just Oh my god, my dog wants out. Is just overpowered, but especially siphon bullets. Well, that one it just kind of took forever for people to realize the item
+
+[24:36] was overstated. I don't really know why. >> They've taken our blueardian. >> Oh, interesting. out. It is good to know. I love you think you could have insta ulted him for the kill. I guess you still pick him up. >> Is that really That does not seem true.
+
+[25:06] But maybe it's I need to test that. That does not seem true. The melee cool down disruption applied to M1 and four. I don't think I it used to when he came out. I don't think it does anymore, but I'm not 100% sure, but I know it used to be BRS is just OP.
+
+[25:54] Okay, so for one, obviously you should two this drift roll. Um, but I was going to say he's like it does feel bad that you're on the opposite side of what's your comp, Billy. Okay, your comp's kind of bad for I mean it's fine for you to sit in the side lane. It does feel bad for you to be on the opposite side of Earn, though. Oh, you just lose because you don't have an M1. Oh, yeah. This game is just over in draft. Oh, yeah. No, actually, you guys just lost this game in draft. I just looked at your comp. They have an M1. We don't. GG. Go next, man. You literally can't beat
+
+[26:24] like Bener just runs the lobby post 25 minutes and there's nothing you can do. >> There's like three different complaining videos I could make. I could make one complain about M1's. I could make one complain about power creep. I could make one complain about how the game feels like League. Like I don't want to make three videos just complaining. >> No, I'm one of the meta. Yeah. Yeah. I just I mean I don't I guess the game Red
+
+[26:55] Silver is their M1 and but like she does gun damage but she is not going to outscale event. Uh the earn changes really hurt the game. They move breakables to 3 minutes which just was stupid as [ __ ] That's really bad to spell magic to be honest. Like the old um and then the earn changes were dog [ __ ] and they just made earn AOE slopfest. Um and then what did they do specifically to M1's? I don't even remember what they did. I mean M1's have just kind of always been out of hand. They just been getting more and more out
+
+[27:25] of hand every patch and now it just feels like a complete I guess what happened is the meta M1 because we're in AoE slot meta. The meta M1's are the tanky M1's and the tanky M1s have a fine lane. Like at least normal M1's like Wraith. Well, again, Wraith doesn't even have a bad lane, but she doesn't have a good lane, so she feels counterable. But both Warden and Ventor have good lane, so there's literally no point in the game they're bad. And then secondarily, Seven, who used to have a bad lane, they just gave him they way increase his um headshot damage reduction. So now he
+
+[27:56] just doesn't have a bad lane. Now he just feels like insane, too. feels really bad. A lot of rotating. I mean, I guess if you're making your way towards E, it's fine. I wish like when you melee the Cers, you could like kill the creeps. It'd be so or the little helpers. It'd be so funny. I mean, seven is like seven used to be like a two out of 10 laner. Now he's like a five out of 10 laner. like that
+
+[28:26] is they massively increased his um uh ling strength. Yeah, I mean I'm not talking like pro play. We're talking solo Q. I mean they are playing seven and pro but you probably could have dashed into when Armold's on you. The best way to get out of it is just to go into him cuz he has really low sensitivity. I think you're going to die for this. Should you have
+
+[29:07] I mean you are just going to want running at the walker for no reason. I think I just have to give you a play for earn out cuz like I wouldn't I mean I yeah three man claps is kind of expected when you're three on the last guardian to be fair. I also just think the biggest issue is like is just us not playing for is really hurting us. Also, I notic I said like a lot. I was watching my own clips and I cut cut that from my speech a while back and I I feel like creeping back in really like I guess like a lot would be the correct way to say that. Um
+
+[29:38] >> but a lot. So I I want to focus on cutting it again. What's the deck to slide without dash without slam? Wait, what do you mean? just like having enough sprint speed. If you just have enough sprint speed, you can slide. Yeah, I do think the biggest issue right now is just that you aren't playing for earn though. You're getting a farm lead yourself, but you're just farming your own camps. You're kind of doing nothing. You're not playing for urns. You're not doing anything around objectives, and you're not stealing. You're not stealing enemy
+
+[30:08] farms. You aren't really doing anything to push the game's lead. And again, you guys, I mean, Venador just your comp has no scaling, so you just kind of lose if the game goes to 25 minutes. So, e this would be bad in normal game. It's especially bad in this lobby. It's actually insane. You guys kept this game going to 40 minutes considering that comp buster. Yeah, it's fine.
+
+[30:50] Uh, does every character have a base speed to slide without a dash? It's It's a flat speed that you have to be able to run run at to be able to slide without dashing. I don't know what it is, but like if you carry earn, you can do it pretty easily. And some heroes can just get it out of items like Haze 2. Oh my god, I'm saying like so much now I'm focusing on it. A2 is a big one for giving infinite sprint speed. But again, this is just scary. Okay,
+
+[31:20] they're jumping your Kelvin left side. I was going to say if they're we're lucky they're strong side left side cuz they're going to jump Kelvin and kill Kelvin. When you're fighting the Celeste, if they're strong side right side, they could just hard collapse on you and you have no map information right now. You just got to get lucky. But because you showed two on right side, they're just going to steal your left side jungle now. 10 sounds about right. Yeah.
+
+[31:50] Yeah. I mean, I like that you're backing up and fighting him, but you're not committing to the fight. I think he's alone because they did just show a lot on the left side, but I still like respecting your enemy's intelligence. >> Resetting when you're only down a few hundred HP as Mina is not really worth. >> Also, there's a lot of dead time where you're rotating around the map, which feels really bad. You're spending a lot of time just ping ponging back and forth. >> Okay, finally someone's running around.
+
+[32:20] That's big. >> The game lacks. We played as Yoshi intended, which is AoE slop. I mean, do you guys win an AoE slop off? You have Billy. >> Yeah, you have Billy L. You also really need to play for earns with your comp and vendor as no is a terrible earn by them. Yeah, they're not doing it. They shouldn't do it to be honest. Hate that this is what the map looks like every Yeah, there's Lesa. That's smart by them.
+
+[32:50] >> They just pulled five of you to That's how powerful Ern is, by the way. I don't know if Abrams had an intention of running it, but him just picking it up and going to mid just gave them so much map pressure. It's actually insane cuz the enemy team just always immediately puts five on the earn. >> Um, I don't know about that, but I know a bunch of people are just danking because the patch does not favor macro players.
+
+[33:21] By the way, I you know, again, I was kind of playing some games last night and I just gave up on rem. I literally just started spam buying trophy electro debop and I won every game I played. It's so disgusting how stupid this meta is. I started like I just I played support trophy collector VBOP and I just ran I literally ran down mid perma. I did not give a [ __ ] playing for stacks and I won every single game I played. It's actually so this meta is so disgusting. Like it's just I mean I don't know. It's
+
+[33:51] actually also just so much gross so gross how much more impact I had on run it down bop than I did on rem. Yeah. Make sure you're confirming the orbs. Yeah. Your MR might be a little [ __ ] then. I mean, yeah, we just look at map on this ch you're already dead. But we just look at map on this chase and you just have no teammates nearby. Yes, you could
+
+[34:21] oneshot Rem, but he's always going to be able to kite to a teammate and you have absolutely no one nearby. will not be denied. >> That's just Yeah, it's just a really bad fight. God, your DT is not having a good game. Yeah, this game I don't know. Hey, it's just a again like this. Everyone hates this patch. This is not what the game is going to be like long run. Literally, everyone hates this patch. It's just,
+
+[34:54] you know, so like it's not like this game long run is going to be a micro slob game, but in the short run it is. And it sucks. >> Should you have died there? >> You're trying to back up GT cuz it's fine. >> Yeah, you're just trying to protect a teammate, which is fine.
+
+[35:27] Merk mag on the hero with zero gun damage. Guys, that has to be good cuz you build spirit. It has to be good. Think about it. >> Demon mastery shredders. Yeah. We're going to the burger box. I mean, I'd be yelling at my team not to take
+
+[35:57] this fight and to back up. If they don't listen to you, then rotating into this fight is fine. Um, but that is this is only good if you have asked them not to fight, which you haven't cuz you're kind of leading the charge into the re-engage, which feels really bad. That was just really bad fight. Quick
+
+[36:29] spell game. Remolds Abrams. Drifters. I mean, yeah, Reml has been shutting you down a lot, but that's the main thing you're buying it for, which feels kind of bad. >> Yeah, I honestly prefer Indom, I think. Yeah, I prefer >> to play a hero that can build those
+
+[37:00] items, but I only play support, so I just never buy those items. So, I'm not really that good with my onstop versus indom versus dispel >> versus counter spell. Well, Bes can actually pretty well, but you know, other two unstopp and dumb. >> I mean, I like that you guys are playing for comeback and >> I pretty sure you just held your two res.
+
+[37:30] Yeah, you just kind of didn't press two for a while, which is what killed you. If you were movement stopped, which I don't think you were, you should have just removed it. That feels bad again. Your mistake if you didn't call on my career teammates to support you to pick up. That's your mistake. >> That being said, you you kind of can't rush in on this game, Koala, cuz your team is so insanely behind. You just have no damage.
+
+[38:00] You think econ should be valued more because there'll be times when someone just boxes and sitters and they have more uh lane minions are worth like by far the most in this game or lane is you just have to make sure you're getting stuff in between waves. I don't really know what they do to Egon. I don't like how Egon feels right now. I don't know what they do to it. Just feels like your perma getting caught especially by this REM. I like metal skin. Yeah. Drift Benberry Fed. Okay.
+
+[38:34] You just need to decentivize burger boxing, but also decentivize farming, which I mean, the answer is really just another objective. Um, Mina syndrome. Yeah, that's true. Amina syndrome. Thank which I can say a rep does really count. Amina, thank you for the follow. Sapphire. Welcome. Welcome. Oh, Sapphire. Sapphire. You know where
+
+[39:04] to find. Um, wolf. I feel I don't know. I feel like I don't have that many notes for today, but I haven't really been that walked out. I just
+
+[39:36] I mean, the bigger issue is just you getting caught, I guess. See, I like the charmina syndrome. I'm going to steal that. >> Walker is under attack. >> Yeah, it actually is crazy how many walkers are alive in this game. But again, it's just we have no M1, so no one can split bush. Like this is this game just feels like a draft if I mean like obviously a game that goes to 30 minutes or so you have no issued loss but I mean it just I mean it just feels bad
+
+[40:09] now we're just burger boxing mid when you're down what 20k we're just taking a coin flip mid which somehow works out. That's how this game goes so long. You guys just get an insanely lucky play. You're going to roll it into mid boss and then we're going to save how much they outscale us. Save away how much they out scale us. Yeah, I've been playing sidelines. I'm pretty sure. I really haven't. I guess you're right. Yeah, you're right. I I think your farm is actually really high considering the fact that you have only
+
+[40:39] been farming camps. That is a good point. Especially with your comp. You don't really have people that like sad that much. Like Silver, Billy, Lash, I lash. I mean, you definitely want more than Lash, but like Silver and Billy are kind of your only side laners and Silly wants not. Oh my god. And Silver wants to fight more. What is wrong with this Rem? Like, oh yeah, he got trophy collector. That makes a lot of sense. He actually, you know, he has is an effective AP order. He just I don't know why you would ever buy this item on this hero,
+
+[41:09] but I digress. Yeah, efficiency issues. I agree. Over boundless. I don't know. I'm not really a spearorn over boundless believer. Mina just has such good scalings. I have to again I should just analyze Amina. No, we can't go. You can't go defensive
+
+[41:39] when your team's down this much and you're not ahead at all. Your defensive item needs to be indom when you can afford it. It probably needs to be bound the spirit burn and dom like greed but it sucks. >> Yeah. Yeah. No, I again I'm not say sorry I should be that I'm not saying I don't think you I'm not saying I don't believe in buying spirit burn on Mina. I'm saying I don't I prefer buying boundless first
+
+[42:14] to pick him up. Um also kind of like this isn't even kind of this is reg hygiene. You have two people fixing lanes right now and Ern's about to spawn and we're just running down mid at the walker which is a really bad habit. Okay. >> Headed to York.
+
+[43:00] this thing. >> Uh, Ern's always more important than Walker cuz Walker souls are always on the map. First, if you trade, even though technically gives you less souls than Walker, if you trade first storm for Walker, it's better for the team who got Earn and obviously the buffs, but I mean, yeah, it's to like you being here. It's fairly expected they're just going
+
+[43:30] to choose to trade the walker for the earn. No question. I I don't think there's any chance you could defend it. I think it's better for you guys just to sack this walker for the earn. Yeah. Yeah. Also, you saw three and you still try to defend it when you had no chance to defend. Oh, our two is on cool down. That's why that feels really bad. Yeah, I should have sacked this walker for the earn. If you saw they were flooding your left side, you also could have traded a midw walker like your team is or right
+
+[44:02] side, sorry. Yeah, but the walker souls are just I mean I don't know. First flex doesn't that or flexaw that early doesn't really matter at all. Well, that's not true, but it doesn't matter that much. And earn is just again, earn souls are permanent souls you have taken away from the enemy team. Walker souls will just always be there.
+
+[44:35] Yeah, but again, it's not that much. First is 1,500, right? cuz it's third earn that they become the same value I believe. >> Yeah, this game will die. I mean, it's a Valve game. It's going to be a massive MOA or a massive game in the genre. Also, it's so much more fun than every other MOA, just excluding this patch. Well, when we get a major patch, it's so
+
+[45:05] much more fun than any other MOA, which obviously regular patches will become regular when this game's out of alpha. It just sucks when the meta gets so stale for forever. But you know, in the nature of playing an alpha game. 3k. I'm just lying. Okay, cool then. Yeah, it's only a 1k difference because walkers are 4k. Really? 3k? Oh, I'm just lying. Okay, so it's second. Oh, it's Oh, yeah, it's 3k and it's 1.5k per earn when it was on 5 minutes. I'm so stupid. That pressure really doesn't matter that much. Also, cuz Okay, if you take away the walker, that means not the earn
+
+[45:37] after next. They don't have a walker to trade for the earn if it's a positive earn for you as well. So the map pressure is almost negative cuz they lo you also lose the ability to trade a walker for earn and the ability to split push. Uh thank you for the follow squid. Welcome. Welcome >> if you're making the call to trade a walker. It's not going to concentrate on your carry. I mean, I guess unless you're talking about you can test walk with five and
+
+[46:07] have one guy split push it. Char was stealing my welcome. Welcome. I had a call out for it in his comments. Ow, my thumbs are really sore. I don't know why, but my recently like once a month I just wake up and my thumbs are insanely sore. Is this normal? Like what am I doing in my life where my thumbs just get sore like on a regular basis? >> They have so much map pressure. You guys down that much. I must just have a huge permanent buff advantage. Oh, no. They just have one advantage.
+
+[46:39] I don't get it. There's no reason my thumb should be sore. It's both of them, too, in the same spot. So, it's something I'm doing with both hands. Do pull-ups make your thumb sore? I guess maybe that's it. Like, why the [ __ ] would my body not be sore? My thumbs would be sore from doing pull-ups. That like doesn't add up. Yeah. No, it doesn't add up. I don't know. That's like the only thing it could be though, cuz it's the only thing I do consistently with both hands. Everything else I'm like very right-hand dominant.
+
+[47:18] >> You should just let your gray talent die instead of dying with him. But we're going to go die with him. I do like the E shift. I'm still trying to think if I like spirit burn more than Malas. I think I have to analyze Amina to see cuz numerically I think yeah you just kind of died for your great talon for no reason. That feels really bad. Should have just let the guy who got caught died. Yep. And somehow I mean this game I guess I get why this game goes so long. Your team is just pulling Hell Mary
+
+[47:48] after Hail Mary after Hail Mary. >> How many stacks does he have? 84. That's not that many. >> Um, yeah, you're dead, too. Just fighting outside of your base for no reason. I was going to say it's bad cuz
+
+[48:18] they have REU, but they don't have REU, which is bad cuz we're dead, too. And cuz you're down like 30k. No reason to be fighting outside of base. And yeah, you die for it again. Yeah. Yeah. Yeah. I think dumb would have been your best option over E shift. But I'm still Let me do some like itemization analysis after this. >> I mean, at this point, you're just kind of throwing a Hell Mary. You should not
+
+[48:48] be full focusing the Drifter with Scourge on him, though. That is a major mistake with your alt. I mean, it's the notes are pretty short. You need to play for earn more. You guys not playing for earn really hurt you, especially in this comp where you just get clinically outscaled. Mina syndrome where you're just playing where you can never die and your positioning wasn't good. Um, a lot of I'll say efficiency issues and we're still a bunch of bunch of other people are calling it, but efficiency issues where you just were,
+
+[49:20] where's the words I'm looking for? everything you were doing was just slightly inefficient, which the again the best way to fix that is really just putting hours in the game and nothing more than that. Hours in the game will get you more efficient, but like your lane just felt a little bad. I would say use your mic to call like you died quite a few times. You weren't using your mic. Don't die for your teammates. You also kept like don't ask spam paying retreat
+
+[49:51] when your team is taking a bad fight. You were kind of joining your team in bad fights and then just dying with them or headlining the fights. Um, spam ping. Why Why is it saying ping's not a word? Um, was about support that's so freeing. Getting stomped on Ivy just feels like a whatever. I don't know. I don't feel that way. I I mean, I still I'm a support main, but I definitely feel tilted when I lose,
+
+[50:22] but support just kind of like is if you want to have a good mental, the best way to get a good mental is playing support. Support you will be forced to have an iron mental with the teammates. Like you just you like the best mentals are on supports cuz you just have to have a good mental to not switch roles. Uh true when you when your team actually I have a shitty mental so maybe that's not true when your team is taking a bad fight and then I mean I don't just like rage you of
+
+[50:52] hygiene I guess is the last that I'll add hygiene. Okay. Yeah. But that's not even the thing. It's not even like you don't even base yourself off kill participation anymore because um so many fights are god awful that like kill participation isn't actually that good of a factor to weigh there's just so many bad fights.
+
+[51:26] All right, new raffle's up. Let me check Mina also to see about that spirit burn. God, I look good today. >> Okay, no notes build W. Going to have to look at actual games. No notes build W. Is this boundless? No. Spirit cool. Oh, really? Interesting. Shyro is going more. Shyro doesn't go boundless on mainup. What the [ __ ] I guess these probably aren't that much in order.
+
+[51:59] Um, have to look at actual games. Let me pull up a stat locker. Um,
+
+[52:29] wait. He hasn't played Mina. It's Kon Medical. Really not played Mina in this [ __ ] long? Come on, man. Okay. He has not played Mina in forever. I guess it's Who's the second best Mina? Uh, I don't know if there is one, man. There's a Mina game from like a month ago. Oh, I'm in Street Brawl. Okay, that makes so much sense. Yeah, there we go. Now he's playing me. No, he's not, actually. Nope. Still no Mina.
+
+[53:00] There's a Mina game. He go spirit burn first this game. Oh, why did he go spirit burn first? Um, what's he into? Sorry, am I quiet? He's Is he into a bunch of healing? He's into shiv, obviously. Spirit work. Good to shiv. Not that much healing. Great talent for burst.
+
+[53:32] Interesting. So, I guess he's just going spirit burn. Was he behind? I mean, I doubt it. No, he's ahead. So, why is he going spirit burn first? He's ahead. So he doesn't need defense. He doesn't need to buy truly offensive. Oh, he went No, he went E ship. Wait, what the [ __ ] What is this point order? What is this item order? Is there a boy? I can see item order. Okay, I can
+
+[54:07] He rushed Spirit Burn, I think. Interesting. Okay. Yeah, I mean I think uh Balance is more consistent than Spirit Burn, but I'm just cur There is merit to going Spirit Burn over Boundless. I'm just curious why or like what the thought process is these games. He did it again. Maybe he was just trying some [ __ ] This might have been a Let's just try. Oh, this is when he was old maxing, wasn't it? And that's why Oh, this is
+
+[54:39] when he was on his old max arc, wasn't it? I say a P order on Stalker. Also, it is so much It is like actually insane how much better Stat Locker is than um Jack Lock. Holy [ __ ] No, he was on his max arc. Okay, maybe Spirit Burn first is like very doable.
+
+[55:09] How long's left in the raffle? A minute. Okay, I'm good to keep looking. This game he went boundless first. Okay, what's different about this game than the others? He's behind. Interesting. He's going boundless first when he's behind and spirit burn first when he's ahead. That goes against very core itemization philosophies. Is this going to be spirit burn first cuz he's ahead? No, this one's boundless. No spirit burn. So, it looks like he just recently got on the spirit burn train.
+
+[55:41] Interesting. My eye is [ __ ] bothering me. Apparently, cosmetical is Oracle. I think you're on the wrong account. Yeah. No, to be fair again. Well, I'm just going to use Shyro's example
+
+[56:11] because he typed this in the ghost of Discord the other day, but when he hit E6 on support, it said he was Oracle. It is. Okay, to be fair, I was just commenting Statwalker. Holy [ __ ] Statwalker is bad at knowing what rank supports are. It is actually so criminal how every support is just like five letter ranks below what they actually are. The green vegetable. I don't know how much he plays, but iconic Dynamo one trick E6. Stat Locker said he was ascendant the whole [ __ ] for his entire E6 journey. Stat locker said he was ascendant is actually so [ __ ]
+
+[56:42] stupid. And then like the elo I don't know. Anyway, I [ __ ] with people at Stalker but E6 I need to There we go. Yeah, I mean M1's just good MVP on stat
+
+[57:13] locker. It is cool. Is sport Ivy? Yeah, Sport Ivy. Oh, have to lock in. That's good. That was a good like warm-up preview though. Um for like shaking off the tilt, I mean. Yeah. Yeah, that Yeah, I've experienced that too. Hi. It does feel bad.
+
+[57:49] I don't know if they'll ever give a hide profile. I don't think they would, honestly. It would be just so counterintuitive for them. Like, there's no reason to. It would be a little nice if people want to hide their profile, but like if people are stuck in like I don't I don't know if that's going to be an option. I feel like that'll just make them more annoyed. Um,
+
+[58:21] what am I doing? What the [ __ ] am I doing? Um, Ivy. Oh, yeah. Yeah. I need to I add to my to-do list.
+
+[58:52] Okay. I don't know why I'm tired. There's no rhyme or reason to why I'm tired. How's it going? How's it going? Um, oh, I know that. Oh, that's you. Wait, I've seen you [ __ ] terrorizing other people I'm coaching. Wait,
+
+[59:22] I was going to say I recognize that Ivy, but it's just you. I mean, to be fair, I think I've coached you before, right? At least once. Oh, twice. Okay. Yeah, door man. And then you hit E6 and I go st Viscus and you're reading six. Oh yeah, you were a YouTube video. Okay, but you won recently. What the [ __ ] Riged raffle. Also, you know the tech I I have a Boba. I'm going to tell you guys this is
+
+[59:52] hidden tech. If you guys go to a boba shop, this is what you order. Trust me. If they have black uh what is it? Black sugar pearls. always get those. But if they have black sugar pearl tea, don't get tea. Take it without tea. Just get black sugar pearls and milk. It is the best drink you can get. I promise. Literally, just milk with boba. It's It's crazy. I don't I'm not I hate milk. I don't hate milk cuz I'm not a milk person, but like black sugar pearls and milk just works. But yeah, I was right. Yeah. Yeah.
+
+[60:22] We love decompressing cinema. It didn't break. Actually, I shouldn't be complaining. Who cares? It took 10 years. It actually worked. Be really funny to click delete. It's actually crazy. I've never clicked delete on accident. I feel like that's something that would happen at least soon. Oh, you can request. Oh, really? Oh, that's cool. They offer account removal at least. I'm surprised. >> Hate you, but they will never forget
+
+[60:53] you. Do whatever it takes to defeat the ritual. Where is Ivy? There's Ivy. Darnus Ivy SL Marker E6. Just try it. Just try it once. I promise you, you will like it. It is I have been I have tried so much boba. I have been to so many boba shops. I have tried so many drinks. I promise you if they if the place makes brown sugar pearls, just brown sugar pearls and milk is the best possible order you
+
+[61:23] can do. Brown sugar tea, no tea. It's actually so good. Anyway, lock in. They just me or dispatch feel like kills are better than farming. Uh like so I don't know if you're not an M1. Like I don't know. It's there's like a lot of different issues. Yeah. Keep Oh, you're playing the wheel. Actually, you're fine. Black sugar. Did I not say black sugar pearls this time? Wait, what did I It's No, it's black sugar pearls. I think
+
+[61:53] they only have like a brown sugar pearls. It's brown sugar pearls. Sorry, not black sugar. Brown sugar. I don't think black sugar is a thing unless they burn it. Anyway, lock in. Um, let me just rewind. Let's just reset. Let's just reset >> cuz this could be this is again the last the review of this guy was a YouTube video. This could be a good YouTube video. Let me like block it. E6 Ivy. All right. For Vaude Watchers, just cuz I had to skip cuz I was on a whole tangent. Order if you go to Boba shop. Brown sugar pearls. No tea, just milk.
+
+[62:24] Actually, the best order you ever get anyway. Lock in. Okay, going to wait a second. So, I have a YouTube intro and then we are Ivy and Gisted into Ship Infernace. Okay, feels really bad about how passive your G is playing. Also, a lot of downtime. You identify both of them. We're on the right side of the lane, which is a mistake by them, but you didn't punish it by taking the left side creep. You definitely could have killed that creep and put yourself in a little bit of a better spot. Now you don't have to deal
+
+[62:55] with clearing wave under tower. Your gist is so [ __ ] passive. What is this? This is going to this is going to be a really hard game to be honest with you. You need monster rounds as soon as humanly possible. >> Extra regen. I honestly would have put monster rounds there. I like with this guy is not shooting wave. You need to identify this and be like, "Oh [ __ ] I need to clear every single minion." which means you got to be monster rounding. If you were lower level, I
+
+[63:25] would tell you just shoot every wave off zip and headshot them. But by E6, the enemies expect that and they will just [ __ ] you if you go for it. Whereas at low key, you can do good calms on deadlock when I'm scared to talk VC. I don't know why. I kind of feel that like I don't know. I just can't be bothered to calm sometimes. Like if if the enemy's toxic, I'll get really sweaty and I'll calm. But like 95% of my games, I don't press my push dog. Don't they have ability on you? No. Sorry. They have AP on you. Not ability. What am I talking about? Oh, no, they
+
+[63:56] don't. No, you only have two up. Yeah, he has AP on you. You're fighting when Yeah, AP on you. That's going to feel really bad. For one, you're just playing to a Wait, no, you have the AP. Wait, I'm not You just don't have to put in your ability. I guess that minion gave it to you. I don't like this fight, though, cuz you're putting yourself in a position where you're going to take a prolonged trade against an M1, which, you know, especially on furnace, but in general, is never going to end well. Yeah, now he just runs you down. Heck, he just didn't run you down, which was cool. >> I mean, he should have done at least 100
+
+[64:26] more damage to there, to be honest. >> No, but the thing is like I I don't know. I prefer people don't come. If I get an ELO and no one's using their mic, I am so happy because it means everyone got to my rank without using their mic. And that means everyone is better because using your mic is just inherently boosting. People who get to the rank without using their mic are just so much better. It's actually crazy. But it's like completely free eloed. Like push pressure push to talk. I just can't be bothered because I don't care about climbing anymore. Feels bad.
+
+[64:59] >> That feels really bad. Um do I hate the stone form instead of rolling on her and parrying? I do. I think it's safer. The thing is I think roll on her parry and then if they don't punish or parry you just stone for but I guess then she dies and you die maybe. Yeah, I guess stone forming is the play. >> I thought of binding keys on my keyboard to quickly typing things in chat like earn and stuff for like buffs.
+
+[65:29] I'm not sure. Um, I mean like you're you should Okay, again, as I always talk about, in my opinion, this is very subjective, on a 3-minute wave, you should do a short box route that gets you back to lane so you can hard shove the wave and then do a long one after 3 minutes. I would like if you had like gone to the end, set up on these boxes while they were spawning, then killed these, walked your way back, gone and pushed the waves. But instead, if you do a long box route now, you're just giving them pryo, which ultimately gives them time to do a longer box route
+
+[66:00] after they get the pryo, if that makes sense, than you did here. Also, I don't like the efficiency of this box route. We're just skipping over. We obviously skipping over this box, but also like you got to take these buffs. I like routing. I route up here and then grab these and then kind of ping pong my way back like this. I guess to be fair, you would have gotten to his wave a little late, but yeah, I mean, they're just going boxing. Yeah, you don't have to be afraid at all.
+
+[66:30] >> Yeah, I just see his pings though. Think about it. But no, I mean, again, I'm like kind of doing a bit. I don't calm. That's not a bit, but I'm kind of doing a bit where I'm like obviously using your mic and calming is way better and you should. It's like literally free elo, but I just like don't really care that much about climbing anymore. Again, I barely play the game, so I prefer just having music and not having to like focus. Stalker. Yeah, items OP.
+
+[67:05] I mean, you obviously don't a melee can on Ivy, which is good. Oh, you're holidays ganking. I was going to say, why are you doing this? Your holidays ganking. Okay. Yeah, I like this then. My thumbs are so sore. Why do my thumbs get sore? What do I do that causes both of my thumbs to get sore? There's no reason. Was actually really well played by him. Wait, what was his movement there? Was that just one ground right click? Was I I swear he didn't just do like a
+
+[67:36] squiggle right click, right? Is ship really this balanced? He didn't even squiggle right click, bro. He rightcicked backwards. He didn't even right click at a 90° angle to move most efficiently. This [ __ ] hero. Anyway, that's unlucky. But ship is balanced, guys. He has a low win rate, which means he can't be overpowered. Sorry, I digress. Remove all fires from the game. Game would feel so much better.
+
+[68:06] >> That's a really good stone form. like frame perfect to not get reignited. Melee map parries tower. Yeah, that's fine. Almost the mind control melee, but it's not. Okay, we know the route. No, I guess that's fine. Yeah, that's a fine route actually. I think it's slightly stamina in efficient. No, it's fine. I have to be fair. I always [ __ ] up my route. I just kind of prefer the route where you jump and you diagonally or dash. And here you
+
+[68:36] wall balance and then you melee to get the buff. But you had two stamina, so it didn't really matter that much. I honestly don't know what's more efficient. I should time both of those routes and see cuz I just always do the one that's more stamina efficient, but it might be less time efficient. Okay, we just This is the second time you've done this thing. We're trying to fake melee a shift. I don't think Shiv could press F on his keyboard, to be honest. Uh I would uh I still think you should try to fake melee and furnace 100%. But this [ __ ] that's the second time he's done the exact same thing and we're still kind of fighting
+
+[69:07] it. >> I like that you're light meleeing a lot, though. I've been writing notes. I've been saying anything important. Whatever. It's E6 of you. E6es don't get notes cuz everything I say is so minor. >> I don't like that melee. I like all the melees besides when he touches the ground. I've talked about this before. The worst time to melee is when you the first like he didn't parry obviously,
+
+[69:37] but the first 2 seconds you get within someone's range that you could melee cuz it's when they are most likely to parry. Other than that, it's all a mind game of will you parry, won't you parry when they're standing in their face. When you enter the range to melee, it is the most common time to melee and the most common time to parry from the enemies. I'm sorry, brother. Just [ __ ] despawned from half HP. Yeah, just don't get parried. And it's
+
+[70:08] good. Yeah, he's only egoing you there cuz he knows he only wins the fight if you if you get parried. So, you have to expect that he's going to be fishing for a parry there since you just mog him. Either you're getting to be fair, I would also be a little afraid I was getting ganked if he engaged like that. But the only way he engages like that is if he's fishing for a parry or if there's someone else coming to gank and we did not respect that at all. So I guess I would say um melee hygiene. I'm just going to put it like that. Ow, it hurts to type, man. What did I do? Why
+
+[70:39] are my thumbs cursed? Also, we got came here from the dog. Let me yell at him. Have to go like full yell at him.
+
+[71:12] Okay, way back. Let make a marker. Uh, seven minutes in game light BRB so I can make an edit cuz this is going to be YouTube blood. All right, lock back in. We're back. You're not sliding. I can't help. But did you actually have force? No shot. You had four stamina there. If you would Okay. No, you burned your stamina early. >> Okay. You're just out of stam. But I think is there an issue where you're using your stamina too much here in the
+
+[71:44] initial engage. >> Oh my god, I missed when you used all your stamina. It's definitely an issue. You're like getting Did you do mid skip? No, he boosted. Where did all your stamina go? Okay, that was Oh, yeah, that was really inefficient. We just burned three stamina here. Uh, I mean, you just dashed right before a slope. You jumped and then you double jump. So, you could slide down this slope, you could hit like a wall bounce. I would look for an edge boost on this wall. You could even just like a light dash or a dash jump if
+
+[72:14] you need to cover more distance. You edge boost off this wall. You make this distance and one to two less stamina. And then when you're fighting this Wraith, you could actually be able to slide and shoot her. You can slide down just one jump mantle slide on the bridge. I think edge boosting is the most efficient way to do that, but I also can't visualize what you're saying. >> Yeah, I mean, he's pory pawning us, so we just have to leave again. Really efficient movement. I think I have to give you uh uh Oh my god. Spend more
+
+[72:47] time in explore NYC. Ow. Sorry, I need to stop biting my thumbs, but it hurts. You're just you're just kind of like eating guys farm for no reason. I like hovering her, but you've shown on map, so this is no longer a hover. Hovering is like, you know, when they don't know that you're around. If you're just hovering or not showing on and showing on map, it kind of achieves nothing. And by kind, I mean highkey. Also, yeah, of
+
+[73:17] course I like slow utility op. >> Um, okay. >> What are you saving for? K Rush. Oh, by the way, um, Ash was talking about Ash. Wait, was it Ashars? I think it was Ashars. Um, he was talking about how like the Ivy outgoing uh damage bonus on your alts, 20% outgoing damage bonus. It
+
+[73:49] applies to decay. So decay is already a really strong item right now, right? You're seeing a lot of people rush decay cuz it's just does a lot. We're in a burger box meta keeps one HP. You can kind of in the same way Rem can just get a nuclear decay if he twos and then decay someone and you can get a nuclear decay if you ult and decay someone. So, is it poor Ivy decay? Kind of doing some work right now. Or decay rush. Evil. This would mean you get dialogue from DMB. Is he don't type about those things.
+
+[74:19] I got to get my lore. I'm not that much player lore of players who don't like or like player MN lore, I guess. I play most games. I don't even know who's who. When I coach like this, I also do not know what wave you're referring to. What are we buying? I see. I see. Oh, okay. I understand. I understand. Why are we not buying? This feels bad. You want to invade their doubles, but you should buy before you invade their doubles. You see three on map.
+
+[74:52] See enough on map. 1 2 3 4. No, you know, two are here. Yeah, you know, one's mid, two are left lane. I would just buy first. It slows you down slightly, but I mean, if you're going head or whatever, it's a huge item for if you get caught on this. I'm scared right now. Their mid lane's missing. The two guys on the left side of map are gone. It's also a very exp because Okay, I mean, okay, well, they just showed unlucky before I paused, but also because your teammates are forcing tower and they're giving. If I'm the
+
+[75:22] enemies in this situation, I'm thinking, okay, they're opening the side of our jungle. We need to secure these cers before they steal them. Um, so I would also be really scared about being collapsed on here. Thank you for the follow skelly cats. Welcome. Welcome. >> Oh, by the way, minor note. If you're like a lowle player, exit doubles through this hole, not this one. It is so free to exit through this hole. You will get killed so much less cuz you go so close to the vent. I know it sounds like a minor thing. I promise you it is so much better.
+
+[75:52] Um, are you [ __ ] rushing curse? Ain't no way. But I think we might be rushing a 12-minute curse. That's the only item I could think of you rushing that would be half decent. Or you or you're going to get hit with a major soul awareness note. >> I want to look at curse usage in fights. I I think I need to analyze pro players and uh look at curse usage cuz obviously curse is a disgustingly broken item.
+
+[76:24] just so criminally broken. But like I feel like I use it really inefficiently when I play REM. I think that's something I need to add to my list of analysis. Should analysis, you know, not sure what I'm trying to say. Faster power play. Yeah, then we have Tesla. I don't hate the high docker build. I think the high docker build is a good solo kit build. It's just you have to have high docker's play style in the same way to play a wander build, you have to have wanderers play style. Don't buy a tier three. You're buying it before earn which is good but I do got to write down soul
+
+[76:55] awareness and honestly unironically I well no you're fed as [ __ ] actually damage items are best obviously earn spawning on yellow side we should be I shouldn't say all our first earn spawns on yellow side I should say that so earn spawning on yellow side which is left side in replay so you should be making your way over there which you are I don't know why I thought there opposite things uh cuz he is he he got up to 5k souls and then bought a tier three item when he was kind of walk next to a secret shop a
+
+[77:26] couple times at 3k. Yeah, I mean this is an E6 review. His items are going to be like stop saying like. Oh my god, I need like a >> Okay, I just said like and on a sentence big. I need something to stop myself. >> I could make midbot attack me whenever it hears like, but I feel like that won't end well cuz you know sometimes I use like normally like that. Okay, lock in. I mean, you are playing for earn, which I like,
+
+[77:56] but >> I mean, yeah, like you're just kind of getting Okay, you're just going to try to peel for your Apollo. Okay, I don't hate this. I would say support policy except you can't actually save him because you have your olds. You just grab burn as you're running away. Probably going to die, but you might as well try. Yeah, I mean, we got baited by our Apollo unlucky. It was a good up hook. You kind of got baited. What can you do?
+
+[78:29] >> Okay. >> Yeah. It's got bomb. That's how you tank the bomb. Yeah, I guess that makes sense. Is that worth? Yeah, cuz you're afraid. I got this. >> Doesn't he still dispense on you? Okay. No, you're not going for the Okay. Yeah, I like that. I like you holding your stone farm. Um, it's a little,
+
+[78:59] you know, you have to get to earn as quickly as possible. This guy [ __ ] hates you. Yeah, you're forced to stun for here. You look for the stun. Your movement's actually pretty efficient now. I don't like that melee. Everyone does that melee. You can just kind of glide forward and then mantle. You don't I I'm pretty sure meleeing slows you down more than just not meleeing. That right there. Is he actually? I doubt that. >> Okay.
+
+[79:31] >> Okay. We're in the cluster. [ __ ] fight. Big. >> Um yeah, you're just running him down with two. This is fine. Bring Bernie back up. He was watching a screen share on Discord. I see >> his anti artillery battery. True. >> Obscurus right now, man. Also, I was a tarnist when I before I scared out.
+
+[80:23] >> Anyway, lock in. >> Okay, now we're getting our decay rush. I see [ __ ] >> I see people. >> Um, let's see.
+
+[80:54] It's okay to bop. Yeah, it's fine. This fight's looking really bad when you weren't getting the pick immediately. I would start falling back. I don't hate the idea to look for a pick, but when you don't get it within like 8 seconds, I would just start backing off. Pull back. >> Okay, I know the ghost plug's fine. She keeps
+
+[81:25] catching my eye, though. >> Let's get this show on the road. I just got like locked out. Now I'm in like CC mode. Wait one second. Let me log back in. Oh, I added note too.
+
+[82:00] >> Okay. >> Yeah. Hey, you're trying to peel for your holiday or no, it's Apollo again getting baited. I feel like you need What do you need? You need something to punish this BB ball for continually mispositioning. >> You have slowing X. I honestly would have tossed our slowing X on BB bop right there. I see it further. >> Could be anywhere.
+
+[82:40] >> Yeah, you don't need to go. Yeah, that's good. Okay, sorry. This looks fine. I'm in like a mental CC battle now. One sec. Oh, I got to lock back in. [ __ ] >> Oh, this is good. You're just finding pics around the map. Um, let me write one note down. Okay.
+
+[83:10] Yeah, for this pick. Could you guys have gone mid here? No. Have this pick. You just make your way to earn though. Was this death your faults? I don't think so. I mean, I think your time to kill on Impernus was just so high. I'm just looking there's something better you could have done. >> No, it's fine. Yeah, it's fine. Death was a little bad to get traded, but it's fine. >> I like it.
+
+[83:57] Oh, uh, minor thing to note. Again, this is just going to be a cluster buck fight. I'm really not good at coaching the Overwatch mosh pits. Look at how Calico's proxing Wraith's wave. This is like really common. You'll see in higher levels. It's because we know Wraith can just take the Walker. She obviously has Wraith in an M1 who's broken as [ __ ] so she can just mo the Calico. Calico's just cutting the wave. probably try to cut a second one. So then Wraith has is forced to try to kill the walker while it's back door protected. So she just can't
+
+[84:27] be denied. >> I mean, yeah, you get your decay off before you die. Did you use decay with your old bonus? I actually didn't check. Oh no, you had a force into Oh, no. You didn't. You never used your old. That feels really bad. I guess you don't have a max. Your stone form first. I do prefer max first over stone form first. Yes, stone form first is or like
+
+[84:58] stone form max is broken, but I the AOE silence is too strong not to take it in general and especially in this stupid ass mo meta. >> Terration. Yeah, we dec right now. Um, >> I mean, support is good. Yeah, support's kind of just in a weird spot
+
+[85:28] right now. >> Where it just kind of like But yeah, I mean, support IV is good. Still are. You're not going to see her outpace like Aiscus or Rem in competitive play, but in solo she's put in a lot of work. Yeah, exactly. >> I like it. >> But in solo Q, I honestly think Ivy's better than Rem because she just has a lot more carry potential than Rem despite obviously in pro play Rem being
+
+[85:58] better. Yeah, we flick our time pressure so we just light melee. That's fine. It's good invade. I have my orders. >> We keep decaying in a furnace, which is feeling a little bad. I mean, I guess they're suppressing his healing. He has
+
+[86:28] SLS now by now, right? I Yeah, he does. I see. >> Um,
+
+[86:58] >> all right, >> we're getting into the mosh pitty part of the game. I got like really locked out. I still haven't fixed it. Okay. Yeah, you're trying to force a stone form cuz he's in the vent trap. I like that. At this point, you guys should go mid after the walker, which I believe we will. >> Yeah. What do they have to contest? Just Guist. >> We have Gist. Oh my god. Look at the wrong team. They just have Wraith Hold.
+
+[87:28] Yeah, it's fine. I mean, they'll be stupid as [ __ ] if they try to contest. which it does appear they are. They just force this. You have a way better pit fight. Ivygeist then your pit's actually insane. We press stone form. I would have parried after the stone form to be safe. And also if you get parried right now, it's a guaranteed death. So it's better for you to play defensive cuz you don't want to just spend a reg for your team.
+
+[87:58] >> Thanks. I like win rate as something to rate a hero's performance. Uh oh, I mean, yeah, >> but yeah, I mean, win rate doesn't really tell the whole story by any means cuz the rims win rate is terrible, right? Despite him being broken, >> but it does. I mean, I don't know. It's kind of It's not like a useless metric though. I think gun probably people probably play her more gun
+
+[88:29] in so they like lower level solo Q if I had to guess. Yeah, you guys move for now. You should be the one to run earn to be honest. Our walker is under attack. >> Yeah. I don't >> I prefer if you were running into this Apollo spy. Yeah. >> Ready to use
+
+[89:10] kind of want to start listening to music on stream, but that would grief my vaude so hard. >> No, I can't do it. I don't know. I would get way too distracted. I don't have the focus for that. has a low win rate. Really? I did not
+
+[89:41] know that. Yeah, I hear her here is broken. How the [ __ ] are people losing on Venador? Oh, cuz now we get out of jail free card and M1 mains are terrible at the game. I see. Really? That's insane. That's why they're not nerfing him. That makes so much sense. Remember last patch video I talked about the fact that they weren't nerfing him.
+
+[90:29] Yeah, it's too defensive. A hopper, I guess. Oh, that feels bad. Oh, that feels really bad. You hit that vin. I was going to say you are getting information really late for your team. You need a swiggle more when you're on. You're also getting consistently hooked cuz you're just kind of going in a straight line whenever you um actually let me add that to your notes. Of
+
+[91:00] course they're dying. >> They're fighting me. >> Yeah. Yeah. It's It's We don't have an expand. Wait, what's I think expansion is another three. Oh, yeah. I guess this build will put expansion on three. There's a lot of like [ __ ] uh connection ranges in this game. What's another thing? There's something else I was just thinking about yesterday, but I forgot it. Oh, like Bbop bomb. Like you buy a lot like you know bomb build is
+
+[91:31] obviously only really an MM build, but when you see it, people buy expansion, but it also just makes your ability to put the bomb on so [ __ ] >> Okay. Oh, there's the dog again.
+
+[92:04] A little too defensive here. Yay. I would help your team more with that patron knock. >> Yeah, you just let that guy die if he's in. Let him in. No reason to die with him. Even remote like lightly staying there is a mistake. just puts himself in too much danger. Transcend next probably right
+
+[92:39] uh plate. Oh yeah, you did go plated. I would go transcendent. Plated is good into Infernace, but it's like I guess spray is ricochet >> merc mag. >> Yeah, I don't really like plated here. It's just selfish. And then also it's not really good. Like they aren't that heavy bullet or on I guess they're a little heavy on it. Not like that crazy on it and not that crazy gun.
+
+[93:15] I think spirit zones would probably do more for you as a defensive item, but again, I just bought transcendent for your decay, your curse, your al and your slowing X. Why did I blink on slowing X? I just don't like this build cuz like you forcing your stone form there in the fight for damage I guess is the correct play given the build, but I also just kind of feel like you should just play a
+
+[93:45] much more classical support like a division support would feel a lot better. Our blue is under attack. >> Yeah, that's true. Also see on stone form. I mean, minor note, you should be using
+
+[94:15] tab enough to know Wraith as the spell and then not overwhelm her with debuffs. But >> she just got it, right? And she got it a while ago, actually. You definitely should have known she had it. Her and Shiv, I guess, are the two major ones. Whenever you're doing a decay build, you should kind of be keeping tabs on who has dispel cuz obviously it's a lot of damage lost if they dispel it. And you also don't really want to be decaying the wraith in that situation. And your decay needs to hit the shiv mostly. >> Actually, shiv has I just said shiv has a spell. Your decay needs to hit shiv when he doesn't have the spell or hit the bomb right now. I guess bball could
+
+[94:47] also counter spell it. Your angles are kind of rough actually with how many of them have counter spell too. Wait a m to just proc him insane big. Yeah, he just do mid. I was I was pausing to see if there's an angle for like one of you to do earn while you did mid, but no, we just did mid boss. This game was pretty linear to be honest, but it was good. >> Kind of got mental CCed in the middle there, which will stop us from being a
+
+[95:17] YouTube review, unfortunately. But pretty solid game. Oh, we're baiting. I see. >> Yeah, good catch. Um, I like how Venador played on the bait more than the rest of your team. He's expecting them to come in, so he's just hiding under this arch. I kind of wish her whole team played with him instead of showing. >> You did also just kind of bring the bomb. Like again, I know he's not bomb bop, but you still shouldn't be bringing
+
+[95:48] his bomb, which is doing 500 damage to all of your teammates. Inferno.
+
+[96:19] >> Oh, wait. Is this an opportunity where Yeah, to be fair, I think this is an opportunity where Oh, no. You're just going to end the game. Never mind. Wait, never mind. and their patron is not. I was going to say one guy should do earn, but uh that's just a wrap on the game. Maybe I can make the C2 review with some light editing. Yeah, you know what? Let me just make the C2. Let me add like light editing in the middle. Yours is white. Alcar is purple. What do you mean? Wait, no. Wait, what am I
+
+[96:49] talking about? Wait, what am I talking about? >> Wait, what color is Elkfire? Oh, enemy Alfire is purple. Ally Alfire is white, right? That's how it works. But like for spectator, it always shows it as enemy. That's how that I'm pretty sure. Or am I wrong? Okay, my game crashed. W game. Anyway, as far as the notes, uh, melee hygiene where you were just, you know, again, the minor things they talked about with your light melees. Also, you kept trying to melee cancel on the ship, who I don't think could press a parry key if you
+
+[97:20] just heavy melee him in his face. So, I would also not keep trying to fake melee someone some more time and explore the map tool and just practicing your movement. Soul awareness issues where your souls were getting too high. Um, don't just run the AR in a don't just start. No, don't just fly in a straight line. Um, don't just don't just fly in a straight line. Try to like zigzag and like weave and bob so BB can't just ins hook you. Also using control and space to go up or shift to go up. I don't know. I shift to that. I don't know how to play Ivy. you going up and down while
+
+[97:50] you're in the flight will also do a lot of wonders for not getting per Bob hooked. Um, and then oh my god, I had one more note and I just forgot it. What was it? Oh. Oh, and finally, I don't really like that build. I kind of would just prefer Division Ivy. Um, like if you have fun with it, you know, play it if you want to play it, but I would much prefer a Division Ivy to be honest.
+
+[98:22] All right, let me get a new raffle up. Um,
+
+[98:53] yeah. Yeah. So, I need purple, right? Oh, I also got to relaunch deadlock. I forgot about that. Oh my god, this dog. I'll go insane, man. Why does he can he just not bark? It's not that deep, man. What time is it? 1:40.
+
+[99:26] Wait, I can't do basic math. Um, let me check something. What was I trying to check? [ __ ] I just
+
+[99:56] completely spaced out. Wait. [ __ ] What? What was I trying to check? I don't [ __ ] remember. Unlucky.
+
+[100:41] Okay. Yeah. I don't know. I don't know why he's barking like crazy. Um, okay. Anyway, sorry. I had to check something. Uh, IR not IRL, but real life related. We're good now.
+
+[101:12] Okay. What do I need to do? What am I going to do? [ __ ] Oh my god, I'm actually tweaking right now. I I How much did I sleep last night? Like nine hours. So I just feel like [ __ ] WW I love healthy
+
+[101:45] mental well-being. What's with Kabat right now? I've been like tangentially relating it. We're still in groups though, right? I think we what game three is this game threes are this week. I'm very un uh what I'm looking for not locked in very un
+
+[102:15] paying that much attention to it like just watching game whistle on TV more than anything else go last game we lost 51 I See? Yeah. I mean, to be fair, in the US, that's I mean, to we're like winning groups or whatever, but we're just going to get [ __ ] mogged once we play like a team that actually likes football. I wish like we had a good football team. It'd be so [ __ ] fun to watch.
+
+[102:47] Like, we're just saying it here, man. To be fair, okay, actually, talking about the World Cup, I feel like the art of football's kind of dead, man. The fact that there isn't you can't like flopping can't get a foul or I can't draw a card is just so dumb. Like it it's just ruining the sport, man. It really is. It feels so bad. Say that to Hollands. I don't watch much
+
+[103:18] I again I don't watch much of that Premier League or really any of uh I should know what team he's on. Man City, Man United. I watch Man United, so he must be on Man City, right? Like, it just drives me insane, man. It's like so awful to watch one team gets one point ahead and the whole rest of the game is just the other team [ __ ] drawing like 20 minute [ __ ] flops so that way they don't have to [ __ ] play the game. Oh my god. It looks like a DLNS uh video. I don't know. DLNS game.
+
+[103:52] There we go. What is the leaderboard at? Yeah, it's actually on top by a lot. >> What's the raffle at? Oh [ __ ] it's over.
+
+[104:26] My cousin is in Sweden. Wait, my cousin is in Sweden's national team and apparently women's league is way less of that. Oh, I see. I see. Oh, that's cool. believe someone in the on that team. Damn. Damn. I don't know. It's just like I don't I you just it just should be a yellow to [ __ ] flop. Like it isn't that deep. I I do not understand why that isn't added. It's so dumb. If I don't know, man.
+
+[104:57] We're reviewing. I should I just like it. I don't know. You just just [ __ ] what's the word I'm looking for? I don't know. Just just make it a card to draw a flop or to flop and like it just isn't that deep. This sport would be so much better, but it just isn't for no [ __ ] reason. It feels so bad. Also, how's the short doing? I posted today.
+
+[105:35] Um, where is the [ __ ] short? Okay, it's doing it's doing like not great, but good for a specific hero type short. I upload shorts in a while. All right. The [ __ ] Yeah. I just like I don't know, man. I just
+
+[106:06] did I to say next match. Oh, I have no clue. Oh, for wait for we talk about like World Cup. I have no idea when or anything. If you're talking about this, just remember the [ __ ] downloads. Oh, next patch. Next patch. I don't know. I I think it'll come like next month, but we don't really know. We're just kind of waiting. It feels bad.
+
+[106:45] Um. Okay. I really hope they do something also when the game comes out to fix these long ass download times if it's not on
+
+[107:16] your server cuz this [ __ ] takes forever, bro. There we go. Uh ship. Okay. Go dogs. Oh my god, this
+
+[107:49] dog. Ascendants ship. He's barking like just he's not he's barking just what's the word? Opposite of just enough. I don't know. He's just bargaining. Just not enough that like that I won't go outside. Um, Ascendance [ __ ]
+
+[108:25] >> freaking McInness. I see. Anyway, sorry. Log in. Um, all right. Is this send it? Yeah, send it. Log in. >> Charge. Yeah, it's fine. >> Yeah. I mean, you're lucky you got away with that. Def. Okay. I just You shouldn't ego melee people in their face. It just ain't it, man.
+
+[108:55] >> Ego. Yeah, ego heavy melee people. Sorry. Eagle heavy mailing people in their face. I should say, man, I love this [ __ ] patch. Like there's nothing to say. You were shooting them and like we're pre-3 minutes. So, good job. >> The act Well, okay, but to be fair, it's like at in like upper upper E6. There's a certain point I don't I don't know this this mentality supply to Valon a
+
+[109:25] lot. I don't know how to compare it in this game, but basically you'll start intentionally making an incorrect play. Like for example, if you're playing uh like attack shooter, the correct play would be to rotate or to fake and you'll start you get to a point where you're really high elo. So you start intentionally making the incorrect play. So that way you to break out the enemies. Like I if you're just heavy meleing someone in their face at that level, they're probably going to expect that it's going to be a fake melee and you would be insane enough
+
+[109:55] just to first time heavy melee them in their face. If that makes sense. Okay, >> you do have to harass shot. I guess reser shot's fine. Yeah, I was going to say extra regen, but yeah, I think it's just a little more easily defensive, especially when you're into Rem, who has a really small hitbox and is also
+
+[110:27] very slippery and has a lot of eye frames. What build is this? I don't know. What build is this? I recommend D's build and who else's. I don't remember who else is. I honestly don't know shib the starting
+
+[110:58] meta right now. I haven't I haven't analyzed shift since the green meta. Damn mind. Probably again ships. I just have so many heroes on the analysis list. Feels bad. Oh, I love when they miss their melee and we get punished for it. You do resto an extra regen then charge. I see. Yeah, that does make sense.
+
+[111:31] >> You have two knives in REM. I would not really listen to Calico. A third knife is so much extra damage if you can hit it. Uh, let's see. >> Probably. I mean, it depends what you need, but probably not. I got Yeah, I'm not really like a I've never done anything like that and I'm not uh
+
+[112:03] good at that type of stuff. And I also don't really have any time is free. I mean, I like you're trying to do a lot of right quick movement. It does feel
+
+[112:33] really bad we're missing it. >> Oh my god, this dog. Oh my god. If he works one more time, I have to go yell at him.
+
+[113:06] >> Yeah, I push the neutral wave before you go boxer out. Feels bad we're not pushing the neutral wave. Oh, that's what I should say. >> Oh, that makes sense. Wait, let me add a to-do note to change something. Um, to-do notes. To-do.
+
+[113:39] Wait, no. What am I typing? Oh, yeah. Um, >> okay. >> I have a lot of stuff on my to-do list. I kind of got to I keep forgetting to do that or do what I'm sorry, I'm not trying to say what it doesn't matter. Log in.
+
+[114:09] >> Anytime. Billy's missing. I see Billy expected. Um I mean you kind of know she was coming above you and you could have darted in. That being said, it is better for I mean it's like hey she does do a
+
+[114:39] lot of work with wave brow. It's I would just be ready for the potential that she could walk up and try to play around cover. Yeah. Who is Wait, whose build is this? You're right. I've seen this build a lot. It's not together cuz together goes double best, right? Oh my god. Why is he so annoying, man? I don't understand.
+
+[115:14] I really like I love my dog, but I really regret getting like a shepherd dog. I have to eat all them. God damn it. All
+
+[115:49] right, I'm back. Why am I muted in Discord? Whatever. It doesn't matter. They're going to need to get your map on. Why does it keep switching? Oh, I had to restart the game multiple times as it crashed. Okay, that makes sense.
+
+[116:20] So, I lock back in. No, no. Yeah, I'm saying this isn't together cuz he goes double bloom. I mean, yeah, I guess he probably also was like extra charge first, but that's just how I identify his build. Other one I recommend is dues, right? I think has to be. This movement feels really bad, but it's all good. Okay, this is really bad, but it's all good.
+
+[116:56] >> Okay. I mean, I like these security centers. It feels really bad to give that guardian cuz you guys really aren't down by that much. Was your I guess your Yeah, I mean it's I guess I don't hate you giving that. Your Calico roamed your tower was like 10% not 10% was like 30% HP so you just made the call you couldn't defend it. I guess I don't hate that, but it does feel really bad.
+
+[117:46] Oh, >> I got really tired. Um, is this your I mean, obviously you get gang. Sorry, I know I'm like very retrospect reviewing today. I got to walk in. I mean, I don't like the engage. There's no reason to force an engage under their tower. You've also secured all your cers on this side of maps. There really isn't any pressure on you. There's no reason to have to here be pushing here. You also had a minor bag. It's better if you just kind of be chilling. You've secured everything important around this guardian.
+
+[118:19] >> We shouldn't just be running down mid cuz it was our lane when we spawned. >> I'll have to look at shamans. I have not I I've not looked at that build. If you remind me after, I'll give it a look. >> Wait. I don't think this is together's build. >> Are you try I I can't tell. You should be trying to right click wall bounce. I can't tell if you're trying to and just not hitting it, which is good and will
+
+[118:49] come with time, or if you're not trying to >> Oh, I see. I see. >> I mean, >> you should get another tier one spirit item and then you get spirit spike. Then
+
+[119:19] you go to enchanters, get green spike. That'd be fine. >> That was a good spike pop up. Headed to yellow. >> Okay. >> If I'm out here by myself, I need to stay alert.
+
+[119:50] >> I mean, I like Do I You know what? I like Suppressor. Yeah, you're going to mass apply with Torment Pulse later. I like it. Singularity. >> All right. >> Protect the earn runner.
+
+[120:30] Yeah, I don't like pushing this walker. Sorry, I just spaced out. I really don't like pushing this walker. You know, your team is running earn, so you know it's going to pull the bulk of the enemy team to the right side of map. So, you should always just get collapsed on for trying to force this walker and you should die for it. You're actually really lucky they take so long to collapse that it's only Mina. I like the movement. Yeah, I think the movement. Okay, the last part was a little rough, but I like how you moved around stairs. Doing the wall bounce over the stairs is great.
+
+[121:10] >> Good kill. >> Should be dashing here. a lot of lost damage by not dashing them while they were in the dynamle I think would be your most efficient way to deal damage.
+
+[121:59] I see haze. Now I AFK farm lane until I'm bored and ins. But turns out ining was a good play. I see. I mean that is kind of the meta. We love this meta. >> Singularity.
+
+[122:33] >> Oh, it's a [ __ ] shadow. Damn. I just scared the [ __ ] out of >> me. Singularity on >> York. >> I see the enemy. >> Pulse. Yeah, I actually don't hate the
+
+[123:03] way you bought these items. I mean, again, I do agree that a double regenerative start would have been better instead of extra charge, but considering you're buying the build out of order. Like, I don't hate the way you've been buying it. You've still been grabbing your spikes. Okay, that I don't know, man. I mean, I guess you're just falling into the Burger Box meta, but but people don't one v one you and MOBAs. It is not like he would get [ __ ] if he one v one you just trying to apply mental damage. Got to be
+
+[123:33] careful. >> Wait, I swear he buys Stormmit. I watched someone else's build and he buys Torment. Cuz that's why you're buying suppressor cuz you mass apply it with Torment. >> Hey Wolf, how's it going? >> Mr. Yeah, but it's not I mean it's single target.
+
+[124:11] I don't like this engage again. Yes, as we just talked about, you obviously win the one v one with the Billy, but you don't have any information on an enemy and you know your weak side. You have five teammates on this side of map. You could so easily have backup and they would roll you, which he's running away, so he probably doesn't, but if anyone's nearby and they fold on you, you're just going to evaporate. is under attack. >> Yeah, but like I mean I don't think you'd buy suppressor if you weren't planning on buying to pulse. Like could be incorrect on that, but I don't think I am. A lot of it value you're getting
+
+[124:43] is from the ability to apply it at AoE. And even on cams, reducing their fire rate saves you a lot of HP. Why Victor was going suppressor back in the day way way back when he came out. Oh yeah, I forgot about that. >> Yeah, I mean again this is just I guess your teammates are actually here. The issue is your teammates are nowhere nearby which feels bad. Insane you
+
+[125:13] managed to kill both of them. That's a shiv moment. I am glad you will ultimately die for it. Um that being said >> yeah I mean again like I don't know again I can tell you're just bored and kind of running at him here. Let me get some notes. Don't just run down a lane. That was a big issue twice. And then what happened in between? What happened recently? What do you mean it was an intentional
+
+[125:43] hit? You should have just died. Why are you playing so Oh, you don't Okay, cuz you're dead one. >> Yeah, you want to fall off this fight. That's fine. Yeah, you guys should not be engaging. I like that you're just like, "Okay, we can't fight her and let's give it." Um, I don't like You should have saved that last night for the viscous. It would have killed him. Um, I don't like that you then engage after. It's insane. You win.
+
+[126:16] You're just kind of shivering them. Yeah, but the issue is the thing they were doing on the map was running earn to your side of map. Wait, no, it wasn't on the other side of map. Actually, I swear it was on your side. No, wait. No, it would have had to been on the other side of map. Okay, I guess it was on the opposite. If you did it when they were cashing her, that's fine. But you have to wait till they start cashing in for you to do it. Yeah, you're right. You're right. You're right.
+
+[126:48] I don't know. I I it like I don't know. Sorry, 90th tangent about sleep annoying me, but it pissed me off so much. I have to get so much sleep to feel rested. >> Um I mean I don't know. But like you said, you're just getting bored and in like just there's not much to say. You shouldn't like that cuz you're bored.
+
+[127:20] But like you know you're in thing. You're just kind of doing it because you're bored. >> Um your waves are pretty bad. I don't really like I guess your seven can pick up mid or he can just farm. We're calling mid boss. You have dynam. Yeah, with a billy pick, I don't mind it. Your viper fix is mid. Yeah, I like the mid boss. Okay, I give you general ship advice.
+
+[127:53] Um, I mean, you looks like you're playing him fine, though. I guess like micro wide, they just got to make sure you're weaving in right clicks. Your movement is also like if you want general shiv advice, practice shiv movement cuz that would do wonders for you. Shiv move. movements. Oh god.
+
+[128:35] I mean, >> yeah, I [ __ ] hate this meta, man. Side stop. See if they send me as two maxed. Yeah, maybe I should go on a Billy arc next. I'm kind of feeling like I want to get back into playing the game. Let my get get away from the obscurest. But like I I don't care I want to play cuz
+
+[129:06] supports you just don't want to play this meta. I only play supports >> I do another pocket arc. Yeah, I mean this is a good fight while you guys have rages. As far as general ship advice, I'm noticing you're not waving and right clicks. Like you should pretty much always right click before you dash.
+
+[129:38] Yeah, this does really just feel like a game where you're bored. Um, right click before you dash slash use abilities. Oh my god, this dog. >> Maybe Shades. Maybe it's a shiv arc. I
+
+[130:08] just really don't want to do the effort it will take to learn ship movement, but he is does fit the burger box meta. Is it worth to concede a guardian on another lane with no one there if you're committing to an earn? It's worth to trade a guardian for earn. Yeah, that's what you mean. Yeah. I mean, again, we just kind of get bored. You obviously shouldn't just be running a base guardians with no re especially when your team's running. You
+
+[130:38] kind of sold the earn there, which feels really bad for your team. Yeah, that gets them back in this game. If you didn't do that, you guys just played for earn. You've won the game at this point. I feel like I don't know. Dynamo is also a hero I like so much, but I just like can't I don't know. I I've played so many games of Dynamo. I just can't. Yeah. I mean, your right click movement. Do you know she right click movement that well
+
+[131:20] is under attack. Um, okay. >> Yellow. >> I mean, I like this call if you're D. Well, did you die? We died most far. I like this call if you died to my listens. At this point, you're kind of forcing though when you're looking on the wave.
+
+[131:51] I liked it. At this point, you're kind of forcing to play way too aggressively into their jungle. >> Also, shooting solo Q, you should kind of just be sidelining. >> Maybe it's an M1 arc. >> Yeah, that's what diamond it is. But I just want to learn to aim. Yeah, I mean Dynamo just keeps saving us with these great alults, but like this is feeling really bad
+
+[132:27] for minutes. Oh, okay. I I don't I need to find a resource that explains it well since I can't explain it that well. The LDR is right click and then wall bounce for super wall bounces. And then you want to like right when you're just right clicking to move around, you want to right click at a 90 degree angle and then like shift back to the direction you want to go into. So you're kind of like air strafing on the ground is the best way I can put it.
+
+[133:00] for you storm cloud. >> Okay. I didn't know shaman made cont. I'll have to check him out after this. It would be great to have a shiv one trick in the >> like know a good shiv one trick to recommend to people to watch. >> Yeah, I mean it would have been great if you Okay, I got that's good. You obviously don't run while Calico's dead, but you should just be playing to
+
+[133:30] deny it. >> Singularity on. Okay. If you guys baited earned the back door,
+
+[134:01] I would actually like that a lot. I ended one of my games like that recently when I was playing with Wolf. I just baited come back earn and then I was ram and I told my entire team to just go run down mid and end the game and we won. >> Yeah. I mean Yeah. You're just bored.
+
+[134:46] Got patron curse candles. Cancel scorge. I see. Good game. >> Well, I guess your team just wins it for you. Uh, I mean, again, yeah, notes are pretty short cuz it's kind of game where you ran it down, but Well, okay. Don't just run down one lane for no reason. That happened in mid lane where you just ran at the guardian when there was no real reason. I like that you secured your farm before you lost
+
+[135:16] your guardian, but you shouldn't. There's just no reason to run down the lane. Um, and then we'd also do that in Walker. Practice shift movement. Apparently, Leaf and Shaman both have a video on it. Right click before, right, make sure you're right clicking before you dash, especially, but in general, just right click before use abilities. Right click, dash, right? Then right click, knife, that type of thing. Emotional damage of the end. I mean, still, it's just a good way to sell, but also just play for our objectives or play for urns. Play for urns. You know, playing for urns really hurt you. Um,
+
+[135:58] Let's see. Yeah, I mean again, as far as general ship mechanics, I would just make sure you're right clicking more. Right click in between abilities and watch a video to learn how to right click better for movement. Yeah, shiv, it's much better much much better to be the one in the fight cuz you just do if you get rage, you just [ __ ] go infinite in those fights. It's so disgusting. Yeah. And also the farm is better on your carry. All right, another raffle.
+
+[136:29] Damn hear my response [ __ ] I don't know if he did. I'll respond to him after stream, I guess. Where is midbot? There it is. Um, I don't know. I What I used to do on Shib was just aim below him. I mean, I guess I guess to be fair, I'm talking closer, but I would right click knife
+
+[136:59] all the time. But I guess to be fair, I would just be closer. I mean, if you are really far, it is better to like left click, knife, right click. Yeah. Also analyzing uh someone like D. I think D is the one I'd recommend the most for Shiv. I think Demob also plays some shift, right? What am I doing? Oh, yeah. Shaman. Let me check out that build. Is that how you spell it? That's not how
+
+[137:29] you spell it. How do you spell how do you spell? Uh, thank you for the follow. Welcome. Welcome. Is it not called Shaman? I know I misspelled the first time, but it's Shaman.
+
+[138:05] Um, shiv is much better on strong side lane, but sidelining and solo Q is just OP in general. Oh, it's a s queen one. Oh, it does literally say shaman. I'm just blind. This feels insane. I mean, I guess mystic shot for rage. Yeah, look at Dude's I have D's favorite.
+
+[138:39] He's doing resto now. I would not I don't actually recommend that to a lot of solo Q players. And then why am I [ __ ] blinking? Who else is there? Um together. He still play shift. No, he does not. All right. Anyway, let me get a new raffle up.
+
+[139:17] Lords really no extra charge feels bad. Is he? Oh, it's a dash build. I see. Interesting.
+
+[139:47] I guess this is just a top build. Dude took out Radian, did he? I mean, I'm kind of No, I saw here. Yeah, I guess to pull later. I was right. Both are shot numbers. 50 healing from heroes every six seconds, right? Yeah. Uh 50x0.6.
+
+[140:23] So it's What am I trying to No. Wait, what? 50* 6 300 and then divided by 60. They're probably off off cooldown on a hero. It's five healing per second. I see. Compared to four. Yeah. I mean, expiration is kind of better now. I guess the infight healing can be more valuable though. I've definitely seen resto save people's lives. Uh yeah, the Well, I'm not It should be. I'm not sure. The bot is hardcoded to
+
+[140:54] accept or not accept matches. Oh yeah, I should move my hand. Just the easiest one is just right click wall bounce. I mean, I'll probably [ __ ] it up. No, never mind cuz I haven't played shift in a while. But just practicing this. Yeah, shift's kind of in a weird spot. I don't know. Shift just is such a [ __ ]
+
+[141:24] hero, man. Shift right click movement just does so much for no reason. I should do a whole ship movement arc. Holy [ __ ] You can see I need it. Maybe that's what I'll do. A ship arc could be fun. Especially a ship movement arc. I had a shiver way back in the day, but I never really got into the right click movement more than wall bounces,
+
+[141:55] which again, you can see very rusty with Thursday. And I'm not feeling it today like like the stream. So, I'm not feeling like the ghost of class today, but I just want to [ __ ] grind Deadlock. I have not felt this urge in so long. It's the one day I actually want to play the game.
+
+[142:32] Drink water. Oh, yeah. True. W gums hands are God. I gota I don't know. Every like once every two months or 3 months I get this quest to just like grind a hero until I get like a plus 60% win rate on them and then quit the game.
+
+[143:04] I do it literally every one of these heroes. The arc ended when I got an above 60% win rate. I don't know why. I just I get good at a hero and then I drop him. And I it just it I just I like I can't tell you what part of me just needs to like get a good win rate on a hero and then just forget playing him about playing him. Except Dorman. I think Dorman win rate is extremely negative, right? I was actually P. Wait, what? I brought Dorman back. I [ __ ] this hero over on release. I had like in my first 50 games of Dorman, I think I
+
+[143:35] won 15. That's actually insane. I brought his win right back. I was so bad at this hero on release. Maybe I just got to play kidnap man smile. It's funny cuz my Mirage commands are so bad cuz I played it mostly before commands happens or were out in the game. So it looks like I'm just such a [ __ ] toxic piece of [ __ ] when I played Mirage. It's like 104 commands. I dorm got 100 and furnace 29 B. My B. My god, that's an awful win
+
+[144:05] rate. Am I that bad at BB bop in your elo decay? Uh I don't know. I'm not going to know. We'll never know. I literally just play Street Roll nowadays. It's It's uh It's fun. I mean, again, when the game was a major patch, I'll get back into it, but just like, you know, there's always this piece of me that's like I need to hit E6 again. I got to like get that validation cuz like
+
+[144:36] you know again I was like that time I scared out I think I was E3. No, I think I know I was E3. I don't know what I'm saying. I think I was at E3 and it's like there was there's always this piece me like well I got to hit E6 again to like get the validation cuz like you know top 300 wasn't enough. I got to be like and a pro coach wasn't enough. I got to be like top [ __ ] 50 or whatever. So there's also just also by the way the pe the content creators in this game are also just like ins insanely impressive in their rank. Like as a content creator saying my peak was top two well top I'm 80% sure it was top 200. I say top 300 just to be safe. Um
+
+[145:06] but top 300 like that's that's bad in the content creator scene which is so [ __ ] insane by the way. Like every I don't know every big content creat like oh yeah I was rank one back in the day. I don't know what's happening. Am I in Viscus? I've been thinking of getting back on the viscous again. I've just been feeling like playing the game for the first time ever. >> Not Well, yeah. I mean, there's always
+
+[145:37] exceptions. I mean, I can't I I can't flame. I just don't get into it anyway. Um Oh, man. Hello. Did I spell lane wrong or is it not called lmain? Did I run ads? Who gives a [ __ ] Um, well, I give a [ __ ] cuz I don't have pro pre- rolls. Uh, thank you.
+
+[146:10] Is this No [ __ ] chance. It's just some guy copying a build, bro. I hate people who do this. Is this real? Where's real lane? Wait, Wraith has a lane build. I haven't seen I know Wraith still plays the game. I haven't seen run in forever. This was an OG viscous one trick. I think he was E6 too. Anyway, let me get let me I think raffle's over, right? Oracle Victor to end us off.
+
+[146:45] Yeah, he does not I don't know. I was like I his builds are good. I honestly respect that. I really like Lain style. He doesn't just throw builds out like a [ __ ] shotgun spread to be at the top to get clicks. He instead um what's the word I'm looking for? He instead just the characters he plays he has good build for. Like I respect that a lot more. Again, no no flame anyone who does just throw builds out cuz like some people like Oasis just make [ __ ] goated builds for everyone so it's fine.
+
+[147:16] But there's a lot of pros who just kind of have a build for everyone and like only like attend like two of their builds and like that feels bad. I kind of used to do that and I was like nah let's just like have one and like tend to whatever character I'm playing and then holiday. I'm kind of thinking of letting the holiday build die. On the one hand I like having a top build. On the other hand, I kind of just want to let it die so I don't have to stop like maintaining it. I'm not sure. >> But this is your chance to keep safe.
+
+[147:49] >> Uh oh, it's a Victor. Oh [ __ ] it's like the only other Victor main in my community besides Zach. What the [ __ ] Flash marker. Oracle. Victor. Off we go. Off we go. Oracle Victor. All right, log in. Okay, W lock in. Immediate game. Pause. I'm not tapped in to speed it up. W I also maybe I should start doing what Shyro does where I just queue on random
+
+[148:20] >> far cuz I think that really adds to his coaching the fact that he can literally just play everyone. Also, yeah, I don't we you should not be trying to die at minute one. I guess you're trying to do this cuz the infernace is DCD but still you're just going to take 5,000 damage going for this. Okay, let's start Victor if I like wall breaking. I know I'm a bit late with this.
+
+[148:51] So like I honestly also played wall breaker victor late and it's not that good anymore, but it's really fun. So do with that as you will. If you want to rank up and your only goal is ranking up, do not play wall breaker Victor. If you want to have fun and your only goal is to play having fun, then I just like I also like thinking right now like I kind of want to like I kind of play Victor too, but like I just want like slow piece this [ __ ]
+
+[149:27] >> I assume the Infernace comes back or is he actually just gone all game? I mean, yeah. Again, this is like a unique situation cuz it's cuz they have a DC. Oh, he does come back because it's because they have a DC, but you still are playing too aggressively in Egoing M. Oh, we're doing the gun, Victor. I used to not be a big believer in this and then I played against it in solo Q and now I think it is one of the most disgustingly [ __ ] strong things I've ever [ __ ] played against. I hate it so much. Oh my god, you do so much damage with that stupid ass gun in
+
+[149:57] opening rounds. Thank god they haven't nerfed the opening rounds, by the way. >> Jaxi gets I hope Jax gets back into the game. Anyway, [ __ ] sorry. I just want to like He's been playing so much Destiny, but I've been like I want to [ __ ] I don't know get back on the content.
+
+[150:27] Anyway, sorry. I'm like completely distracted. >> Early going to spear later. I see. I mean, I do think opening rounds is disgustingly strong with Zero. Your aim is leaving a little bit to be desired. Yeah. I mean, I honestly think that Shiv could should have died if you had hit him more, but we're just tracking really far behind them. Yeah. I mean, I like dashing into him for the melee. If you gotten your oneoff, also he would have died, which feels bad. But you're one HP. It doesn't matter if you get parried. You just look for melees. Good.
+
+[150:59] >> We did just click to level, which you should not do. Hey, >> you should not be just dropping the wave to your tower. That feels really bad. Just a lot of tower damage you don't
+
+[151:29] need to take. I mean, I like that you're farming your tier one, but you should just clean up the minions first and then farm your tier one. That's I mean it's fine to send a loss nor like if you're normally winning also it means you don't really need coaching on the games you're winning, right? Or you need to be CL like going to a rank that will challenge you. So if you're
+
+[151:59] losing it means that game challenged you, right? Or at least if you're having a bad game, it means that game challenged you. So it's to look at specifically why it's just slow play. Like it's not much is happening, but this is fine. Just slow playing, I guess, is what I'm trying to say. >> I see.
+
+[152:42] I see the enemy. >> Sorry. I'm just like I'm like I don't know if I'm like I'm like kind of locked in but also kind of not. Um I love Victor versus Shiv match. two characters who just need to exist nearby to bring value. Yeah, it is kind of funny when
+
+[153:12] two tanks fight each other and they will just like stand on top of each other and it's just wrecked. Also, you I mean your wraith is positioning too aggressively. Yeah, that's kind of just your wraith in thing. Yeah, you have so you're just going to trade ult for him. That's good. Should die on top of Infernace to try to get the stun. >> Already pretty dead to rights. Might as well. Well, I mean, you get the stun, you can potentially kill him, so might as well try to get it. That dash slow and just movement slow on your old is [ __ ] up, man.
+
+[153:45] What is the percent actually? I'm trying to look. 120 decaying. Yeah, it's not a dash low. Oh, no. It's a dash off your three, which you still [ __ ] last for like 10 years. >> Thank you. >> Is that I don't really like I mean, I guess you just didn't. Yeah. No, that's fine. And from your individual part, your Wraith initiated the trade. You follow their slashbacked her up. That's fine. >> Opening rounds is coming out. I mean, I
+
+[154:15] like opening rounds. It's pretty late though. I would have liked this sooner again. It feels [ __ ] up as like a first or second item. Opening rounds is just so disgustingly strong. Yeah, it is pink today. Okay. Can I just have like this? I don't know. Okay. Anyway, sorry. Walking pumpkin.
+
+[154:58] >> I ran out of purples. I mean, yeah, your goal at this point in the game I I just wish you would have done more outside a lane. Like none of the fights that were initiated were your initiation, even though I didn't love them. Your R just played too aggressively. Yeah, I'm glad you're going to screw your own farm. I was going to say your goal at this point in the game is just to take your centers
+
+[155:28] off wine. see the enemy. >> Obviously, eating the permanent buffs is also huge. >> Yeah, I mean this just also lers also feels bad because your wraith is just going to run it down. I'm glad you don't run at him there because you definitely would have died. probably wouldn't trade
+
+[156:00] assess is nearby which yeah he is also like looking for the hyperline although it's unlikely you shouldn't be reping the infernace while you're burning. You honestly should have died there. I think I'm trying to find like the mechanical issue.
+
+[156:42] >> Yeah, I might have to like what triggered exactly? I heard sh I might have to remove some of these shyro rocks. Yeah. I mean, again, like it just feels bad cuz your Wraith is you're just kind of dying for your Wraith's mistakes, but you also aren't really respecting how behind Well, not even behind, you're falling, just how like the HP deficit that is being constantly maintained by this Wraith dying. And yeah, I mean, no. We're just not respecting that we're low. You also
+
+[157:13] should be trying to focus heal creep here. And if you're fighting a situation where the shiv dives you, you need to play the sign or some form of cover so you can isolate a one v one with the shiv. >> I'll do whatever it takes.
+
+[157:50] I think your I mean your aim is really hurting you >> cuz you're losing so much sustained damage by not being able or by not connecting enough shots. Let's see what is your gun DPS right now. Yeah, I mean it's 118 which just feels so bad to lose. >> I'll be right back. Impulse rush. Oh, also a big issue there is you're fighting while sitting on a spike. Don't fight well on spikes. Don't click to level um respects when you are low. Oh god.
+
+[158:27] Also don't really like you coming back to this side lane. You should just give it to your wraith. This is the type of comp where like you just give yam this left side lane. You get right the right side and you try to play around mid and you just try to play position three. >> That feels bad.
+
+[159:00] >> Why did he just Okay, good kill. that for a while. >> Uh I mean Yamato could brawl aggressively, but a solo Q Yam is I mean Victor's just in a position where he's generally played position three right now. It's just in some comps you can play in position two. In so some solo Q comps you can play him in position like two or two. >> Right now he's really just more like true front line more than anything else.
+
+[159:34] My eye is bothering me so much today.
+
+[160:04] I mean, it kind of depends. Like, you can play Victor at a higher position in solo Q and you can like comp player very high level. You should just go on this Ivy, by the way. Um, also, you need to turn off your three right now. That being said, I my recommendation is just play based on your comp that you coin flip in or the comp that you coin flip in solo Q. But yeah, I mean, you're also just constantly splitting this wave with your teammate, which feels bad. Like, side lane needs to be given to Wraith. You kind of just stole it from her.
+
+[160:47] >> I can survive. Let's take out the door, man. >> Unfortunately, we lose the sinners, >> but not much you can do. I don't know why your team is for mid again.
+
+[161:17] Obviously, ideal is playing Baron. I've gotten to the point where I kind of just stop mentioning it cuz so many teams don't, but I need to like still mention it 12 minutes. It's still like really bad that you guys aren't running Ern and aren't playing for Earn, especially as a Victor who's now has like Ern is just so OP and the reason Victor is in a decent spot right now is just cuz of how burger boxy you can be on. >> Yeah, we're lucky they're running it. I You should leave this side lane to Wraith and you should go to the earn fight. You are so impactful in fight,
+
+[161:48] which it looks like you're doing, which is good. Hopefully Wraith actually pushes. >> Yeah, kidnap man is a useful build. Smile. >> You're taking a lot of damage yourself cuz you feel kind of lost. Also, you're trying to focus the shiv, which you should be focusing the
+
+[162:19] back line more than the fronts. I don't really like this doorman or old route. Again, I have a shore on the route I prefer, which exclamation point doorman if you want to see it. Or you could just jellyfish, which a lot of people like as well. If you use your three, you probably kill the door man. Um, this does feel a little bad though. At this point, you're just kind of dying. Yeah. Like when you're that low with Victor, I don't mind you staying in
+
+[162:49] this fight, but you got to play cover and you got to look for isolated one v ones. If you just run at the enemies, they're always going to kill you. I would just make like try to use cover more to isolate one v1. I put that as a note. Use cover more to try to find isolated one v1's. They can hurt me, but I'll hurt them right back.
+
+[163:20] >> Every one of them will die. >> Pull back. >> I'm not afraid to die. Are you? under attack. >> Hate watching people play against kidnapped doormans. Um, what can you do
+
+[163:51] as a victor against kidnapped doorman? It's kind of hard cuz this counters to support or to kidnap Dorman are kind of on your support. Obviously, counter spell is good as like a selfish counter, but I mean, he's not really doing [ __ ] so it doesn't really matter. again. Erns, come. I mean, yeah, I have to. No, I don't. I have to play for Ern's notes. I feel like I'm writing this down so much. You guys got to be playing for it. So will be.
+
+[164:21] My bats will run them down. >> I'm excited. Yeah. But like even when they go cheat death, they still are just like bad, so it
+
+[164:51] doesn't really matter. They just don't do anything if you just buy like a silence wave or a knockdown. It's actually crazy. Knockdown's hard to time though. I'm missing that one. Feels so bad. Also, you're really not using your ults. You're max I mean obviously cool is like really good but you're not using >> I mean you're not I don't think you've stunned a single person on your you have to be dying on top of people.
+
+[165:24] >> Um I'm going to have a video on limit testing being good from forever ago. I just don't really like coach around limit testing cuz like at the point where you're asking for coaching or you are bringing a hero to be reviewed, you should be past the limit testing stage on a hero. Um, they purely care if the cheat they cause. I don't think they care. I mean, it's literally just like they're tilt they call. So, they're just like down a player, man. I don't know. I've never seen a kidnapped Dorman do anything in a
+
+[165:54] lobby. Yeah. I mean, he just is like I mean, he's literally [ __ ] laring right now. Like, I'm pretty sure he got his first successful kidnap of the game 20 minutes in and now he's like making up a story about how Sinclair's crying. Like, I just I don't know, man. These people are creatures. Are >> we using clear >> ship >> base and clear?
+
+[166:27] >> Yeah, I don't really like you being the one strong side. The solar wave should really be on um wraith or sorry weak side should really be on wraith and not on you and you can take strong side s side s side s side s side s side s side s side s side s side s sideel lane and it's fine solo cube but weak side should definitely be going to wraith and this is so aggressive all your teammates are very defensively positioned on the other side of the map
+
+[167:10] Yeah. I mean, one thing also against this is kind of like this is this is Oracle. Wait, is this Oracle? I sw this Ascendant. Anyway, I just I guess I'm just mixing up my reviews. Um, >> like one thing mid-level or like in like lower level people don't do against Shiv is if he hits you with a dash and he has full rage, you can just dash outside of the second tick of the dash. Like you can just leave the second tick of the dash and it will feel a lot better. You won't be getting mogged. >> I see.
+
+[168:01] Oh, that feels bad. Again, that's why, well, one of the reason, one of the many reasons I really don't like this route. You can still make your way back to the door. It's honestly what I would do. I mean, trying to fight indoors is a good decision, but after walker storms, you can just I would just run back through the walker to get back in the store cuz he can't close every 10 seconds now, right? So, it's you kind of just like leave. Um,
+
+[168:32] >> also, if you really a problem, you can go counter spellated. Well, if I might I should be on tonight after my class. We'll see. What do you specifically mean loft?
+
+[169:05] Good luck. >> Yeah. Yeah. But go to Wait, go to academy. Oh, should Oh, thank you, Wolf. Uh, I have a ghost class tonight. Yeah. Like I mean, it's mostly VA. I normally do V. Sometimes I do classes. Normally I just do more BS. Kind of depends on what the vibe is. But
+
+[169:36] I think it's just BS for today cuz you know nothing new has happened for a while. >> Also because my class is on Thursdays though they really love to release patches around when my class is so it, you know, tends to work out. Sorry, let me rewind this infuser rush. What build is this? Those raw dogers. Sego infuser rush. That's like the only popular spirit one right now, right?
+
+[170:13] I probably Oh yeah, you are one max next. I don't want to say two max second has gotten a release. So maybe Wait, what do you mean? I do think the patch will come like next month. Maybe end of this. No, no, actually this month's pretty over, but next month. Yeah, sorry. I rebounded and then just didn't look at the micro the fight. Never use a raw build. I learned that lesson. Yeah, I've heard I don't know. I I don't know. Again, I can't
+
+[170:43] specifically speak on the strength of this build. I just prefer a cycle spirit on Victor. I haven't really looked that much into Raw Dogggers. Oh, Dota got an update. I see. I mean, I doubt if like the teams are split. Yeah. I mean, the issue is you're just engaging before your entire team. You just lose your first life for no reason before your teammates are even in position to help you. just feels really bad.
+
+[171:15] >> Yeah. >> I just have to coordinate the engage. which again it's kind of hard on solo Q but using your mic is OPED
+
+[172:16] You guys shouldn't be fighting outside of your base right now. Again, this is kind of a another classic mistake where I Oh, I actually I thought she missed the stone form. Um, fighting in base and especially in these choke points, fighting around tight is just way better for your fights than just running and fighting them outside of it for no reason. Oh my god.
+
+[172:49] I mean, yeah, at that point you're just taking a hell of merry cuz your patron's knocked is what it is. I'm noticing your three usage isn't great, though. You constantly have it up when you're taking a lot of damage to yourself. Um, as far as the notes, don't fight when you're sitting on a spike or about to buy a spike. Don't click to level. Respect when you're low. Don't fight the enemies when you're low. Don't re-engaging when you're low. Try to isolate fights using cover. Take isolated 1 v ones. You need to be playing for earns and playing for more and trying to run the earn. Especially especially especially when it is come back and I think those are the biggest
+
+[173:20] notes. All right.
+
+[173:52] Okay. Let me find someone to raid actually. Well, no. Yeah, let me find something to raid. Be something that wants to analyze. I should analyze actually. I should just raid. Yeah, I'm riding big dream. Um,
+
+[174:26] it's have a ghosted glass tonight. It's better for me just to take a second off, play some norms, cuz for some reason I want to play the game, which is so rare, and then just relax. Anyway, hope you guys enjoyed. Uh, have a good one, everyone. I'll be back tomorrow with four free coaching sessions. Uh, YouTube upload tomorrow. And yeah, have a good one. Uh, keep it real. All right, as always watchers, peace.

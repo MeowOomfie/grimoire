@@ -1,0 +1,706 @@
+# Free Deadlock Coaching | 6/10/26
+# channel: Midknight Vods
+# date: 2026-06-11
+# url: https://www.youtube.com/watch?v=qomVim1qd4g
+
+[0:00] Yo, how's it going vod watchers? You guys know the drill time stamps in the description for free coaching sessions hanging out having a good time probably no analysis today. I am very tired. We should get back to that next week. I also just realized I have to make the game doesn't or not the game um Discord doesn't recognize Dead Lock. I forgot about that and since I've gone to the new OS I need to make it recognize Dead Lock and I forgot how.
+
+[0:30] How? Registered games? There we go. No game detected. Yes, that would be the issue. Add it. Dead Lock. Add game. Okay, perfect. I'll put Dead Lock and then we just go back to streamer mode which surely is easy. What How do you go back to streamer mode? I've never understood without restarting. Um the whole OBS and there we go streamer mode.
+
+[1:02] Why is there no on button? What you can edit streamer mode? What the [ __ ] I've complained about this for so long. Wait, but I literally can't turn it on. What? Why is there no on button? Also, where is everyone? Why is there no
+
+[1:32] on button? What the [ __ ] I've never Oh, I turned on my filters a bit. Hopefully I sound fine. My mic looks like it's tweaking really hard and I don't think I sound fine, but we'll troubleshoot while we're here. Wait, what the [ __ ] Um
+
+[2:03] >> So, can I just not turn it on without restart it? Wait. This is stupid as [ __ ] User settings, scroll down to app selection. Wait, what?
+
+[2:34] User settings at the bottom Yeah, scroll down to the app settings section. Wait, this literally isn't a thing. I am going actually insane. I literally There's an official Discord post.
+
+[3:06] And this is I just don't have that button. Did they remove the button? Yeah, it's in app settings. I just don't even have an app settings section. What the [ __ ] man? I hate Discord so much. Why the [ __ ] does this piece of [ __ ] have to have a monopoly? Wait, it's literally just not a button I have. Okay, it's under key binds, language, window settings.
+
+[3:37] Also just not things I have. I have to have key binds. I'm just missing a whole section. I don't know. They They moved that to system. I mean they just moved everything. What if I search [ __ ] streamer mode? There's no turn on streamer mode button. I guess I could restart Discord maybe. I'm looking at this wrong. Um alt F4.
+
+[4:07] Also, let me get Here we are are we actually no one's here? What the [ __ ] The bot Oh, the bot didn't ping, did it? Cuz I uploaded a bot at the same time. Yep, the bot didn't ping. Ah, at notifications. I had surprisingly how many people come off the Discord thing. Um I hate this bot, but I'm live. twitch.tv/midnights
+
+[4:39] Uh Let's test. It literally didn't link. Oh, I got that wrong. Also, I must type hate. I just need to move the Twitch pings to a different bot that actually [ __ ] functions. Um Yeah, I will fix that. There we go.
+
+[5:10] How do I sound also? I feel like do I sound fine? Do I sound better? I apparently already had a compressor enabled. I just made it more compressy. Okay. Oh, wait. Should I forgot? Does this actually work as intended now? Oh, it does.
+
+[5:40] Is that the minimum match ID? If I just go to a random game. Oh, it is. Oh, huge. Actually huge. That function works as intended. Okay, so I found like an extremely jerry-rigged way for myself to or to for us to do like match ID selection / uh sorting by with the dates. I don't know if it's on my end or I I like I feel like it's on stat lockers, but I also feel like I must be doing
+
+[6:10] something wrong with match ID with the actual uh like timestamps it gives. Also, it could just be on stat blocks, so I wouldn't put it past them. Okay. Also, didn't look at my comments on the latest YouTube video. I'll do that since no one's here. Uh let's see the [ __ ] rage bait.
+
+[6:42] Um What? Oh, okay. Actually, it was a compliment. I thought that was Oh, god. Oh. I'm not even reading that one. It's not even It's just the video Oh, the video just got to a view that is the number that's banned in my chat. Ugh. Okay, actually the comments seem like very normal.
+
+[7:15] Oh, actually very realistic are the ones Billy plays right now, so it's bash over than blasted. Wait, what are we talking about? Oh, he's talking about me saying I prefer blasted start. Yeah. I mean, okay. Never mind. I'm not going to I'm not going to get into the weeds there. I never understand why like people don't understand that people can disagree. Anyway, let me digress.
+
+[7:49] Okay. Also, the reason [ __ ] the tardis and they're starting one at this point is cuz starting three's got predictables, but I'm [ __ ] Is it bugged? Oh, [ __ ] What? It's not bugged for me. [ __ ] Saying my [ __ ] is not on the current batch. Oh, it Wait. I Wait. Let me Let me change this. Set min match ID. Wait, sorry. It must
+
+[8:21] have auto set a min match ID. My apologies. Okay, wait. Can you try reentering now? I'm not sure if live updates will work. Yeah, sorry. That's cuz I just ran a test that bumped the match ID to um up. Let me uh kill this raffle by deleting this message and then turning off the bot. I was doing a test cuz I was trying to
+
+[8:52] get that That basically means the the game had to have been played like today cuz I tested that literally as I started stream, but it means it works, which is huge. It means it works, which is very big. Um was testing something. Sorry about that match ID thing. New raffle in two minutes. Okay.
+
+[9:26] Uh no, you'll gain a ticket cuz if I just If it never finish If it's the bot's not online when it completes the interact, which I should really just add like a cancel button. But if If bot's not online when it completes the interaction, it's um it just doesn't like do the the second half. Um let me actually add that to my notes to give make a cancel button. Cuz that this is like really jerry-rigged.
+
+[10:03] Um Okay. Uh you can just slash tickets while while when the bot's online, which I'll bring it back up in like a minute. I have to wait for this raffle to fully finish.
+
+[10:42] Uh no, no. I was just testing something cuz I just added that feature and it was just out of random test I did this morning to see if that feature worked. I didn't think it would actually save the ID, but I'm just that's on me. I was trying to fully automate it and then I stopped and I guess the infrastructure of fully automating it still applied. All right. Um I can probably bring the bot back up
+
+[11:14] and it will be fine. Let me I just want to make sure it doesn't pick up the old thread, but it shouldn't. Should not. I guess worst case I can always refund. I probably should have just let it complete and then refund it, but whatever. I guess both ways work. Okay, now we got a raffle up for real.
+
+[11:49] Give it a second to come online and everything. Where is everyone? What the hell? Anyway, raffle up. Okay, good to go. Uh for database I use uh like Supabase Supabase. It's like s u p a base I think. Yeah, Supabase. It's really nice. It's free. It's [ __ ] very I I am really uh liking it a lot. It haven't paid a dime for it and it's done everything I could ever want of it.
+
+[12:27] What? God. Okay, now people can't get it. I was going to go say I was going to go crazy. Um I haven't used Railway. I think I mean I'm surprised it's like a very free market on just databases. I mean I'm surprised there isn't everything else seems like all [ __ ] price gouged, but so many good options databases. I'm surprised. What do they do specifically
+
+[12:57] that's like good? Also, when I talk quieter, does it sound decent now? Is my compressor working as intended? Like if I talk like this, I mean it looks like it's coming up higher. Does this sound better when I'm muttering? Or is it still bad and I need it to fresh hold up even further? No, the database there's Oh, really? Uh-huh. I wish I Well, I host on CyberNance, but honestly I wish I knew that when I initially deployed the bot. I mean it's only like 10 bucks a year,
+
+[13:28] but it still would be nice. Also, I Well, I can't Never mind. I was going to I I I can't say I was going to say I was going to flame. I was trying to record B-roll for my probably the carry guide or how to carry will come out in a couple days. I was trying to record B-roll for my editor and I chose an NA pro and holy [ __ ] that was a mistake. I Yeah, I assumed he was just rusty for some reason. It was like It was bad to watch. Like an Ascendant game. I
+
+[14:00] It was bad. I was like, "Well, I mean, yes, he's like his movement is awful and he's missing every jump, but like it is fine." And then he got hit by like three Walker stomps in a row. I was like, "All right, if I can't this has to be roll." I was still cutting. Okay. But so I can lower the noise gate. My question is I could also lower and add another noise filter or noise suppressor. I'm not a noise suppressor forever.
+
+[14:30] But I can add this noise suppressor and then I could probably lower the noise gate further and if I like breathe or anything, it'll get suppressed. Thoughts? How does it sound? Again, I'm just a little bit of trial and error with filters on the stream to get them all nice and refined. And if I like look here, I'm looking at my monitor when I'm talking. I can still pick it up. Perfect. I always get comments saying I'm doing the dream angle cuz I'll like often have
+
+[15:01] my script on this monitor while I'm talking. Speaking of, I got to get more shorts up. I just I mean, they do so well and like the ratio of money to effort is higher than a main video, but also Oh my god, the [ __ ] tick damage of reading those comments. Overall kind of quiet. Okay. Is it I mean that makes No, I'm telling you I'm touching it. It just like fluctuating cuz I'm sitting at -24.
+
+[15:33] When I talk loud, I'm jumping up to negative like eight. Which you don't want to go higher than that. So I I I might just need to tune up the compressor even more. But I'm not sure if that'll make it sound bad. Cuz I could take him right here. I don't know if you guys will be able to hear the difference of this, but this should I mean that yeah, this is keeping it louder a lot more. Although I am still sitting a little quiet, so I could also go here and like bump it up a tiny bit.
+
+[16:03] I don't know if it's like six. How does it sound? Does it sound better? I mean I'm Yeah, I'm barely touching the red. That's kind of what you want. But I'm sitting The thing is I might need to bring it up more. No, I'm going too deep into the red now. Good. Cuz I'm going too deep into the red, but I'm also going below the yellow. Which is not what you want. It's actually Yeah, you're it's kind of bad.
+
+[16:33] What the [ __ ] I I I can't I don't know if I talk really quietly. I mean this is like the quietest I would talk on stream. It's too quiet, but I guess it's not that big a deal. I still need to lower the filters more or is this the noise gate? Okay, I'm wait I'm going to turn off the suppressor. Let me know if I cut off again. Doesn't sound like you're peaking. It's not peaking, but you still don't want the audio like it it's like close to peaking, right? Like if I'm just talking normally and I'm hitting like two decibels away from peaking, you don't
+
+[17:05] want it sitting there. You want a good margin. Set Oh damn, another seven. It has been the week of the sevens. I I it's [ __ ] stupid ass helmet. Everyone come back to the hero. I don't understand why they design characters that fundamentally one of their weaknesses that they have bigger hit boxes and then they give them helmets. Make it make sense. And then the one here they strip away
+
+[17:35] the [ __ ] helmet and slash resist from his viscous. The one here who actually needs the [ __ ] helmet cuz it's an alt. What are we doing, man? Anyway, am I cutting out? I don't know. I hate refining audio to be honest. Yeah, like right there I went to minus three with an even lower filter. Oh, if it's before latest arm patch, it will not work. Um Okay, no, this is like right as the arm patch. Okay, you're good. Oh, what is
+
+[18:06] this match ID actually? I can just set this match ID as the requirement. Or as the minimum match ID. Slash set min match ID. Okay, perfect. Like this will cut off a couple hours of new patch voids, but good enough. It's really jerry-rigged way to do it, but it gets the job done. Also again, like if I cut out at all,
+
+[18:36] please let me know. I need to know if it was noise gate or the noise suppressor. So, if I'm cutting off the same way or I stopped cutting out. Like I just talk so irregularly. I'm very monotone and then also my voice fluctuates a ton. My volume fluctuates, my [ __ ] tone fluctuates. It's a little rough to audio balance. You are kind of poor. What's your asshole's? 32? Oh, yeah, you're poor as [ __ ]
+
+[19:06] My balances Oh, yeah, that is. Yeah, I mean, do we have a spare resilience? We do Oh, we do. Okay. I am that is a spirit bomb. How did you lose this game? You just build sphere resin win. You got to put Battle Cats is the only good gotcha game. Battle Cats goes [ __ ] crazy, but it's the only good gotcha game there is. I tried to get a Battle Cats sponsor a long time ago, but they don't don't know walled me.
+
+[19:39] They said no or bottle either. Oh, two bottles on their part. I mean it's a 30 minute game. They probably just didn't need the slots to be honest. You're still into Billy. Like I don't know. If you don't need to, you don't have to. Very short game. I mean Vindictus should have don't get it twisted, but for Mo I kind of respect not selling it assuming he didn't need the money. Okay. Off we go to the races.
+
+[20:10] Also, I did actually fix the black screening issues. Holy [ __ ] Years and I fixed it and it's so nice. Oh my god, I could actually be back on Windows and have the [ __ ] issue fixed. Now my PC is nicer. Holy. PC is in a really good spot, too, cuz like it's it was it when I got the new graphics card it said it was going to bottle neck my computer with my CPU. But then because I'm in 1440, it's more intense on the graphics card. So, it's actually perfect. It doesn't bottle neck.
+
+[20:43] What year are we on? Seven? [ __ ] I didn't record the pre-roll. Oh, and I have replay had off cuz I was getting profiled. Okay, start recording. Get the doc up. It's the 10th, right? Also again, please if I cut out at any point, let me know. I need to know. 9 10 or if you hear like my breaths, that's also important. today. I still need to tap on a sublimes filter over there later.
+
+[21:13] Ascendant seven, yes, ascendant seven. Flash marker ascendant I also added a Gosu plug. Gosu [ __ ] [ __ ] bastard. It's It turned out to be saying the Joseph and Gucci plug. God dammit. Gosu
+
+[21:45] God Gosu Not Goliso. How do you not say Goliso? Oh, this shit's not okay. I'm going to have to This is going to be one of these ones. Okay, anyway, lock in. >> I need to remember >> I forgot I need to stop mid-bot replying saying you bought new coins. Whatever. buys new coins anymore. Does the market still even work? I don't think anyone's used the market in like a month. And that feels a little bad. But again, nothing new does matter matters right now.
+
+[22:15] Let me actually re-marker so bot watchers are hyped. Okay, I'm re-marking to what I'm actually locked in. This is insanely aggressive but I respect it. The only thing I don't like is the melee to kill. Why is she blaming her Victor? Wait, what? I must have missed it. Did he just get parried for fun or something? She just chases into a veil as Mina into a Calico and blames her Victor? Mina players are [ __ ] insane, man.
+
+[22:47] How do How is that at all on your Victor? What? Bro, what did he do wrong? Did he make you chase into that veil? Anyway. Good kills. I mean, this is a great spot for a lane to be in, obviously. I just giving their ass up. All you should do is try to steal their tier one off spawn. I assume it's going to be pretty close to when Victor's coming back. Also, my F keys still don't work.
+
+[23:17] I went into Logi but By the way, if you're on YouTube, never buy a Logi keyboard. If this makes it to YouTube, Logi keyboards are absolute garbage. And I turned it so the F keys should work normally and they still just don't. I have to do the whole [ __ ] stupid ass function thing. Uh what is he saying? >> I see a dictator. >> No. >> Let's take out Krill. The plan's almost ready. >> I guess he was saying for press.
+
+[23:48] I don't like forcing that stun. I like your initial two stuns. That stun you're never going to be able to capitalize off of. That ult spell is really bad for the HP. You're just not respecting Mina burst at all. She should have gotten another love bites on you there. She actually didn't just press right for fun and she waited the half second for her love bites. Okay, you just kind of fed it to her. Might as well FF. >> My friend survived the war. >> I I am so sorry you have to play in these lobbies.
+
+[24:21] Um What I said before, oh, you're just going to feeding love bites to Mina for free. Respect. >> Mina love bites. Also, you guys had heart pressure which you should have used to invade the tier one with how hard you got that that early advantage. Cuz you I I didn't see the exact moment but I'm pretty sure Victor came back and like Mina came You had You had full like two waves crashing on the tower at 1:50 is what I mean. Uh if you get the interaction failed when you try joining raffles, just kind
+
+[24:51] of spam it. Sometimes you have to press it a few times. But also sometimes more than a few. It Some people it'll just say [ __ ] you and you just do it like 10 20 times they it let you in. I don't know why. They just hate some people. But in order But like the only way to stop the interaction failed glitch is to not have auto fill and auto fill is so like such good quality of life. Okay, yeah, I don't I The fact that I was going to say that you normally buy extra spirit um when you got to that shop where they had her I said maybe you save for suppressor. I
+
+[25:21] don't like that you didn't buy I like I like that you bought healing right when you were low, but you should have just bought the extra spirit. There was no reason to save. But I think that's soul awareness slash eye awareness issues. Okay. I mean we're past 3 minutes, so what you do actually matters now. What your stun did you do the placement of your stun, damn. It was bad.
+
+[25:51] You're also kind of throwing your abilities for fun again. That's a sta- a stun that's very hard to capitalize off of, especially with being having two. But even though she didn't it's very hard to capitalize off that stun and then you're just kind of pressing the rest of your abilities for the sake of using them, which feels bad. Also the movement's a little inefficient. I like you going for buff if you are or not, but bad. Yeah, I mean Okay, now you You see you didn't know buff was spawning, but yeah, you just got it stolen just like that initially. You just should have been on that.
+
+[26:21] And that is just sunk cost. Like Mad she got it, so you're just putting your stuff on cool down for no reason. >> I see Krul. >> SO HOW DID YOU GUYS LOSE THIS GAME? THIS IS a very winning position to be in early with the like already full tilted and infant Krul and Vain duo.
+
+[26:51] Why that power surge is using it for wave clear. You need to do something with the wave prior you're getting. Like if you're using power surge for wave clear, you're forcing wave prior you have to do something. I mean, yeah, you're forcing dive because he's one up. That's fine. Again, in a normal game where you're not this ahead, I would like to see boxes. That being said, because you're so ahead, this is obviously You do have to respect the fact that we are at 6 minutes. So, Victor is going to have boots. You'll be able to use boots back.
+
+[27:21] Oh, yeah, actually no, that was a really good dive as well cuz you did it on the wave where you had ultimate. Again, I keep saying I need to actually pay attention to that and I keep forgetting. PRESS ON. I MEAN, SHE'S GOING TO HAVE TO IT, BUT IF SHE DOESN'T, you can just kill her with the four. Yeah, she does. Uh I mean, you need to be I I don't know how you can let this one get back. That death feels bad. Um Was that preventable? I feel like that could have been preventable. Was it just
+
+[27:51] not respecting that? I mean, how did your Calico get one? I didn't realize your Calico was so unhelpful. Yeah, I guess she just got one HP on the dive. I mean, Okay, to be fair, I guess staying for the reload is bad. I mean, you killed the tower. Okay, I guess that's your mistake. You could have just backed off there. Staying for the reload. >> I see you, Vindicta. >> And surge, I mean, yes, that's a good item on 7 if you actually use it, but
+
+[28:21] most solo queue 7s I see buy this item are not using it before their abilities. I mean, they're used to be for power surge. Great if you prove me wrong. Also, I don't know if you're duoing with this Calico or not, but I like the fact that you're anchoring the lane and she's roaming. Like, this looks confident. Oh. Oh, that actually kind of is optimal. You're solo queueing to a play well together.
+
+[28:51] I don't know why you bought cultist. You can be looking at you, but yeah. Oh, wait. Or we bought a pre-8 minutes. Never mind. I'm dumb. Makes sense you're not using it. Off wall. Sorry, I'm still getting raged at by YouTube comments. Mentally YouTube comments. I just I I don't People on YouTube, like no flame, I don't get why they don't understand that like good players can disagree. Guys be crazy. Like every time I say something or I like I'm like, "Oh, I do this." He's
+
+[29:21] like, "Oh, yeah, but this other guy does this." It's like, "Yeah." Yeah, man. It's not It's not like an objective thing. Game's not objective. Anyway, I digress. Lock in. Would've been great to use your Okay, have you still actually not popped your cultist? Okay, yeah. It feels really bad you bought your cultist pre-8. You're not going to use it till like 9 minutes. But also, you should've just tried to gone pressure and then try to invade this right side camp. One sec.
+
+[29:58] >> Thank you. >> Okay. Of course this [ __ ] would send me flying for 20 m to the walker. Punch Ruby good. I I can't I can't I can't. I don't know how they win this game, but I don't know. They definitely shouldn't have. You're very ahead. Your whole team's very ahead. You should be in Oh, no, you were invading. Never mind. I'm stupid. I was looking at the map and played down. That was really good you were invading. You're shopping really in optimally with
+
+[30:28] your spikes. I would've just grabbed a box here. This wave is so great. You have a 1,000 bag. And you're saving for your You're like 190 50 souls off your gun spike. I would've have just done a small box route into the bot. Now you're just in a bad position. A minor thing when farming these boxes, you can slide into this wall. I should I should make an updated box route video, shouldn't I? I know I'd have to wait like a map change though, cuz it would just be very
+
+[30:59] small optimizations for the box route video I made previously. These exploits you said Remus auto headshots bug back when the six year was released. Or was there an I don't know about a I mean he has like a very very small amount of like like homing I guess to the head. If you like miss by like a few pixels, it will hone in. I don't know.
+
+[31:30] It's so it's it is real, but it's not it's very very minor. The like aim assist thing. Like it's a very minor. But you can like go over to the private range and see yourself. You can whiff by like I would say like five to 10 pixels and it will hone into that. But I just press [ __ ] You should have pressed four off the stun. If you four
+
+[32:00] off of that off of your stun, you lightning strike him, he dies. Especially since your old max shouldn't even Oh no, actually never mind, you shouldn't. Actually good you did not four off it. Never mind, Earn spawning. I don't like the old max first by the way, but it's actually really good you didn't play since Earnest coming up. Got to run every game. Oh god. I There were definitely people who were doing that. I still can't believe people ran melee page when she came out. It's like no flame, but like the comprehension issue of like oh, this hero has spirits
+
+[32:30] scaling with melee the uh What is it? Attack in the game that scales with gun? Like I don't What are we doing man? I mean you should be playing for earnest. Like especially if you're all maxed out you should be playing for earnest. No reason. Like I don't hate baiting walkers so I'm just going to go forward.
+
+[33:01] What is this play on the left side? You're getting greedy. I mean yes you can kill him but it's respecting your enemies intelligence where probably has people chasing with him and he just trying to burn his old to bait you. I'm not being that 100% you should play for earnest and I am going to have to give you a played for earnest notes. Oh, this was the new Osis build that people were talking. I remember someone said do How do you think of the new Osis set man? I didn't know what it was. This
+
+[33:31] was it wasn't it? I I can't I don't know. I yeah I like in in solo queue it makes sense in the sense of like people don't buy knock down for some whatever [ __ ] reason. So with this new stupid ass earn like yeah, your old is infinite value but I don't know man. [ __ ] knock down in the bag. I don't know people like genuinely don't buy knock down anymore. Yeah I like I [ __ ] HATE
+
+[34:06] YEAH I DON'T I REALLY HATE THAT YOU GUYS AREN'T RUNNING EARN. Like I think that's going to be the main issue. Pretty much nothing you can do as a force player. Okay. I just [ __ ] type for lobby. Okay AP order playing people or We're dash for earnest in 2026, okay. Two max Victor in 2026, okay.
+
+[34:39] This actually looks pretty fine. Yeah, this is insane by them. Uh They actually get rewarded for doing this. Why do you just get 100 to zero? Do you just not respect him for his burn? Okay, he was trying to kind of trying to trying to fight him. You get burned. You
+
+[35:09] let him regenerate after what I'm seeing now. He just lost 1,000 off 1,500 off one after burn. No purple spike. I don't understand why you took that much damage to him, to be honest. I can't believe they get rewarded for that. Again, I mean, not Yeah, no, that's just I don't know. I Again, people Everyone in this game should just be playing for earn. You should not expect them to be strong side diving your walker on the opposite side of earn. It is insane that that was
+
+[35:41] done and that they got rewarded for that play. He's still not sold his egg. I know he started it. He's still not sold his He's waiting for the 30-minute spike. 30-minute buffs get better, guys. You have to hold egg till 30 minutes. It's 12 minutes and 30 minutes, right? Or is it 10 minutes and 30 minutes? I always forget if it's 10 or 12. The two buff spikes. Okay, huge running earn. But again, also, if you sold max earn,
+
+[36:11] you have to get earn off spawn cuz now Well, now you've actually cycled earns, which is earns uh staggered earns, that's the word. Now you've actually staggered earns, which mean I don't I don't have a staggered ping. No, I do. I'm Now I got have a staggered earn, which means it's really bad for you being an old build. And then also, you haven't been able to old for the past 6 minutes cuz Earn has been on the map, which feels like You got to cash in that [ __ ] though. Why is your team so afraid? I mean, I
+
+[36:42] guess you win seven, it's pretty hard. I would shuffle it till something gets better. Yeah, you guys do kind of have to cash this since your waves are bad and they're out splitting right now. Good movement. All right, you're kind of wasting your stamina when again you should be going for the cash. Yeah, there you go. Oops. I mean, you wasted your lightning strike. Uh I also wouldn't be chasing outside the cash.
+
+[37:12] I guess you shouldn't have Never mind. Actually, that's good. That's good. If you stand still, you're not doing too much. Uh so, with automatic patch notes, you go to either the Dead Lock Discord and you go to their announcements channel and there's like a follow button and then you can have it forward messages from the announcements channel into your main or there's a patch bot, like it's something called patch bot, which we used to use, but it's kind of inconsistent. Uh but a lot of the time we just do it manually. But the the best way is
+
+[37:43] forwarding the Dead Lock announcements channel to your Discord. You're creating too hard of a diagram. You can't catch this guy. This is just getting so greedy. You're just going to die. Oh my god, you're so lucky he hyperlined that If that Infernus didn't hyperline himself for no reason, you died there, by the way. Uh you guys so lucky.
+
+[38:18] That dash furnace is irrelevant right now. But relevant again, dash furnace If dash furnace just has like I honestly think they're probably the most brain dead players in the entire game. No point. You also be learning your something. Yeah, that's fine. You're just so poor is the issue. Hey. You poor in Dom rush. Why you rushing? What? Oh, the steak popped in. Oh, man.
+
+[38:50] That feels bad. I find it insane they're getting rewarded for playing this awfully on you. Your team pick up earn? Okay, no. Your team's not picking up earn, which is Wait, how is her Can you not stagger earn anymore? Oh, you have to. Wait, oh, I'm dumb. Oh, I'm actually so stupid. All right. For some reason I thought staggering respond at six. Oh, my next to timings. Yeah, I mean I just feel so lucky. Um
+
+[39:20] Like again, I don't know. You shouldn't expect them to be strong side of the opposite side of map of earn. They're getting rewarded for playing awfully. They're literally just chaining thing cuz they have trophy collector and they're getting rewarded for it. Dashing furnace is just such a different game than anyone else cuz you just don't do I don't have to do anything. You just dash. Like you press two and you run around. That's all you It's so stupid. I mean I'm glad they want the build to be irrelevant, but like make it in
+
+[39:50] furnace dash relevant. Here's the events done. Yeah, I mean you should not be trying to hit that vent there. I think this is a really fair hero, I think. I I don't know why people think this hero is balanced. All I ever hear is people call Vindic to like weak, but that hero is not weak. I bet if you shuffled earn on to somebody else so you could reset.
+
+[40:20] But I mean again, they don't even think they should come gank Vincent for no reason, so they don't even have an HP bar. Also, do I like Indom? I never actually got to finish my thought process. Uh I guess I do. Yeah, I guess I do. Not too good in the mid. there to be honest. I think he's going to hit you with that. Oh, he's just dying. Okay.
+
+[40:52] That's fine. I mean, it's not Obviously, it's not good to use your ult before Earn. That being said, I'm pretty sure you die if you don't press four, so obviously better to live. How did it trigger ads? What? I'm noticing that Is it Is Min Bot procking more than normal today? Or is it just the fact that I can
+
+[41:22] actually see the chat in the log in the corner of my eye now? Feels like it. Okay. I mean, yeah, there's no reason to fight here. Again, I mean, okay, at this point, so two things. One, uh there's no reason to fight here. Earn's on map, you should just play for Earn, and also there's no reason to be fighting so aggressively in their jungle. You also had the infernal buff, but your team didn't really do anything with it. Which again, it should have been Earn. And then secondly, at this point, they have killed you three times just strong siding like
+
+[41:53] inting and strong siding on the opposite map of Earn. It's kind of fool me once rules. You need to expect them to just always be like predict the the two inters on the opposite side of Earn. I Yeah, I agree you should just shuffle away from leaves. All right, Dynamo. If Dynamo, by the way, if you're ever a Dynamo in the situation, you refresh yourself. You can
+
+[42:23] refresh yourself mid-game for mid-bosses. People just don't do it. You refresh yourself or you buy a refresher in secret shop. You buy it the second mid-boss um like that. Well, actually no, they changed the drop time. You probably buy it before mid-boss dies now. Cuz back when I mained Dynamos, you buy it the second mid-boss dies and you can make it if you're good movement. They probably changed it. Yeah, I mean Yeah. Jesus, your team's not at all in a position to be getting this accessory. You should be not not be trying to. >> Ready to use refresher.
+
+[42:55] >> They delivered the urn. Our yellow walker is under attack. >> Yeah, I know. I killed Max first. Hey, it definitely achieved nothing for you this game.
+
+[43:36] You're pretty solid when your your ability Okay, so like your general movement is pretty not bad, like pretty mediocre, but your in-fight movement or when you're dodging is super nice. It's really good. You should not be running Ash against Ash for mandal side there, which is bad. I mean, yeah, you just chased past your walker. I wasn't looking at map, but that's a classic. They have rage if you chase past your walker and past your walker exists for no reason.
+
+[44:06] Yeah, Dynamos, right? Oh, you got to go. You got to go. Oh, no, it's the official that blocked this cord I forwarded. Or like the rest just forwarded from. Yeah, I mean there's no reason to be here. Again, their region is expiring in a minute. They swapped two regions. It's the exact same thing as the last time
+
+[44:36] where your team is just not in a position to contest. And now they're going to win cuz they just did three objectives and your team has only done one. So, like I mean we're just going to lose cuz we never ran our never ran our If you had ran your initially, they wouldn't have been able to get one off the mid boss. Don't contest. Um don't Don't go in without your team. And what was the other one? Stop getting picked.
+
+[45:07] do. Blunt. I'm really sorry. I haven't been sleeping well for like Well, I haven't been able to sleep well for like a week. And then I had some I had some bad oysters around last night. Tired. On the bright side, I had an alarm set for 11:00 and I woke up at 10:59. That felt pretty good. Oh, we're dying in the exact same way again. Ooh. I mean that is literally three
+
+[45:37] back-to-back deaths the exact same way. I don't know. So, how do I unstoppable benefit you more? Cuz he is just able to shave block disable. Yeah. I think it's unstoppable to war for you.
+
+[46:09] You also know when you do this game Phantom Strike is just 100%. I don't like Phantom Strike. I don't know. I guess he's just chilling. Uh I mean who wins? Like this is just a coin flip fight. More than anything else. You're not sitting on a spike, so it's not good for you. But also this is just a coin flip
+
+[46:39] fight, so it's not good for anyone. There's no reason your team should have six mid. There's no reason their team should have six mid. Also, yeah, you got to respect the mean old saved by Dynamo. Mean old will always just mog you as seven in the air. Well, maybe before max it doesn't obviously. Yeah. I mean again, no reason to be six mid, no reason to be fighting there, and then you got to respect the mean old.
+
+[47:12] Screaming is just like the absolute worst, man. I hate that he gets a win with how terribly he's playing and how blind he's being. But I mean at least he'll never rank up. We do have that for us. Even I was like just annoyingly weird.
+
+[47:55] I think it's bad. Yeah, I mean that yeah. I Yeah, don't really know when you cycle yard. I think now is a good time. It was bad your teammates lost too. Obviously cuz Okay, you should be buying this defensively. I mean, I do like the spirit lands, although it's definitely coming out late considering how hard how hard spirit the enemy comp is.
+
+[48:36] Hop joy silencer. Uh you could refresh your soul right now. It's kind of your only option. Just sell a little Indom or something for a refresher. Sell your cultist for a refresher. Actually, that's a sell you would hit anyway. Yeah, I mean, either way it's pretty lost cuz your team is being staggered. Anyway, I know it's actually really short for this bot. Later, you need to make sure you're respecting me and the love bites you just took a lot of damage and also you have soul awareness and eye awareness issues.
+
+[49:07] You need to play for urns / objectives. That's the biggest note by far is that you were just not running urns your adult max build, which I can really really recommend, but in general and especially on that build, you need to be going and playing for objectives more. Uh your counter item / spirit lands came out a little late. Hey, it's spirit res came out late. Uh you can't go in without your team and then you were just constantly getting picked by like positioning without your team, which really does just fall in that note. But, the two biggest notes
+
+[49:37] are you were just constantly without your team, which is why you kept Oh, and you weren't farming. You need to farm more and fight less and then don't take coin flip fights. Wait, are you here? The person who got reviewed, are you in chat? Cuz I a new feature from the bot. Oh yeah, you're here. Should have gone on some bull, yeah, yeah. Uh tell me if the bot DMs you when I do this. All right, did you get a DM from the bot?
+
+[50:18] Okay, perfect. And damn, it looks fine. It just has like notes and everything, I'm assuming. Um Perfect, perfect. Yep, happy to coach you as always. I should bring up your previous notes, but whatever. Oh yeah, you literally have it in your notes. You should have gone on some. My bad.
+
+[50:53] Okay, new raffle is up. It's a quick review. We're 50 minutes into the stream. Never mind. Tell me if the Wait, really? I mean, I guess cuz it's like I'm thinking ahead, so I'm talking quietly. I mean, I [ __ ] it. I'll turn the Let me know my audio starts sounding like [ __ ] I'm going to turn the compressor up even more. So it is supposed to lower the quieter stuff even more now. Does it sound bad?
+
+[51:24] Or if I talk quiet, does it sound bad? I mean, I I don't know. I I'm bottom yellow, which I think is good for being quieter. Also that's going to help. Might Did I cut out at all that, bot? >> Decisions, decisions, friend. Painful so much. >> I just Ah, man. I We just seem like every M1 reworked. Bender is the only M1 who's fundamentally fun and even he's just like not fun to play cuz he has to
+
+[51:54] play the [ __ ] M1 role. Anyway, I digress. Yeah, I'm doing good. How are you doing, Pasco? Sorry, I'm interrupting. Why? I'm doing good. How are you doing, Pasco? Haven't seen you in a minute. How do I uninterested myself in my own stream? I am not interested in my own stream. Stop telling me whenever I [ __ ]
+
+[52:25] stream. I can't uninterested. What the [ __ ] Cuz I made the event, I can't uninterested? That's so dumb. Mark is not interested all events in this series. Okay, huge. Isis is fun to play. I mean I get more than like Wraith or Warden or Infernus, but it's also she's not really playing M1 nowadays, but it's still
+
+[52:56] pretty bad. Proct M1, are you? Actually good proc. Okay, wait, what else for Gosu? Gosu. It's not even picking up anything. What the [ __ ] Oh wait, that is actually useful. Um well [ __ ]
+
+[53:27] So it means the filter needs to go down even more. I more just need to know if I cut out. Noise gate is so ridiculously low. Oh, that's actually a good idea to have uh two two-year spots. Yeah. Okay, I'm putting noise suppression back on and I'm lowering my noise gate further. We'll see how this sounds. Let me know if I'm still cutting out or if I sound weird or sound bad or something. Go sue.
+
+[54:03] It just isn't detecting anything. It's It's letting go to and go sue, s u e. Go sue. Go sue. Go sue. Okay, that's big. Do I sound fine? I mean, can you hear like background audio? It doesn't look like it.
+
+[54:39] Barely a little. Oh, like with the snap. Yeah, yeah. I mean, in general, you're hearing anything else in the background? I don't doubt it. I mean, there's so much going on, but My PC is a little hot. Why? I check my temps. No, I'm not sure about it. God damn it. It says it's only 54°. It's hotter than
+
+[55:09] that, though. Well, 54 is not bad. How's it a cutting out? You just go quiet, but it doesn't fully cut out. Um I guess that's good. But do I need to turn Do I need to turn the uh compressor up even more so it stops me from going quiet even more? And my filters are getting like insanely jerry-rigged. Sorry, I haven't said jerry-rigged in today. I don't know why. It's getting bad.
+
+[55:41] I mean you have to change the threshold. Oh, [ __ ] I forgot about the threshold. Um What if I bring the threshold up? Does that sound better? Worse? I don't really know. What the threshold means to be honest. Wait, I'm cutting out now more, aren't I? I'm cutting out a ton, aren't I? Or am I cutting out at all here? What the [ __ ] What is happening? I think that made it worse, but honestly
+
+[56:12] can't tell. I'm not cutting out, it's just my noise gate is procking on a lot. Okay, maybe the noise gate isn't good. Maybe the noise suppressor isn't good. Does it still pick up? Kind of. Wait, so if I turn it to 11, I'm not cutting out. I'm going to put everything back as it was. I guess we'll just try a bot like this and see how it sounds. Um Wait, stalker, spirit shredder, mystic
+
+[56:43] shot, Cali builds for gun spike. I mean that sounds fine. Stalker's obviously a good item on her. Spirit shred makes sense and then I act like it makes sense. Okay, wait. How do I I don't know. I just need to hear myself. Let me turn on audio monitor. Whenever I can hear myself, I start talking really weird though. I don't like hearing myself.
+
+[57:13] Okay, wait. So if I talk quietly That's really quiet. And I'm cutting out. But if I talk normally [ __ ] But if I talk really quiet like this I guess it's not that bad. Let me get monitor off so I can talk like a human being. Um I guess it's yeah, it's honestly not that bad. Oh, wait. [ __ ] I have to update my audio, too. My tracks are all [ __ ] up.
+
+[57:43] Okay, that's fine. Thank god that last one wasn't a YouTube vod. I guess I don't touch my tracks anymore, to be fair. Okay, I just I don't know, man. I don't know what the [ __ ] to do with my audio. I hate doing filters. And audio engineering stuff. It's so [ __ ] miserable, man. I feel like my ratio is just already so high.
+
+[58:14] What if I max the ratio? What does it sound like? Does it sound like [ __ ] It looks like it sounds like [ __ ] but I honestly can't tell. How does this sound? I'm just curious hearing it to an extreme on what it would sound like. I guess I can monitor it myself. I didn't start a new raffle, did I? Oh, no, I did. Yeah, it's over. Okay. Okay, wait. How do I sound? This doesn't sound bad. Does the threshold just do nothing? Or is it the ratio? Wait, it actually doesn't sound bad.
+
+[58:44] What the [ __ ] Um All right, I'm moving the threshold up. I'm changing a lot, but again, just let me know how audio sounds on this vod. It's getting a little [ __ ] hot in my room. But since I'm live, I can't really open my window. Well, if you need to just say how audio sounds. I mean, it's My mic has always been
+
+[59:14] here. Yeah, all the settings are the same. It's on a mic you have to talk into it. Like ideally, I'm talking like this, like here, but I you know, I often like looking around and stuff, or like slouching. Yeah, but I don't know how the [ __ ] to fix that. Like, I have the filter so low, it shouldn't be I mean, I could turn off noise suppression. I'm not sure if I even need noise suppression. My background's pretty quiet most days. Not always.
+
+[59:45] How does this sound? I guess this should be This should be fine, actually. Am I cutting out if I look like this? If I look like this, do I cut out? It looks like it's still picking up. Just quieter. Emissary drifter, okay. Landing his rift is going to hard ionization confuses me. If that's an AP order, I like to put one point into my old right after I get it for kicks.
+
+[60:21] Um I guess we'll see when you put the point in. Do you put it after you get like two points in whatever ability you're going for? Spike, I don't know. I hate it, probably your one. You can definitely tell I upgraded the model the bot's on. It's detecting correctly more, but now it's looking like it's detecting too much. There you go.
+
+[60:54] [ __ ] I'm really tired. Um Do you actually need to go? I mean, there's no worries. I I can refund if you need to go. Or reroll, rather. Like no worries if you uh if you would rather do it when you can be in chat, but I'm also happy if you
+
+[61:25] just want to watch the VOD. We can do that, too. Oh my god, I'm so tired. I must I need to [ __ ] sleep tonight, man. Okay. I just I hate filter Setting up filters also just sucks.
+
+[61:56] New I mean new Leviathan would be good, but they're not better than um Well, I don't know. New Leviathan without ABL is probably still kind of [ __ ] I mean new Leviathan is a significant improvement, though. At least we have a villain team again, so I can start actually rooting for um Offend Jared and I'm what they're called now. Loki W and be happy. Oh, one sec. I got a package.
+
+[62:53] Am I muted? No, I'm not. Okay. I can't tell. I mean, I assume Okay, if Sturgeon actually didn't say anything, I assume he wants a reroll. Uh yeah. >> Okay, we're re-rolling. I just I don't know. I also don't have
+
+[63:23] the energy to be loud right now. Okay, my my compressor looks like it's making me fairly loud, which is good. Turn to silver. Okay. Wait, what do you mean by that? Um, or Aaron? How do you say your name? I heard Aaron.
+
+[63:54] When the target is glued to a wall. Yeah, I don't know what you mean by that. No, I got to lock in but it's one [ __ ] Oh, yeah, yeah, you're on great talent to make a shot. Remember, okay, you said you're like learning silver, right? Wraith metro. Um. Oh, unlucky. Unlucky. I've also noticed
+
+[64:24] this only happens for higher turn of odds, which is weird. This only happens for higher turn of odds and not like EU higher turn of odds this happens and no one else. I don't know why. It must have something to do with like a high amount of people downloading the vault or something. Yeah, if you have another. I mean, I can re-roll if needed. It's very unfortunate this one broke, but again, I still don't know how to fix this glitch.
+
+[64:57] Uh, yeah, I I have no clue how to fix the glitch. I'll try restarting and clearing my match replay folder, but it's a long shot. >> Discord has a World Cup emotes. I don't think I don't know, man. I don't think anyone who gives a [ __ ] about the World Cup is buying Discord cosmetics. I hate to break it to you.
+
+[65:29] Um install files. No, not backup. Oh god. Browse local and then game. Replays and then just [ __ ] Oh yeah, there is one label is partial, so maybe deleting that will make it forget. Hopefully. May I let me try one more time for this one.
+
+[66:00] I think it's EU related. I haven't had it happen It could just be also cuz it's a far It could be just far server related cuz it could be the fact that I'm in NA, right? But I've only I haven't had it happen on a close small I've only had it happen in EU, but also the majority of people who submit that aren't in NA or in EU, so who knows. I don't think this actually download correctly this time. Oh, I thought you were saying good to go. What do you want me to reroll? We can do yours after this if you want. Cuz I asked you and you said you spilled hot water. I didn't know like that that
+
+[66:30] meant you wanted me to like reroll you. I can just do yours after if you did not mean that. Just don't break. Surely. Okay. Oh, lucky.
+
+[67:05] Also, uh wonderfully, sure you just want me to do this one? I mean I again I can also just if you think it'd be if you want to get a better game, you can also just refund. This one's actually fully mine to echo. Okay, I I can just refund you and we can
+
+[67:36] do uh Uzi. That actually kind of works out. So but if I refund, will it actually refund you? I've never refunded a rerolled raffle. Let's find out. Oh, I can I say the user. Okay.
+
+[68:08] Huh, raffle not found. What? I mean I can do it the old I can do it the old-fashioned way if needed. Yeah, okay. Uh can you just open a ticket and screenshot the amount of tickets you
+
+[68:39] entered with cuz it does not appear to want to function as intended. Oh wait, no no no, I was copying the wrong thing. Oh wait, I'm so dumb. I'm so dumb. Um well wait, I might have it I might have it. I just be stupid as [ __ ] Okay, I refunded you. I was just dumb. Um Okay, let me go back to this game. I'll grab this game. I don't know if
+
+[69:09] you're still here, Uza, if you're cleaning up or what, but that does work. Wait, what? I downloaded this one. Oh, this was must have been downloading when I restarted the game, and that was the partial download. I see. Okay. Hopefully the manually note you and I need to close that notes.
+
+[69:40] Well, no, refunding should have closed. I'll send a manual one. Okay. Okay, we're good. We're good. Little scuffs, but we got there. So, I'm going to look at what bots I enter. Like, ones I get stomped is not too much to learn from, so I just get ones where I play I mean, it ones you don't want ones where you get stomped, but ones where you like don't do well are good. Like, if you just feel like your team kind of carries you, that's a good bot, or if you lose and you just feel like you underperformed and you could have been the difference if you were playing better, that's a good one.
+
+[70:27] [ __ ] man. Holy [ __ ] man. I hate people. I like Well, I don't know. I was going to say I live I like a street like [ __ ] everyone, but like how can people just have so little um Like, I a self-awareness? Like, there's so many people just like talk so [ __ ] loudly when like walking by or like it's loud as [ __ ] in the street. Like, it's like
+
+[70:57] "Well, I shouldn't be able to [ __ ] hear you with my windows closed, man." How do you have that little like awareness of your surroundings? Yeah, I mean, I guess that is true with silver. But, like, I I mean, I don't know. Yeah, I guess that is pretty true.
+
+[71:28] [ __ ] man. Oh, wait. Actually, I need to on waiting I do actually change up the bot cuz it shouldn't be automatic based off of
+
+[71:59] when there's a message in the patch notes channel. Okay.
+
+[72:32] There we go. All right. [ __ ] Oh, we're behind pace, but whatever. I mean, I wasn't planning on doing analysis today anyway. >> Okay. Oh [ __ ] the [ __ ] Well, wait. I
+
+[73:02] actually planned for this, didn't I? I thought I planned for this, but it must have just been my to-do list. I never did it. All right, old-fashioned way. Oh, the coaching deck isn't working. Yeah, I don't know why, but Valvacoil just isn't working for me, which is really cool.
+
+[73:33] Okay. Okay, good start. We're finding our builds. >> I'm ready to play. >> Okay.
+
+[74:03] Okay, wake up. Wake up. Wake up. I need smelling salts. I should probably get coffee or something before I stream. I also woke up late, so I had no time. Okay.
+
+[74:44] Okay, sorry, walking. Yeah, I need to re-mark her now actually cuz I will have what I don't want the bot to have like that much silence. Okay, we're locked in locked in locked in. We are Drifter and Abrams into Bebop Silver. I mean this is a hard lane. Bebop Silver, I mean Silver again one of the strongest laners in the game and then Bebop his hook very very threatening. So, I would definitely respect if you're getting hooked a lot it could be a
+
+[75:14] reactive barrier lane. I would just make sure you're actually hitting the wave cuz you're kind of slow to hit the wave and you're spending a little too much time fishing for denies which is giving them full prior which feels really bad. I mean they can potentially steal your tier one right now. How much prior they have? I mean again it's hard to know actually chunked Abrams they definitely have wise so
+
+[75:44] yeah. Um scary to be honest. If you were pretending to melee like that why he didn't bury. I mean this is a really rough start. Biggest note for you so far is just hit the wave. Abrams got chunked for fun which feels really bad but you didn't be hitting the
+
+[76:15] wave. Yeah, I mean backstabber big strike. It's not bad for you to fight they have an odd. You're also like Sorry, that's so cartoonish. I guess his mouse probably died or something. Um you're also just like there's so much time you're not shooting. Kind of lighting up your crosshair.
+
+[76:57] I also always prioritize confirms over denies. Basic rule is that Okay, if you if you're going for a deny first, they have the advantage on the first orb. And then the second orb, you're flicking to and they're flicking to before like when the the advantage timer doesn't exist. So then it's a 50/50. You're basically just giving yourself a you're putting yourself in a 50 in a bad advantage orb and then a 50/50 orb versus confirming them flicking. You're
+
+[77:27] putting yourselves at a advantage orb and any of they already have it or you're flicking back when you would be in the time to hit it slot. So it would become a 50/50, right? Yeah, you just need to hit the wave more. I mean, you're just permanently giving them full priority, which feels so bad. You can recast here. Yeah, I mean, there's two heal grips. Definitely should have just double heavy melee the heal grips. Also right now you really should be shooting them. It feels really bad you did not. I mean, you can kill this guy. You're putting so much respect on Okay, if you fumble the parry, it feels really bad. But honestly, you could have just turned on that guy and killed him.
+
+[77:58] You're you're also just not getting your backstabber proc'd. You're just playing too slow. Also you should have fought her more under tower. When she tried to dive, you walked right against where you would have the route. I will under tower with the ability to kill her. I mean, you're just full prio. It's stupid F keys. Wait, the F keys work? Wait, what? I don't have to do function anymore? Why did it just fix itself halfway through the [ __ ] stream? I guess that's good.
+
+[78:31] Yeah, you got prio. I mean, again, ideally you're doing both, but by no means by I expect both timers of a emissary player. That being said, you got prior, you know you're behind. It's better just to walk straight out. So, you said you actually gank early, so like Go on like that. What the [ __ ] Oh, silver is such a fair hero. You need to be focusing your upgrade for
+
+[79:01] your Abrams there. Yeah, I mean you like you know the idea focusing your upgrade to heal, but the execution Like right here, there's so much dead time. Like right here, you could just be shooting the wave. That was like 10 seconds, we shot one bullet at the wave. Longer at this point. You just need to spend so much more time hitting the wave and so much less time kind of just sitting there. Or plan. That would be a quick save.
+
+[79:33] Yeah, and I don't forcing the parry there. [ __ ] Okay, we're just doing it for fun. That feels bad. Not really on you. Uh not really on you at all. How much trooper damage have you taken?
+
+[80:03] I mean again, the numbers aren't accurate, but the ratios are. Where's troopers? It's your second highest source of damage. It's just feeling really bad. A lot of HP you didn't need to or don't need to lose to them. Yeah, I guess the Leviathan is debuting and dealing us damage, aren't they? That's what I thought. You need to be mental sliding as well.
+
+[80:35] I mean again I mental sliding is just free. Just press control as you Wait, mental slide? I have the keyword, right? Yeah, there we go. Let's do that and then I [ __ ] so free. Literally just free movement. I also be careful about how much you're having. Again, like when you're right here she obviously doesn't have any
+
+[81:05] reason to smile. But two things, one I mean again she was still just a [ __ ] hero, so it's kind of better to kite her there and you could have probably killed if you were kiting backwards and shooting her and not trying to fight her wolf form in melee range, even though you're heavy melee range she's just so strong. Um but then secondarily it tells what I had to do, but then secondarily Oh I just I mean I'm a melee kiter when I'm watching. Light melee is okay, heavy melee is not. Is the TLDR. K dash I don't really love.
+
+[81:37] I know drifter is like K dash. I'm not the biggest fan of it. Don't forget you should cuz your rend does more damage the closer you are. Teleport into a melee like a light melee or into a rend when you recast your two.
+
+[82:09] Um melee or one. Two also nice second That's I mean they still get all the infrastructure for actually having multiple profiles.
+
+[82:42] You look You don't get more I mean, I definitely would try to kite to one of your teammates. That's actually the same that goes. I definitely would try to kite to one of your teammates, but I mean, good juking. I really need to fix my valve account font. I hate how that whatever else I have on top of screen looks.
+
+[83:14] I have it downloaded. Like, I hit the install button, so why is it not working? I mean, you probably He probably be very probably still like watching me reading his message, but anyway. Get audio, get good. We can [ __ ] talk him.
+
+[83:44] Should strike next? Yeah, I mean, obviously I like that. I'm Okay, [ __ ] I need to log in for a little bit. Um I like invading. It'll look bad to lose the centers, but I get more micro. Or lose the buffs, but more micro. I like This is just such a weird situation. You just I mean, this is just [ __ ] up. I don't know what I like I guess this is fine.
+
+[84:15] You shouldn't be rotating behind them. I guess this is fine, but like I mean, they shouldn't have four mid given the fact that they do. It's better to split push, but given your map positioning, that isn't really an option. I mean, you could just grab earn player teammates to defend Walker from safety. But coming in behind them, they should just full collapse on them. Yeah, he's Yeah, you did a good job not letting
+
+[84:46] them collapse on you. If you're going down, you can down dash for better. I love trying to hit a line up. It's unfortunate you missed, but I love that you had the idea of that. Yeah, I mean, again, that is no reason to be in that mid fight. I should have quite a bit fight. If you see the enemy team grouping,
+
+[85:16] full mid, you should just try to split push. Same thing. I would have preferred Well, I mean, I guess it's only two. Definitely recast that mark. You were giving her way too much respect. Now we're like chasing her late. That feels really bad. I would say just generally you were under utilizing your the recast of your mark.
+
+[85:55] You're also not getting enough backstabs on her, bro. You can fight with a backstab range. And you're not you're under util- utilizing your rend for sure. See its usage. Oh, actually that was actually useful. What the [ __ ] I don't think I got no as ever proc before, but that was What? Genuinely useful. Yeah, this I mean 1 2 3 4 5 6 7 8 9 10 11 12 13. Four you're using like one use a minute
+
+[86:27] on ability with an 8 second cool down it was way too low. You're under utilizing your ones. You're just hurting your damage by a lot especially with the backstabber build. Against spear running you won't be able to proc these like you're not using your ones. >> If I find someone on their own, God himself couldn't save them.
+
+[86:59] >> You have a good eye. >> Your ass, yeah. Your build seems good. Yeah, it's really not to go it's really to go gun spike last but it's not bad. Yeah, that just should have been a one instantly off the hook. You under utilizing your one just feels so bad. A little bit of definitely a mind control melee. I understand that I've done that too where I'm like okay his parry is about to end and then my teammate just melees him for no reason but you've got to
+
+[87:29] split melee away if you know his parry got reset like that. >> Headed to yellow. >> Pretty pretty sure. Oh, you're not sliding enough. Yeah, you're not slide I just slide melee because it's slide but also just slide more mental slide and slide or I do got to do a YouTube review today.
+
+[88:01] Not a good guy but I'm just going to give my [ __ ] editor beaver. It has to be. Again, not mental fighting. This feels so bad. Um I mean, I would have loved to see her in this aren't fighting initially. It's really valuable to have your diamond here, but rotating into it late I better late than never. Yeah, I mean, like trying to kite her out into the seven.
+
+[88:40] I think you try you can't buffer your wanting to a recast. You could have recast into a light melee and it would have killed before she could swap. But it's just so risky. Feels like a good guy is my predict that was a fairy. That's not
+
+[89:11] I would get so rage baited if I saw a [ __ ] type that, especially an M1 player typing like something like that. Cuz you know if you tell them the truth like the fact that a earn is more valuable than Walker, he would not listen. I operated? I mean, again, you should have recast your two so the gap close, but especially the gap close on the silver who you're giving too much respect again, which is very mistake. Well, you're also one max, but yeah, we got to see his family. They like kind of her falling again just
+
+[89:41] gives her an option. Ow, I never expect this, but ideally you could go mid off those picks or I would never expect that at low, but ideally you'd go mid off those picks.
+
+[90:11] >> I mean you're doing a good job bouncing between fights. The issue is you're not doing objectives off the kills you're gaining. Like when you get kills and you get advantages, either you need to invade the enemy jungle, which actually will give you an invade warning or invade. Or or you need to be doing objectives like play or like playing for earn. Yes. I'll mental slide and this feels so bad.
+
+[90:43] Yep, I mean if I could have you I just invaded or split when you saw a bunch mid or played for this earn instead of just rotating the mid marsh but it would have felt a lot better. I I mean you can actually switch your movement also for a good movement guide. I like just knowing kind of core philosophies how to move might help you. I don't think your movement is bad for an emissary player with like no mental sliding. Since it's literally free. But it is like definitely needs improvements.
+
+[91:13] Even just trying to wall bounce or especially obviously edge boosting but that takes a lot of and a lot of practice. But that takes practice. But just wall bounce wall bouncing more when you're getting around the map. Yeah, you don't recast cuz she has swap. If she didn't have swap you should recast with old then you honestly kill them both or old them or recast. But once she has swap I like to respect that. Okay, you're not respecting her. Yeah, that feels bad. Yeah, now he just died for it. Yeah, that feels really bad.
+
+[91:50] It's Celeste. What? I do like contesting the urns, especially with diamond bolts. I mean you guys have the AP already. If you are a little slow also again, I don't hate putting a point in your old after like early as long as it's after two points number one. Assuming you're going on.
+
+[92:21] So as long as you get a tier two spike in lane, an extra volley life lane for ganking isn't bad. I mean you're kind of just tanking everything. Yeah, I mean drifter again, you don't have AoE swap. You shouldn't be in AoE fight. You should kind of be skirting the edge of the fight looking for a pick, looking for a one V one cuz you're always going to win when there's or you're always going to lose when you are in the mulch pit of AoE [ __ ] brawl Marvel Rivals dog [ __ ]
+
+[92:52] Supercell storm out my window. What? [ __ ] storm guards Clash Royale. Wait, can you not two to the rage of an enemy? That feels bad. I mean I'm impressed you knew that tech. That feels really bad that got patched. That would have been goated. I mean again, I think you would have just died. Sorry. I should say it would have looked clean, but you should not try to solo contest four people in the head. Don't get me wrong. It is unfortunate that this that tech is gone.
+
+[93:27] >> Let's take out Wraith. >> They're running with the urn. >> Soul urn is here. >> I see. This storm is still bad cuz they always [ __ ] take out my power and then I'm sad. So [ __ ] annoying California cuz like PG&E is such a [ __ ] piece of dog
+
+[93:57] [ __ ] and they don't have any infrastructure actually set up because of like well systematic flaws um and how they were paid for setting up power infrastructure. Like anytime there's like a small [ __ ] gust of wind it's like all right we've got to shut down everyone in California's power. Can't risk fire cuz we don't want to [ __ ] maintain our uh equipment. They are chasing way too deep while they still rage and is a pretty classic chase past Walker and then when you're you're lucky you're winning they should not work out.
+
+[94:35] And should have just jumped up and won or your one is just so underutilized it feels so bad. It's so much free damage on such a low cool down and the silence obviously. Which I again I don't even know if I like max. I guess fine. It's fine I guess. I'm saying you guys managed to win this. You definitely should >> Pull back.
+
+[95:09] >> Oh I see. Yeah. Yeah, that's bad. I just have like a bunch of portable chargers I try to keep charged so that I have accrued from all the [ __ ] power outages. Whenever there's a big power outage I just go to Target and buy like a $15 portable charger cuz I would never have mine actually charged on time. So now I have like five of them that I just keep charged. I probably should recharge them soon.
+
+[95:49] What are they Why are they typing do? Why are they Okay. I don't know why you're teammates each other. I mean you're definitely losing the mental war. Great hyper lines on this map. Yeah, I mean again the one Oh, you like back. You should press four just buy yourself time to spy and gather your team information. Also should look for a one for the silence to try to deny her. Swamp.
+
+[96:24] Try to just Wait, what happened? Oh, then what he Drifter just didn't follow the Dynamo into like a one V six or something. It was El Classico your teammates runs into a one V six and then blames you for not dying with them. Tornado outside. Oh, [ __ ] Well, good luck ale. I hope everything will be I mean yeah, everything should be fine but like I hope it ends soon. I know I keep saying I'll be back on
+
+[96:54] games next week but like two weeks probably one to two weeks. Yeah, I mean you shouldn't be looking for a fight mate. Well, no you should you're up Wait, you're up at [ __ ] on. Yeah, that was a good fight. I mean wrong they have three dead. What the [ __ ] You did not have to respect that. You were all healthy they had three dead. You could have just cleaned them up. Also right now you're like completely um you are wasting your advantages.
+
+[97:25] Yeah, you're wasting your advantages. We have three dead and we're just not getting any pressure with invading or anything. >> I don't like this. Like it isn't a coin flip fight mid cuz you have them stacked. Okay, to be fair, you don't.
+
+[97:55] I don't know, guys. It's not a coin flip fight mid because you have them staggered. But it still just feels Like I guess it's not bad, it just feels bad. Um People from over is pretty solid this game. I mean, it's spirit, BeeBop, they have Geist, they have Celeste who's one you can cleanse, they have um I mean, it's over ball. Uh I guess that's not it. I mean, spirit run from ram, auction clear pillow ram. Oh my god. >> They're running with the urn. >> Good times roll, baby.
+
+[98:27] >> Name a better duo than ram players and making the hero look balanced. Yeah, I mean, our team is just kind of I mean, I I don't know. I I I That is what happens when you keep fighting mid all game. And we're just going to lose. I mean, this game is just lost because we won eight fights, did nothing, they won one fight, they actually did more. Like they didn't mid all game. Like they're just even just calling objectives off of uh their pick or off of their advantages and we're just going to lose because of it.
+
+[98:58] All objectives. What's 1,700? What is >> So far. >> Bro, what is this [ __ ] like watching squirrels in the garden ass gameplay? What? You're also positioned too aggressively, by the way. Your whole team is behind you, but like what is happening?
+
+[99:36] >> The rejuvenator is descending. >> I didn't patch it. Why your first one in here? How the [ __ ] did you guys get three regions? Good parry I guess. I don't know how the [ __ ] you did that. You're also under utilizing your ults. Yeah, your ult comes out so late. You have so much value. You're getting them isolated for the damage and stacks, but also just the revives in fights. It's way underutilized. What's Symmetra's ability
+
+[100:07] usage? It doesn't look that bad. 1 2 3 4 5 6 7 8 usages in 32 minutes. It's not awful, but it definitely could be higher. And also you're not using your ult when it's impactful. Cuz you should have I mean you could have ulted before you two and that would have been a lot of value or after you got all the regions. You could have ulted as we were jumping out. Your ult just comes out so late.
+
+[100:43] That must be you missed the region before How the [ __ ] did you Yeah, I mean I like pressuring both lines and seeing which one's weaker. You can use your ult as a scouting tool right now by the way. And don't forget your ult just reveals people on the map, which is how did you miss this? That which is really valuable.
+
+[101:13] Finally. Oh, they're just I was going to say they should contest, but I guess they just won't die for free. That works. No, that definitely works. I would have just died. Throw hard. That's two people that are dead to rights we just Let me people off is okay I guess, but I just nobody pick D.Va up is okay, I guess. But D.Va redemption arc is [ __ ] solo to
+
+[101:45] two people. The D.Va redemption arc is like if we had ults. Imagine we had two D.Va ults right now, we would just win the game. Okay. Well, the one on D.Va ult is okay. ONE IS NOT AWFUL. YOU GUYS ARE WAY TOO AFRAID. NOW YOU SHOULD KNOCK ME. IT'S A knock Patriot and then clear base. Guardian's world's falling. Also, you guys should not call this day.
+
+[102:22] >> Pull back. >> Yeah, I mean that's a great call. Are you guys going to die for no reason? You should grab Ernie, it'd be great to run her out of the wave prior you have. They're going to have to spend a long time cleaning up their base. You are. Especially with movement buff. Run, should be a free cash.
+
+[102:55] Oh, they're just going to They should lose. I don't know how this game This should be the game. Oh, your seven's going to or something. Oh, your seven's farming instead of They're splitting and winning the game. They're taking the 66 or something. Is that actually why you lose? Who's going to guy swap? How does this go? Oh, yeah, I was going to say you got to kill this. How does she still have ults?
+
+[103:25] I would have gotten pranked by that, too, cuz there's no world I expect her to still have ult this deep in the fight. I mean your team is just uncoordinated. This should have been a free win, but your seven's farming, That's not on you. I mean, minor map awareness notes when you're chasing, you should have seen your Viscas is backing off for no reason, but that's not really on you. Patron's up. You don't have to contest. >> The rejuvenator is descending.
+
+[103:55] >> You can also use this. You can also use your uh That's a good reach. You can also use your Okay, so two things. One, even though that contest worked out, it's actually it's not a good contest and the expected value is not that you're actually able to steal it. The expected value should be that you uh It's first season or you just you just die with your team, you stagger, and ultimately because of that I really wouldn't wouldn't and don't
+
+[104:25] recommend contesting. Then secondarily, >> Oh. >> What was I going to say? What was I going Uh with the main lane Perry What the [ __ ] Okay, I don't remember the second point. Whatever I was saying in the [ __ ] before. You win. Uh wait, yeah. You just wanted to contest that region. Even though it worked out and it looked good, it was not the correct play to call the contest that. >> You are witnesses to perfection. >> Yeah, ultimately you just expect it Oh, secondarily, you can throw your mark on
+
+[104:56] the region before it's the ground. That's what I was going to say. I mean, you did have the timing perfect, but good players will melee sooner than that. And they would have like already had a region or two by the time you teleported in. Um okay. Anyway, as far as the notes, hit the wave, melee uh you need to melee or use your one off of your two. You're also very much underutilizing your one. Make sure you're mantle sliding and general sliding more actually your movement if you want to watch a movement guide that covers all the basic and advanced
+
+[105:27] principles. You need to invade more, you need to play for earn. You're wasting your advantages, you need to call more objectives, and then finally, you also need to hold more. Well, yeah, I mean you got reduced cuz you were contesting their mid bosses, but you're not calling any mid bosses and not using your advantages will really hurt you. More bot commands. Add notes.
+
+[105:57] dot UA Yazo, yeah. I don't know how I can apply a cool down. tickets Okay. And then I need Uh I'm pretty sure thank you for stopping by the Twitch. Welcome,
+
+[106:27] welcome, and you're happy to happy to help. Let me get a new raffle up, and then also I need to add something for the bots. Okay. Then I need to add do Let me get this up. Let me go to the bots. Add another note or something else I need to add tonight. It's going to be a [ __ ] coding night. Okay.
+
+[107:18] Okay, perfect. Um [ __ ] two rifles. Oh. [ __ ] I'm so sleepy, man. How's the latest vod doing? Probably flopped since I missed a few and vods are very, very tempo based or flopping. I guess I just put it out. Your bid is I guess it's actually not that bad. Virus week is just recovering and the
+
+[107:48] next week we get to flow things. Windows switch again, it was much more painless than I thought, which is great. We should be really back in the flow by next week. Um Oh, wait. [ __ ] I can't change the block code. You know I need to. Whatever.
+
+[108:20] Uh let me get this down. All right, perfect. As well, [ __ ] can't be bothered. I want to steal an hour after stream. I need Good. I mean, I got this is all I can do. I just need to [ __ ] not flight lock in and not fall asleep. I mean, a YouTube vod would be great. I don't think I got it in me today, to be honest. I do not think I got it in me.
+
+[108:54] Okay. And then we have go through classes on Thursday, Friday, but then hopefully next week I can get back streaming early enough to do analysis. I also need to give my [ __ ] dog a bath today, which he hates. And will not be fun for me. Get energy out.
+
+[109:25] >> Uh, I don't think return fire is that good. I think if you want to go anti-gun item like rusted barrel just does more or like suppressor if you can apply it like mass apply it. But again, the issue is gun heroes do like 10 million damage. So, you either are taking 0% or you're dying. So, my little skin is >> Got your only option. >> Until they actually reasonably nerf gun damage I feel like it's just going to be as simple as that. It's crazy we still haven't gotten a global gun nerf.
+
+[109:56] Like every I mean gun just needs The thing is a global nerf would be like minus 10% genuinely I think gun needs minus like 20% damage 25% damage. Every gun hero's time to kill is just so absurdly high. But especially like you know Viper definitely needs nerfs. I think you maybe you just do about like 10% but then you also individually on top of that nerf like Viper again is Warden gun damage. Maybe that would work.
+
+[110:26] I don't think like a Wraith's time to kill is too high. And Vindicator's time to kill is low but also it really centers around his abilities which nerfing gun would hit him the hardest with just like a gun. Or gun scaling. Cuz also gun heroes don't even feel bad in lane. That's the thing. Like a [ __ ] Vindicator is not even a bad laner. Like a Silver is not like Silver is just goes from like a great laner to a great mid game to a pretty damn good late game. Like what is the
+
+[110:57] counter to that? Heroes are supposed to have identities and weak points in the game but I just do not. Like a Silver Silver does not. Or like Vindicator same thing. He's a solid laner. Solid mid gamer with his ult and then obviously OP as [ __ ] in the late game so like when do you punish this hero? They balance around 30% accuracy which most good players don't have. I don't even think it's balanced around 30% accuracy cuz like gun still feels opie and low heat. Like
+
+[111:27] look at [ __ ] Viper man. You can have [ __ ] 10% accuracy on that hero. Your time to kill is still like a third of what a spirit hero's is. But yeah, I mean again it's just so hard to balance around something like accuracy too. And the headshot multiplier is just not even like thought about. Like I think you they just balance around like you're not like you just not being expected to hit headshots late game.
+
+[112:00] Hello, my movement? Oh, it's cuz I'm playing this [ __ ] fat piece of [ __ ] Wait, that makes sense actually. That's why I feel so [ __ ] slow. Okay, I can't do the wall jumps. Okay, let me get this off screen and then get this one back. Perfect. Do I I I swear I have slash set rank. I swear I coded this. I must have coded it and not [ __ ] added the commands. I do that [ __ ] all the time.
+
+[112:52] Okay. Uh I don't want to [ __ ] code tonight. I I kind of just want to chill and play some of this fire man. I've just been grinding Slap Smasher too. I have everyone and well I again I I A10 on I kind of just want to beat A10 on Ironclad. Like that game is so [ __ ] good. The fact that I like already beat A10 on Ironclad and like I just want to play A10 on Ironclad again. That shit's great. I never have that in games. Whenever I [ __ ] beat them or
+
+[113:22] do the hardest challenge or like beat the goal or get all the achievements, I'm like, all right, I'm done. Like I just want to do a [ __ ] Ironclad run right about now. Maybe I got to check out Slay the Spire 1. I just want them to add achievements in Slay the Spire 2, man. Like I got to have I got to be able to flex the fact that I beat A10 on people. Come on. But like recently, I don't know, man. That game I've just
+
+[113:52] I have cuz I've been doing like lower ascensions. Like ascend I had like my Necrobinder and uh the Defect were both like A6, so I was getting them up to A9 and like I was just doing the shittiest decks known to man and they were just working. Like what the [ __ ] happened? I was just taking like I they were just the worst decks I've ever made, but it just worked cuz I had OP AOE cards and I realized that's all you [ __ ] need in that game. The only thing that kills you are the AOE bosses. Like AOE uh elites that is. That's the
+
+[114:23] only elites that actually do damage. >> Well, stick with me. If you let me help you, we can make a lot happen. >> Like I literally had a [ __ ] Defect run where I just had two Hyperbeams. But my entire deck was dog [ __ ] I just had two Hyperbeams and just won on A9 or sorry, on A8. I was like, what the [ __ ] I did not deserve this. Okay. [ __ ] walk in. If I'm on the Defect run, I also got into a quick match.
+
+[114:55] All right, walk in. Just make sure you're sliding more. Okay, we're going High Docker's gun. I'm trying to get High Docker to do a class for ghost. Um oh, yeah, I have to [ __ ] I wish all the all the work. Um but I'm trying to get him to do a class for ghost at the academy. Academy. Academy. There we go. Um
+
+[115:26] but I he's been like screwing recently, so he has not he's not been playing enough variety, but I'm going to get him. He said he might be down in future. I'm going to [ __ ] get him. Like that could be such a goated coach/analyst. Yeah, I mean you're eating a lot of damage for She's grading way too high without love bites. I mean, the reason you're constantly reloading and I think I'm going to immediately give you this note is just you need to slide more. You're very much under utilizing your ability to slide. Does anything says that? Probably not.
+
+[116:00] Yeah, THAT'S WHAT I'M SAYING. WAIT, I SHOULD ACTUALLY PUSH THE AUTO PUSH. RIGHT NOW, so they're updated by the next patch. Cuz I want to be able to time that guy out. So, I did manually do it.
+
+[116:37] Uh I mean, again, as like a misjudged gun I view it as a hyper greedy, but in general as gun heroes in general in this game, you should just be farming a tier two alpha spawn. Sorry, not tier two. Tier one alpha spawn at two minutes. It is the only important thing that happens before three minutes. You really should be trying to farm it. Um farm tier one alpha spawn. You really have to be trying to farm it since again I'm not exaggerating when I say it is literally the only important thing that happens on the entire map before 3 minutes. Oh, I really hope they
+
+[117:07] breakable. Wait a box of you would probably actually perform worse now that they made breakable. Bring him back and then I'll make it so. Biggie's echo. I'm so relevant. I don't think this is Biggie's. Maybe it is. By the way, I don't I hate Biggie's in the whole lobby. I If this is Biggie's, I do not recommend it. I recommend divisions. The
+
+[117:37] fact that like again, the build is generally good, but the fact that he grieves so hard as to not put two points in the stone form, I think is so bad. Like I understand it is technically optimal if you can get away with it, but like you were just knee capping yourself for so long for like at [ __ ] 2% efficiency to be 30% more killable just does not add up.
+
+[118:07] Uh remember when you're using your Katsu, the healing also applies on your stone form. Like right now you should stone form just to heal the haze. Obviously. Oh. I'd also just focus the Yamato right now. Pretty classic mistake. You're tunnel visioning the Mina instead of just realizing like, "Okay, the Mina's probably out, but then now there's the Yamato is severely mispositioned on our haze and you can trade her back for the haze." But instead you're just going to
+
+[118:37] going to let your haze die, which is sad. Yeah, but I don't >> Our yellow walker is under >> Also go into your setting. Oh, no, I don't like the freaking queuing your whole build. I go into your settings and turn on this. So you can you walk by shops, you auto buy. Or not settings, but literally it's just in your shop.
+
+[119:07] I mean, that's fine. I would have bought a tier two since you had the souls at tier two if you were going to Stop there, you should have bought two tier ones like that, Titanic and arrested, but Not really. I would have bought a tier two to be honest. I'd buy what? Wait, Piggy's rushing Tesla? It's a [ __ ] up build. I wonder if his update is actually putting two points
+
+[119:38] Yeah, I mean, still classic of two. They get ults on you, they engage with ults, you need to be respecting when they're going to have ults on you. Um oh, yeah, because she killed the ace. Honestly, probably should have died for that. Yeah, like again, they're kind of like the same, but just broken as [ __ ] Again, it is technically more optimal if you can get away without putting points
+
+[120:08] in two points instead of one. But like I mean, you can't even at a high level. Like it's just it's literally you're you're seeking out 3% efficiency for I'm not exaggerating when I say like 30% less survivability. I think Tesla was what people did when they bumped it by 20, right? What do you mean? I think Tesla is still what people do. Well, people I guess. I mean, I just think that. Also, you're not respecting your low HP. You're
+
+[120:39] starting to slide more. Don't forget you can also just cut through waves. Haven't seen you really cut through any waves, but when you're in lower levels, Ivy's do not get punished just for shooting the wave off zip, cut something and head shotting them all in the cut through and then just getting completely free wave prior. Yeah, like that cut through was wasted. Trying to use it just for a minute of poke. Although you're saving for a big spike right now, so I'd not walk up as aggressively. >> I play much more respectfully.
+
+[121:11] >> They should try to fight you like they win. Even yes, you have more HP, but you are sitting on two-thirds of your entire net worth. It's so scary. Again, just be sliding as you're going down the stairs. Also, these stairs literally just whenever you go downstairs, if you're going to shoot, slide. I mean, in general, actually not even seriously shoot, just slide whenever you're going downstairs. I swear I saw a traffic light. Oh, last I saw it. Okay, I was going to say, am I that PTSD?
+
+[121:45] Average Viper player when she's on my team, I'm playing. And again, I'm literally that Viper player. Well, actually to be to be fair, I've been since I've been queuing random more more recently, I've actually been getting Viper games. As miserable as they are and like that hero is just so [ __ ] easy. I used to think like oh, she's actually hard cuz I would int owner and then I realized like wait. Yes, I missed literally probably 95% of my bullets cuz I can't aim while sliding, but she's just so weak. You need to use your two first we said before Stone form there did replicate the heal to your haze.
+
+[122:15] Use two and three in conjunction. Wait, did did Piggy switch? No, he just Yeah, I mean, AP awareness is an issue as well. You are not using your AP when you get it. She's really bad. No, it's three. Okay, there we go. Oops.
+
+[122:46] Rush is all max, right? I mean, you could rush all max. Make it cutting out. Really? I am getting too tired. I'm I'm probably talking too quietly to be honest. I'm exhausted. Today probably isn't a good day to do audio balancing. How quiet do I sound when it's not cutting out though? Cuz I Oh, yeah, I am cutting out severely. You're right. What the [ __ ] Okay, the filters go down to negative 76 decibels.
+
+[123:16] That's definitely normal and healthy for where my mic is. I'll post my own audio. Can you hear my breaths at all? As long as you can't hear my breaths, it doesn't really matter. Like, you'll probably hear my dog or whatever, but not that big a deal. If the filters turn the noise gets too low.
+
+[123:49] Earl. Going to parry for a reason. Else you definitely shouldn't be trying to fight this. Yeah. I mean, you did stamina the entire time. You could have just like jump dashed away. And still inform the dodge all one instead of stone forming for I mean, I guess you did technically dodge. Too, but like I mean, the damage differential is pretty significant. Else he slowed himself down allowed her to old.
+
+[124:20] I mean, I I know it's a minor thing, but you not sliding on these stairs just hurts me so much. It's so OP. Sorry, it's so OP. I probably cut out again cuz I said that quietly. I see. I see. Yeah, that makes sense. Should be trying to secure some of your own farm. There's a lot on map.
+
+[124:53] Your ult isn't up and I'm just replying clash 100% sure. You're going to the opposite side of earn right now, which feels pretty bad. No, you're going to earn side. What am I talking about? I just I only even got I must have only been coaching him before. Yeah, your team should definitely grab the comeback garden. Should be very, very, very OP to lock in right now. And then run and then just wait in the
+
+[125:24] fight because you take 30% damage, very insane. I think that's very insane. That's what I'm saying. I don't know what you said.
+
+[125:59] I mean, I would have just like taken the other centers, I guess. That was kind of I don't Is that like I I I don't know. That's like I don't even know what you would call that. Um lack of motivation Oh, you're greeting. She's trying to kill you right now. You
+
+[126:30] were playing really aggressively with those swords. Again, if we just had [ __ ] 10 like a 2-second cool down on our stone form. Imagine we could have 25 less seconds on our stone form right now. >> Let's keep this going. >> Let me only know what's good. >> That's going to help keep you warm on the inside. >> It's really bad you aren't running earn. I need to give you a play for earn notes.
+
+[127:00] Like crap. >> Darkness creeps ever closer as the trickster walks amongst them. Allow the mother to obey your bidding. Our yellow walker is under attack. >> That's bad. Um >> Let's work together.
+
+[127:31] >> Yeah, let's do this. Ults. You had a decent you almost got your ult up there. If you just kind of run the blocks you could have a I mean, I don't a lot of map information. Look at Dynamo. I almost don't hate this chase. Almost got this guy. I like the dash barrier a lot. Good. Is he actually doing that first? Is he chasing me for fun or something? Cool.
+
+[128:02] Still want to play through max Dynamo. I haven't gotten around to it. >> Lifting off. Now that's teamwork. Good. >> Sorry, I [ __ ] spaced out.
+
+[128:33] >> And another issue is just how much you're fighting. Like we're just not really playing this like a MOBA. We're just consistently fighting. And your souls, I mean, only being 13k at 17 minutes, your souls represent the fact that you're constantly fighting. You need to I mean, not even necessarily farm more cuz you're a support, but just I mean, you just get more farm. Get more farm. That could be through box maxing, just farming, I mean, there's a lot of farm on map, or farming centers, just farming um
+
+[129:05] camps slash centers, or just invading. Like any of those routes, but you are spending too much time fighting. Too too much time
+
+[129:44] [ __ ] baiting here. Could all too. I'm pretty sure you let me let it bro to break it. I don't know that's what she's typing about. It was good if you did that. Oh, also not having sprint boots is so grief. Why don't we have sprint boots on this build? [ __ ] like 10x movement speed and all that [ __ ]
+
+[130:15] Um Where the [ __ ] is he at? Oh, wait at the [ __ ] speed >> ratio. Is it really not listed? You just have to know it? What the [ __ ] It's 2. Is it two times your sprint speed or 2.5 times your sprint speed? I don't remember. Or is it 1.5? No, it's it's either 1.5 or two. Yeah, Wolf house is going up. What's going on? Where are you guys going? What are you up to? Like a ghost in the
+
+[130:45] script class or something? No, you wouldn't have done that. Again, just there's no reason to be trying to fight here. We also never ran the arm. It's so bad and now the next turn's up. Like this just feels so bad. Girl was sitting on so many souls. I have to take you with the soul awareness note. But mostly you should be playing for arms slash objectives here.
+
+[131:15] Never German never finished that game so I never finished watching it. I still want to finish watching I'm going to play the James Bond And like everyone I Well, not everyone. German I watched play it [ __ ] stopped. That's good kills. You want to see now you have one died. Yeah, I like just running around. It's good to use in your advantages although how [ __ ] rich you are it kind of
+
+[131:46] feels bad that you're the one to run it. It's not like you're Graves running it. Will you buy? Could also be edge boosting here but I mean again you're alchemist so not really expecting you to do that. Just worth mentioning. Oh, huge rock turn. You can actually tell I'm using a better speech text now.
+
+[132:16] I would honestly pick up No, you are Yeah, you can pick up the urn and try to cap it. You see two enemies over here. You should be that capping before the diamond Yump ball. You're a little late, but better late than never. I don't have those bad. Now we just got to give Yeah, I mean we just gave them time to pull up. This whole fight could be over before the Yamatou shows up, but we just took
+
+[132:46] too long which was bad. Now you're going to start calling us. Just try to die with it for some reason. They're going to get the urn. Not much you can do about it. Why are they not shooting you? This is a 4 v 6. Why are they not hitting you? Why do you guys have a chance in this fight? There's no You do not have a chance in this fight at all. God, you're actually
+
+[133:17] I mean they literally had a 6 v [ __ ] I don't I don't know how they sold this just by not hitting you. But this this was not the expected outcome of this fight. Go mid boss up this though.
+
+[134:02] I think your team was actually using the kills to invite. Map play actually looks a lot better. I mean again, you're still worse than the same by the way than the Yump ball, but you're winning. But map play doesn't look bad at all. Like it looks better than the average. Alchemist. You're actually using advantages. I'd say the biggest thing is just you're not calling objectives without it.
+
+[134:32] And you're not calling mid boss. But if we continue to not call mid boss They're kind of just asking to die with their mid or anything else. Okay, no, he does but is this piggy's build cuz if he does actually put two points in stone form actually after old
+
+[135:02] max. I like his Yeah, I like his build again. Do it. Isn't my Do I like it more than divisions? No, but I don't think it's a bad build anymore. That two piercing spikes is just so broken. Like literally as good as a tier as a [ __ ] tier three spike. I didn't remove the spikes in the mid lane.
+
+[135:32] Did the spikes pop up? I mean yeah, the issue is just I mean your page is already Yeah, you you're just starting contesting for two dead. already. You just can't You have two dead. You just have to Now they should just get the mid boss as well which they don't. So we're lucky in that regard but So still feels bad to die. I mean holy.
+
+[136:30] >> All right, I [ __ ] Bro, I uh I'm too [ __ ] sleepy to do this [ __ ] man. I keep like a completely spacing out. Like this is I I mean like uh one of my notes for you might just be to play the game cuz it feels like you have your ideas are correct and better than the average alchemist. It's more just you next execute. Like stealing this inner just too aggressive after you guys. This is the map learning thing.
+
+[137:00] You just saw uh two of enemies like right here. This stuff is like Also, you're sitting How many of you used your healing nova? Keep in mind you should use your healing nova in tandem with your two, but I just I don't think we've used them all this
+
+[137:30] game. Am I wrong? I mean you have used them, but it's definitely under utilized. Again, make sure you Yeah, okay, I used it in flame. I didn't use it but also make sure you're using it in tandem with your uh two. That's why it's so good on IV cuz you just go to a near low HP teammate, you press two, you press healing nova, they heal like 50% of their max HP. It's so stupid. >> THE AL GORGON SPECIAL.
+
+[138:03] >> YOU'RE MINE. >> OH, I see. And this is about five and you also have like the support fallacy where you keep trying to die for your teammates. You ulted there now that your old salt like your old god online now that it's offline you should just be dead, right? I think you're trying to ult the Viper out which like I don't hate the idea of but you're probably just going to die with it. Hey, you actually managed to get him out. I don't think you do.
+
+[138:36] Still trying to fight this which just feels so bad. Yeah, you're right. We should just ask for funds to get it done. Further out. All the way out. I guess she's also what three and 15 so that's not really unexpected. Oh, yeah. I mean I I did that. Support fallacy. Should I add a hot key for support fallacy?
+
+[139:08] Hot key to pop up. Yeah, I mean again that's just an unexpected death. No reason to die with your teammates there. You were so lucky they're not doing the balls off the 80 picks they get on you. Yeah. I'd be like I don't know why Lash is
+
+[139:38] tilting the drifter Graves but I guess I'd also be pretty tilted if one of my lanes was three and 25. On you. Send me a message on that. What are you doing? Being aggressive I mean you do seed too. Yeah, you do seed too. Almost like half of it. Yeah, we should have just seen or again, that's map awareness. You should have just seen the two on map and backed up.
+
+[140:12] Looks like swap next. Yeah, I mean I guess so. fight. It's kind of I know Lashish fed as [ __ ] but it's actually not a bad fight. I guess he's just 64k, but like
+
+[140:45] I don't think he's even that fed. I don't think he should be fighting doors like that. Should have just built. Uh you Yeah, I mean you literally see him die and your dead one. You should not be chasing into this. There's no reason to take this fight after your already dead one. No. Yeah, I mean IT JUST
+
+[141:17] AREN'T DOING DAMAGE. AGAIN, I MEAN IT'S PARTIALLY CUZ YOU'RE not sliding enough. But like you just you're just [ __ ] doing [ __ ] bad. Uh and again, you should not be trying to fight this guy. So fed and also you just played it. He's not going to be able to do anything to him. I mean why does this I I don't understand how Lashish so fed and yet does so little damage.
+
+[141:48] Cuz items aren't bad. Why does he just not do damage? I guess he probably has a sitting on like 10k, right? I guess he Are they finally calling mid off of like 20 picks they got?
+
+[142:24] Um, let's see. I mean, I don't hate a contest. You have Ivy on the silence. The Dynamo. Having Yeah, I mean, I guess it's fine. You should have been playing for Earn.
+
+[142:56] It's silence. Realistic Okay, so a few things. One, I don't mind the contest, but I do mind the contest if none of your teammates are contesting with you. You can't really solo contest, which I mean, you got to rage you so it was worth it, but the expected value is it's not. Then two, you should be stunned. But you're not stunned. What? I I guess this is actually a good fight for us cuz it's a free Flash.
+
+[143:31] I mean, I saw one of your team. I guess it's you also could just buy a curse. Yeah, curse goes insane this game against that like insanely fed lash game. I Yeah, I I you just >> solo contested and lost though. I miss old Rhaegar when it was just one crystal. It felt so much cleaner to steal that. I guess it's definitely healthier for
+
+[144:01] the game but it's three now but damn was it fun to follow clips. You should not try to force this cash when your net dead one. You should looks I guess you have good wave. No, actually okay, you have good waves. Never mind. It's good. Okay, you have to cash it like instantly. Only getting the cash off wave prior.
+
+[144:33] I'm going to steal you down some. Realistically, I would just tell one of my teammates to back door and win. Well, that's bad. Yeah, you're under utilizing your two. Yeah, your two is not used enough at
+
+[145:03] all. Again, especially using it in conjunction with your other teammates. I don't hate that earn cash. You just have to do it really quickly. Also, if you could have silenced the last shooter, that would have been huge. So, we could have gotten that old off. Oh yeah, when your teammates said they were coming to contest. Well, they didn't make it in time.
+
+[145:35] I mean, yeah, you're just forcing it right after wave prior. It's you do it instantly. Cash it when they show up. And also, if they did try to show up like that you could just potentially throw it in the back door. Better map split when catching that armor but you had like your Viper or someone like your pressure mid and then if they showed up to contest like that you could just go that's the game for you. Plus Cammy won be one her cuz she's five and 17 like and no
+
+[146:18] It doesn't feel like you were there in this game. I mean partially just cuz you're playing as a war but you didn't really do anything actually actually different to win a fight or lose a fight. I also don't really like disarming hacks when again my only problem is slash but as far as the issues or as far as the notes you need to slide more you need to make sure you're farming your tier one all spawn. Use your two and three in conjunction also in general uh use your two more. You need to play for earn get more farm either box maxing farming camps or centers or invading.
+
+[146:49] In the early and mid game I'll say mid game you spent too much time fighting. So awareness issues where at one point one point your souls reach 10k. You work on your map awareness make sure you're looking at your map more and then finally you also have the support fallacy of dying for trying to die for teammates too much. Oh and call mid boss call mid
+
+[147:22] uh I play a lot of furnace and seven should I pick another one? You don't have to. I mean if you want to you can but you don't have to have a pool bigger than like two. You can you can just one trick. You don't have to have a pool bigger than one but if you have if you only want to play two that's also fine. Otherwise like in furnace seven I mean it's probably like Wraith fits that pool to be honest. Or I guess hyper mobile maybe Vanidor. Okay. Uh let me get the raffle or get a raffle up.
+
+[148:00] Okay, did the commands go through yet? No, the new commands did not go through. [ __ ] I need What do I need? What was the new commands? For timing someone out.
+
+[148:30] Uh they haven't registered yet. Hopefully I remember after this one. Okay. Um Get me off this slow [ __ ] Oh, Jax is back to his normal name. What was he playing or some I think he was Was he playing I can't remember. He's playing or some insane name or whatever. That [ __ ] loves changing his name. Huge.
+
+[149:00] Oh my god. My Shiver man is so rusty, man. I used to like hit this [ __ ] all the time. My Shiver arc did not last very long. This hero is so OP, but it's like I don't know, man. [ __ ] juice ain't worth the squeeze or whatever. Like I don't want to [ __ ] learn to do all the work to actually get good at this hero again. Also, he just isn't fun.
+
+[149:30] Like yes, he's broken as [ __ ] but literally all you're [ __ ] doing is going Wow. Gameplay thank you [ __ ] Yoshi. I'm really glad I have an ability that just makes me take 50% less damage and I can throw 5000 damage knives. Like that's very fun. I should be really good. You have to like snake right? I should be really bad. Used to be good at it.
+
+[150:00] Kind of gone to [ __ ] Yeah you can see what I'm doing now with it. Cuz you have to like do it at a 50° angle and then turn back right? Really slow with it anyway. That doesn't really matter. I'm never [ __ ] playing ship again. Believe it's 90° angle yeah. Did I say something else? It's like that yeah you go Like I'm trying I'm trying to go like this way when I'm looking here. I just can't flick back quickly enough.
+
+[150:35] Yeah I can't do it. I'm not bothering to learn it. Um okay. Okay. I think I need to do that. We're good.
+
+[151:20] Wait I've never actually seen these posters before. Fight city a man versus guy. Okay. All right. I'm going to like a lash versus Bebo poster or something. I would fit the theme of the game. Wait.
+
+[151:55] I'm going to just so [ __ ] Oh, there we go. That was better. Okay. Okay. I was holding S for some reason. It's like air straight from the S. Okay, that makes sense. You want that [ __ ] like air straight. Oh, that makes a lot of sense. Yeah, that one feels so much worse. Okay. Okay. Okay. I don't know, man. Can be [ __ ]
+
+[152:26] Um I haven't looked at all the new arts. I mean, some of this [ __ ] is so creepy. I don't know. I wonder why they're going for this aesthetic considering how different it like the hideout being this aesthetic considering how different it is from the actual game itself. That [ __ ] is weird. Please just give me the customization up here, man. I'm begging you. Also, the
+
+[152:57] elevator could work. It'd be so hype. Like I feel like the they should have having the stupid ass play table, you should go to the elevator and that should be the play button. You know what I mean? You go to the elevator and you go to like this and then you choose where to go. That'd go crazy. This [ __ ] was silver. Okay. Uh 40 minute 40 minute game. What time is it? 2:30. Okay. Decent timing on the stream. I wasn't so tired. Actually a pretty good No, actually either way we're ending.
+
+[153:27] Like I started a little late so we wouldn't have time for analysis, but definitely not without tired I am. Okay. I pick up here? I do. I'm just insanely quiet. Oh, and I'm cutting out. Cool. This mic is so [ __ ] >> Let's play. >> Maybe headset mics really are the way of the future. I just the ability to not have to focus
+
+[153:57] on talking into the mic. Like again, the visual of a standalone mic is way better, but not to have to talk into the mic would be so [ __ ] nice. >> Catch. >> Just so pretty. Hate his new old too. Like I I don't know, man. Like I hate this hero, don't get me wrong, but I I just the direction they've taken him is so [ __ ] bad. Oh, yeah. It's like the last one.
+
+[154:29] The fact that everyone just got it like just complained about his old being point and click enough for them to actually nerf it and not touch the actually broken ability is so stupid, man. Like the issue is this. The issue is bloodletting. And his nice is too much damage right now, but I digress. And rage needs to be easier for enemies to see. Like his old being a point and click was not a big deal, man. Like just make it slower so it's easier to counter spell and it's fine. Like that's all you have to do.
+
+[155:00] Had a counter before counter spell existed, it was terrible. Once they gave it a counter, it was fine. I mean, yeah, but like again, if they just made it slower then lower level players would have been fine. Like I get at a certain point he was just like it the only reason he's being played is because he was an old bot. But if you just make it easier to counter, it's fine. Like imagine if they just made it parriable normal. That'd go crazy.
+
+[155:32] Give it actual counter play. Incentivize shiv to Incentivize shiv to play melee so you can intentionally bait your parry. That'd go crazy. Okay. >> You have the world at your fingertips
+
+[156:02] and it >> Okay, good start. Silas Flash, marker, ritualist. Okay, good two pods. Why you wouldn't beat this? WE ARE SILVER AND OKAY, good pods.
+
+[156:33] Double you pods. Thank you, seven. Wait, they're actually respecting the pods? What the [ __ ] Um we are silver and Ivy into shiv I mean, again, silver is like one of the best liners in the entire game, so you can definitely just kind of mog him with your wand. But Ivy's pretty weak, so I'd be a little careful. Hey, movement's looking good for ritualist. Okay, movement's looking insane for ritualist player. Edge boosting in ritualist is far above
+
+[157:03] the bar. I'm not actually sure if you hit that edge boost, but I think you should try to as well. >> I'm playing for keeps. He's been watching too many good players. >> Rock and loaded. >> Aim might need a little work for going down to THE MECHANIC.
+
+[157:33] I FOCUS DOWN KRUL. YOU can get him low before he gets his QSR, it's huge. That thing Hard if he just does that. I would still try to focus him before QSR then switch to focusing Shade. Like I think you're going to farm your tier one on spawn which is great. There you are. That was really good. Oh, that did not look bad.
+
+[158:08] This game is good but I kind of feed for things. I call out people don't go to the lane. Oh yeah, what are the notes? Just play this out and see if it's worth I have a backup if it doesn't I just want the game to be solo queue. I prefer the time is like a 100 game. Oh yeah, that shouldn't fit I think. for the patch What's the day of the patch? And everything looks good. I mean yeah,
+
+[158:39] actually we don't start school Just got to not let Krul double score on you. I hate double defensives. You have to be talking a melee into your two though. Actually sorry, you don't have to but [ __ ] for that added melee damage which valuable to do on that too.
+
+[159:09] Krul all honestly don't think I should have died. I mean again, getting cruel behind before he gets his Q S R is massive. Oh, I see why I see why this lane feels free. I understand now. They just only have one player in their lane. Yeah, the aim is feeling really rough.
+
+[159:40] I mean you can't really kill. Definitely good to leverage that as I've been talking again. I've been trying to talk about this for a while. I'm actually going to try to focus on it in the squad. That wave where you get old on them now that you got to kill in lane is so insanely important to fight on. I mean the movement looks really good
+
+[160:10] though. I'm very impressed by the movement. Yeah, we're giving a lot of denies which feels really bad though. Stop letting yourself get poked down. I mean they're not playing well by any But keep in mind with your melee life steal, it's good to look for twos on the enemy. What are you saving for? Slowing bolts probably.
+
+[160:42] Oh the what? Everyone just forgets slowing bolts is OP. That item is still over statted and yet I feel like people just got bored with it and kind of stopped buying it. I just built I honestly don't know anything about I just built for silver. I love that your buff timer is down too. I again, this probably is going to be like I don't know what the issue is going to be. Yeah, I did that. I literally watched John John miss that exact jump this game.
+
+[161:14] I like to break my life, too. I mean, could you really punish if you parried? Probably not, but you know, I like the idea of it. Stalling bullets surely, right? Oh, it's bad. Oh, yeah. You know what? I like stalker. Yeah, I generally like item builds now. I used to not be the biggest fan, but
+
+[161:44] after he started playing pro, his item builds actually gone pretty solid. I mean, he definitely has some like he definitely has some weirder choices, but he was the one who coined the whole silence wave silver, which I did not believe in when it came out, but he was definitely right about that. I do think his building on silver is pretty solid. I don't think I recommend this build. I recommend over wrestle wrestle wrestle. I recommend together. Oh, I probably need to update silver's actually. I don't think Pure has updated his build.
+
+[162:31] Yeah, I mean, you're forcing a five minute Yeah, again, this looks really good. Uh I'm not saying I'm definitely not seeing any mistakes for rituals by the way in this lane. The one in there. I do think you're kind of under utilizing your one to be fair. That's the second time we've had our one up in a disengage and we haven't used it for a full like 100 damage. I mean, your one is just so absurdly broken.
+
+[163:06] I've been chilling is kind of a dated item. It was really good when in older and meta. Reason it was getting bought a ton was cuz in older like it procs on melees. So when older and when we were just like everyone was burger boxing or meleeing that's the [ __ ] I've been chilling gods so. Uh some type I guess. [ __ ] it got useful. But now we're kind of both with weapon shielding and their comp does not boast weapon shielding. I mean to be fair a great talent weapon shielding is quite good against but like Wraith it's okay
+
+[163:37] and the rest of their comp is going to be spirit heavy. I would have just gone slowing bullets to be honest and in this lane in particular weapon shielding. I'll get you at all. A good thrill can cancel his ultimate parry. I wouldn't expect it. I should actually.
+
+[164:07] I didn't say you could dump your disarm before. If you were able to dump your disarm before you got to have free mode it would have been a huge. You're going now you're just buying too much like filler.
+
+[164:37] And bullets are definitely the play and you're just going to gun spike. Like I guess at this point you could buy orange spike instead of rusted but it's not orange spike sorry. You could buy green spike instead of rusted but it feels kind of bad. >> Don't forget yeah I was going to say. I'll bring you great meals in the year.
+
+[165:09] Combo this is getting to. Yeah, I mean I guess maybe. If you hit the parry on the tower, I think you do. They're actually never mind that was a All right. Like I forgot your one was up and that's just like 5,000 HP. I like this room. Lane's not broken. I don't really like force on this room. Yeah, your Ivy just dies and now they're going to break the tower.
+
+[165:40] It feels really bad. Yeah, then I didn't get them fully playing.
+
+[166:18] Write your notes. There's itemization and then What else is it? Also I actually ate before even though I'm going to say I'm exhausted but sucks I actually ate before stream so I don't feel hungry. It's actually crazy how OP eating breakfast is. I don't feel like [ __ ] all day. Until I eat lunch. He said I mean I was it was unexpected outcome but I had to try. Yeah, Yos is kind of wasting time running across the map. I I You haven't fully lost your lead, but
+
+[166:48] that choice to force a roam and then kind of sprint back like that has thrown away a lot of your lead. Suffocated a lot of your lead at the very least. I find that Sibling's filter is worth like four S's. Hit really hard though.
+
+[167:26] I mean back off. I just back off. Again, this is an at best 1 v 1. Yes, you won the 1 v 1 with Lash, but you know you don't have back up. You have no idea if he has back up. He's running away, he probably doesn't, but I would just use the space to return cuz someone could be running over right now. At least you toss your rusted barrel on him just for the bullish shred. Well, I mean again, he's shooting you. All right. Bullish shred if nothing else. Yeah, there's the back up.
+
+[167:57] Very late, but he didn't get there. And again, if he showed up there like 5 seconds earlier, you would have just died and Lash would have not have, which is not good. Um don't It'd be better if you could run around too. Uh after Lash got out of the safe meant to roaming. For in your lane? I mean, you just have to a tower you have to break the enemy's tower before you can really start leaving your lane.
+
+[168:29] Cuz otherwise, I mean you're you're just your Ivy's just going to have to give tower. Cuz you haven't given her the space to be able to anchor the lane. Wave is just ping-ponging between between the towers of Denied there, too. I don't think you got a single deny and you've given a lot, which feels bad. >> Whispering. >> I mean again, it's respecting your enemies' intelligence.
+
+[168:59] You win the one V one, but if she's engaging like this, you have to assume shot. She would blown unless she's in the one player, which But it appears she's in the one player. Also, definitely should have carried that tower like five times over. He is a good at I got the movement's good, but it shows
+
+[169:29] another at best fight, which is really hurting you. I like cleaning up wave as you're And Andrews is always just great.
+
+[170:15] And again, sorry I'm going quiet, but like okay, you shouldn't be focusing through. That being said, I'm glad you moved to the Wraith focus and closer Hard to tell what the [ __ ] is happening. Love New Earn. >> Walk away while you still have the chance. >> Love the spike. I mean again, a little too much focus into Krul, but that was the biggest thing I noticed. I kind of spaced out for the first half of that fight also, to be fair. I need to remove the spikes. Uh let me have it to my videos. Change the spike.
+
+[170:52] Also, the slash. S- cool the side cool down. Cool down. Now, only remove zero. I'm lucky. I hate that Discord commands take like hours to catch up after they're added. It's so annoying. I guess I should have like a blank command that I rotate with spread new commands. That might be too much WORK THOUGH.
+
+[171:42] I MEAN, WHAT'S YOUR ANGLE AS FAR AS THE GAME? ALSO, YOU'RE VERY FED. You should just be trying to invade as much as humanly possible. You bought your pick here, which feels a little bad, but doesn't work. So, you could be looking for picks to invade with him. And in general, just trying to keep right now. Yeah, sorry. I'm Yeah, no, it's It's like speaking guidance more than anything else, but
+
+[172:12] yes. Is it cutting off, or is it just going really low? I'm like min max my compressor as much as humanly possible, but it's insanely high right now. Sorry, I think I really tailed off again. It's pretty insanely high right now. What is this? Um
+
+[172:42] I mean, yeah, there's kind of no reason to position this aggressively mid in the first place more than anything else. I was just saying you should invade more than ahead. Going well, okay. I mean, that's good. So, it's past the noise gate. I just need to tune up the compressor now cuz I'm talking really quietly. But, like I don't know how much I can move up the compressor. I'll probably mess with it more on next stream. Invade more.
+
+[173:28] I wouldn't go Yeah, this is a This is a mistake. You're seeing your teammates take some stupid fight on the left side. You should just invade or try to split. Instead, you're going to join them in this dumb fight and probably die with them. Glad you don't die with them. Okay. I think you probably should have just farmed this camp, but glad you was that fight is bad. Superior duration's okay. I mean, it's not that crazy to be honest. Like, it's just I don't know.
+
+[173:58] Buy it if you want, I guess. But, like, I think most silvers aren't buying it right now, at least this early. I don't like bullet resiliency, either. You already have weapon shielding. Again, I mean, I Yeah, Graves is going to pivot more towards me. Actually, what she was talking about Echo Shard as I was talking. She's going to pivot more towards spirits. Then, your only real gun threats are Great Talon and Wraith and also keep in
+
+[174:29] mind what resilience is not good of an item because armor piercing rounds exist. You want a defensive item for them, metal skin is better, but also I would just not be itemizing for them. I just buy a spear of resilience. I thought everyone mid would have gone to yellow You should be going for Uh we're just kind of sitting mid waiting for something to happen which is not good again. It's better just to be
+
+[174:59] invading here. Oh Oh I would be so upset if I were you. Uh but again, I mean you shouldn't be fighting here. This is why you don't look for picks mid. The whole team will always just show up on on you. Also the spear shield thing is really good on the Great Talon by the way cuz the pop happens
+
+[175:29] like if he owls you the shield applies to the owl. I'm not sure about the resistance. But the shield the the shield blocks most of the owl's damage. Some reason I don't know why that interaction is insanely ridiculous. They're not respecting that you're low that is. >> Defend granite. >> Maelstrom life striker ready thing.
+
+[176:11] Yeah jump it's actually really accurate after I upgrade the model. Let's see what I mean again it's a lot more intensive on my GPU, but first I'm on my RAM, but it's not the worst thing ever. My CPU is so hot. It's so funny. My graphics card runs so quiet like not quiet, so cold, but my CPU runs hot. Is that normal? I got My case is like small and kind of hybrid and half of it
+
+[176:41] is so hot to the touch. The other half is literally cool. Um What's it at right now? Yeah, my GPU is at I just Wait, what? I'm going to check my GPU usage. Wait, sorry. I'm just Whatever. I'll I'll I'll mess with the scene more later. I just I think a monitor scene for this type of thing. >> I'll see you right.
+
+[177:12] >> That's not accurate. Wait, what? That's weird. >> I'll see you real. >> Wait, why is this Oh, wait. Sorry. One second. Oh, it just doesn't have a temp. I see. Okay. Wait, sorry. One second. >> I see shiv. The spirit urn is waiting to be claimed.
+
+[177:45] >> Oh, my bad. Sorry about that. I'm trying to keep like a live system monitor of my CPU temp, but it's Here's something I learned. What's 50 Celsius to Fahrenheit? >> We must deliver the urn safely. If you need more protection, >> Celsius to Fahrenheit. Oh, 122 Fahrenheit. Holy [ __ ]
+
+[178:16] >> Your look is under attack. WE NEED TO PUSH UP. I GUESS THAT'S LIKE normal times. I do like okay. So, I do like that you're playing for this earn. Actually, let me mark her. Swap for the VODs. It's marked. So, I'm done tangenting. Um, I do like that you're playing for this earn. Yeah, your team is the one to Actually, that being said
+
+[178:47] you just can't cash earn as two people. I guess you see them here team here. It's just like the expected value. You only see three of them on map. Expected value should be the other three of them are on this earn and they just collapse on you and kill you, which looks like exactly what's happening. Yeah. Yeah, I mean especially cuz your team's winning the fight on side. But, now you've given the enemy the way more valuable fight on the opposite side of the map. I guess luckily your Ivy's going to make it. So, it'll be a 3v3.
+
+[179:18] I like the counter smoke by. Yeah, good into Lash, good into Wraith, good into GT, good into Moe, good into Shiv. Yeah, for sure it's a good buy. Okay.
+
+[179:48] Good job kiting. Uh, you shouldn't be shooting him. You should be trying to Kobe your bola on him. Oh, that feels so bad. Oh, well that's why you should have led with your Also, off the picks instead of greeting that gray talent kill you should have just done mid boss. It would have been much more valuable to do mid boss. Like, I'll give you a call mid boss notes.
+
+[180:22] There you go. >> Where do you THINK YOU'RE GOING? >> I MEAN IT'S LIKE great parry. We're just going to cluster [ __ ] and taking the coin flip fight for no reason, which feels really bad. You guys are just completely overstaying your welcome. After that GT, it should have
+
+[180:52] just been instead of chasing do mids. Or if you did chase him and lost him, just back up after that.
+
+[181:23] Be careful. You're weak side right now and your entire team is positioned way too aggressive on this side of the map. I thought you were up side. Your whole team is positioned way more defensive on this side of the map, rather. Being weak the furthest positioned furthest most aggressive positioned on your team and weak side is not good.
+
+[182:08] Yeah, I mean you're farming a lot but it's kind of why silver really shouldn't be the one weak side. You want to always be brawling more. You don't farm that quickly. You don't farm even close to as well as someone like seven. Or Ivy if she's gone. You don't farm as close as well as someone like seven so it feels really bad for you to be weak side. And then also the fight that just kind of determined the game was completely out of your control. Also you kind of uh you need VRS really badly to hit your spirit spike if you're going to go duration really like this. What? How did that
+
+[182:38] Okay. Thank you mid bot. >> Headed to blue. I'm going down. >> Okay. You just need a bit longer cool. >> I'm not backing down.
+
+[183:13] >> I'd apply for the Zeraan off the pick for sure. Prefer no one to be here than me. Uh I mean you should ask. It's more like you should like get on mic and ask like hey The prerogative is for you to ask for someone to take the lane. And now again you're just dead in a fight that's going to determine the game cuz you weren't listening fact in the fact that you were low HP. That one I do have to give you a note of respect. When
+
+[183:56] You're just positioned way too aggressive. I think I got rage at how aggressive your positioning is. I mean one pick this late in the game you could Oh yeah, you already have a call mid boss now. You kind of got to be calling reason this game you guys should have won this game like 10 minutes ago if you were calling mid boss. Let's say we're just fighting too aggressively and inting for walkers. So definitely don't just run at walkers cuz I don't know if that was what that was, but like don't run at walkers for fun or cuz you're bored or whatever.
+
+[184:26] I mean you call if you aren't listening. You could call attack balls and ask. What I do is I literally again as someone who doesn't really use my mic no matter even at when I did this [ __ ] in low elo when I was like way back in the day before ranks even existed and I was climbing. I would just spam ping the [ __ ] out of mid boss and they would listen. You just literally annoy them into doing it. I MEAN, YOU SHOULDN'T FORCE A WALKER ON THIS TEAM.
+
+[185:16] I MEAN, OKAY, THERE'S like a couple more edge boosts you could hit in that, but like I'm not going to at this level your movement is far above par, so I'm not going to drill down into it. I counter spelled that for sure. That's more of a micro issue. And then counter spell. Surely we go mid boss.
+
+[185:47] Okay. They're all dead, so pressure. Like in him obviously items broken as [ __ ] You can insane You can I mean normally if the old noise gates that cough would have picked up but no you can insanely easily clear. All right, insanely easily apply it with your wand.
+
+[186:17] I mean you don't have to first like second of all you can wait till the latter half and you can just invade. Get wave pressure. I don't want to ate this siege immediately because you had the greatest pick but I guess it's fine for you guys to take it out. 1,300 damage by the way. Shot you three times. God you missed the bullet. I like how
+
+[186:47] much you're fake mailing. But you can like I don't mean that like I don't mean this as a joke. You shouldn't be fake mailing M1 players. And I'm not saying that as a joke. Uh they're just not the type of scenario. Unless they've already parried you then you can start fake mailing. Back Oh no actually your pick is up. I can see accurate respond timers but I'm assuming it won't be up before you can end.
+
+[187:24] So yes but by the time I mean okay I guess to be fair if you you did say you called it three times so maybe if you got there earlier it would have been better but by the time you got to the base you only had one pick for like 10 seconds so it didn't matter that much. But if you were calling it like three times and let's say before that like three were dead then yes you are correct. I you know to be fair I don't know exactly when you initially called it. Um but I don't I mean the window is pretty tight. Oh big is your is your internet or not internet power back up? Also as far as the notes,
+
+[187:54] I mean, itemization, you just itemized a little too offensively early. I wouldn't buy weapon shielding. I also would have just gone slime bullets and gone in your gun spike first. Don't take out Abyssal fights. That was a major issue where you taking Abyssal 1v1s. You need to be invading more. You need to be calling mid Oh, actually, let me uh to-do list add Abyssal fights. I mean, you need to be calling mid boss more. You need to respect when you're low. You kept egoing when you're low HP. And then finally, don't just run into Walker, but I mean, overall, I would say you played that much better than a Ritualist player. Like, if you just clean up the fights
+
+[188:24] you're taking by far, like I most importantly clean up the fights you're taking so you're not just taking terrible fights. Like, you will rank up quickly with your And maybe a little bit aim training, you will rank up quickly. But, like, those are your your mechanics aside from your aim were very strong. Your macro is generally good. Okay. Anyway. I got more love viewers, so I think I'm just going to [ __ ] end. Let me check if anyone I normally raid is live. Uh TW, no, I don't care about the market for [ __ ] Trade Web.
+
+[188:55] Go to Twitch. I wish my cookies would like do something. Oh, whatever. I'm not even logged in on this browser yet. [ __ ] I still need to do that. I'm going to put that off. Okay, yeah, I'll know when I normally raid is live. All right. Hope you all have a good one. Um I'll be back tomorrow with four Viego coaching sessions and then a Go Zoo class at night. Um but yeah, Academy. Hope you enjoyed
+
+[189:27] Academy. Hope you enjoyed Academy. There we go. Hope you enjoyed. Keep it real. Talk to y'all tomorrow and peace.

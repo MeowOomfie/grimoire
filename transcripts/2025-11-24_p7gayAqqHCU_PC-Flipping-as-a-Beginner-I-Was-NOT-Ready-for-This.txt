@@ -1,0 +1,24 @@
+# PC Flipping as a Beginner: I Was NOT Ready for This
+# channel: Tonydadof4
+# date: 2025-11-24
+# url: https://www.youtube.com/watch?v=p7gayAqqHCU
+
+[0:00] I started PC flipping with zero experience and no knowledge of how to build a PC. And these are the challenges that I went through and the journey so far. >> That's actually not bad. That That's a pretty good hook. I got to admit that was a good hook. But first, let me tell you how this all started. It was a few weeks ago and I was just browsing YouTube and I clicked on one video about building a budget PC. After watching it, I slowly got recommended more videos about the same topic until my recommendations was nothing but PC building videos. On second thought, maybe I should have watched that last one. went all the way through. I was
+
+[0:30] falling deep into the PC building rabbit hole and I decided I should give it a shot. So, the next day I made a Facebook account and searched marketplace for any used or old order cheap PCs. And I stumbled upon this beauty for $125. It had no operating system and no storage. But blinded by my excitement and potential new hobby, I didn't really even care about the missing parts. So, I went out and bought a 256 GB SSD and a $50 graphics card. Also went to Best Buy and got a eight dollar USB flash drive so I could do a fresh install of
+
+[1:00] Windows. Okay, big update here. So, I downloaded Windows 11 onto this USB and I also got a new SSD. It's 256 GB. I just learned how to plug it in. Um, this will be my first boot up with the Windows 11 on this, so we're going to see how that goes. I actually don't have a lot of storage on my phone, so this might cut out soon. Oh, it's kind of stuck on this screen
+
+[1:30] for a while. I probably should have bought a Oh, I probably should have bought a different uh PC. Yo, we got it. Windows 11 setup. Huge. All right, another quick update. So, I had Windows 11 on here. It didn't Okay, it didn't meet the system requirements, so I did a little work around. Uh, typed some something at a
+
+[2:02] command prompt, open some files or whatnot. I just followed a YouTube tutorial. That's pretty much all you need to know. And anyways, it works now. Um, [music] it's installing Windows 11 on something that technically can't run it, but can run it, if that makes sense. I am very excited. I can't wait to start testing this. I immediately started downloading CS:GO and then I tested it and overall it ran really well. Like I didn't have any issues with it. It felt pretty good and I had a decent frame rate. And then after that, I tried
+
+[2:33] Fortnite and I had pretty good performance. like I was getting a solid 120 FPS and the graphics weren't too bad. All the settings were low for both of the games, but they still ran decently well for a lower-end PC. Keep in mind, I only spent like $125 on this PC. I spent like an additional 25 for the SSD. So, out of the box, it ran two games. one lowerend game and then another pretty demanding game for decent
+
+[3:03] frame rate for $150 which is pretty good in my opinion. Um but sadly this is this is when things turned for the worst uh unfortunately. So I was trying to switch out the GPU. I was upgrading it to I think it's called a RX 570 or something like that or 580. I forgot. Anyways, I was switching out the GPU and I messed up. Like I don't
+
+[3:34] know what happened, but I just could not get display for some reason. Like I receded it like a hundred times. I updated the BIOS. I changed settings around. I I was doing everything I possibly could to make this work because I spent $50 on this part and I researched it and made sure that it worked. It was compatible and for some reason it just wasn't working and that's where we are today. Um I still can't get
+
+[4:04] it to work. I've don't know what to do and I think I actually broke the PC because now it won't even turn on. So yeah, [laughter] I mean I think I just broke it, bro. Uh I took everything out and I'm going to after I get thermal paste, I'm going to put everything back together and see if it can work again. I highly doubt it, but it doesn't hurt to try. Um but this has been a great learning experience. I feel much more confident now about doing
+
+[4:35] anything with my main PC. like if I ever had any issues or want to change out something, I feel a lot more confident in doing so. So, if anything, I may have wasted money, but in the end, I gain knowledge, and knowledge is the most important. If you have any suggestions or comments on what I can do, I would appreciate that a lot because I honestly don't know what I'm doing, and I don't know what I need to do to make this work. But anyways, I appreciate you for watching. Goodbye.

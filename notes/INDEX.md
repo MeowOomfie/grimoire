@@ -453,6 +453,35 @@ One line per digested video: `- <id> | <channel> | <title> | <topics>`. Newest f
 - 1E3DkTc-ZxI | aquatiq | Rat King's Bombs are INSANE now | rat king, scrap grenade, royal pestments, resist items, laning
 - t0M5JusSvio | aquatiq | Grey Talon is SOLVED With This Build | grey talon, build, bird stacks, baba, items
 - 1mE_AvUFdwY | Midknight Vods | Free Baba Coaching, 10/7/26 | baba, tempo brawler, brew choice, ult stacks, sinners farming, build review
+- aQ1gGXYkUoI | aquatiq | I Don't Think The Warden Nerfs Did Anything | warden, patch reaction, celeste, veil walker, item build, walkers
+- X7WZkCpZl-4 | aquatiq | Vindicta is ABSOLUTELY Broken Right Now | vindicta, bebop lane, trophy collector, spiritual overflow, mid boss
+- Mt835qxHYic | aquatiq | Sucking EVERYONE With Geist | lady geist, hybrid build, mystic expansion, essence bomb, debuff remover
+- FRjHPzVG6E4 | aquatiq | NOBODY is Safe From Vindicta | vindicta, bebop lane, counterspell, blood tribute, burst fire
+- jEobDEUNL1o | Midknight Vods | Playing & Analyzing Calico, 9/16/26 | calico, roaming, box routes, patch reaction, mid game, self review
+- 8iZJR3sf3oA | aquatiq | I Think Paige Is A Carry Now | paige, gun build, golden goose egg, knockdown, items
+- l5IG1n2VdtQ | aquatiq | I Found The Most Optimal Celeste Build | celeste, items, matchups, echo shard nerf, objectives
+- Wys1W_zfP4M | Midknight | Stop Blaming Your Teammates, Coaching an Oracle Shiv | shiv, coaching, wave priority, right click movement, itemization, tilt
+- qE_yGbhrtRc | aquatiq | I Finally Understand Why Everyone Hates Celeste | celeste, opening rounds, scaling, laning, items
+- wI4yzCtQik4 | aquatiq | Vindicta Is NOT Supposed To Be This Strong | vindicta, items, drifter matchup, stone form, macro
+- ZBhdWd-MbAg | aquatiq | We Need to Talk About Warden... | warden, mina lane, wave priority, items, macro
+- pQ6SEpLAmFs | aquatiq | I Made The Perfect Mirage Build | mirage, spirit build, suppressor, diviner's kevlar, headhunter
+- J8MhP_K_N-s | aquatiq | I Turned Grey Talon into a Gun Carry | grey talon, gun build, reactive barrier, glass cannon, items
+- lUE6OPQTpcI | aquatiq | Warden Needs to Be Nerfed... | warden, alchemical flask, patch history, items, macro
+- Tq5WpTP954k | aquatiq | Celeste's Late Game is DIABOLICAL | celeste, laning, trading, build, refresher
+- KWfozOqiJTg | aquatiq | Mo & Krill Became Impossible To Catch | mo & krill, veil walker, torment pulse, grab, macro
+- iBiRw1jG9_I | aquatiq | MAX CORTISOL WARDEN | warden, item choices, base defense, colossus, commentary
+- rmmpIeC7IsY | Midknight | How to Win an Unwinable Game, Eternus Celeste Coaching | celeste, coaching, comeback, punish roaming, timers, calico counters
+- Ivd6z7tNiNc | aquatiq | Mirage genuinely controls the entire lobby... | mirage, lane aggression, items vs healing, split push, commentary
+- 2HAtMfqwzFM | aquatiq | Vyper is disgustingly broken... | vyper, kit, turret patch, fighting when ahead, commentary
+- lG-QanVGK6U | Midknight | You're Over Rotating, Coaching a Phantom Billy | billy, coaching, rejuvenator, mid boss, dead time, itemization
+- JCBnfh2TdA8 | Midknight | Stop Making Plays on Weakside, Coaching an Oracle Billy | billy, coaching, weak side, shrines, sell priority, target priority
+- M9XQ6LG9hpg | aquatiq | Calico Doesn't Fight Fair | calico, spirit build, tunnels, boxes, gameplay
+- VV72OI_F06w | aquatiq | I Think Drifter is Solved... | drifter, hybrid build, spiritual overflow, silencer, gameplay
+- s3e8m-Utr3M | aquatiq | Silver is Broken Again... | silver, patch changes, weighted bola, sprint speed, phantom strike
+- m4nw0PlckXw | aquatiq | Gun Shiv is the New Meta | shiv, gun build, golden goose egg, egg meta, mercurial magnum
+- JqG6t_0VVuQ | Midknight | How to Support in MM, Coaching a Mystic Viscous | viscous, coaching, puddle punch, splatter ricochet, soul efficiency, egg meta
+- p2F4yLsCi6s | Midknight | You Need to Create Plays, Coaching a Phantom Calico | calico, coaching, gloom bombs, invading, arctic blast, gun spike
+- xTyFNE0yyQo | aquatiq | Bird Build Grey Talon is INSANE | grey talon, guided owl, spirit build, mystic reverb, lightning scroll
 
 ## General and other heroes
 
