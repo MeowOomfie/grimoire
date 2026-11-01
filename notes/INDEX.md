@@ -591,6 +591,22 @@ One line per digested video: `- <id> | <channel> | <title> | <topics>`. Newest f
 - wKeOOo_xqvs | Midknight Vods | Free Celeste Coaching, 2/10/26 | celeste, coaching, builds, ricochet aim, movement, at best fights
 - 2sj356unks0 | Midknight Vods | Free Graves Coaching & Patch Overview, 1/31/26 | graves, coaching, spirit build, ap order, ult pressure, patch notes
 - 9S9c4ONixGE | Midknight Vods | Free Silver Coaching, 2/3/26 | silver, coaching, shred, melee items, kick tech, urn
+- g7ypc_AOFlg | Midknight | How to Condition The Enemy, Eternus Billy Review | billy, coaching, light melee, parry conditioning, cultist sacrifice, chain gang
+- tCSt5ChWxxE | Midknight | You're Fighting too Much, Eternus Calico Review | calico, coaching, overfighting, item spikes, bags, sprint boots
+- K75UNhTwDm0 | Midknight | The Importance of Urn, Emissary Yamato Review | yamato, urn, rejuv, right click, wave priority, coaching
+- 5Ezk1pRe0ls | Midknight | Your Macro is Holding You Back, Phantom Yamato Review | yamato, overstaying, rotations, hp management, secret shop, coaching
+- T_2OPogV3Qw | Midknight | How to Front line, Oracle Victor Review | victor, coaching, raw spirit build, front line, ult usage, reactive barrier
+- LNiiF_7XQrE | Midknight | How to Build and Play Victor, Arcanist Victor Review | victor, coaching, build, aura of suffering, parry training, urn
+- nQuZ-AoT7fA | Midknight | Eternus Viscous Analysis | viscous, express shot, split shot, puddle punch tech, healing rite, midwalker
+- ikkRLIXWMhU | Midknight | Why You Can't Win, Archon Vyper Review | vyper, fury trance, bola, mid boss calling, greens, farming
+- pLOzu3zd6Vk | Midknight | How to Play Around Your Enemies, Oracle Shiv Review | shiv, soul awareness, healing booster, debuff remover, mantle slide, mid boss calling
+- ImdEhvexLJk | Midknight | How to be Malleable, Phantom Bebop Review | bebop, coaching, hook leveling, escape movement, capacitor, target priority
+- bW-_4lxGBX4 | Midknight | You NEED to Pay Attention to Souls, Oracle Shiv Reivew | shiv, coaching, urn, reactive barrier, egoing, target priority
+- JY7JvovPwUo | Midknight | How to Monitor Your Enemies, Archon Calico Review | calico, coaching, ability tracking, invading, soul splitting, backline focus
+- WQ7oUCa_4v4 | Midknight | When to be Aggressive, Eternus Yamato Review | yamato, coaching, box routing, urn, wave priority, itemization
+- jJvhOH1-8Us | Midknight | You're WASTING Your SPACE, Ascendant Geist Review | lady geist, coaching, bridge control, investment spikes, soul awareness, urn
+- ZOk2WWyl_ec | Midknight | Stop Disrespecting Your Enemies, Oracle Viscous Review | viscous, coaching, combo, resetting, sinners, mid boss
+- yjoDPCs_1r8 | Midknight Vods | Free Drifter Coaching, 8/28/25 | drifter, coaching, kinetic dash, falloff range, target priority, farming
 
 ## General and other heroes
 

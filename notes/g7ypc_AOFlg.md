@@ -1,0 +1,102 @@
+# How to Condition The Enemy | Eternus Billy Review
+channel: Midknight
+date: 2026-01-08
+url: https://www.youtube.com/watch?v=g7ypc_AOFlg
+
+## Covers
+Billy coaching VOD review by Midknight of an Eternus Billy player in an E6 lobby, laning with McGinnis against Victor and Ivy.
+Themes: trooper aggro, who to focus, ability order before two points in Blasted, playing around your lane partner, waves crashing into objectives, light melee conditioning and mixups, Chain Gang timing on Rejuvenator and urn fights, Cultist Sacrifice usage, Rejuvenator hygiene and positioning.
+Reviewed around early January 2026.
+
+## Claims
+Lane (Billy with McGinnis vs Victor and Ivy):
+- You took minion aggro and kept sustaining the fight; you took 150 from troopers. Even though you did 78 to the Ivy you took 75 from troopers, so you didn't win the trade, and backpedaling while shooting slowed your shot speed. [1:01]
+- On Billy, don't lead with light melees. [1:31]
+- Conditioning: Billy wants to condition enemies by light meleeing a lot, but every new game the enemy carries the conditioning from their previous game. On your first engage, don't light melee; stand in their face, pretend to light melee and see how they react. If they don't parry, start throwing aggressive light melees from the second wave. [1:31]
+- Don't trade aggressively with a Victor near the wave when you are already behind, and don't hard focus the Victor, which is exactly what they want. [2:32]
+- Respect the threat of a flank when you can't see both enemies. [2:32]
+- If you don't know where one enemy is, play overly defensive; when you see both on the left side of the wave, take a more aggressive posture and hit the right side of the wave. [3:36]
+- Spirit Shielding is good in a lot of games because it is easy to proc; Bullet Shielding is useful in some games, but generally only if you go triple shielding. He buys them into lanes with the same damage type. [3:36]
+- 1-3-1 muscle memory is fine, but before you have two points in your 3 (Blasted), make the active switch to using your 3 before your 1. [4:05]
+- Laning stage is the part of the game where you have the most control, and he now gets the most notes out of it. [5:06]
+- You engaged on the Victor while tanking a minion; that trade should not have been as positive as it was, it only worked because they ego traded instead of backing off when your McGinnis ramped her gun. [6:08]
+- You will get parried fairly often and will lose lanes and games to parries; that is just how it is. Don't stop light meleeing after one parry, keep integrating light melees into your combos. [7:11]
+- You looked aggressive while your McGinnis wasn't nearby; play around your McGinnis more. [7:41]
+- Engaging on the Ivy was the right idea, but she has Stone Form so the ult wasn't really worth it. [8:11]
+- Don't light melee off your 2; it is so predictable and has by far the highest rate of getting parried on Billy. 2 then 1 will bait out their parry for no reason. [8:11]
+- Boosting for movement speed on the chase is fine, but once she reaches the tower, back out; you chased in front of the wave. [9:12]
+- You let a double wave crash into your walker, which isn't worth it. [9:44]
+- Mixup: the two times you led a combo with a light melee before using Bashdown you got parried. People are conditioned to Billy going 1-3-1, so after your 3 a light melee is surprisingly unexpected and converts more than you think, because they expect the instant 1. [9:44]
+- Don't do any mixup consistently; vary between 1 then light melee, standing in their face menacingly then light meleeing, and so on. [12:16]
+- When you chain someone in, use your 1, not a heavy melee; Billy heavy meleeing after Chain Gang has a very high rate of getting parried. [12:16]
+- You had no Sinner's Sacrifice buffs; after losing your tower you should have played to secure your Sinner's. [12:46]
+
+Midgame and macro:
+- You wasted about a minute running back and forth doing nothing. [13:47]
+- Playing to secure your aggressive camps is good; the jungle is invadable, so posture and pressure. A Drifter can shove and is a good character to invade with. [13:47]
+- If you are securing, there is a lot of your own jungle to take, especially getting your doubles online. [13:47]
+- Chain Ganking the whole enemy team away from the Rejuvenator is so strong that learning that timing will raise your Billy solo queue win rate by about 5%. The timing is not that hard to learn. [14:21]
+- The catch was good and the split positioning was good, but once she gets out through the tunnel, leave; you were chasing way too deep into their walker. Go hit the doubles instead. [14:52]
+- Don't actively fight a Victor on their walker. [15:22]
+- A parry right after a teammate dies is expected, since you have to throw hail mary light melees; don't let those parries tilt you or change how you play, you were dead either way. [15:54]
+- Good Chain Gang use: walk up for the first half, then hold S for the second half once they can't break the chain. [16:24]
+- After a pick, shove waves and look toward their jungle, not your own. Invading with a 600 bag from your own jungle is bad; shove, take their jungle and fall back with the wave so the bag at risk is their jungle, not yours. [16:58]
+- Being janitor mid is fine when you need to catch up on farm. [18:30]
+- Rotating late into a fight that is basically over is worse than using your team's pressure to steal the Sinner's Sacrifice, which is more valuable. [18:30]
+- With Blasted up in a fight you can't leave, don't try to leave: stay in their face and spam melee, because the more melees you land the longer you live. [19:31]
+- Don't try to knock the urn off a carrier in his jungle with no information on his teammates; four are off map, he beats you 1v1, and he has backup nearby. [21:03]
+- You should have been in that fight. Once they delivered the urn the fight is over; don't fight it or shuffle toward their strong side. Shove the wave, steal boxes, move toward the left side, or secure your own jungle. [22:04]
+- Your doubles sat up for far too long; they need to be farmed. [23:36]
+- If your team calls their mid, rotate to contest rather than hitting the wave. [24:07]
+- Mid boss with Chain Gang: ult, then jump and run across the pit so the chain pulls enemies up out of the pit instead of into a corner; this gets your team far more Rejuvenator. People really sleep on Billy's ult for Rejuvenator contention. [24:37]
+- Push the neutral wave instead of walking back to farm a camp; if the enemy is late to that lane you lose fewer minions than they do. [25:39]
+- Farming the basement gives a lot of souls. [26:40]
+- Walking with your Drifter to hit the walker in a 2v2 is fine because they don't have kill potential on you. [27:42]
+- You got caught because of pathing: the Drifter pathed toward the vent and got out. Running out gives you about a 30% chance to live versus about 10% turning to fight. [28:15]
+- Use wall bounces to move more efficiently on Billy. [28:15]
+- Using a good build or a pro's build is worth about a full rank. [28:45]
+- Your build was good, with solid Billy items; Toxic Bullets is slightly off the solved path but still bought relatively often. [29:16]
+- You were second lowest farm because you didn't take souls from troopers, rotating across the map to fight instead of catching a wave crashing into mid. [29:16]
+- When your Calico has space and the urn is walking back, shove the wave, steal their Sinner's, walk back and farm your own jungle, or go to the Secret Shop, instead of fully resetting to base. [29:47]
+- You keep floundering across the map to different fights instead of playing for yourself, which is why you bleed farm. [30:48]
+- If they are in mid, using Cultist Sacrifice on a lane creep is fine; using it on a lane creep is better than on a tier 2 camp. [30:48]
+- At that level, expect the Doorman to card you; play off the Rejuvenator from the other side of where he is. [31:20]
+- Someone should run the urn off an advantage; stealing their jungle is good. [32:20]
+- On a Cultist Sacrifice argument: if a tier 3 camp is on your side of the map, path to it and hold Cultist an extra 15 to 20 seconds; if it is on the opposite side, using it on a lane creep is fine. He is not the biggest Cultist macro expert. [32:52]
+- Catch the mid wave sooner; pathing more efficiently to the buff and straight to mid would have put you there 5 to 10 seconds earlier. [33:25]
+- Letting Blasted expire was the mistake in that fight; you would have lived otherwise. [34:58]
+- No matter your rank, if an Abrams misses a charge he is going to melee, so parry after an Abrams charge. [34:58]
+- Don't run straight at a Haze with Bullet Dance up; she can beam your head while backing up. [35:28]
+- If your team calls to bait mid boss, hit the wave, get to bait, and jump out. [36:30]
+- Respect the Doorman, and use Chain Gang to pull anyone far away, especially the Doorman. [36:30]
+- Don't bait mid boss while two waves are crashing into you; fix your waves, get wave pressure, then bait mid. [37:30]
+- Spellbreaker is solid here. [38:05]
+- Rejuvenator hygiene: with about 3 minutes of Rejuvenator left, use the time to run the urn and get wave priority, steal jungle if there is time, and only at about a minute and a half to two minutes left run at them. [38:36]
+- A pick is a time based advantage that gives a better angle for a brute force fight, but not into a team hiding in its base, and not while the urn is on the map; run the urn and fix the side lane first. [39:06]
+- You don't need fancy tech to get up there; wall bounce, double jump, and wall bounce again if needed. [39:37]
+- When a Doorman stands in your face with his ult, silence him if you can, beat him up, and back off just before he leaves so you don't get carded into spawn with him. [40:09]
+- Players now take extra global damage, not just extra melee damage; he is about 90% confident Guardians do not take extra damage when buried, untested. [40:39]
+- Getting Toxic Bullets on the Doorman is huge because the anti heal applies to fountain healing. [41:17]
+- Shoot objectives instead of waffling between fights; the Patron should have been knocked. [41:47]
+- At 400 HP late in a fight, throwing light melees is the only real option. [42:17]
+- Before buying, pop Cultist Sacrifice on a lane creep, go to the fountain and sell it for another item, so you enter the game deciding fight with the Cultist buff and a new item. [42:48]
+- The Cultist buff (30% weapon damage, 175 health, 50% ability range) is significant; going into the game deciding fight without it is squandering an advantage. [43:48]
+- Light meleeing a Pocket out of its case is really scary, because good Pockets will come out and parry. [44:21]
+- Going back to peel for your backline and trying to space the Victor was fine. [44:52]
+- Mid boss is good here after the Patron changes. [44:52]
+- Use Chain Gang off the Lash to apply Slowing Hex and the regrab to secure kills. [45:22]
+
+Summary:
+- Stop taking trooper damage in lane; trooper aggro cost you an early trade. [45:52]
+- You focused the Victor too much, especially early. [45:52]
+- Before two points in your 3, use Blasted before your 1. [45:52]
+- Play around your McGinnis; twice in lane you went in while she was backing off. [46:22]
+- Play much more around waves; many waves crashed into your walker and you were low farm from not picking them up. [46:22]
+- Light melee more: 72 melee damage in lane is one light melee, which is not enough. You got parried because you led trades with melees instead of weaving them in or ego scaring them. [47:23]
+- 2 then light melee has the highest rate of getting parried and dying; don't do it. [47:23]
+- Your Chain Gang did more damage than your melees; your gun damage should be a little higher. [47:53]
+- Use Cultist Sacrifice more and get the buff before major fights. [47:53]
+- Use instant cast on items, especially Cultist Sacrifice, because it reminds you when it is up; quick cast is better on some abilities. [48:23]
+
+## Disagrees with
+- none recorded yet

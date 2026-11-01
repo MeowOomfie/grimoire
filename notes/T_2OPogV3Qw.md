@@ -1,0 +1,90 @@
+# How to Front line | Oracle Victor Review
+channel: Midknight
+date: 2025-09-03
+url: https://www.youtube.com/watch?v=T_2OPogV3Qw
+
+## Covers
+Midknight (former top 10 Mirage, free coach) reviews a replay of an Oracle-rank Victor laning with a Billy against Paige and Lash.
+Coaching review. Themes: raw spirit over regen items, fire rate versus base weapon damage, why Jumpstart (2) gets maxed early, Aura of Suffering (3) usage and toggling, Reactive Barrier over Spirit Shielding, front-lining as a tank, ult usage, movement, Walker fire and closing out games.
+Recorded early September 2025, shortly after Victor's release, during a spirit meta.
+
+## Claims
+Player 1 (Victor, Oracle):
+- His 2 gives about 1.8 regen per spirit and his regen scales with spirit power at about 0.08, so raw spirit power is the best regen and the best offense on Victor. [2:03]
+- On a T2 buy when low, take Extra Spirit over Extra Regen: it gives about half the regen of Extra Regen but also strengthens your next 2s, so it is the better defensive item. [1:30]
+- Do not throw your 3 at a jungle camp early; it is better to just melee the camp. [2:33]
+- Lower level players buy Radiant Regen on Victor because it procs on people around them; higher level players do not, since it does not proc its flat healing off his 3 and raw spirit gives more flat regen and more healing on the 2. [3:03]
+- Do not buy missing-health regen items on him in lane. [3:34]
+- Victor's lane is weak because he is basically down an ability: you should not really use your 3 before you have spirit resist. [3:34]
+- Using the 3 is fine when both enemies are low in it, but after the kill turn it off immediately and press 2; with his survivability you can often just walk out. [3:34]
+- He should have been shooting in between melees; there is no reason not to hold left click. [5:05]
+- Recommended builds: ABL's raw spirit build, or the Lightbringer build if you want gun; he prefers raw spirit but says there is a decent argument for gun. [5:05]
+- When an enemy is in range, use both your 1 and Cold Front to secure the kill, just to be safe. [6:39]
+- Reactive Barrier beats Spirit Shielding on Victor: Spirit Shielding scales with boons while Reactive Barrier scales with spirit power, so a raw spirit build gets much more defense mid game. [6:39]
+- Reactive Barrier fits this lane because Paige leads with her 3 or ult before her melee, so it shields then; Haze and Mirage also make it valuable. [7:11]
+- Seven's stun matters less because you will have debuff reduction on your 2 soon. [7:41]
+- Spirit Shielding looks appealing because Victor self-procs it, but it is still a worse Reactive Barrier, especially since you should not use your 3 early. [10:47]
+- Late game with his spirit power, Reactive Barrier would shield about 765 on a 15.4 second cooldown with Transcendent Cooldown, versus Spirit Shielding's 435 on a 25 second cooldown. [36:53]
+- Spirit Resilience is a necessary Victor item but came out very early; raw spirit power, like upgrading Improved Spirit, is better early. [9:13]
+- Mystic Regeneration (captioned "Physic regen") is not that good on him, since raw spirit is just better healing. [9:43]
+- Go for Sinner's Sacrifice and the bridge buff; when your wave is crashing, hard shove it and then grab the buff. [9:13]
+- When a teammate fumbles a parry and is low, get on top of them and parry for them, or put yourself between them and the enemy. [10:15]
+- Activating the 3 just before you reach an enemy, so it starts ramping damage, is a good idea. [11:18]
+- When clearing waves with the 3, damage the creeps as evenly as possible rather than focusing one. [11:48]
+- Movement at Oracle: do not just ground dash forward; jump dash, or for one-stamina movement do a small jump and immediately diagonal air dash. [4:04]
+- Victor has some of the slowest base movement in the game (about 6.3 m against an average near 7.5 to 8), which is why movement feels bad and why many Victor builds upgrade boots. [17:00]
+- Extra movement speed lets you stay on enemies and keep your aura on them. [17:30]
+- Do not stand in Walker fire; he took about 530 damage he did not need to. Middle elo players broadly do not respect Walker fire. [12:51]
+- You need to max your 2, normally second and sometimes first; not maxing it is really bad. [13:52]
+- Another reason to take Rapid Recharge: with the 2 maxed the enemy basically cannot anti-heal you, because the 2 cleanses anti-heal. [13:52]
+- The 2 cleansing anti-heal is what makes Victor oppressive: unlike Abrams you cannot rein him in with a few Decays, Spirit Burn also gets cleansed, and Healbane is the only half-decent answer at 35%. [31:48]
+- Any build that maxes the ult next is wrong; its max upgrade adds about 200 damage on a death radius that everyone learns to avoid after playing against Victor twice. [20:11]
+- When low with your ult up, do not just die because you have it: turn off the aura, use at least one 2 for sustain and play to live; your first life still has value. [18:38]
+- Healing Booster or Healing Tempo is not the angle this early; defensive healing would be much better. Healing Tempo builds are gun hybrids, since it mostly gives fire rate. [19:41]
+- If you buy Healing Tempo, you need Berserker and Fleetfoot with it. [22:15]
+- Golden statues gave him 14 spirit power (about a full Improved Spirit) and 240 health this game; double Sinner's farming fed that. [18:04]
+- Always know what you will buy before entering a shop, especially the enemy secret shop. [21:44]
+- When the enemy wave is pushing back and someone is under their Walker, bait the Walker stomp, then pressure the Walker with your aura and melee it. [22:45]
+- Surging Power is only good with base weapon damage; he had huge fire rate (about 40% from Healing Tempo) and no base bullet damage, and a single Berserker would have been much better. [23:15]
+- He used his 2s too early; save them until you are lower. [23:46]
+- Give aggro to another tank when one can take it, here a Drifter (as captioned) with his 1 maxed. [24:16]
+- With a three-player advantage and Rejuvenator, push the base Guardians when the enemy shows all four on the map, instead of taking a camp. [25:21]
+- If the enemy stops showing on the map while you are jumpable, back out. [25:21]
+- With a big advantage, split waves into their base and pressure Walkers; leave camps while they respawn and keep wave pressure. [25:53]
+- Balance (as captioned) is a great item on Victor. [26:29]
+- Get Escalating Exposure next for spirit resist since he was taking a lot of self damage; he calls it the best 20% spirit resist item he can think of, with significant damage too. [26:29]
+- Keep the aura up: its damage resets every time you stop and start it, so toggling it off drops you from around 329 damage back to about 60. [27:00]
+- Spell Breaker (captioned "break") is good into this comp for spirit resist and debuff reduction, with lots of value into the Sinclair and Lash. [28:05]
+- Only upgrade Cold Front to Arctic Blast when you are pressed for slots. [28:05]
+- Do not leave slots unused; he needed more spirit resist. [28:37]
+- Scourge goes crazy on him, bought mostly for its spirit resist rather than its aura. [29:10]
+- Do not activate the aura when you need to escape; use your 2 to get away. He died with about 2.9 charges of 2 unused. [29:10]
+- When escaping, use one 2 immediately for movement speed and a second when you get low and actually need the regen. [29:40]
+- Do not pop Scourge leading into a fight: start stacking the aura, then use Scourge at 25% HP to also proc Spirit Resilience, or once the aura hits max damage, for the 40% spirit resist. [29:40]
+- Transcendent Cooldown is okay value; cooldown on Radiant Regen does not help much and cooldown does not affect Healing Tempo. [30:41]
+- Jump into the middle of a mosh pit fight: you take aggro off your teammates, and that is when you intentionally die with your extra life. [31:17]
+- Knockdown would be huge on this team. [31:48]
+- With aura and ult up, face tank in the Patron fight so a gun teammate can shoot Patron; trading a couple of deaths for Patron is fine. [32:50]
+- After the Patron fight, look for the next mid boss spawn. [32:50]
+- Do not use the 2 when it barely heals you and you do not need the movement speed. [34:23]
+- Using the ult in spawn wastes it. [35:23]
+- Infuser is insanely impactful on Victor and should be bought much sooner: pop it when low and heal your whole HP bar. [35:23]
+- He was too afraid to jump in the pit: with about 50% spirit resist before Spirit Resilience pops and about 100 regen against a Seven ult doing 254 per second, he out-regens their DPS short of a Haze. [37:57]
+- Do not farm right after taking Rejuvenator; push. [39:28]
+- They had several chances to end, such as with the Seven ult down, Infuser up and a 4v4: just jump in the pit. [39:28]
+- Sell Spirit Shielding late for something better like Spell Breaker. [39:58]
+- Lane notes: lane was played well with spam parries; at Oracle, farm Sinner's Sacrifice off spawn and always get the first bridge buff. [41:33]
+- His channel has a bridge buff timer exercise to play in the background for timer awareness; the 8 minute Sinner's spawn also matters. [42:04]
+- In a dominant lane, invade the enemy Sinner's. [42:04]
+- Bad ult usage: running at the enemy in the first fight and dying just because he had the ult, and a failed dive. [43:06]
+- Biggest note: as Victor you are the face tank; your job is to get in their face and eat as much burst, damage and as many cooldowns as you can. [43:37]
+
+General advice:
+- Do not melee offensively on Paige; her melee has spirit scaling but offensive melee on her is very bad, the same as on Mina. [0:30]
+- When an enemy parries for no reason, punish with a melee; a double melee would have killed the Lash. [1:00]
+- Top Daily builds are unreliable because lower-rank players push bad builds into them. [5:38]
+- Victor is strong right now, especially in lower elo and still in high elo, because it is a spirit meta and he thrives on spirit resist; with no draft he often lands into full spirit teams. [41:01]
+- Choose the ability max order together with the build. [44:08]
+
+## Disagrees with
+- none recorded yet
