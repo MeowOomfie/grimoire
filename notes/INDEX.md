@@ -560,6 +560,30 @@ One line per digested video: `- <id> | <channel> | <title> | <topics>`. Newest f
 - JaTcFLnlFSE | aquatiq | This is Why Drifter is STILL Broken | drifter, build, unstoppable, urn, wave pressure, farm stealing
 - iAUTYVSHE4I | aquatiq | Vindicta But My Snipes Do 1000 Damage | vindicta, roaming build, bebop lane, debuff remover, patch changes
 - jH55dzrGjWM | Midknight | Tell Them It's a Bad Fight, Eternus Doorman Coaching | doorman, coaching, soul awareness, urn, spikes, counterspell
+- 3h5riiRRIU8 | aquatiq | Mo & Krill CAN'T Die With This Build | mo & krill, tanky build, torment pulse, trophy collector, scourge
+- 7RDiMSmD1SY | aquatiq | Silver is definitely NOT Broken | silver, abilities, werewolf ult, phantom strike, items
+- fIgR7goX13Q | aquatiq | Graves Still Does INFINITE Damage | graves, borrowed decree, tesla bullets, losing lane, macro
+- OkzLBAVvmtc | aquatiq | Making the other team rage as Apollo | apollo, monster rounds vs rem, rusted barrel, cold front, counters
+- 0k3q43GWoN4 | Midknight Vods | Free Apollo Coaching, 2/13/26 | apollo, coaching, ult usage, soul awareness, ap order, torment pulse
+- _Xk8vqy9cUg | aquatiq | This is Why Mirage Is S Tier | mirage, monster rounds, items, objectives, holliday
+- c32x_V3a6qk | Midknight | How to Position, Oracle Paradox Coaching | paradox, coaching, positioning, swap, side lane, metal skin
+- d8VQSNPKwQs | Midknight | Stop Standing Around, Eternus Viscous Coaching | viscous, coaching, dead time, box routes, puddle punch, cultist sacrifice
+- MeKjdd8qknM | aquatiq | I Found a Mirage Build That Feels Illegal | mirage, lightbringer build, healbane, wraith lane, ricochet
+- AsJ4ZfY8e5Y | aquatiq | Celeste Does INFINITE Spirit Damage | celeste, silence barrier, spirit power stacking, spellslinger, cooldown
+- mIRr3Xje1Eg | aquatiq | Proving Mirage is the Strongest Hero in Deadlock | mirage, oc build, healbane, shiv rem lane, item order
+- I0bDZu1kHcE | aquatiq | This New Drifter Build Is BROKEN | drifter, long range build, toxic bullets, mid-boss, blind ult
+- xWJL27KCuZg | Midknight | They Can't Find a Place For Victor, 3/25/26 Patch Analysis | patch 3/25/26, victor, holiday, doorman, mirage, venator
+- pd8HSgdGV_A | aquatiq | Grey Talon Does INFINITE Spirit Damage | grey talon, guided owl stacks, spirit build, wave clear, surge of power
+- yvjHTqgwWR0 | aquatiq | The Most Intense Game On Vindicta | vindicta, spirit hybrid, assassinate, leech blood tribute, calico parry
+- migPKzkn4Fs | Midknight | How to Build & Play Apollo, Oracle Apollo Coaching | apollo, coaching, ap order, soul spending, ult usage, itemization
+- TdCgfh7jctA | Midknight | How to Build & Play Celeste, Archon Celeste Coaching | celeste, coaching, lane trading, movement, at best fights, spikes
+- BVN7thqO0JM | Midknight | How to Pick, Oracle Paradox Coaching | paradox, picks, box routing, heal crates, swap, coaching
+- _ffAb_d2T_0 | Midknight | Stop Running at The Walker, Ascendant Graves Coaching | graves, walker sieging, overextending, urn, restorative shot, coaching
+- TIbGF7OFx3s | Midknight | How to Deal With Over Fighting Teammates, Ascendant Silver Coaching | silver, over fighting, invading, shred, ap order, coaching
+- l927AEmmUjA | aquatiq | Valve Turned Mirage into a MONSTER | mirage, djinn's mark build, toxic bullets, escalating exposure, leech
+- _Ye2Y6dyuYA | aquatiq | Valve Just Buffed Drifter... Now He's a Speed Demon | drifter, ult speed buff, fortitude, doorman buff, rem
+- _eSMmcaa-7I | Midknight | Stopping Running it Mid, Oracle Shiv Coaching | shiv, coaching, wave states, overstaying, mid walker, wraith cards
+- _4LIrvD9gto | aquatiq | Valve Just Changed Mirage and now he's BROKEN | mirage, patch changes, dust devil charges, echo shard, golden goose egg
 
 ## General and other heroes
 

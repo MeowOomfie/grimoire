@@ -1,0 +1,89 @@
+# Stopping Running it Mid | Oracle Shiv Coaching
+channel: Midknight
+date: 2026-03-10
+url: https://www.youtube.com/watch?v=_eSMmcaa-7I
+
+## Covers
+Midknight reviews one game by an Oracle-rank Shiv (laning with Paige into Mo & Krill and Warden), with Shiv movement and skill-order talk from chat.
+Coaching session. Themes: trooper damage in lane, respecting enemy abilities, wave states, playing around lane spikes, overstaying, overextending at mid walker, hitting objectives.
+Side notes on the patch: Wraith's ult and stored cards, Doorman, Celeste, urn running. Patch date: March 2026 (video 2026-03-10).
+
+## Claims
+Patch and general notes:
+- Mo & Krill is strong in lane after the latest patch because his Scorn does huge damage and gives huge healing. [0:34]
+- Warden's silence is really strong now. [1:36]
+- Wraith already was the best non-bruiser M1 hero and did not need buffs; the meta is a bruiser meta. [22:31]
+- Wraith's ult was made not a projectile, which removes Counterspell counterplay he considers important; you can still counterspell it, but it is harder than the old version. [22:00]
+- Wraith's cards are still overtuned numerically. [23:36]
+- Wraith can now store cards, so she can farm two Jokers in the jungle and walk out able to kill almost anyone. [24:37]
+- Build Extra Charge on Wraith now, not for its stats, but purely for the extra stored Joker after farming. [28:14]
+- Wraith's cards are last in, first out. [31:48]
+- He likes the Doorman bell changes but not the ult change (a 10 second, effectively unstoppable ult). [24:07]
+- He is surprised Celeste was not nerfed; she is still permanently banned. [21:30]
+- Drifter's ult is one of the easiest ults in the game to Counterspell; only Lash's is easier. Practice it. [26:11]
+- Shiv's ult is still a 25% HP execute, so it is not bad after the change; Pike is good in solo queue but easier to dodge. [5:19]
+- If a Shiv teammate is about to die to his own bleed, Healing Rite him; high-level Shivs call for it on mic. [7:58]
+- Healing Rite is not stopped by Shiv's deferred damage. [7:27]
+- Urn running: in a normal comp your support runs it, because a support getting caught matters less than your carry getting caught. [33:50]
+- In a double front line comp, one front liner should run the urn, since they are tanky and rarely die if caught. [34:21]
+
+Player 1 (Shiv, Oracle):
+- Jumping into the enemy wave cost 150 HP for no reason; respect trooper damage in lane. [1:04]
+- Good: the fake melee on Warden into a heavy melee on Krill, and good parries. [1:04]
+- Lock onto the Krill instead of splitting focus, and finish a 1 HP target with a bullet. [1:04]
+- Playing for the enemy tier one guardian in lane is good. [1:36]
+- A second heavy melee into the Krill could probably have been parried. [2:07]
+- Do not rush Extra Stamina; only rush it into stamina strippers like Warden and Haze (so it was fair into Warden), otherwise buy it after your damage items. [2:07]
+- Shiv can make two stamina work with shift and right click movement. [3:09]
+- Skill order: two points into dash, then max knives first, since knives are his strongest ability right now. [2:38]
+- His 3 max is also very strong now; the ult's tier 2 upgrade is the strong part because percent damage amps are strong. [3:41]
+- Weave a right click into your combo. [3:41]
+- Movement speed items (Blood Tribute was named) are huge on Shiv because the effect scales off your own sprint speed. [4:18]
+- Do not ult the Krill at full HP for no reason. [4:48]
+- Use wall bounces in fights. [4:48]
+- Shiv's damage reduction from his 3 delays damage, which is the real value: your regen eats the deferred damage, and you can heal with Healing Rite or Radiant Regen. [6:50]
+- Healbane is a good buy into Krill. [7:27]
+- Watch your ammo; a right click used for little distance is wasteful. [7:27]
+- Do not go green spike first on Shiv; purple spike gives more value. [8:35]
+- Krill still has his ult, so be careful how deep you go under tower. [8:35]
+- Good: committing the dash to escape Warden's cage. [9:37]
+- Buy your green spike before forcing a fight; do not dive into Krill when you are 800 souls off your spike, since a grab there kills you. [10:07]
+- Saving for Counterspell while 800 souls off your green spike feels bad; buy the spike. [13:11]
+- Shiv movement tech: right click on the ground the way you would do a diagonal air dash, then in the air right click the frame before you wall jump next to a wall to go flying. [10:37]
+- Right click at an angle to turn your momentum; chat corrected him that perpendicular, about 90 degrees to your movement, is optimal. [14:43]
+- Shiv's right click caps your speed in the direction behind you. [17:50]
+- Do not steal a camp when the enemy has full wave priority; respect abilities, the Krill had two points in an ability doing 200 DPS. [11:08]
+- Dash path on a camp: hit both tier two minions if you can; otherwise take the hit that leaves the rest grouped. [11:39]
+- Wall jumps take about 30 minutes of practice to hit consistently. [12:39]
+- After a good lane he wasted timings sitting in lane doing nothing. [13:11]
+- Anchoring the lane is fine; ideally ask a teammate to take the side lane so you can brawl and steal enemy camps, or tell your Paige to roam. [13:42]
+- Leave when you have pushed an enemy deep toward her walker; she is calling for help. [15:13]
+- If you go for a pick play off a big ability, expect to land it so you are there to punish; otherwise the play has a low conversion rate. [15:43]
+- Overgrouping lost the guardian; run the urn off the pressure instead. [16:18]
+- After the enemy teleports out, stop; overstaying with little map information invites a collapse. [16:49]
+- Paradox was the team's pick hero; the comp needs a strong side laner, so Shiv can spend time anchoring a side lane and farming. [18:20]
+- Do not fight a mosh pit mid with two very negative waves pushing to you and three teammates missing; push a side wave and create pressure instead. [19:56]
+- Counterspell incoming abilities instead of dashing through the caster. [20:28]
+- Chasing into the enemy mid walker is ego: it wastes your advantage and gives the enemy time to reset their side waves. [21:30]
+- Do not siege mid walker for no reason in that state. [22:00]
+- The main thing holding him at this rank is running down mid at the walker in the late game with bad waves. [24:07]
+- Spirit Resilience is a good buy here; Metal Skin should come next, and he would have bought Metal Skin first. [25:08]
+- Do not keep retrying a play that just failed. [26:11]
+- Mo and Drifter overchased into the backline; turn and kill them. [26:41]
+- When you hold Counterspell you can respect enemies much less; he respected too much without ever using it. [26:41]
+- Check the veils before taking an objective; boxes are worth less than the small chance the enemy contests. [27:43]
+- Do not shoot minions off the zipline if you will push the wave anyway; it slows you down. [28:45]
+- Against a Holliday with Lasso and knockdown, stand in her face and last-frame Counterspell the knockdown to block both. [29:47]
+- Shoot the shrine; put objective damage in. [30:17]
+- Use the vent shortcut instead of running across the map; it would have got him there about 10 seconds faster. [30:17]
+- Not hitting the shrine and running across the map likely cost the team a second shrine. [31:18]
+- He dislikes dash max before knives; knife max can roughly double bleed damage. [31:18]
+- A Shiv glitch: Counterspelling gives Bloodletting stacks without taking damage; pop it right away (about a 10 second cooldown) to heal around 400 HP. [32:18]
+- Eat enemy camps while backing up. [32:48]
+- The left side of the map was more important (urn there); go there, and run the urn yourself if your support does not. [32:48]
+- Spam the Counterspell button in fights. [34:52]
+- Summary: respect trooper damage and Krill's ult, never dive a Krill with your ult, play around wave states, do not invade camps in front of your own wave without priority, do not run down mid while your side waves crash. [35:25]
+- Summary: stop running at the mid walker, do not skip spikes (go purple spike first), stop overstaying after picks, and shoot objectives. [36:26]
+
+## Disagrees with
+- none recorded yet
