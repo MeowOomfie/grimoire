@@ -607,6 +607,21 @@ One line per digested video: `- <id> | <channel> | <title> | <topics>`. Newest f
 - jJvhOH1-8Us | Midknight | You're WASTING Your SPACE, Ascendant Geist Review | lady geist, coaching, bridge control, investment spikes, soul awareness, urn
 - ZOk2WWyl_ec | Midknight | Stop Disrespecting Your Enemies, Oracle Viscous Review | viscous, coaching, combo, resetting, sinners, mid boss
 - yjoDPCs_1r8 | Midknight Vods | Free Drifter Coaching, 8/28/25 | drifter, coaching, kinetic dash, falloff range, target priority, farming
+- Mi-_rbDNFbM | Midknight | You NEED To Learn Movement Tech, Ascendant Mirage Review | mirage, coaching, tornado, movement tech, stamina, monster rounds
+- I2fUzsvpjxc | Midknight | How to Utilize Weapon Investments, Ritualist Shiv Review | shiv, coaching, itemization, greens, map awareness
+- fsnIsI0Br6E | Midknight | Managing The 3 Ms of Deadlock, Archon Paradox Review | paradox, coaching, mid boss, camps, map awareness, picks
+- PtOXKUCzcU4 | Midknight | You Don't Understand Objectives, Arcanist Shiv Review | shiv, coaching, objectives, mid boss, items, dash movement
+- 5_dUXU0fCaU | Midknight | What Are The Most Slept On Items, Alchemist Kelvin Review | kelvin, coaching, items, spirit sap, lash counterplay, movement
+- cAyhK4EWsyM | Midknight | How to Build and Play Drifter, Oracle Drifter Review | drifter, falloff range, teleport usage, target priority, item build
+- W0VbR1tTzc4 | Midknight | How to Build and Play Paige, Alchemist Paige Review | paige, ult usage, support items, lane partners, squishiness
+- YWLo2Ka0Fv4 | Midknight | Winning Isn't The Best Way to Improve, Arcanist Shiv Review | shiv, rage management, practice drills, movement, mid boss
+- hhKdOCpB_5k | Midknight | Macro Beats Micro, Oracle Shiv Review | shiv, wave management, camp denial, trading, air dash
+- QK_yV_AtsQI | Midknight | How To Juggle Macro, Emissary Shiv Review | shiv, itemization, rage management, dash management, map awareness
+- QQWFBn8UFmo | Midknight | How To Build and Play Doorman, Pro Doorman Analysis | doorman, door usage, cart combos, build, positioning
+- mLGINjbTWsg | Midknight | You're Dying for Teammates Mistakes, Phantom Billy Review | billy, coaching, ult awareness, fight joining, macro
+- euCapgzuzYs | Midknight | How to Build and Play Billy, Ritualist Billy Review | billy, ability order, build, walker stomp, parry
+- xXmlgOSE5Fg | Midknight Vods | Free Doorman Coaching, 8/25/25 | doorman, coaching, door usage, cart combo, ult targets, paige
+- hJ8NXsYkXAk | Midknight Vods | Free Paige Coaching, 8/26/25 | paige, coaching, support positioning, lane partners, ult value, dynamo build
 
 ## General and other heroes
 
