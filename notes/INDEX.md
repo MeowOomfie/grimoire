@@ -584,6 +584,13 @@ One line per digested video: `- <id> | <channel> | <title> | <topics>`. Newest f
 - _Ye2Y6dyuYA | aquatiq | Valve Just Buffed Drifter... Now He's a Speed Demon | drifter, ult speed buff, fortitude, doorman buff, rem
 - _eSMmcaa-7I | Midknight | Stopping Running it Mid, Oracle Shiv Coaching | shiv, coaching, wave states, overstaying, mid walker, wraith cards
 - _4LIrvD9gto | aquatiq | Valve Just Changed Mirage and now he's BROKEN | mirage, patch changes, dust devil charges, echo shard, golden goose egg
+- AMzqWOhuWrY | Midknight | Coaching Skeleton Honey, Eternus Calico Review | calico, box routing, mid jump, playing from behind, jungle invades, counterspell
+- v_4udR6Euc4 | Midknight | You're Egoing Too Much, Oracle Paradox Review | paradox, power spikes, unspent souls, kinetic carbine, sinner's sacrifice, dynamo
+- 55n3B8dWMP0 | Midknight | How to Build & Play Silver, Phantom Silver Coaching | silver, coaching, kick tech, melee build, shred, wolf form
+- mjnR5V2JKoM | Midknight | How to Build and Play Graves, Emissary Graves Coaching | graves, coaching, spirit build, ap order, ult pressure, jar of the dead
+- wKeOOo_xqvs | Midknight Vods | Free Celeste Coaching, 2/10/26 | celeste, coaching, builds, ricochet aim, movement, at best fights
+- 2sj356unks0 | Midknight Vods | Free Graves Coaching & Patch Overview, 1/31/26 | graves, coaching, spirit build, ap order, ult pressure, patch notes
+- 9S9c4ONixGE | Midknight Vods | Free Silver Coaching, 2/3/26 | silver, coaching, shred, melee items, kick tech, urn
 
 ## General and other heroes
 
