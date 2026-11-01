@@ -1,0 +1,81 @@
+# Stop Throwing The Mid Game | Eternus 6 Calico Coaching
+channel: Midknight
+date: 2026-07-04
+url: https://www.youtube.com/watch?v=S0F-PAku7Ls
+
+## Covers
+Midknight reviews a replay of a high Eternus 6 Calico player in a free coaching session.
+Themes: buy and reset timings, melee hygiene, using Tab and enemy item info, ability point order, bomb aim and combos, how Calico should play the 8 to 12 minute mid game in the enemy jungle, Trophy Collector farming, mid boss shred and late items.
+Coaching, video dated 2026-07-04.
+
+## Claims
+Player (Calico, high Eternus 6):
+- While pushing a wave, shoot the tower; the student never shot the Infernus, and even 150 damage on tower beats wasted time. [0:00]
+- 56 seconds is the last possible time to reset to buy (from the enemy stairs, with good movement) and make it back before the waves meet without losing pressure on the wave. [0:30]
+- Buying late on wave one sacked a full minion and handed the enemy priority on that wave despite your early tempo; a relatively major mistake at this level. [1:01]
+- A heavy melee into a parry chance is needless risk when the enemy is dead to rights: if their only way to live is hitting a parry, throw a light melee while they are still stunned and put bullets in the head. [1:01]
+- Even good melees can be bad if the enemy is already dead unless they hit a parry; just put the kill in the bag. [1:32]
+- Throw your bombs in between two creeps to take both of them. [2:02]
+- He dislikes the student's early point in Leaping Slash; he is a big believer in two points in the 3 (Ava), then "max soul, max bomb" as captioned. [2:33]
+- The Ava two-point spike is a flat amount of healing, so it loses value every second you get later into the game; getting it one AP later (about 600 souls) makes it worth roughly 10% less. [3:03]
+- Throwing bombs late is a small issue, but not grabbing the side boxes and giving the enemy the two buff statues and the neutral boxes in lane while you stay there feels really bad. [3:35]
+- Good job not committing while your laning partner (Pocket) was on a long box route; at high Eternus 6 the enemy recognizes the partner is gone and punishes, so play more defensive in that window. [3:35]
+- He loves a Stalker rush on Calico. [4:37]
+- Do not force a gank when the enemy is getting their ults on the next wave. [4:37]
+- Do not chase into an Infernus dash; his routing was predictable and walking to the right would have kept you out of it. [4:37]
+- Use your Tab key to check enemy items; not checking let the enemy get Rebuttal value. Tab is the most broken button in the game, along with the minimap. [5:07]
+- Trying to break line of sight against an Infernus burn while he has dash up does not work; you take a ton of HP either way, so stay in line of sight and take the guardian. [5:37]
+- Fighting when the enemy has ults up, and not respecting that they got ults early, is a big mistake. [6:08]
+- Sacking a guardian to pressure mid is fine, but your box count is a little low. [6:44]
+- As a Trophy Collector player, give the side lane to your partner and go push; with huge wave pressure you should be stealing the enemy sentinels. [7:45]
+- You still have to invade when you are behind. [7:45]
+- He farmed one of his own sentinels and then walked toward the enemy aggressively; instead secure their sentinels, then walk back with the wave to secure your own. [8:18]
+- Do not ult immediately against an Infernus ult: if you keep your ult up he is forced to stay on top of you until the last second; ulting right away gives him the value and he goes on to your Pocket or someone else. [8:49]
+- Calico bombs have to lead the target: predict their movement and pre-track where you are leading or they feel really bad. [9:49]
+- Grind bomb aim in Street Brawl with a bomb build. [9:49]
+- Tunnels are really useful for box farming, but Calico is so strong in the mid game that being on map is fine as long as you constantly apply pressure. [10:19]
+- With tunnels up, boxing or running tunnels beats farming a camp on your own side, which just deprives your Ivy of it; exceptions are a hyper valuable sentinel camp you do not want stolen, or farming on your way to the trophy room. [10:49]
+- It is not a big deal to skip tunnels in the laning stage and start using them after about 8 to 10 minutes; they are good for rotations. [11:24]
+- Best combo is the one where you hit more bombs; the default is bomb, slash, ult when in slash range. [11:55]
+- Once Arctic Blast is online the combo is Arctic Blast, slash, then bomb while they are frozen. [11:55]
+- Slash then bomb technically does more damage if you hit the bombs, but that is crutching; bomb first and fix the core aim issue. [11:55]
+- With your 2 upgraded, casting bomb first and then slashing is better. [15:03]
+- Trophy Collector is burning a hole in your pocket while you farm camps, because you are not getting stacks; ask a teammate to take the side lane when they respawn. [12:26]
+- You do not want to be hitting camps or side laning on Calico; you want to be hitting boxes, stealing farm and putting pressure on the enemy. [12:56]
+- Calico is strongest at 8 to 12 minutes, and he had not stolen a single camp in that window. [12:56]
+- Hunter's Aura was a fine gun spike, but shopping then means farming more boxes for Cold Front before you can invade and harass. [13:27]
+- Be in the enemy jungle during the mid game when you are very strong: kill their farmer once in their jungle and every time she goes to farm while you are off vision she will be scared and farm slower. [13:57]
+- Being off vision is what makes running tunnels strong; harassing someone low on their doubles camp is amazing. [14:28]
+- Back up after crashing the wave; rotating mid was fine. [15:33]
+- You will not take the walker on the first Rift, but the pressure it gives guarantees pressure in a lane for about one wave (30 seconds), which should net you farm in the enemy jungle; doing nothing with it loses the advantage. [16:04]
+- Check Tab before jumping on someone; he jumped the hero he should have known had Slowing Hex. [16:34]
+- Against the enemy hero with bomb maxed, never fight her in an enclosed space and never 1v1 her. [16:34]
+- He disliked using slash on that escape: keep slash up, slide down, then slash up through the hole; sliding down with no slash gives about a 5% chance to live versus about 30% on the other angle. [17:05]
+- There is an edge boost route off that ledge: dodge the pipe, use a dash to cancel momentum, then double jump; it is broken but really hard to hit. The slower route from the height on the left loses about 7 seconds in a chase. [17:36]
+- Use Cold Front when farming; it is your best cooldown to burn on camps. [19:08]
+- Two people could not kill that target with his 2 maxed; he had a lot of dead time on map before that. [20:09]
+- A mistake as old as time: push the neutral wave before looking for something; shove the wave so you have pressure, then look. [21:11]
+- He would get the Rift, then sell Melee Lifesteal and TP; it is an item you will sell within 5 to 6 minutes anyway with only two slots to burn. [21:41]
+- When you catch one enemy by surprise walking in a straight line, lead with your 1; in an ongoing fight they move more and slash first is fine. Not leading with bombs there lost about 50 to 100 free damage. [22:11]
+- A Calico with points in the shredding upgrade gives near infinite shred on mid boss when she presses 1 on it; it allows 14 minute mid bosses. [24:13]
+- On mid boss everyone should heavy melee, since it already takes extra melee damage; each bomb adds -6% (about -24% at the stacks he cites), so focus it with heavy melees. [24:42]
+- Echo Shard on bombs should stack the debuff. [25:15]
+- Always confirm the orbs: good players post up on roofs for denies; your Yamato should also be denying to maximize souls. [25:47]
+- As a position two carry, shuffle buffs to teammates who use them well (for example Billy); they get the buffs and you get the souls. [26:50]
+- Do not commit to that fight: if your call is harass, take half of the Apollo's HP and leave. [27:23]
+- Whiffing bombs in late game fights is costing a lot of damage. [27:53]
+- When a teammate makes a mistake and dies, do not go back in to die with them; leave immediately. [28:27]
+- Spreading bombs across the camp is good. [28:57]
+- Giving the urn to a Yamato who is behind her team is the best way to get her back in the game. [28:57]
+- Arctic Blast then slash instead of slash then Arctic Blast; the Arctic Blast then dash tech carries the blast with you and makes the AoE much bigger. [29:27]
+- When you are up one, unhealthy and have no waves, take a second to chill; your team is up a ton, so find the pick later. [30:01]
+- A smaller common mistake: just waiting before the Rift instead of doing something. [30:36]
+- On a finishing kill, Arctic Blast then use your bombs to be extra safe. [31:37]
+- Check the veil behind you. [32:38]
+- After Scourge you normally go Escalating Exposure; he prefers Transcendent Cooldown, then Boundless Spirit feels nice with the Scourge change; Escalating Exposure if they are tankier, or Spirit Burn. [32:38]
+- Use your Scourge pretty early in the fight. [33:41]
+- Respect a Paradox on that build (captioned "Bell Thunder Paradox"); it eviscerates you, so look at items more. [34:11]
+- Be more active in the mid game; he never looked for anything on the enemy farm. [34:41]
+
+## Disagrees with
+- none recorded yet

@@ -482,6 +482,45 @@ One line per digested video: `- <id> | <channel> | <title> | <topics>`. Newest f
 - JqG6t_0VVuQ | Midknight | How to Support in MM, Coaching a Mystic Viscous | viscous, coaching, puddle punch, splatter ricochet, soul efficiency, egg meta
 - p2F4yLsCi6s | Midknight | You Need to Create Plays, Coaching a Phantom Calico | calico, coaching, gloom bombs, invading, arctic blast, gun spike
 - xTyFNE0yyQo | aquatiq | Bird Build Grey Talon is INSANE | grey talon, guided owl, spirit build, mystic reverb, lightning scroll
+- TMIXC9SactY | aquatiq | This Is Why People Hate Vindicta | vindicta, items, sniping, debuff remover, commentary
+- lTliF1VFZXw | Midknight | How Saint Controlled The Map, Support Sinclair Analysis | sinclair, support, spectral assistant, urn, wave cutting, pro analysis
+- kr2V8pmx5IU | aquatiq | The One Shot Spirit Drifter Build | drifter, hybrid build, toxic bullets, mirage counter, commentary
+- IRkEpNPuq24 | Midknight | Mechanics Can't Carry You, Coaching an Ascendant Shiv | shiv, coaching, waves, urn, melee, invading
+- 0UDPnGsoNxs | aquatiq | Warden is an Indestructible WALL | warden, bebop matchup, lane, counterspell, binding word
+- E5-OCX_CdJ4 | aquatiq | Graves is the BEST Support Character in Deadlock | graves, support, grey talon matchup, spirit build, ability order
+- tI7j_aiO5h8 | aquatiq | Making Haters RAGE with my Drifter | drifter, items, fleetfoot, slowing hex, sinclair
+- hy1aStpZz5M | aquatiq | I Turned Paradox into an American Sniper | paradox, carbine build, lane, infernus, trophy collector
+- Pwv-VWdU4ak | aquatiq | This Secret Sniper Paradox Build is CRAZY | paradox, kinetic carbine, mystic shot, mystic reverb, rift
+- bs2VHLAIx8c | aquatiq | Shiv Is VERY Unbalanced | shiv, healbane, spirit resilience, counterspell, viscous
+- YNm4WKZ2Mb4 | aquatiq | I Tried the new OPTIMAL Vindicta Build | vindicta, abrams matchup, sniping, split push, unstoppable
+- 22WkEiCjwko | aquatiq | Carrying my entire team with PARADOX | paradox, hybrid build, items, rift, walkers
+- Va-PMSHCJf8 | aquatiq | Nobody Beats Paradox in a 1v1 | paradox, dynamo ult timing, lane snowball, walkers
+- o4Y6yA5a1CE | aquatiq | Proving Exactly Why Drifter is S+ Tier | drifter, mystic burst, items, dash jump buff
+- VS5tfiOS3PU | aquatiq | VINDICTA BECOMES THANOS IN THIS PATCH! | vindicta, items, focus target, ganks
+- skvpnlew124 | aquatiq | THIS IS WHAT BUFFED DRIFTER LOOKS LIKE | drifter, patch changes, shiv nerf, mid boss, rift
+- JJDINDgF1SE | aquatiq | GUN HOLLIDAY.EXE | holliday, gun build, crackshot, items, lane poke
+- JfNZIk19ngA | Midknight | You Need to Limit Test, Coaching a Phantom Drifter | drifter, coaching, limit testing, itemization, dead time, instant cast
+- 3AyU_TbbbqQ | aquatiq | This Mirage Build Will Get You Out Of Low Rank | mirage, build, ability order, mystic vulnerability, gameplay
+- DhAflgOlEf8 | aquatiq | There's a New Way to Play Drifter | drifter, spirit build, veil walker, trophy collector, gameplay
+- yml4hll1PAo | Midknight | You're Under Farming, Eternus Calico Coaching | calico, coaching, gloom bombs combo, arctic blast, urn denies, tunnels
+- 0Q6SpM4wid4 | aquatiq | SPIRIT DRIFTER IS OP | drifter, spirit build, veil walker, item choices, gameplay
+- x1KC6WudDws | aquatiq | Grey Talon's Damage Is Completely Broken | grey talon, counterspell, guided owl, solo lane, nerf
+- pfkMaUqrbD0 | aquatiq | Grey Talon WILL Get Nerfed After This... | grey talon, itemization, anti-heal, holliday counter, haze spirit
+- woF4XRWoB9E | aquatiq | Valve Tried to Nerf Grey Talon... It didn't work | grey talon, nerf verdict, positioning, farm stealing
+- Q0W6XLIql_o | Midknight | Stop Getting Steam Rolled, Eternus Celeste Coaching | celeste, coaching, urn, mid boss, re-engage, lash
+- dKZLpYZuFBg | aquatiq | Mirage is Secretly a Raid Boss | mirage, djinn's mark, fire scarabs, skill order, items
+- rRPrkkZhgW8 | Midknight | How to Position, Eternus 6 Viscous Coaching | viscous, coaching, positioning, mid lane, movement, tank buster
+- S0F-PAku7Ls | Midknight | Stop Throwing The Mid Game, Eternus 6 Calico Coaching | calico, coaching, mid game, buy timing, bomb combos, trophy collector
+- 5JTGlH0ouyU | aquatiq | It's Official, Paradox is Broken | paradox, gun build, restorative shot, time wall, pulse grenade
+- cT1sycfc1UE | aquatiq | I Didn't Know Vindicta Could Get This Strong | vindicta, spirit build, counterspell, leech, assassinate stacks
+- l8GJDcrnrCM | aquatiq | Drifter's Gun Damage Is Ridiculous | drifter, anti-heal, fortitude, toxic bullets, stalker's mark
+- YKBErTj56NM | aquatiq | Warden is Completely Unbalanced | warden, titanic magazine, fire rate, binding word, balance verdict
+- f471UFQV81Q | aquatiq | How I MVP Every Game As Warden | warden, items, titanic magazine, golden goose egg, late game
+- Uundu7xZGNA | aquatiq | How 2 Win Every Game As Warden | warden, alchemical flask, vindicta, rank update, macro
+- rAA56iIkDLU | aquatiq | Lady Geist can literally 1v9 this patch... | lady geist, life drain, malice build, counter items, soul exchange
+- oNr7RwoP71Q | aquatiq | Warden's Gun is Completely BROKEN Still | warden, alchemical flask, spirit shielding, reactive barrier
+- s1xjlirnFHQ | aquatiq | Warden is Still BUSTED | warden, barrier build, seven, graves, counterbuilding
+- ogUSY5EiUVk | aquatiq | Nobody Can Escape Yamato | yamato, power slash, veil walker, rift, new player tips
 
 ## General and other heroes
 
