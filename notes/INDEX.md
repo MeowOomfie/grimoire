@@ -414,6 +414,46 @@ One line per digested video: `- <id> | <channel> | <title> | <topics>`. Newest f
 - DPQVoXZoJaY | Midknight Vods | Free Deadlock Coaching, 10/27/26 | celeste, calico, violet, dead time, item spikes, rift macro
 - qCEbTKhtwPo | Midknight Vods | Free Deadlock Coaching, 10/25/26 | sinclair, violet, graves, deadman danny, dead time, item verdicts
 
+## Guides, digested 2026-11-01
+- GZWVXXisCu0 | aquatiq | Violet Has NO Counterplay | violet, still life, plated armor, lane aggression, items
+- jalevTQVYm4 | Eido | Violet Does Actual Psychological Damage... | violet, tilt, torment pulse, opening rounds
+- XG0SAV0C9cU | aquatiq | How I DOMINATE as Violet | violet, still life, painting buffs, radiant regen, build order
+- Lgiqo3fdd0I | aquatiq | Nurse Harrow, but I ONLY Heal | nurse harrow, healer, leech stacks, titanic magazine, healing tempo
+- DcK7J0JRtDw | aquatiq | I Made The Enemy Team Miserable As Nurse Harrow | nurse harrow, healing needle, leech stacks, toxic bullets, spirit resilience
+- f-ZCV5uxAL0 | aquatiq | Nurse Harrow Causes Fear To All | nurse harrow, fear ult, leeches, team comp, unstoppable
+- OSK4c8b7CmA | aquatiq | I love Spirit Burn on Grey Talon | grey talon, spirit build, rebuttal, bird stacks, vs nurse harrow
+- 2gr6Ir7bwxQ | aquatiq | Carrying My Teammates as Vindicta! | vindicta, snipe build, lightning scroll, indomitable, itemization
+- S-CTcsJ44ME | aquatiq | Lady Geist's Bombs Are BONKERS | lady geist, essence bomb, laning, greater expansion, itemization
+- J4qvQh-R2Tg | aquatiq | Bomb Geist is Absolutely NUTS | lady geist, essence bomb, life drain, minion waves, itemization
+- YpjZbsOrDhg | aquatiq | Carrying My Team with Spirit Vindicta (100K+ DAMAGE) | vindicta, spirit build, assassinate, item order, anti-hook, comeback
+- GV5ohnHhM3o | aquatiq | How I make Vindicta look BROKEN | vindicta, silver matchup, healing rite, unstoppable
+- wK_1doSLaes | Midknight | Your Movement is Holding You Back, Coaching an Oracle Viscous | viscous, coaching, movement, routing, baba matchup, rift macro
+- 3qmy1klJuWg | Eido | so I brought Baba into a Deadlock Tournament... | baba, tournament, team comms, rift, wave macro
+- jM4Sh_H9fBs | aquatiq | Gun Build On Graves is Actually OP | graves, gun build, tesla bullets, debuff, ult placement
+- BTATtJoEJkY | aquatiq | How I Win Every Game on Graves | graves, spirit build, summons, ult placement, lane pressure
+- 6zm3SAOZSUY | aquatiq | Rat King is The Most Broken Deadlock Character | rat king, tank, banner, items, ability order
+- LL5cx4U0UNk | aquatiq | SOLOMON IS HERE | solomon, new hero, abilities, combos, first look
+- YN-xDKPXr60 | aquatiq | How to Carry as Mirage in Deadlock | mirage, djinn's mark, farming, heavy crates, siphon bullets, new map
+- bm2PcGqlNpU | Midknight | How to Build & Play Baba, Coaching an Emissary Baba | baba, coaching, brew choice, sinner's sacrifice, ult stacks, builds
+- u2f7HvFJLic | aquatiq | BABA IS HERE! | baba, first look, abilities, brew pause
+- I-B4JiCH9rI | aquatiq | Is Gun Rat King Good? | rat king, gun build, tank, banner ult, royal pestilence
+- FKqIZU54rq8 | aquatiq | The Rat King Has Arrived! | rat king, first look, abilities, colossus, mid boss
+- q3mILVmk0Zg | aquatiq | Mirage CARRIES on the New Deadlock Update | mirage, gameplay, healbane, siphon bullets, vents
+- qO0z8FMfwwA | Eido | How I Used Solomon to CHECKMATE Deadlock Pros... | solomon, pro comms, mid boss, macro, rejuvenator
+- ND3E8et32LU | aquatiq | Nurse Harrow Is Actually Broken | nurse harrow, healer, build, leeches, toxic bullets
+- -odU4Ez8i5g | aquatiq | Violet is the most unique Deadlock character | violet, abilities, ink wall, sketch buffs, ult
+- Pjwu-oqduas | Eido | I used EVERY Violet Movement Tech in 1 Game... | violet, movement tech, edge boost, s-shape, paint blocking
+- _flEyK_jtmI | Eido | Violet BREAKS Deadlock Movement. | violet, first impressions, boxing, head boost, paint range
+- 6_epVhT7mQo | aquatiq | DEADMAN DANNY IS SO FUN | deadman danny, overheat, lane, items, counters
+- aIYmiRtUsJk | aquatiq | Dropping Nukes on Grey Talon | grey talon, bird stacks, pocket, spirit resilience, new map
+- QzUZpgp5Zmc | aquatiq | Ruining Everyone's Day With Grey Talon | grey talon, laning, baba, counterspell, bird stacks
+- XfYVhDHtKPg | Midknight | How to Build & Play Solomon, Coaching a Phantom Solomon | solomon, coaching, itemization, magic carpet, height, farming
+- zLSeZfKnBVk | aquatiq | This Grey Talon Game Got Out Of Hand | grey talon, vindicta, item path, traps, boxes
+- sCRefZprTlw | Eido | He can ROCKET JUMP?!, NEW HERO DEADMAN DANNY GAMEPLAY | deadman danny, first impressions, grab slam, warp stone
+- 1E3DkTc-ZxI | aquatiq | Rat King's Bombs are INSANE now | rat king, scrap grenade, royal pestments, resist items, laning
+- t0M5JusSvio | aquatiq | Grey Talon is SOLVED With This Build | grey talon, build, bird stacks, baba, items
+- 1mE_AvUFdwY | Midknight Vods | Free Baba Coaching, 10/7/26 | baba, tempo brawler, brew choice, ult stacks, sinners farming, build review
+
 ## General and other heroes
 
 - D3Pptd6R5z0 | MartinHitsRecord | Every NEW Deadlock Hero Explained (2026-10-23) | Rat King, Baba, Solomon, Deadman Danny, Violet, Nurse Harrow, hero abilities, hero roles

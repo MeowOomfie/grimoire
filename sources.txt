@@ -67,3 +67,75 @@ https://www.youtube.com/channel/UCbE-yqWYD7VqKayMxLjf1Eg/videos
 https://www.youtube.com/channel/UCisEm73Vzfx-Cz8jFBFQLVg/videos
 https://www.youtube.com/channel/UCorssb-FHSF4lwpmfq4oXnA/videos
 https://www.youtube.com/channel/UCm0ESpHEuClAprNYOAWp7NA/videos
+
+# 2026-10-31: per-hero guide searches for the thinner heroes
+ytsearch15:deadlock Paradox guide
+ytsearch10:deadlock how to play Paradox
+ytsearch15:deadlock Rem guide
+ytsearch10:deadlock how to play Rem
+ytsearch15:deadlock Warden guide
+ytsearch10:deadlock how to play Warden
+ytsearch15:deadlock Holliday guide
+ytsearch10:deadlock how to play Holliday
+ytsearch15:deadlock Mirage guide
+ytsearch10:deadlock how to play Mirage
+ytsearch15:deadlock Yamato guide
+ytsearch10:deadlock how to play Yamato
+ytsearch15:deadlock Billy guide
+ytsearch10:deadlock how to play Billy
+ytsearch15:deadlock Calico guide
+ytsearch10:deadlock how to play Calico
+ytsearch15:deadlock Shiv guide
+ytsearch10:deadlock how to play Shiv
+ytsearch15:deadlock Victor guide
+ytsearch10:deadlock how to play Victor
+ytsearch15:deadlock Vindicta guide
+ytsearch10:deadlock how to play Vindicta
+ytsearch15:deadlock Celeste guide
+ytsearch10:deadlock how to play Celeste
+ytsearch15:deadlock Dynamo guide
+ytsearch10:deadlock how to play Dynamo
+ytsearch15:deadlock Grey Talon guide
+ytsearch10:deadlock how to play Grey Talon
+ytsearch15:deadlock Lady Geist guide
+ytsearch10:deadlock how to play Lady Geist
+ytsearch15:deadlock Viscous guide
+ytsearch10:deadlock how to play Viscous
+ytsearch15:deadlock Kelvin guide
+ytsearch10:deadlock how to play Kelvin
+ytsearch15:deadlock Mo and Krill guide
+ytsearch10:deadlock how to play Mo and Krill
+ytsearch15:deadlock Apollo guide
+ytsearch10:deadlock how to play Apollo
+ytsearch15:deadlock Drifter guide
+ytsearch10:deadlock how to play Drifter
+ytsearch15:deadlock McGinnis guide
+ytsearch10:deadlock how to play McGinnis
+ytsearch15:deadlock Bebop guide
+ytsearch10:deadlock how to play Bebop
+ytsearch15:deadlock Ivy guide
+ytsearch10:deadlock how to play Ivy
+ytsearch15:deadlock Sinclair guide
+ytsearch10:deadlock how to play Sinclair
+ytsearch15:deadlock Paige guide
+ytsearch10:deadlock how to play Paige
+ytsearch15:deadlock Vyper guide
+ytsearch10:deadlock how to play Vyper
+ytsearch15:deadlock Doorman guide
+ytsearch10:deadlock how to play Doorman
+ytsearch15:deadlock Deadman Danny guide
+ytsearch10:deadlock how to play Deadman Danny
+ytsearch15:deadlock Graves guide
+ytsearch10:deadlock how to play Graves
+ytsearch15:deadlock Silver guide
+ytsearch10:deadlock how to play Silver
+ytsearch15:deadlock Solomon guide
+ytsearch10:deadlock how to play Solomon
+ytsearch15:deadlock Violet guide
+ytsearch10:deadlock how to play Violet
+ytsearch15:deadlock Rat King guide
+ytsearch10:deadlock how to play Rat King
+ytsearch15:deadlock Baba guide
+ytsearch10:deadlock how to play Baba
+ytsearch15:deadlock Nurse Harrow guide
+ytsearch10:deadlock how to play Nurse Harrow
