@@ -1,0 +1,87 @@
+# Stop Wasting Your Kills | Coaching an Oracle Mirage
+channel: Midknight
+date: 2026-05-31
+url: https://www.youtube.com/watch?v=mQ13JFHNHIQ
+
+## Covers
+Coaching session: Midknight reviews a full replay of an Oracle-rank Mirage player, laning against Warden and Graves.
+Themes: not clicking to level, dealing with Graves skulls and CC, using objectives (especially the Urn), wasting leads by running at the mid Walker, ult and Tornado usage, and itemization (too defensive, Kinetic Dash, Toxic Bullets, Improved Spirit).
+Recorded around the late May 2026 patch that changed the Urn.
+
+## Claims
+Player 1 (Mirage, Oracle):
+- Starting Reactive Barrier into Warden and Graves is not needed: you should outmove Warden's cage, especially as Mirage with Tornado, and mostly avoid Graves's root; Reactive Barrier makes more sense into something like Abrams. [0:31]
+- Warden can outplay you by watching your stamina, but getting hit by either of their CC is mostly avoidable. [1:02]
+- On Mirage, take small guerrilla trades to stack your mark, then play cover and do not let them drop it; this applies to every on-hit hero except Infernus (Haze's Fixation, Mirage's mark). [1:35]
+- If the enemy keeps your mark on them, they cannot peek you. [2:06]
+- You are allowed to fight for this tier one. [2:06]
+- He would take Graves's root second. [2:06]
+- Good micro: on your last bullet, slide for infinite ammo to keep harassing, or save the last bullet until you can re-proc mark. [2:37]
+- Do not click to level up your abilities. [2:37]
+- Ideally you do not have to force your Tornado for movement in lane; better movement saves it. [3:38]
+- Clear the Graves skulls in lane. [4:08]
+- If you are Tornadoing her like that you need a Tornado to get in; realistically you could just shoot her. [5:10]
+- Classic mistake: after you get a kill or an advantage, one of you forces a dive for no reason and throws the lead. [5:41]
+- You could have ulted back. [5:41]
+- Play normal builds, not counter items. [6:11]
+- Kinetic Dash is okay on Mirage, he does not hate it but does not love it; it feels inefficient. [6:44]
+- Going gun spike first on Mirage is fair; people play both gun and spirit builds. [7:15]
+- You are about 600 souls away from a spike, so this is not the time to fight. [8:17]
+- Dash into parry would have been better than the standing parry. [8:47]
+- The guardian was lost because you were not hitting the wave. [9:17]
+- If enemies mindlessly push your Walker at 10 minutes, ask teammates to come help; it is a free double kill and catches you up. [9:17]
+- On the other side, watch your map for enemies mindlessly pushing. [9:17]
+- You should not pick up the Urn with this map position. [9:47]
+- When you see two running at you, call for help; use your mic and ask specific people (for example the Billy who has ult), which is far more effective. [10:17]
+- You were late to buy; you should have bought Toxic Bullets. [11:49]
+- Compress Cooldown on Scarabs is fine if maxing Scarabs, but you do not need it on mark; Rapid Recharge would be more valuable with Scarab maxing. [11:49]
+- Opening Rounds is still statistically overpowered: after its spirit power reduction you cannot buy it on pure spirit heroes, but it is still very good on Mirage. [12:20]
+- That was a waste of an ult. If you plan to ult to base, it is better to reset then ult out: you can channel while buying and healing, and resetting keeps your options open for where you ult next. [12:51]
+- You were not headshotting the guardian. [13:53]
+- Use one of the builds on his doc; Osis's build is probably the best. [13:53]
+- Push the Walker if you see them doing this; your Viscous also needs to take the free Walker. [14:24]
+- If you buy Kinetic Dash you must use it constantly: it is your only source of fire rate and is 25% more damage right now. If you are not using it, do not buy it. [15:03]
+- Buy Toxic Bullets next, not Escalating: Escalating stacks off Toxic, and Toxic is viable on Mirage, especially if going AOE. [15:33]
+- Rushing Ricochet makes you weak; if you rush it, go sit in the jungle until you get Toxic and maybe Escalating, then you are really strong. It accelerates your farm, and with no Urn for about 4 minutes it is doable. [15:33]
+- After buying Ricochet you played way too active on the map instead of farming. [16:03]
+- He does not like ulting to the area you are splitting into; Mirage is much more of a threat splitting when his ult is up. [16:03]
+- Buy the green (vitality) spike. [16:33]
+- As an M1 hero it is not really your job to run the Urn, but you running it is better than no one running it. [18:05]
+- Two kills at 21 minutes may be a mid boss opportunity, but it is definitely not a run-at-the-mid-Walker opportunity; if you do not go mid boss, go Urn off the picks. [19:05]
+- Running at the mid Walker when you get an advantage is a huge and very common mistake. [19:05]
+- You underused Ricochet for farming neutrals; your neutral farm needs to be way higher. [19:36]
+- Good: you waited until Scarabs were at max stacks before tossing them on the tier three. [20:06]
+- Spirit Resilience is good here; for bullet counter, Metal Skin. [21:09]
+- Your damage is all coming off Escalating; you need some spirit power. [21:09]
+- When enemies run it down, the kills need to end in mid boss. [22:42]
+- Indomitable fits into this comp (Haze sleep, Ivy stone form, Victor ult, Warden cage), especially upgrading from Reactive Barrier. [23:42]
+- Improved Spirit is statistically overstated: 18 spirit power for 1600 souls is very efficient; buy it earlier, especially if going Toxic. [24:12]
+- Too reactionary: if you see two enemies fighting your teammate elsewhere, the mid fight is weak, so take that at least even fight instead of running to the teammate. [25:14]
+- Forcing a Walker when they respawn so quickly is bad and took too long; sit the wave and take the free Urn instead. [26:49]
+- You need to ult to the Urn. [27:19]
+- Better to slide into those boxes. [27:51]
+- You itemized too defensively: about 12k souls in counter items against only 21 to 22k in offense is too high a defensive ratio. [28:23]
+- Being ahead makes you want to itemize defensively, but not this much; with Indomitable you would rather go Boundless Spirit then Metal Skin, and definitely not Cheat Death. [28:55]
+- Transcendent Cooldown helps Indomitable and Escalating, which stacks much faster with it. [29:55]
+- Good that you did not commit to the fight to avoid staggering. If you know they will go for the shrine and you have double Tornado, stand at an angle and shoot them, then double Tornado out if they jump you; these angles are great for keeping a shrine up. [30:25]
+- Popping your 3 manually too early is not that good. [30:25]
+- You used Tornado for damage when you needed it for survivability. [30:55]
+- Do not melee on M1 heroes at this point of the game; your gun does more DPS with way less risk. [30:55]
+- You were playing too far back and losing a lot of damage to bullet falloff. [31:28]
+- The fight for this Urn decides the game; Walker plus Urn is more valuable than a Walker. When they have two dead, fight the Urn and do not let them run it. [31:58]
+- If you see three of them on the map and you are already splitting, take a shrine to make it worth it. Shrines are very strong: two guaranteed lane prios and -30% souls for the enemy. [32:28]
+- You still were not using Kinetic Dash. [33:08]
+- Defend base from height; defending from ground level puts you at a disadvantage. [33:40]
+- These two walls are fake and do not break line of sight. [34:10]
+- Summary: do not click to level, clear skulls in lane, your team needs to run more early Urns, do not run at the mid Walker after an advantage, and you itemized too defensively. [34:10]
+- Ult summary: when splitting, it is better to have your ult up than to ult there to split, unless it is really time important. [34:40]
+- Positioning was a little too far back, but he does not mind that habit. [35:10]
+
+General and patch notes:
+- To keep up farm as Pocket with two carries on your team: invade and steal the enemy's center camps (Pocket likes to farm his own), since he is very mobile, and look for fights around objectives where Affliction gets team fight value that turns into souls. [7:47]
+- Patch: the Urn spawn side changed and there are now 6 minutes between Urns, desynced from bridge buffs. [21:40]
+- Patch: you can no longer take the Urn to mid boss for the resist. [22:42]
+- Patch: the Urn punch changes are good; you can no longer start the soul suck and then fight so the enemy cannot get the Urn if the fight goes wrong. [23:12]
+
+## Disagrees with
+- none recorded yet

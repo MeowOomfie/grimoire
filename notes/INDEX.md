@@ -521,6 +521,45 @@ One line per digested video: `- <id> | <channel> | <title> | <topics>`. Newest f
 - oNr7RwoP71Q | aquatiq | Warden's Gun is Completely BROKEN Still | warden, alchemical flask, spirit shielding, reactive barrier
 - s1xjlirnFHQ | aquatiq | Warden is Still BUSTED | warden, barrier build, seven, graves, counterbuilding
 - ogUSY5EiUVk | aquatiq | Nobody Can Escape Yamato | yamato, power slash, veil walker, rift, new player tips
+- wG1CBI5BCcA | aquatiq | Celeste But I Use A Gun Build… (Actually Broken) | celeste, gun build, items, commentary
+- 5o_LBKAW-Dw | Midknight | Victor is Back, Deadlock Patch Analysis | patch, victor, items, balance changes, toxic bullets, silence wave
+- YYSMUlEIKJA | aquatiq | This Grey Talon Build ONE SHOTS People | grey talon, ult stacks, minion damage, wave control
+- 1FkrUUcJ3s8 | aquatiq | This is how it feels to carry as Mirage | mirage, skill order, suppressor, tornado, urn, team fights
+- 6KMyOlCJJH8 | Midknight | Stop Making This Mistake, Ascendant Billy Review | billy, coaching, light melee, itemization, movement, bad fights
+- bwXjihQEWiE | aquatiq | Graves Was Giga Buffed... Now She is CRAZY | graves, skull build, objective timers, urn, win rate
+- k4UA4r1JXdM | aquatiq | Graves, But I Have 1,000 Skulls | graves, meta, urn priority, mid boss, items
+- Wg_9G-AvAKQ | aquatiq | The Invisible Drifter Build | drifter, shadow weave, trophy collector, toxic bullets, doorman
+- tMDbmkff7Z0 | aquatiq | This Grey Talon Build Melts Health Bars Instantly | grey talon, guided owl, spirit build, comms, cooldown items
+- Q5aZEXBZtmo | aquatiq | Yes, Mirage is Still a Monster | mirage, fire scarabs, rapid recharge, patch nerfs, skins lag
+- U3hOSgd_ChE | aquatiq | you're about to see a lot more gun vindicta | vindicta, gun build, assassinate, objective damage, denying
+- YDCOkUTqAz8 | aquatiq | I'm Convinced, Drifter Can't LOSE | drifter, glass cannon, bebop, viper lane, dispel
+- vkpVAWQ74IM | aquatiq | Maybe Drifter is a little broken... | drifter, holliday lane, playing from behind, fortitude, debuff remover
+- J0Qps5BORoo | Midknight | Play More Greedy, Coaching an Ascendant Warden | warden, coaching, farming, rejuvenator, tower timings, itemization
+- 2poe9lZLnso | aquatiq | You Don't Even Need Braincells to Win with Warden | warden, gameplay, slowing bullets, mercurial magnum, items
+- uBPwgk-djTA | aquatiq | This Vindicta Gun Build Should Be Illegal | vindicta, gun build, wave priority, urn, crippling headshot
+- 8ETUccfzheM | aquatiq | How to Make the Enemy Team Rage Quit as Warden | warden, wave priority, debuff remover, knockdown, binding word
+- WY6Tmm1zS9M | aquatiq | Warden is Genuinely Free MMR Right Now | warden, opening rounds, binding word, colossus, items
+- D4PSJ17YYXs | aquatiq | This New Patch BROKE Silver | silver, items, anti-cc, spirit urn, unstoppable
+- C-TclcO3z6I | aquatiq | Silver is EXTREMELY BROKEN | silver, items, bebop, mina, silencer, trophy collector
+- amDwMb0k6lw | Midknight | You Are Not Getting Enough Farm, Coaching an Oracle Paige | paige, coaching, farm, box maxing, ult cancels, positioning
+- wGVJqFbgunQ | aquatiq | So, I Tried Silver After Gun Nerfs... | silver, items, phantom strike, laning, anti-heal
+- yPDTXktqvBw | aquatiq | I Created a MONSTER With This Grey Talon Build | grey talon, spirit build, guided owl, lightning scroll, trophy collector
+- mQ13JFHNHIQ | Midknight | Stop Wasting Your Kills, Coaching an Oracle Mirage | mirage, coaching, urn, mid walker, itemization, ult usage
+- rotAq-5Hpcs | aquatiq | GRAVES IS ACTUALLY INSANE WTF | graves, grit, urn rework, patch, toxic bullets
+- yfUezfce7qQ | aquatiq | This Build Makes Warden UNKILLABLE... (yoshi pls nerf) | warden, build, counterspell, spiritual overflow, cage
+- X-zBmAIfByI | aquatiq | This Is What Peak Warden Gameplay Looks Like | warden, titanic magazine, grit, cage
+- 53V0eebb2Rg | aquatiq | Becoming a filthy menace on Paradox | paradox, gun build, laning, swap, trophy collector
+- 8_lpz_1pwPE | aquatiq | This Build Turns McGinnis Into an Artillery Cannon | mcginnis, turret build, heavy barrage, items, gameplay commentary
+- LtmOCVwvtsk | aquatiq | The Enemy Couldn't Stand This Mirage Build | mirage, djinn's mark, scarabs, laning, items
+- 4tS2NXAjVE8 | aquatiq | The Secret Chinese Apollo Build | apollo, gun build, off-meta, items
+- l-khbZyj8zY | Midknight | Silver Nerf and Holiday is a Playable Character?, Patch Analysis | patch notes, silver, holiday, urn, apollo, grey talon
+- x-wQKSljhDA | Midknight | Analyzing Together's New Billy Build, Eternus Billy Analysis | billy, box routes, itemization, urn, walkers, mid boss
+- _ax1oLH3YZU | aquatiq | I Tried MikaelS 1-SHOT Grey Talon Build | grey talon, spirit build, mystic shot, items, owl stacks
+- a4N1gDU9Q3I | Midknight | Stop Misusing Abilities, Phantom Dynamo Coaching | dynamo, coaching, box routing, arcane surge, slowing hex, ult usage
+- BiVXd_hmQbo | aquatiq | SUPPORTING MY TEAM AS VINDICTA! | vindicta, laning vs infernus, debuff remover, counterspell
+- JaTcFLnlFSE | aquatiq | This is Why Drifter is STILL Broken | drifter, build, unstoppable, urn, wave pressure, farm stealing
+- iAUTYVSHE4I | aquatiq | Vindicta But My Snipes Do 1000 Damage | vindicta, roaming build, bebop lane, debuff remover, patch changes
+- jH55dzrGjWM | Midknight | Tell Them It's a Bad Fight, Eternus Doorman Coaching | doorman, coaching, soul awareness, urn, spikes, counterspell
 
 ## General and other heroes
 
