@@ -719,6 +719,13 @@ One line per digested video: `- <id> | <channel> | <title> | <topics>`. Newest f
 - IVHSrsysRmk | Midknight Vods | Free Deadlock Coaching, 9/21/26 | coaching, silver, celeste, vindicta, pocket, comeback rift
 - NNL-KwIOa2c | Midknight Vods | Free Deadlock Coaching, 9/22/26 | pocket, paige, lash, coaching, movement, rebuttal
 - SE0rOAAxf0s | Midknight Vods | Free Deadlock Coaching, 9/17/26 | coaching, abrams, billy, graves, holliday, melee
+- P_-h7XvaQLc | Midknight | Stop Ignoring Your Souls, Coaching an Oracle Pocket | pocket, coaching, barrage, soul awareness, itemization, invading
+- XRkguzFFL9Q | Midknight | Stop Blaming Your Teammates (& Play With Them), Coaching an Ascendant Celeste | celeste, coaching, lane partner, mental, scaling, rift macro
+- YYnf41RFS5M | Midknight Vods | Free Coaching Stream, 9/10/26 | calico, pocket, paradox, coaching, air strafing, shrines
+- IMO6Uo1HpBE | Midknight Vods | Free Coaching Stream, 9/7/26 | sinclair, victor, calico, coaching, rifts, overfighting
+- Y7A9aNurv-o | Midknight Vods | Free Coaching Stream, 9/8/26 | graves, celeste, coaching, rift macro, restorative shot, root placement
+- mVpw2LOq2nM | Midknight Vods | Free Coaching Stream, 9/4/26 | coaching, billy, ivy, cultist sacrifice timing, golden goose egg, rejuvenator secure
+- kH6pkIgXxO4 | Midknight Vods | Free Coaching Stream, 9/9/26 | vindicta, pocket, mina, wraith, coaching, macro
 
 ## General and other heroes
 
