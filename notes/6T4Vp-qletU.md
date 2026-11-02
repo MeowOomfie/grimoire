@@ -91,4 +91,4 @@ For anyone deciding whether a lane is one to win, slow play or just survive.
 - An Ivy or Lash into an Abrams and Calico lane should slow play, cut waves and get boxes. [10:39]
 
 ## Disagrees with
-- none recorded yet
+- dvs92LW8T_I (Metro Deadlock, 2026-04-28): In every lane, shove the creep wave first and only then look for damage on enemies. [1:01]

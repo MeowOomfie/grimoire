@@ -50,4 +50,4 @@ A talk-over list of the mistakes the coach sees in hundreds of VOD reviews: farm
 - If you have a bag of unsecured souls, spend them or stop fighting; having to fight with a bag usually means it is late in the game or your positioning was bad. [21:21]
 
 ## Disagrees with
-- none recorded yet
+- 8iZJR3sf3oA (aquatiq, 2026-08-25): When behind early, scale your money instead of trying to fight. [1:35]

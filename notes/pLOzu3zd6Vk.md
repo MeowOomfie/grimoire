@@ -73,4 +73,6 @@ Macro and fights:
 - Don't take fights where your waves are negative, and don't fight in front of a wave. [29:58]
 
 ## Disagrees with
-- none recorded yet
+- _eSMmcaa-7I (Midknight, 2026-03-10): Do not go green spike first on Shiv; the purple spike gives more value. [8:35]
+- vz7HRAiQzAs (Metro Deadlock, 2025-05-09): Instead of Debuff Remover, buy Counterspell and learn to parry in time. [27:44]
+- w8i5cPb5uH4 (Metro Deadlock, 2025-12-24): On Shiv buy one of Veil Walker or Warp Stone, with core damage being all else he needs. [35:37]

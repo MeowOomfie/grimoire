@@ -114,4 +114,5 @@ Practice:
 - If you know a tool but forget it, loop a YouTube timer that says "reminder" every 30 seconds to prompt yourself. [55:27]
 
 ## Disagrees with
-- none recorded yet
+- QK_yV_AtsQI (Midknight, 2025-06-18): Maxing the Shiv ult first leaves you short on damage; most builds max the knife or the 2. [10:40]
+- VdQhXgTKKUI (Deathy, 2024-08-24): Warp Stone is a really good item on Shiv. [8:08]

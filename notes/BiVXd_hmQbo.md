@@ -18,4 +18,4 @@ Mostly banter over a comeback game; the useful parts are how he plays a lost lan
 - A Warden on 28,000 souls is very tanky. [18:16]
 
 ## Disagrees with
-- none recorded yet
+- iAUTYVSHE4I (aquatiq, 2026-04-14): Trophy Collector is not a good item anymore, even with 16 assists. [22:34]

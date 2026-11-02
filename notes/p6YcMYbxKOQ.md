@@ -111,4 +111,7 @@ Macro: playing comeback rifts and free mid boss, pointless 6v6 mid fights, makin
 - Rotate off the zipline more and generally rotate by running through the map. [39:09]
 
 ## Disagrees with
-- none recorded yet
+- -PhKQRhABhg (Metro Deadlock, 2026-02-18): Your own side Sinner's Sacrifices should go to carries; supports should not take them. [11:09]
+- V7SF5fuOA4c (Metro Deadlock, 2026-10-29): A recommended Mo & Krill build runs around the mid game with Torment Pulse for pickoffs and Trophy Collector value. [21:23]
+- M-yo0Z4rXMk (Natan, 2025-05-21): Trophy Collector suits roaming heroes with strong base kits like Mo & Krill or Paradox. [19:46]
+- o86aZ5u0_M8 (Deathy, 2025-12-25): Opening Rounds is not popular in gun builds, fine early but it does not scale damage like its alternatives. [7:35]

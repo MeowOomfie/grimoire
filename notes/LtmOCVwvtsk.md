@@ -33,4 +33,5 @@ Patch of 2026-06-15.
 - Mystic Reverb is a fun late pick he ran again. [26:42]
 
 ## Disagrees with
-- none recorded yet
+- e22YGw2TxoE (Midknight, 2026-04-16): The Scarab build is by far better right now than a Djinn's Mark one-shot build. [2:33]
+- mQ13JFHNHIQ (Midknight, 2026-05-31): Buy Toxic Bullets next on Mirage; rushing Ricochet makes you weak. [15:33]

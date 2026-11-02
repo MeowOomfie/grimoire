@@ -39,4 +39,4 @@ aquatiq, commentary over one game (Mo & Krill and Vindicta lane against Dynamo a
 - Leave a fight when the team calls it; staying too long in a fight loses objectives elsewhere. [26:19]
 
 ## Disagrees with
-- none recorded yet
+- nWWqj1qt088 (Metro Deadlock, 2025-09-26): Whether you are ahead, behind or even there is always a better option than Trophy Collector, and its "paid itself back" souls are misleading. [10:45]

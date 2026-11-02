@@ -72,4 +72,4 @@ Summary notes:
 - The game was lost late because the team had no carry and gun out-scales flat. [36:24]
 
 ## Disagrees with
-- none recorded yet
+- 9xJn4Y-lrNw (HERESY, 2026-05-07): Bought early, Counterspell blocks maybe a 200 damage ability, and a red spike or greens would do more. [11:18]

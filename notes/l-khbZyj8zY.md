@@ -40,4 +40,6 @@ Patch of 2026-06-12.
 - He would like Warden pushed back to spirit builds; spirit Warden is more fun and more counterable, since you play around stopping his ultimate or cursing him during its channel. [7:06]
 
 ## Disagrees with
-- none recorded yet
+- JHH0X-UuV90 (Midknight, 2026-04-09): Holliday is a relatively strong laner; use it to win lane or roam and gank. [1:31]
+- _Xk8vqy9cUg (aquatiq, 2026-03-03): Holliday is not a great late game hero and turns into something like a support late. [3:37] [4:07]
+- yPDTXktqvBw (aquatiq, 2026-05-16): Gun Grey Talon is not good; he only considers it a joke build. [3:09]

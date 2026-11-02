@@ -63,4 +63,5 @@ Macro:
 - When you have more flex slots than the enemy, extra neutral farm favors you because they are slot capped and that cap weighs more the more souls they get. [23:41]
 
 ## Disagrees with
-- none recorded yet
+- DEAb-LfSXq0 (Sensu, 2026-05-18): Coin flipping Mid Boss is a common mistake; if it looks iffy it is usually not worth taking. [7:43]
+- sO7WgNaPjeE (Deathy, 2024-08-29): Healing Rite is never an item you want to buy, only one you sometimes have to. [7:43]

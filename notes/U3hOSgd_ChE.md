@@ -36,4 +36,4 @@ Patch:
 - Denying now gives such a low share of souls that it is close to pointless; it used to be the focus of laning. [2:06]
 
 ## Disagrees with
-- none recorded yet
+- yvjHTqgwWR0 (aquatiq, 2026-03-22): With this Vindicta build there are no points in her 1. [27:14]

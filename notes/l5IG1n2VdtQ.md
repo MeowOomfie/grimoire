@@ -29,4 +29,4 @@ Patch of late August 2026, the patch that added a delay to Echo Shard.
 - Echo Shard was nerfed: there is now a small delay on the copy, mostly noticeable on heroes like Bebop doing double bombs. [28:14]
 
 ## Disagrees with
-- none recorded yet
+- wKeOOo_xqvs (Midknight Vods, 2026-02-11): Toxic Bullets takes four bullets to build up on Celeste, which feels bad, so he might skip it. [60:18]

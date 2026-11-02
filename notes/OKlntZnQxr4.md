@@ -59,4 +59,5 @@ Player 1 (Warden, Oracle 5):
 - Summary: upgrade Compressed Cooldown to Superior Cooldown on a flask build; Compressed is 1,600 souls for 22% off one cooldown, Superior gives a bit more on it plus 25% off every other ability, great on Willpower and Last Stand. [26:22]
 
 ## Disagrees with
-- none recorded yet
+- J0Qps5BORoo (Midknight, 2026-05-16): Surge of Power is good on Warden; you max Flask first and buy items like Surge of Power for camp clear. [14:32]
+- dUWP1ORnSxo (Shotty, 2026-05-15): Do not buy defense items when losing, buy damage to try to kill them first. [38:36]

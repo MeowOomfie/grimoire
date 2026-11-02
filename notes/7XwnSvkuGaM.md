@@ -41,4 +41,6 @@ Examples from a coached Ghost Academy scrim (about Eternus 2 average) and a lowe
 - If you kill them early you can use teleporters to reach the rift; teleporters are insanely important for rotations and especially for making it to rifts. [10:41]
 
 ## Disagrees with
-- none recorded yet
+- 3Cta_ITcDlY (Metro Deadlock, 2026-07-02): The Rift is now the most valuable objective and the most money on the map, so securing it is the number one priority. [2:33]
+- 7L-j1mjASk0 (Deathy, 2026-10-08): The losing team gets Rift resistances of up to 40%, depending on game time. [17:17]
+- -JuKgSLZbXg (Deathy, 2026-07-07): The next Rift respawns 7 minutes after the previous one finished. [15:12]

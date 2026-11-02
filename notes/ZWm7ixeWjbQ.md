@@ -75,3 +75,6 @@ HERESY explains the mid September 2026 balance patch: the comeback economy nerfs
 ## Disagrees with
 - C7m-UdUIcQA (Deathy, 2026-06-25): Try Golden Goose Egg in lane, as the top player did while focusing on the wave. [15:43]
 - rKuS8P-YZcs (Shotty, 2026-10-21): The team that is ahead should stop fighting in the Rift, let the behind team cap it, then kill them after [65:30]
+- m4nw0PlckXw (aquatiq, 2026-09-17): On gun Shiv he buys Golden Goose Egg the second he can afford it. [0:35]
+- jEobDEUNL1o (Midknight Vods, 2026-09-20): The Spiritual Overflow nerf is decent, but it still gives four flat stats so the Warden build stays viable. [137:10]
+- aQ1gGXYkUoI (aquatiq, 2026-09-20): After the patch Spiritual Overflow is still the next item after Mercurial Magnum on Warden. [16:37]

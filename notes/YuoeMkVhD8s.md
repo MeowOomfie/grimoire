@@ -52,4 +52,4 @@ Which heroes fit, lane anchoring and box routes, jungle timers (with a note that
 - At mid boss, the most fed player should just gun people down rather than go for melees on the Rejuvenator, because getting parried and giving a free kill loses the fight. [8:37]
 
 ## Disagrees with
-- none recorded yet
+- 9xJn4Y-lrNw (HERESY, 2026-05-07): The time to fight aggressively over camps is roughly the 8 to 20 minute window. [32:18]

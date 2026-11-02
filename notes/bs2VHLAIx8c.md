@@ -25,4 +25,6 @@ Lane matchup against healing, item order (Healbane, Counterspell, spirit defense
 - Reverb or Scourge is good when enemies keep walking up on you. [26:18]
 
 ## Disagrees with
-- none recorded yet
+- m4nw0PlckXw (aquatiq, 2026-09-17): Gun Shiv looks overpowered and is genuinely decent, not a troll build. [10:33] [11:36]
+- VdQhXgTKKUI (Deathy, 2024-08-24): The weapon build is better than spirit Shiv right now because of the weapon items. [7:08]
+- nWWqj1qt088 (Metro Deadlock, 2025-09-26): Counterspell and Debuff Remover are insane later 3k items, but do not rush them since you need some damage first. [20:23]

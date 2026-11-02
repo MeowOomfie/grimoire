@@ -60,3 +60,5 @@ Ends with what to buy instead and a warning about Cheat Death. For lower rank pl
 - wWYU3lKS5Lw (Shotty, 2026-05-12): The coach buys Trophy Collector every game and makes 7,000 to 8,000 souls from it by 30 minutes, and higher ranked players buy it nearly every game. [6:36]
 - ywC2b6uFS6A (Deathy, 2025-09-05): Trophy Collector costs 2,400 souls, a gamble that is insane with quick kills and worthless when the game goes badly. [17:51]
 - qcPoi9e7LRo (Deathy, 2025-11-17): Out of combat, with enough sprint speed just sprinting around the map is fine. [15:18]
+- 3h5riiRRIU8 (aquatiq, 2026-03-08): Trophy Collector is called weak, but on a poor-farming hero who gets many assists it is worth it, and it returned about 5,000 souls. [11:52]
+- bs2VHLAIx8c (aquatiq, 2026-07-16): He gets Counterspell first, before Torment Pulse, because it becomes important soon. [12:59]

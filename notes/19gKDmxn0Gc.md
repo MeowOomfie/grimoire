@@ -110,4 +110,7 @@ Macro: being active as a pick hero, why Paradox should not side lane, passive pr
 - The biggest note: you cannot AFK farm on a hero in a role like this; you need to be more active. [34:53]
 
 ## Disagrees with
-- none recorded yet
+- Fat6LTvoJMk (Deathy, 2026-10-14): A Rift gives roughly 4,000 souls around 25 minutes, much less than winning Mid Boss. [13:36]
+- 53V0eebb2Rg (aquatiq, 2026-05-25): Paradox is played more like a gun hero than anything else these days. [13:50]
+- hy1aStpZz5M (aquatiq, 2026-07-18): Paradox's whole kit is still very strong after the double pump nerf, and the carbine build is back and very strong. [15:46]
+- 5JTGlH0ouyU (aquatiq, 2026-07-03): Paradox has some of the best farm in the game. [32:35]

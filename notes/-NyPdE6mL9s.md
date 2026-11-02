@@ -118,3 +118,4 @@ For brand new or returning players.
 - 7L-j1mjASk0 (Deathy, 2026-10-08): The Mid Boss now spawns at 0 minutes, where it used to spawn at 10 [12:44]
 - BiZ29Dtc-Wo (Deathy, 2026-04-19): Mid Boss screams once at 50% HP and does not scream again if you leave and come back [1:02]
 - 0iLzlvGjfGE (Metro Deadlock, 2026-10-01): While carrying the Urn you cannot use ziplines but can use abilities and shoot [27:01]
+- HUyS0sA0hLk (Midknight, 2025-10-13): From 10:00 the bridge buffs and the Urn spawn every 5 minutes. [11:12]

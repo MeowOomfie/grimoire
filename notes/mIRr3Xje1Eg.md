@@ -25,4 +25,4 @@ Lane against Shiv and Rem, Healbane into a healing lane, item order, early April
 - He takes the casting (cooldown) buff so he can teleport every 24 seconds. [23:19]
 
 ## Disagrees with
-- none recorded yet
+- _Xk8vqy9cUg (aquatiq, 2026-03-03): Monster Rounds is the best lane countermeasure to Rem's helper-buffed minions. [2:04]

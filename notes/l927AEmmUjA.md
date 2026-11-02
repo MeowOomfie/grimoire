@@ -33,4 +33,8 @@ Patch date: March 2026 (video 2026-03-21).
 - You can hit the Archmother from a distance, but the Hidden King cannot be damaged from as far away from its pit. [30:54]
 
 ## Disagrees with
-- none recorded yet
+- 3AyU_TbbbqQ (aquatiq, 2026-07-25): He maxes Djinn's Mark first and always goes 3, then 1, then 2, then 4. [1:33] [7:17]
+- 1FkrUUcJ3s8 (aquatiq, 2026-06-03): After maxing the 3, put a point into the ult, because being able to teleport everywhere is more beneficial. [17:02]
+- Mi-_rbDNFbM (Midknight, 2025-06-17): Mirage's lane poke is a Djinn's Mark play, and levelling Fire Scarabs first lowers its value. [1:02]
+- Q5aZEXBZtmo (aquatiq, 2026-05-06): He recommends Siphon on Mirage as always good, giving near infinite health. [24:07]
+- SHzklsOihzc (Metro Deadlock, 2026-03-27): Late game Wraith players buy Siphon Bullets and then rush Transcendent Cooldown for its lifesteal. [0:31]

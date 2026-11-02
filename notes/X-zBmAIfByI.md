@@ -18,4 +18,4 @@ Very little teaching; the usable parts are a few item picks (Titanic Magazine, G
 - Late game he reached 5k to 6k HP. [22:39]
 
 ## Disagrees with
-- none recorded yet
+- yfUezfce7qQ (aquatiq, 2026-05-30): Titanic Magazine is a slightly weird buy on Warden, taken only because he runs out of ammo. [14:51]

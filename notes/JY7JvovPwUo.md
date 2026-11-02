@@ -65,4 +65,5 @@ Summary notes:
 - He recommends Idos' Calico build, which is close to what the player had. [29:18]
 
 ## Disagrees with
-- none recorded yet
+- 2M_Yf6EXdTs (Natan, 2026-10-14): On the winning team you should pick up the Urn yourself, since leaving it handed the enemy a comeback Urn. [19:46]
+- uQa2deOmqmw (HERESY, 2026-01-21): With one player catching each wave, the others running boxes or camps always earn more than two people splitting a wave for 8% extra. [25:01]

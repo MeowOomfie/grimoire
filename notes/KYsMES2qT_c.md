@@ -61,3 +61,4 @@ For high rank players and anyone wondering why heroes that win in lower ranks fa
 
 ## Disagrees with
 - CIsvCWMQOvg (Metro Deadlock, 2025-10-14): At Eternus 6 Grey Talon gets a massive upgrade and is the highest spirit nuker with a team around him. [30:46]
+- NQQssVVPPms (Midknight Vods, 2026-10-23): Counterspell is a fake counter to Lash, since a good Lash waits it out. [156:46]

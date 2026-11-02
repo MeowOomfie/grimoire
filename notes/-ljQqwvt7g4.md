@@ -130,3 +130,5 @@ For players who reach the late game but fail to close out or come back.
 - o9-H6URkfDc (Deathy, 2026-09-14): People overrate communication in online games; mute liberally, since the average comm is worth far less than your mental state. [6:36]
 - 0iLzlvGjfGE (Metro Deadlock, 2026-10-01): Walking to Mid Boss with the whole enemy team up is usually bad, since it screams at half HP and the enemy can contest and take the Rejuvenators [32:07]
 - 7L-j1mjASk0 (Deathy, 2026-10-08): Pushing the base before killing the Mid Boss is almost always a mistake [21:19]
+- K75UNhTwDm0 (Midknight, 2025-12-31): Contest the comeback Urn even one player down when you have a Dynamo, and never give it for free. [20:34]
+- _mKd68LOpvs (Midknight Vods, 2026-10-21): Two Healbanes on a team is fine and three is bad, since heal on kill goes to whoever applied it last. [23:07]

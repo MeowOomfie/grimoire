@@ -114,4 +114,6 @@ Recommended builds:
 - Midknight made his own copy of Wick Graves with a fixed AP order; the build id is in the video description. [40:01]
 
 ## Disagrees with
-- none recorded yet
+- uQa2deOmqmw (HERESY, 2026-01-21): In solo queue a 6v5 is too risky for Mid Boss; solo queue needs a bigger advantage than one pick before calling it. [50:04]
+- jM4Sh_H9fBs (aquatiq, 2026-10-10): At a mid boss fight Graves is probably useless; put her ult on a side lane instead. [17:29]
+- rotAq-5Hpcs (aquatiq, 2026-05-28): Restorative Shot is very strong on Graves because you cannot miss it. [2:07]

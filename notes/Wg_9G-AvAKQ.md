@@ -36,4 +36,5 @@ Matchups and reads:
 - An enemy Doorman building spirit will not be shooting you, so he is less of a gun threat. [25:23]
 
 ## Disagrees with
-- none recorded yet
+- yjoDPCs_1r8 (Midknight Vods, 2025-08-29): Trophy Collector is a poor buy on Drifter; a damage hero should buy items that snowball fights. [45:17]
+- tCSt5ChWxxE (Midknight, 2026-01-03): Trophy Collector was never worth rushing, and it is 100% not worth it now. [10:26]

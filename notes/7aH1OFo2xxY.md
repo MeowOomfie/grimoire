@@ -44,4 +44,6 @@ Sinner's Sacrifices at 8:00 (behind vs ahead), invading doubles, 10:00 buffs and
 - Don't hold a freeze for more than one wave, or you forfeit a lot of jungle. [10:44]
 
 ## Disagrees with
-- none recorded yet
+- 2M_Yf6EXdTs (Natan, 2026-10-14): The Urn is underrated but worth only about the same as a solo kill. [15:29]
+- 9M5pYQVuxiw (Metro Deadlock, 2025-09-12): At 8 minutes, whether he won or lost lane, he goes into the enemy jungle and steals as many Sinner's Sacrifices as possible. [25:34]
+- EfFToLk7Htg (HERESY, 2026-07-23): Freezing over 2,000 souls of troopers in the first 10 minutes let a Victor skip his weak early game. [0:00]

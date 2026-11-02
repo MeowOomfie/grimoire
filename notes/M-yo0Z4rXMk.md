@@ -69,3 +69,4 @@ Seven, game plan by phase (farm early, secondary carry mid, hyper carry late), s
 - Reverses qvEpgbh68_U on Mystic Shot and Soul Shredder Bullets (core there, left out here) and on Debuff Reducer (amazing there, not a must buy here).
 - Keeps gnB3z7NN3Ww's Storm Cloud second, against XchfjG4Urb0's Static Charge second; says ball is kind of useless, which 8RBqzO0I7VQ reverses by maxing Lightning Ball second.
 - Spirit Shielding is a situational mid game item here; 8RBqzO0I7VQ moves it into the core.
+- p6YcMYbxKOQ (Midknight, 2026-10-28): Trophy Collector was probably never good on big heroes like Paradox or Holliday. [27:03]

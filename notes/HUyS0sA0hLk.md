@@ -60,4 +60,8 @@ A coach's laning guide (October 2025) for players who want to cut common lane mi
 - If one player traded in each lane, letting the enemy wave push in leaves their returning laner minus three minion souls while yours collects the troopers. [12:44]
 
 ## Disagrees with
-- none recorded yet
+- -NyPdE6mL9s (Metro Deadlock, 2026-02-03): The Urn first spawns at 8 minutes in the middle of the map. [26:02]
+- 2TR6pE_dqN4 (Deathy, 2025-10-15): After losing your tower, going to steal the enemy's Sinner's Sacrifices right then would be ideal. [23:54]
+- 6R4LELQ3Drk (HERESY, 2026-03-20): A vault gives about 350 raw souls plus four statue buffs, worth about 1,150 souls in total. [13:53]
+- pIHedIZeRVE (Shotty, 2026-08-03): When behind, defense usually will not save you; build damage so you can kill the fed enemy. [8:11]
+- nWBBSTxizdI (Natan, 2026-03-28): Buying defensive items when behind is a common trap, the rule is defense when ahead and damage when behind. [5:31]

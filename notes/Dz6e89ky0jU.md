@@ -50,4 +50,4 @@ Player 1 (Mo & Krill, Oracle):
 - Summary: use instant cast, use Fleetfoot more for chasing, be more aware of the minimap, don't be too scared, and ping your ult targets. [25:53]
 
 ## Disagrees with
-- none recorded yet
+- rc7HCrGVS6U (Shotty, 2026-06-10): Buy Healing Rite or Extra Regen almost every game, it is a free lane-winning item. [1:32]

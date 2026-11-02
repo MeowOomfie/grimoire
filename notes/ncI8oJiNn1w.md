@@ -122,3 +122,4 @@ Light, fundamentals-only session meant to show to new friends: the trooper rule 
 - IDxXf-URcXU (Shotty, 2026-09-07): Six people killing one Paige might give about 200 souls, the same as one camp. [12:47]
 - dvs92LW8T_I (Metro Deadlock, 2026-04-28): A Guardian parry often fails because its melee has a cooldown and it melees creeps too, so check it has not meleed in the last second or two. [13:47]
 - p7JZIsLBKvc (Sensu, 2026-06-30): An 11 minute Mid Boss is worth it relative to the alternatives [9:16]
+- NQQssVVPPms (Midknight Vods, 2026-10-23): Use teleports instead of full base zipline resets. [67:44]

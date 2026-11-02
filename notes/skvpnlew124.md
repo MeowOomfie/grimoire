@@ -29,4 +29,4 @@ Patch of early July 2026.
 - When far ahead, end the game instead of idling; they could have ended five minutes earlier. [25:41]
 
 ## Disagrees with
-- none recorded yet
+- 0iLzlvGjfGE (Metro Deadlock, 2026-10-01): The Rift is the team fight objective, a king of the hill capture that gives the whole team a lot of souls. [27:32]

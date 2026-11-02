@@ -64,4 +64,4 @@ General:
 - Focus Lens is a slept-on item and works as a support damage hybrid on Holliday. [31:10]
 
 ## Disagrees with
-- none recorded yet
+- DHRO3E4u-SU (Metro Deadlock, 2025-07-08): Shiv buys the shielding items, which are best on him because Bloodletting lets him take no damage. [16:22]

@@ -63,3 +63,4 @@ Seven hybrid Power Surge build (Surge of Power, Infuser, Cold Front, Echo Shard)
 - This note levels Lightning Ball first at level 1 and puts two early points in Static Charge; l8A3g86o03E and a4bUqmU1WD4 put one point in Static Charge, max Power Surge, then one point in the ball.
 - This note puts Mystic Slow in the late core; l8A3g86o03E calls it situational and only buys it sometimes.
 - This note opens late game with Spiritual Overflow; a4bUqmU1WD4 only buys it for raw damage when behind and likes it less on Seven because Power Surge is already always active.
+- hJ8NXsYkXAk (Midknight Vods, 2025-08-27): Do not buy Unstoppable, it only really helps against the Infernus ult and Warp Stone already solves that. [98:45]

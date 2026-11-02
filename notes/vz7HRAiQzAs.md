@@ -78,3 +78,5 @@ Metro's winners and losers of the May 2025 item overhaul (Deadlock 2.0), recorde
 - cqWxajdEJY8 (Metro Deadlock, 2025-08-03): The shieldings go in the main build and Reactive Barrier is only optional, because the shieldings always proc while Reactive Barrier often does not. [5:06]
 - xRlHOsufXkQ (Metro Deadlock, 2025-05-27): Boundless Spirit is only a late game luxury on super high spirit characters; it used to heal and now only gives spirit, so it is way weaker. [43:17]
 - TZ4yV937Rv8 (Deathy, 2025-05-10): Unstoppable is not a must buy; carries should only consider it this patch. [19:41]
+- pLOzu3zd6Vk (Midknight, 2025-10-27): He prefers Debuff Remover over Counterspell here because it gives much more value into Infernus and Toxic Bullets. [24:48]
+- g7ypc_AOFlg (Midknight, 2026-01-08): Spirit Shielding is good in a lot of games because it is easy to proc. [3:36]

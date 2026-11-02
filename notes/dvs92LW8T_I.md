@@ -84,3 +84,4 @@ Laning: wave prio, creep aggro, soul securing and testing denies, cover and high
 - PI3RZVAW5jw (Metro Deadlock, 2025-09-08): Kill the enemy healing trooper first even when you are low, since it heals them every 6 seconds while it lives. [11:43]
 - Xq1hjjEE1K4 (HERESY, 2026-07-12): Take trades with the enemies directly to force them off the wave, then delay pushing so the wave crashes when the camp spawns. [1:01]
 - ncI8oJiNn1w (Deathy, 2026-07-26): Parrying the tower works about 99% of the time and takes no skill. [4:11]
+- 6T4Vp-qletU (Midknight, 2026-02-28): Against stronger laners, slow play the wave, keep your tower alive and box route. [0:00]

@@ -70,3 +70,4 @@ For players picking a hero to climb on the new patch.
 ## Disagrees with
 - w8i5cPb5uH4 (Metro Deadlock, 2025-12-24): Gun Bebop got much weaker, so rush the 4.8k spirit investment for bomb and ult damage. [4:32]
 - 9M5pYQVuxiw (Metro Deadlock, 2025-09-12): Billy is not a very good laner and is weak in early lane. [3:37]
+- 9S9c4ONixGE (Midknight Vods, 2026-02-04): Toxic Bullets does max HP damage, so like Tankbuster it is weak early when enemies have little health. [199:21]

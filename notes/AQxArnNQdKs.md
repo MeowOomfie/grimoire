@@ -36,4 +36,4 @@ Examples on Lash and Seven. For players who farm without intent or sit on unspen
 - Don't force fights after a spike, but position where you can be aggressive and deny resources: at minimum be on the enemy side of the map, across the line, ready to take a fight. [8:12]
 
 ## Disagrees with
-- none recorded yet
+- jM4Sh_H9fBs (aquatiq, 2026-10-10): Bags do not matter that much. [9:33]

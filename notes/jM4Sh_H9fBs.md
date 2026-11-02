@@ -46,4 +46,5 @@ Patch of early October 2026 (video dated 2026-10-10).
 - In a base defense, play around the door in the pit. [29:29]
 
 ## Disagrees with
-- none recorded yet
+- AQxArnNQdKs (Deathy, 2025-08-11): Dying with a 1,500 soul bag can let someone 4,000 souls behind you draw even. [6:39]
+- mjnR5V2JKoM (Midknight, 2026-01-31): Graves is great for mid boss; enemies who jump in the pit get destroyed by a maxed ult full of ghouls. [25:04]

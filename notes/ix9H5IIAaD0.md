@@ -68,4 +68,4 @@ For players who want to know what changed and what it means.
 - Yamato: bug fix where Power Slash hit her own veil. [18:48]
 
 ## Disagrees with
-- none recorded yet
+- 5o_LBKAW-Dw (Midknight, 2026-04-11): Titanic Magazine got buffs, but people will not buy it in a sliding, infinite ammo meta. [1:02]

@@ -88,3 +88,4 @@ Early game (first 10 minutes) fundamentals: aggression, pushing the wave and kil
 - Xq1hjjEE1K4 (HERESY, 2026-07-12): Kill the healing trooper first, because it also heals your own troopers and gives you a tankier wave that wins priority. [4:04]
 - rc7HCrGVS6U (Shotty, 2026-06-10): In lane, shoving the wave for the first three minutes is all that matters. [1:01]
 - C7m-UdUIcQA (Deathy, 2026-06-25): The top player did nothing for the first 8 minutes except punish overextensions, and copying that fixed being too aggressive early. [34:56]
+- BVN7thqO0JM (Midknight, 2026-02-25): At half or 60% HP do not full reset; one heal crate heals you to full. [28:50]

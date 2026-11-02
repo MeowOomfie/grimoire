@@ -35,4 +35,4 @@ Covers lane play against Grey Talon, ability priority, item notes and farming, p
 - Haze is not a hard carry; even with 30k souls she cannot carry a team alone. [24:21]
 
 ## Disagrees with
-- none recorded yet
+- IDxXf-URcXU (Shotty, 2026-09-07): Never run boxes or camps while a lane wave is up; they are only for the gaps between waves. [3:08]

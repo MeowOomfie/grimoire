@@ -67,3 +67,4 @@ Includes a tunnel loop and ultimate-timing trick for the tunnel heroes Calico, R
 - dUWP1ORnSxo (Shotty, 2026-05-15): From 2:00 on never stay in lane after killing minions: kill minions, run boxes or a camp, repeat. [14:48]
 - Eb4u-TRmdqw (Sensu, 2026-04-26): Guardians start with 75% damage resist, decaying to minus 50% by 12 minutes. [2:32]
 - rKuS8P-YZcs (Shotty, 2026-10-21): A solo laner gets around 50 souls per minion versus 20 to 25 when shared. [57:19]
+- I-B4JiCH9rI (aquatiq, 2026-10-05): Always break boxes you walk past because they have a 100% spawn chance and give good money. [9:58]

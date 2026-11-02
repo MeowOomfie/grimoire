@@ -65,4 +65,4 @@ Player 1 (Kelvin, Phantom):
 - Look at your team on the map more before pushing; when players on your team are dead, don't look for fights and expect the Bebop hook. [26:01]
 
 ## Disagrees with
-- none recorded yet
+- eUnlY_3MmNM (Shotty, 2026-10-04): Take Mid Boss when you have three or more kills, enemy timers over 30 seconds and wave priority. [15:13]

@@ -47,4 +47,4 @@ Patch date: March 2026 (video 2026-03-10).
 - An enemy team down two players should not take mid boss. [35:25]
 
 ## Disagrees with
-- none recorded yet
+- SHzklsOihzc (Metro Deadlock, 2026-03-27): Golden Goose Egg is really good on supports that need little damage and give value by healing or buffing, like Rem or Paige. [13:12]

@@ -78,4 +78,4 @@ Player 1 (Calico, Phantom):
 - He prefers builds that go Spirit Rend late game. [33:42]
 
 ## Disagrees with
-- none recorded yet
+- tCSt5ChWxxE (Midknight, 2026-01-03): A gun spike is probably not worth hitting on a spirit Calico build, and Spirit Rend is not worth it. [20:58]

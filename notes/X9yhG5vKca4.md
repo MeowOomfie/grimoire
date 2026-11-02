@@ -123,3 +123,4 @@ Lane phase: soul advantage, the big four checks (health, items, souls, ults), wa
 - PI3RZVAW5jw (Metro Deadlock, 2025-09-08): An aggressive approach is always better than a defensive one, in lane and everywhere in Deadlock. [26:30]
 - s0bCd_dobYI (Deathy, 2024-10-14): Always take the enemy guardian as early as possible and never delay it, since you can then steal their jungle. [6:36]
 - Eb4u-TRmdqw (Sensu, 2026-04-26): Parrying the Guardian disables it for 2.75 seconds. [10:13]
+- nOTjK5ZrLkQ (Midknight, 2025-12-16): He welcomes the 4.8k spirit spike nerf and dislikes 4.8k spikes because they railroad builds. [5:37]

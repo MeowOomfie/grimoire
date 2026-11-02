@@ -111,3 +111,4 @@ For players who end up poorest on their team or want to get richer.
 - YHc-NMmPjHg (Deathy, 2026-07-02): The mid boxes spawn at 10:00 and then respawn every 3 minutes. [2:32]
 - 42YfJRVhDRo (Shotty, 2026-08-13): Once an M1 carry hits their spike (around 24k on Vyper) they should only fight, perma fighting from then on. [15:22]
 - 6lQ71BcyyyQ (Deathy, 2025-07-31): The new Mid Boss drops three Rejuvenators that give a second life and last 7 minutes [9:40]
+- Q0W6XLIql_o (Midknight, 2026-06-19): Do not take normal fights when behind, especially very far behind. [28:01]

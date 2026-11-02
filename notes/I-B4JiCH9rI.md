@@ -29,4 +29,4 @@ Patch of early October 2026 (video 2026-10-05).
 - He ended the game with the most assists (17) despite low damage, as a tank who enables the team. [25:20]
 
 ## Disagrees with
-- none recorded yet
+- Hj3p8cSiN_M (Natan, 2026-10-02): Regular boxes have only a 60% chance to contain souls, averaging about 18 to 20 souls in lane. [0:31]

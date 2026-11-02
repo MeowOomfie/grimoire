@@ -90,3 +90,5 @@ For new and low rank players, October 2025.
 ## Disagrees with
 - nUHH2wSoSBo (Metro Deadlock, 2025-05-21): Boxes are way better since the big item update, and early on farming boxes is more efficient than farming creeps. [6:38]
 - bjPveO-_Pgs (Metro Deadlock, 2026-02-24): When ahead, pick up the Urn but not to deposit it, since the drop off is deep on the enemy side and very risky [12:17]
+- 0k3q43GWoN4 (Midknight Vods, 2026-02-14): Box run a ton before 5 minutes, especially when behind. [13:22]
+- _mKd68LOpvs (Midknight Vods, 2026-10-21): When saving for an item, buy it as soon as you have enough rather than holding the souls while farming. [120:19]

@@ -74,4 +74,4 @@ Teammate Viscous and general:
 - In pro play Victor is position 3 or 4, a frontliner sitting mid and invading with his ult; in solo queue without draft roles are fluid and you may have to play position 2. [13:05]
 
 ## Disagrees with
-- none recorded yet
+- x27JQtqo6bc (Metro Deadlock, 2025-09-13): Even fights are good when behind, because you get more souls from their death than they get from yours. [42:56]

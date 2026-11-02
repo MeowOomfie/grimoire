@@ -83,4 +83,6 @@ Metro's spirit Calico build right after the January 2025 Calico buffs: how her k
 - Flyers are her biggest enemies (Grey Talon, Lash) because her air hitbox is weak; wait until they land, then nuke them. [39:27]
 
 ## Disagrees with
-- none recorded yet
+- S0F-PAku7Ls (Midknight, 2026-07-04): He dislikes an early point in Leaping Slash; take two points in the 3 (Ava) first. [2:33]
+- yml4hll1PAo (Midknight, 2026-07-23): A gun spike with Hunter's Aura is normally Calico's second or third spike. [16:09]
+- M9XQ6LG9hpg (aquatiq, 2026-08-30): Calico can't be in fights nearly as much as other heroes and can't tank much; you can't play her like Wraith or Warden. [12:51]

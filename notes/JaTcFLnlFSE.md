@@ -36,4 +36,5 @@ General:
 - Play with McGinnis' turrets; they are useful most of the time. [28:24]
 
 ## Disagrees with
-- none recorded yet
+- WtulcS8kaN0 (HERESY, 2026-08-24): When behind, do not take fights that would otherwise be even; look only for decisive pick fights. [23:56]
+- cAyhK4EWsyM (Midknight, 2025-08-28): Most high-elo Drifters max the 3 first, which he thinks is a little better than a 1 max first. [34:18]

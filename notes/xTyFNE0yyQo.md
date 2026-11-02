@@ -37,4 +37,4 @@ No one is coached. Patch period of mid September 2026.
 - With Lightning Scroll and Mystic Reverb, birding a grouped enemy team stuns them all. [28:46]
 
 ## Disagrees with
-- none recorded yet
+- QzUZpgp5Zmc (aquatiq, 2026-10-16): Grey Talon is broken if you know how to aim a little. [6:49]

@@ -180,4 +180,5 @@ Player 4 (Danny):
 - Summary: positioning too aggressively, wasting movement tools, over trading HP early in fights, underusing your 3 (which shreds), almost wasting the Rejuvenator going mid with four, and low value ults. [173:15]
 
 ## Disagrees with
-- none recorded yet
+- G7Xy2qIOEwc (Deathy, 2025-10-05): With a 1,600 soul bag, going one more wave before buying is fine. [20:14]
+- -ljQqwvt7g4 (HERESY, 2026-06-24): Multiple Healbane instances do not stack, only one player's applies and duplicates just refresh the duration. [40:33]

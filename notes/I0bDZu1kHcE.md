@@ -38,4 +38,4 @@ Lane against Calico, items bought against Abrams, Graves and Haze, team fight an
 - After taking Mid-Boss the game was basically over, even though they were behind most of the game. [33:35]
 
 ## Disagrees with
-- none recorded yet
+- OQ8ofLZiJr0 (Shotty, 2026-03-27): Mid Boss is not always the answer even after a team wipe; pushing waves and stealing camps can be enough. [23:54]

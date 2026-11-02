@@ -19,4 +19,4 @@ Recorded 2026-09-23.
 - He considered Crippling Headshot. [20:08]
 
 ## Disagrees with
-- none recorded yet
+- YinpOpNjpLg (HERESY, 2026-09-12): Except on Dynamo, do not consider Unstoppable until after 25K souls, since other situational items come first. [9:06]

@@ -78,4 +78,9 @@ For Warden players who want an early ganker that turns into a team fight carry. 
 - Divine Barrier can replace Heroic Aura if you need more survivability: shields and move speed, a more defensive version. [26:08] [26:38]
 
 ## Disagrees with
-- none recorded yet
+- YKBErTj56NM (aquatiq, 2026-06-29): Max the cage (Binding Word), not the ult. [9:16]
+- lUE6OPQTpcI (aquatiq, 2026-09-08): Alchemical Flask is one of the most broken abilities in the game because it removes enemy stamina, which is why Flask is maxed. [3:32]
+- ZBhdWd-MbAg (aquatiq, 2026-09-12): Warden's early buys are Extra Regen, then Opening Rounds. [3:39]
+- yfUezfce7qQ (aquatiq, 2026-05-30): Arcane Surge is bought on Warden now and this build is tanky spirit; a year ago people just ran gun on him. [13:50]
+- WY6Tmm1zS9M (aquatiq, 2026-05-10): Warden is not a favorable 1v1 for most characters. [18:16]
+- 2poe9lZLnso (aquatiq, 2026-05-15): He prefers Slowing Bullets over Slowing Hex on Warden, since it keeps applying to several targets. [9:00]

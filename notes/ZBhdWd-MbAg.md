@@ -28,4 +28,4 @@ Lane against a Mina, the item path and a few macro calls, on the 2026-09-12 patc
 - He buys Unstoppable because he keeps getting shoulder charged (Abrams). [22:33]
 
 ## Disagrees with
-- none recorded yet
+- 5SsEsiOH1f4 (Metro Deadlock, 2024-11-30): High Velocity Mag is a must and almost always Warden's first buy. [2:34]

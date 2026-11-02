@@ -98,3 +98,4 @@ Then role tips for frontliners (Billy, Abrams, Lady Geist, Victor), roamers (Cal
 ## Disagrees with
 - eQrK5gJ5jOg (Metro Deadlock, 2026-08-30): Metal Skin is very strong against gun: if one enemy deals a lot of gun damage, buy Metal Skin and you are fine. [19:27]
 - _pQIlri_azs (Metro Deadlock, 2024-12-09): Late in the game, when the next fight winner can kill the Patron, the Mid Boss matters little except as bait [35:19]
+- HUyS0sA0hLk (Midknight, 2025-10-13): Do not be afraid to buy defensive items like Extra Regen and Healing Rite when behind. [9:08]

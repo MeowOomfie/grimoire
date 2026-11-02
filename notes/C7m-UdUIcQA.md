@@ -101,3 +101,4 @@ His example hero is Abrams (lane plan, Golden Goose Egg, spirit item priority, S
 - 5O2xp1Rc9cU (Deathy, 2026-02-02): In lane you should be aggressive; aggression is generally rewarded and makes you improve faster. [0:32]
 - AsmoMLBNdms (Shotty, 2026-04-19): Make an alt account to escape being stuck in a rank and the rank anxiety. [3:34]
 - AsmoMLBNdms (Shotty, 2026-04-19): Most players do not improve because they never VOD review themselves. [11:41]
+- lG-QanVGK6U (Midknight, 2026-09-06): He sees many 30-minute Golden Goose Eggs and does not understand who convinces people the item is good. [8:41]

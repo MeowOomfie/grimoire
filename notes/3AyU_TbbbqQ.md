@@ -35,4 +35,4 @@ Covers ability max order, the items he bought or changed from the build, and a f
 - Late game he would just buy cooldown items. [29:56]
 
 ## Disagrees with
-- none recorded yet
+- l927AEmmUjA (aquatiq, 2026-03-21): Taking Djinn's Mark first is unconventional; the usual first pick is Fire Scarabs for lane sustain. [0:30]

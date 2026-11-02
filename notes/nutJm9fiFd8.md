@@ -39,4 +39,4 @@ A 2024 macro video on closing out games from a lead: turning a small lead into a
 - Summary point three: in late game, look for advantageous fights based on initiation and numbers. [8:39]
 
 ## Disagrees with
-- none recorded yet
+- 5Ezk1pRe0ls (Midknight, 2025-12-29): There was no Mid Boss chance in this game because neither team was up two players before about 25 minutes. [44:34]

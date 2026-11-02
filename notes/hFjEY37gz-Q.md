@@ -88,4 +88,6 @@ Victor from a top 50 NA, near rank one Victor: the Pain Battery and Jump Start h
 - Cultist Sacrifice is more appropriate on gun Victor, who can use the gun damage and bonus health. [43:34] [44:04]
 
 ## Disagrees with
-- none recorded yet
+- EgabVyWhDMU (Metro Deadlock, 2025-09-24): Victor is the most passive hero in the game who jungle farms until his core is ready, and the build buys Healing Tempo after Ethereal Shift. [17:21] [25:35]
+- LNiiF_7XQrE (Midknight, 2025-09-01): Torment Pulse is a mistake item on Victor; raw spirit gives comparable damage plus healing. [8:15]
+- T_2OPogV3Qw (Midknight, 2025-09-03): Reactive Barrier beats Spirit Shielding on raw spirit Victor because it scales with spirit power. [6:39]

@@ -75,3 +75,4 @@ For players at Ascendant and below who want to climb on a gun hero (Vyper, Wrait
 - mf8ShdalkN0 (Natan, 2025-08-10): Aim training gives most of its value in the first 50 to 100 hours; once you are decent, playing the game may be the better use of time. [7:06]
 - x27JQtqo6bc (Metro Deadlock, 2025-09-13): Carries should usually avoid big team fights unless the fight is close, very one-sided or they are far ahead in souls. [17:26]
 - eQrK5gJ5jOg (Metro Deadlock, 2026-08-30): Rift fights feel mandatory, since the team that shows up with more players usually wins the first Rift and snowballs [8:42]
+- ViQx1AXkn5s (Midknight, 2026-07-29): Go to every Rift fight unless it is a comeback Rift. [10:40]

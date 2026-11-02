@@ -237,4 +237,6 @@ Player 4 (Koala, Celeste, Archon, laning with Venator into Lash and Seven):
 - Summary: hold the ult for grouped enemies, open with your 1, aim in front of targets, avoid "at best" fights, invade on your side of the map or collapse on an overextended lane, confirm souls. [187:26]
 
 ## Disagrees with
-- none recorded yet
+- wG1CBI5BCcA (aquatiq, 2026-04-12): Gun Celeste might be the thing; Low Main solved Celeste with a gun build. [25:09]
+- -qdOcYG_JB8 (Metro Deadlock, 2026-02-09): After the first points, max Dazzling Trick (her 2) for a bigger, longer shield and the ult combo. [10:52]
+- l5IG1n2VdtQ (aquatiq, 2026-08-22): Toxic Bullets carried his previous Celeste game and is so good at finishing people off. [18:45]

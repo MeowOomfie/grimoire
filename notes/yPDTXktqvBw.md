@@ -44,4 +44,4 @@ Spamming Guided Owl for stacks, Trophy Collector, Knockdown, Spirit Burn, and th
 - Lightning Scroll looks like a meme item but is unironically good and very disruptive in fights. [34:00]
 
 ## Disagrees with
-- none recorded yet
+- l-khbZyj8zY (Midknight, 2026-06-12): Gun Grey Talon was the build that needed nerfing, and he hopes the hero shifts back to spirit builds. [2:02]

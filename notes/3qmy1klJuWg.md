@@ -34,4 +34,4 @@ Patch of early October 2026 (video dated 2026-10-11).
 - Post game: the only real mistake in the whole game was not getting that Rift. [38:34]
 
 ## Disagrees with
-- none recorded yet
+- 2M_Yf6EXdTs (Natan, 2026-10-14): Pushing a Walker with Rift troopers is very often bait; early Walkers are tanky and your team usually needs to reset. [11:51]

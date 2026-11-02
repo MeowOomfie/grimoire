@@ -43,4 +43,4 @@ General advice:
 - When he ran up on three enemies, his team should have pushed forward and gone for whoever he was going for. [29:53]
 
 ## Disagrees with
-- none recorded yet
+- 0iLzlvGjfGE (Metro Deadlock, 2026-10-01): A death for a Rift or a Mid Boss is worth it; do not value your life more than the game. [37:11]

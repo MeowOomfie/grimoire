@@ -125,3 +125,5 @@ Lane trading and early itemization, soul farming between waves, side laning and 
 ## Disagrees with
 - sO7WgNaPjeE (Deathy, 2024-08-29): Don't rush the shop as soon as you have a lot of souls, push a wave and apply pressure first. [15:54]
 - xYK-v_aoZFk (Metro Deadlock, 2025-12-19): Do not buy Siphon Bullets on any hero; it does 33% less damage and healing and is almost the worst item in the game. [23:02]
+- mjnR5V2JKoM (Midknight, 2026-01-31): Mid Boss rule of thumb: with one pick after 28 minutes, go mid. [27:36]
+- JY7JvovPwUo (Midknight, 2025-09-16): Wave souls split 60% each for two players and much less for more, so two people farming a wave is best. [21:06]

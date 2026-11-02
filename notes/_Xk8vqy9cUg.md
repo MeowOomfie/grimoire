@@ -40,4 +40,5 @@ Patch era of early March 2026.
 - Late game, push up and end rather than make the game longer than it has to be. [34:11]
 
 ## Disagrees with
-- none recorded yet
+- l-khbZyj8zY (Midknight, 2026-06-12): With the new tier three keg upgrade Holliday will actually do something mid to late game and her barrel spike is massive. [3:02]
+- mIRr3Xje1Eg (aquatiq, 2026-04-03): Rem's buffs keep enemy minions alive even through Monster Rounds. [2:36]

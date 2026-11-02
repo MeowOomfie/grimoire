@@ -84,3 +84,4 @@ For Lash players and anyone learning mid game map pressure. Item names, numbers 
 
 ## Disagrees with
 - uQa2deOmqmw (HERESY, 2026-01-21): Shoving without spending souls was a mistake, cash in items as soon as possible. [6:39]
+- nQuZ-AoT7fA (Midknight, 2025-11-06): Healing Rite is a great item, buy it to top up any time instead of resetting, as it pays for itself in about three uses. [4:41]

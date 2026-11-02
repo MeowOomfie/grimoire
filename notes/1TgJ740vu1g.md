@@ -257,3 +257,5 @@ Focus is what to do after lane: wave priority, never sitting in limbo, the side-
 ## Disagrees with
 - z3SfKOCdE0I (DattoDoesDeadlock, 2026-10-19): Clearing the wave, going back to base, then doing a box run is fine. [16:17]
 - foN-aAbeO6E (Metro Deadlock, 2025-11-16): Rushing in to force a fight in the enemy base or on their Walker after Rejuvenator is a big mistake, so take map control and farm instead [32:16]
+- JyQqYwpFDqk (Midknight, 2024-11-06): Never walk past boxes on the way back; grab every box on the route. [9:37]
+- 5Ezk1pRe0ls (Midknight, 2025-12-29): At around 40% HP, fully reset to base. [22:32]

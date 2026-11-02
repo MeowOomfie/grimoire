@@ -62,4 +62,4 @@ General advice:
 - Do that ult check every game for a week; he expects big improvement from it. [40:29]
 
 ## Disagrees with
-- none recorded yet
+- euCapgzuzYs (Midknight, 2025-08-22): Max 3 first on Billy, then max 1 at about 4,000 to 5,000 souls. [22:01]

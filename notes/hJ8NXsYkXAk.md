@@ -196,4 +196,5 @@ Player 3 (Paige, Ritualist, laning with Viscous into Billy):
 - Quantify your fight position by the enemy's gap closer: sit 1 meter beyond it, so with this Yamato's 40 meter grapple you stay 41 meters from the fight. If Krill can't reach you and Yamato can't grapple to you, you live. [153:49]
 
 ## Disagrees with
-- none recorded yet
+- 7PMXTWcRLEc (Metro Deadlock, 2025-02-16): Unstoppable is situational against knockdowns and stuns but never a wrong late game buy. [20:28]
+- ns5xI252NjE (Natan, 2025-08-25): Mystic Reverb is underwhelming at the moment, meant only for heroes with one big spirit burst. [33:34]

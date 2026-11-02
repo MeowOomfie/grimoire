@@ -80,4 +80,4 @@ For players who want team-level macro around objectives and Mirage. This is a la
 - Tournament games have fewer kills than ranked or unranked games because they are more methodical. [32:38]
 
 ## Disagrees with
-- none recorded yet
+- x-wQKSljhDA (Midknight, 2026-06-09): A one for one Walker trade is worth it. [20:42]

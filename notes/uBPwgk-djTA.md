@@ -27,4 +27,4 @@ A played game with a spirit-to-gun build (High-Velocity Rounds, Enchanter's Embl
 - When you have mid boss, run in and take the enemy's farm and vending machines; one walker plus their vending machines would have been far more valuable than what his team did. [34:07]
 
 ## Disagrees with
-- none recorded yet
+- YpjZbsOrDhg (aquatiq, 2026-09-25): On the max snipe spirit build you do not need a gun; you kill people anyway. [16:19]

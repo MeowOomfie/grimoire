@@ -58,3 +58,4 @@ For players who win early but lose the game late.
 
 ## Disagrees with
 - e5WJbcIYgqc (Deathy, 2025-11-27): Never default to playing a lane passively unless you are a top Eternus 6 player. [3:03]
+- oQflv9pcljA (Midknight, 2025-03-30): At 23 minutes a two-player advantage is enough to take Mid Boss. [16:22]

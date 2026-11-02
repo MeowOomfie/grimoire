@@ -76,3 +76,4 @@ For players asking whether their hero is still viable and what to buy after the 
 
 ## Disagrees with
 - NV8G-p3xzmI (Metro Deadlock, 2026-10-17): Reactive Barrier is a niche item that is not great in the current meta; with mixed damage Spirit Shielding gives more effective HP. [4:35]
+- K8FBaLWYX6M (Midknight, 2025-10-25): Trophy Collector stops being a troll buy only if your average game lasts over 40 minutes. [4:06]

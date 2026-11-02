@@ -49,4 +49,4 @@ Cooldowns are tracked against the 30 second wave timer.
 - Venator key ability: his 2, 23 second cooldown, 13 seconds with two AP; it does huge damage followed by a melee, so while it is up don't go near a wall, and punish him when he uses it. [9:40]
 
 ## Disagrees with
-- none recorded yet
+- amAIzrkIdQc (Deathy, 2026-08-14): Bullet resist is not a great stat later in the game, which is why Bullet Resilience is not a very good item. [5:38]

@@ -35,4 +35,5 @@ No one is coached. Patch released the day of recording, around 2026-09-20.
 - Letting two walkers die to one player within about 2 minutes is where the enemy lost the game. [31:15]
 
 ## Disagrees with
-- none recorded yet
+- OQ8ofLZiJr0 (Shotty, 2026-03-27): Do not go Mid Boss when blue lane is pushed to your side or yellow and green are not pushed out. [15:48]
+- ZWm7ixeWjbQ (HERESY, 2026-09-17): Spiritual Overflow is much worse now, which kills the long-meta Mercurial Magnum plus Spiritual Overflow build. [10:09]

@@ -58,4 +58,4 @@ Recorded right before an orange-team change; patch of 2026-06-09.
 - Late item choice: he went an item captioned "sub" over Indomitable, because the enemy had many silences and stuns (Paradox wall, Doorman ultimate, Rem sleep, Warden cage, Silver) and pro teams coordinate around Indomitable. [27:20]
 
 ## Disagrees with
-- none recorded yet
+- tjiTmJi-vKg (Deathy, 2024-11-21): Trading one death for one Walker is usually not worth it because long respawns can hand the enemy a free Mid Boss. [16:49]

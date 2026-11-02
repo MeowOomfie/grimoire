@@ -101,4 +101,4 @@ Ability point order and itemization (Guardian Ward, Healing Booster, Reactive Ba
 - Stacked side waves force the enemy back, so a team that wins a long fight can't take Mid Boss because two lanes are crashing into them. [33:48]
 
 ## Disagrees with
-- none recorded yet
+- IhziPXJHPA0 (Metro Deadlock, 2026-01-27): After maxing Little Helpers, max the ult second or Pillow Toss and Tag Along second, and range (Expansion) looks strong for farming Sinner's Sacrifices from across the map. [13:22] [16:26]

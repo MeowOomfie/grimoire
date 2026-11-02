@@ -28,4 +28,4 @@ For players new to Holliday or the pick role.
 - Vision matters in the pick role: showing on one side of the map relieves pressure on the other side, the way you feel when you see a Haze or Mo & Krill on the far side. [2:33]
 
 ## Disagrees with
-- none recorded yet
+- l-khbZyj8zY (Midknight, 2026-06-12): After the June patch Holliday's initial spirit scaling is nerfed, so she is weaker in lane. [2:32]

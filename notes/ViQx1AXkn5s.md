@@ -60,4 +60,4 @@ Which heroes fit, lane poke and diving, mid game Sinner's Sacrifices, urns and i
 - Call focus targets on mic ("focus Paige" when she is at 30%); in rift fights people split focus badly, so focusing the same player is very powerful. [14:13]
 
 ## Disagrees with
-- none recorded yet
+- 42YfJRVhDRo (Shotty, 2026-08-13): Skip the first Rift unless it is in the lane you are farming. [13:20]

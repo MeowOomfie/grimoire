@@ -27,4 +27,4 @@ A played game with item reasoning: Opening Rounds rush for bullet velocity, Batt
 - After Colossus he walks into fights like a tank; he considers the game over once he has it. [28:00]
 
 ## Disagrees with
-- none recorded yet
+- 5SsEsiOH1f4 (Metro Deadlock, 2024-11-30): Warden can win any 1v1 early and is very good at ganking. [1:33]

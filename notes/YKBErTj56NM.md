@@ -30,4 +30,5 @@ Gameplay commentary, video dated 2026-06-29.
 - Verdict: Warden has too much healing, too much HP, and too much player and objective damage. [25:55]
 
 ## Disagrees with
-- none recorded yet
+- 5SsEsiOH1f4 (Metro Deadlock, 2024-11-30): Skill order is Flask to two, one point each in Binding Word and Willpower, then max Last Stand, with Binding Word levelled last. [6:09] [8:40]
+- J0Qps5BORoo (Midknight, 2026-05-16): The Warden ult is not that valuable before it is maxed, so ult preemptively once it is maxed. [31:22]

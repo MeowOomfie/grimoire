@@ -319,4 +319,5 @@ General and other heroes:
 - Victor into Mirage and Dynamo: Curse is not ideal; buy Unstoppable and predict the Dynamo ult; take Boundless over Spiritual Overflow because his 1 locks in spirit power at cast. [180:58]
 
 ## Disagrees with
-- none recorded yet
+- RAvOQCYRFMg (Metro Deadlock, 2026-03-20): Debuff Reducer is a good choice, though it only upgrades late into Spellbreaker and Unstoppable. [14:50]
+- 8OdAH3YWAeM (Deathy, 2025-07-14): Restorative Shot is incredibly powerful and overtuned, and used off cooldown it beats Extra Regen. [8:11]

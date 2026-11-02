@@ -58,4 +58,4 @@ Coaching advice:
 - For a coaching VOD, submit a game where you did okay, not one where you did very well or very badly. [29:20]
 
 ## Disagrees with
-- none recorded yet
+- K75UNhTwDm0 (Midknight, 2025-12-31): The 3 is the better Yamato max right now, mostly for the healing, because her 1 got heavily nerfed. [4:35]

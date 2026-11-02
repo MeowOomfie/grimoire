@@ -85,4 +85,5 @@ Summary notes:
 - Stop taking at best fights. [27:06]
 
 ## Disagrees with
-- none recorded yet
+- wG1CBI5BCcA (aquatiq, 2026-04-12): The Celeste build takes her 2 second, likely for lane sustain. [3:06]
+- -qdOcYG_JB8 (Metro Deadlock, 2026-02-09): Get the 4k gun investment spike on Celeste because her gun works really well. [9:52]

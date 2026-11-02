@@ -56,3 +56,4 @@ Three-step counter itemization process, counter items that synergize with your h
 - Vfw8aqOH0tk builds an all-green tanky Wraith (Weapon Shielding, Fortitude, Siphon, Spirit Resilience, Escalating Resilience) to survive her weak mid game, while this video's rule of thumb is defensive items as a luxury when ahead and damage items when behind; Metro frames tankiness as how Wraith gets through her weakest phase, not as something tied to being ahead.
 - JCFFWt1t5yU (Metro Deadlock, 2025-08-27): Counterspell removes Wraith's ultimate completely. [40:30]
 - 3kujAIL6cpI (Metro Deadlock, 2026-01-31): Curse now gives a total -8% damage penalty on everything while held. [2:33]
+- HUyS0sA0hLk (Midknight, 2025-10-13): Do not be afraid to buy defensive items like Extra Regen, Restorative Shot and Healing Rite when behind. [9:08]

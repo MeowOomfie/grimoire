@@ -105,3 +105,4 @@ Heroes: Abrams, Apollo, Billy, Celeste, Calico, The Doorman, Drifter, Dynamo, Ha
 
 ## Disagrees with
 - SHzklsOihzc (Metro Deadlock, 2026-03-27): Golden Goose Egg's 10% damage penalty does not apply to percent health damage items like Toxic Bullets, Scourge and Siphon Bullets. [12:11]
+- ETyUAcDa8W8 (Midknight Vods, 2026-10-28): You should not buy Unstoppable on Haze. [50:14]

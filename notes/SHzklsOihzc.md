@@ -80,3 +80,5 @@ For players who know the items but not how they actually interact.
 ## Disagrees with
 - 9Wu9ryF3mWM (Deathy, 2025-11-13): Healing reduction stacks diminishingly: Healbane at -35% plus Toxic Bullets at -30% tested at -55%. [6:36]
 - iXUzrpNpT3U (Deathy, 2026-03-07): Golden Goose Egg puts a -10% penalty on all damage you deal, from items, abilities and gun. [1:03]
+- _4LIrvD9gto (aquatiq, 2026-03-10): He would not buy Golden Goose Egg even on supports because it does too little. [21:01]
+- l927AEmmUjA (aquatiq, 2026-03-21): He hears Siphon Bullets is not as good as it was and finds it in no builds now. [26:36]

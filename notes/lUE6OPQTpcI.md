@@ -33,4 +33,4 @@ Why Warden is strong (Alchemical Flask, the silence, patch history), his item pa
 - When the game is lost, stop fighting and stay in base. [25:04]
 
 ## Disagrees with
-- none recorded yet
+- 5SsEsiOH1f4 (Metro Deadlock, 2024-11-30): Maxing Alchemical Flask first lacked kill potential and survivability; Last Stand first got more kills. [7:10]

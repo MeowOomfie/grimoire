@@ -185,4 +185,5 @@ New hero kit read live (captions: Haro):
 - Pocketing a Victor will be unkillable late: a 1 HP Victor given her 2 with the healing effectiveness bonus plus Infuser ends the trade at full HP. [122:41]
 
 ## Disagrees with
-- none recorded yet
+- 7L-j1mjASk0 (Deathy, 2026-10-08): The first Rift is almost never worth all six of your team fighting for; split push if your team over-groups. [17:17]
+- ErL1ZOb58eM (Deathy, 2024-11-01): In a winning matchup Mirage used freezing to secure and dominate his lead. [1:00]

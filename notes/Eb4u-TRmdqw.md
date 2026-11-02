@@ -72,3 +72,4 @@ Left vs right vs blue lane advantages, secret shop access, pushing and medic tro
 - Hj3p8cSiN_M (Natan, 2026-10-02): Guardians start at 50% damage resist, scaling down linearly to minus 50% at 12 minutes. [2:32]
 - -b84YJLbyhI (Deathy, 2025-11-22): Guardian damage resist decays to minus 50% over 10 minutes. [7:44]
 - X9yhG5vKca4 (HERESY, 2026-01-27): Parrying a Guardian stuns it for 2 seconds. [24:28]
+- 8293wX94zJ4 (Midknight, 2025-03-31): Before 8 minutes, wait for your resetting lane partner before farming the wave, since killing it alone wastes about half the souls. [5:10]

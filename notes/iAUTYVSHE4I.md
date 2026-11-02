@@ -23,4 +23,5 @@ Mostly commentary over a game; the useful parts are build notes, Debuff Remover 
 - Trophy Collector is not a good item anymore, even with 16 assists. [22:34]
 
 ## Disagrees with
-- none recorded yet
+- BiVXd_hmQbo (aquatiq, 2026-04-21): He wished he had bought Trophy Collector earlier on Vindicta. [27:40]
+- eM-iY3IvHO8 (Metro Deadlock, 2026-03-12): The Vindicta build buys Trophy Collector right after Rapid Recharge to keep perma fighting in the perma fight meta. [34:47]

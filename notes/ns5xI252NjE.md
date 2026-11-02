@@ -244,3 +244,6 @@ For beginners through experienced players who want to judge builds and make thei
 
 ## Disagrees with
 - xRlHOsufXkQ (Metro Deadlock, 2025-05-27): Spirit Shielding and Weapon Shielding are trash tier passives that only give HP and nothing else. [23:14]
+- T_2OPogV3Qw (Midknight, 2025-09-03): Spirit Shielding is still a worse Reactive Barrier on Victor. [10:47]
+- hJ8NXsYkXAk (Midknight Vods, 2025-08-27): Mystic Reverb is solid. [106:38]
+- cAyhK4EWsyM (Midknight, 2025-08-28): Siphon Bullets is not an every-game item, only good when you are doing very well. [19:51]

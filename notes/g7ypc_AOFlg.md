@@ -99,4 +99,4 @@ Summary:
 - Use instant cast on items, especially Cultist Sacrifice, because it reminds you when it is up; quick cast is better on some abilities. [48:23]
 
 ## Disagrees with
-- none recorded yet
+- vz7HRAiQzAs (Metro Deadlock, 2025-05-09): Weapon Shielding and Spirit Shielding are bait and terrible, the worst items in the game, a 1,600 worse Reactive Barrier. [25:10]

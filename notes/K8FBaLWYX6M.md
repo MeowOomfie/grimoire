@@ -47,4 +47,5 @@ Coach's critical take on the 2025-10-25 balance patch: the new anti-vent-escape 
 - Warden got a small buff; Binding Word probably didn't need more range. [18:21]
 
 ## Disagrees with
-- none recorded yet
+- YRUhfiItJFM (Metro Deadlock, 2025-10-25): At low rank buy Trophy Collector on a hero it suits if your games average longer than 30 minutes. [9:10]
+- cqWxajdEJY8 (Metro Deadlock, 2025-08-03): Even against three-CC comps Reactive Barrier often did not proc, because enemies do not always stun you, so consistency favours other items. [5:36]

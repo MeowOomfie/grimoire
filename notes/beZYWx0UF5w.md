@@ -56,3 +56,4 @@ For ranked players who want to know which heroes can carry solo queue.
 
 ## Disagrees with
 - -KTJ0sUZV8o (Metro Deadlock, 2025-06-24): Paradox drops to B because her win rates say she is weak. [13:21]
+- TMIXC9SactY (aquatiq, 2026-06-28): Vindicta is looked down on but is really strong and can carry. [2:03]

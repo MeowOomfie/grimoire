@@ -65,4 +65,5 @@ Topics: Drifter gun falloff range, ability 2 (teleport) usage, target priority, 
 - Most high-elo players do not max 1 first: they max 3 first, then usually the ult second (sometimes 1 second); the coach thinks a 3 max first is a little better than the build's 1 max first. [34:18]
 
 ## Disagrees with
-- none recorded yet
+- JaTcFLnlFSE (aquatiq, 2026-04-17): He usually maxes Drifter's 1, then his ult, then Stalker's Mark. [16:37]
+- ns5xI252NjE (Natan, 2025-08-25): Siphon Bullets goes into the core build as a great late-game pickup. [41:10]

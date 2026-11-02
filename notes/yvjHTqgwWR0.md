@@ -31,4 +31,5 @@ Lane against Calico and Doorman, item choices and why, March 2026 patch.
 - Late game, heroes with gun damage have the most impact going into the enemy base. [31:49]
 
 ## Disagrees with
-- none recorded yet
+- TMIXC9SactY (aquatiq, 2026-06-28): Vindicta is looked down on but is really strong and can carry. [2:03]
+- U3hOSgd_ChE (aquatiq, 2026-05-05): On a gun Vindicta he skips an early ult max and maxes his 1 and then his 2. [14:27]

@@ -66,4 +66,4 @@ General and patch opinions:
 - Celeste's innate movement gives her infinite survivability, her ult does too much damage and slows too much, and there is no counter to her grapple movement; he suggests the slowing hex should turn it off. [24:38]
 
 ## Disagrees with
-- none recorded yet
+- 9S9c4ONixGE (Midknight Vods, 2026-02-04): Silver is a weak laner, so don't look to brawl in lane. [194:39]

@@ -86,3 +86,4 @@ For low-rank players, especially ones coming from Dota, who fight and jungle but
 - BYztvpQT12Q (Metro Deadlock, 2026-05-06): Everyone in Eternus games buys Trophy Collector right now, and it was emergency nerfed because it was still crazy. [6:02]
 - BYztvpQT12Q (Metro Deadlock, 2026-05-06): Buy Trophy Collector and then green (vitality) items, which are really strong, and avoid buying a lot of orange (weapon) items. [10:08]
 - YinpOpNjpLg (HERESY, 2026-09-12): Because gun damage comes in bursts, Metal Skin outperforms Bullet Resilience by blocking all of it. [6:34]
+- HUyS0sA0hLk (Midknight, 2025-10-13): Steal the enemy Sinner's Sacrifices when ahead and secure your own when behind. [10:41]

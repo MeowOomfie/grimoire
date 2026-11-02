@@ -48,4 +48,4 @@ A 2024 patch review (the game has changed a lot since) of the late October 2024 
 - His verdict: Lady Geist is still very strong and oppressive in lane, just nerfed. [9:41] [10:41]
 
 ## Disagrees with
-- none recorded yet
+- YzKPBbnFMPM (Midknight, 2024-11-16): Mystic Reverb is Lady Geist's second highest tier four and very strong, so prioritize it over Frenzy or Escalating Exposure. [16:25]

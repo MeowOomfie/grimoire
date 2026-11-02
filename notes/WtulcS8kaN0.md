@@ -102,3 +102,4 @@ For competitive and aspiring pro players, and anyone who wants to play macro as 
 
 ## Disagrees with
 - Gg7_0yLOICs (Deathy, 2026-04-07): With one Rejuvenator left, base guardians are the bare minimum and one shrine is good, but do not force it [24:23]
+- JaTcFLnlFSE (aquatiq, 2026-04-17): When behind, take more risks than you normally would. [15:36]

@@ -36,4 +36,4 @@ For anyone tempted to buy it in lane, and for players who want to punish an enem
 - In theory supports want low farm because comeback souls are overtuned: a high-farm support denies their own carries comeback souls when behind or feeds the enemy carries comeback souls when ahead; this matters less in solo queue, where playing greedy and selfish climbs best. [8:51]
 
 ## Disagrees with
-- none recorded yet
+- 6R4LELQ3Drk (HERESY, 2026-03-20): The egg must be sold by about the 8 minute mark, even though buff value rises at 10 minutes. [13:21]

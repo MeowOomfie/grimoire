@@ -80,4 +80,6 @@ General and patch notes:
 - The movement patch lets you jump out of a ground slide; he dislikes the change because the crouch-cancel skill ceiling was cool and helped Ivy. [24:08]
 
 ## Disagrees with
-- none recorded yet
+- 5O2xp1Rc9cU (Deathy, 2026-02-02): Do not be afraid to go back to base; losing a trooper or two is fine as long as you return at full health. [11:41]
+- RAvOQCYRFMg (Metro Deadlock, 2026-03-20): Dispel Magic only got much better in the 03-20 patch, and the patch before it was weak with Counterspell the better option. [6:40]
+- eM-iY3IvHO8 (Metro Deadlock, 2026-03-12): In the Silver tank build everyone runs Fortitude again. [29:08]

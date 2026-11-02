@@ -117,3 +117,4 @@ One recommended community build per hero, picked from hundreds of high rank game
 - x3vpYZLMOu8 (Metro Deadlock, 2025-11-07): Gun and melee Shiv are not very viable; spirit knife Shiv is the way to go. [26:25]
 - dYCgnZ4Wp-A (Metro Deadlock, 2025-09-17): Build Abrams tanky with spirit items too, because his Siphon Life aura has a lot of potential when scaled. [0:30]
 - x3vpYZLMOu8 (Metro Deadlock, 2025-11-07): The recommended McGinnis build is the turret build that does everything, with Cultist, Heroic Aura, healing, debuffs and turrets. [19:20]
+- p6YcMYbxKOQ (Midknight, 2026-10-28): Since the map update no hero wants Trophy Collector, so do not buy it again. [32:56]

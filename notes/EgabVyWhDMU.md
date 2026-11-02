@@ -92,3 +92,7 @@ For players learning Victor or wondering why the pure spirit/aura style is falli
 
 ## Disagrees with
 - CIsvCWMQOvg (Metro Deadlock, 2025-10-14): Victor is stronger than before because he shows up in early and mid game fights instead of AFK farming. [42:34]
+- T_2OPogV3Qw (Midknight, 2025-09-03): Victor's lane is weak because he is basically down an ability, and early Spirit Resilience is worse than raw spirit like Improved Spirit. [3:34] [9:13]
+- hFjEY37gz-Q (HERESY, 2025-12-22): Victor is a skirmisher, not an AFK farmer, who should invade rather than farm his own jungle, and Healing Tempo should never be bought on him. [8:17] [38:24]
+- LNiiF_7XQrE (Midknight, 2025-09-01): Ethereal Shift is optional on Victor and goes after Boundless Spirit. [44:11]
+- T_2OPogV3Qw (Midknight, 2025-09-03): Spirit Resilience is necessary on Victor but came out too early, raw spirit power is better early. [9:13]

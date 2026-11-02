@@ -28,4 +28,4 @@ No one is coached. Recorded around the 2026-06-25 patch.
 - He thinks many "auto parry" accusations are really players light meleeing too much. [9:47]
 
 ## Disagrees with
-- none recorded yet
+- R2lq-BXPjo4 (Natan, 2026-02-26): With Rejuvenator always push at least two lanes to divide the enemy's attention. [23:19]

@@ -103,3 +103,5 @@ For new and mid-rank solo queue players; names Lady Geist, Kelvin, Mo & Krill an
 - rKuS8P-YZcs (Shotty, 2026-10-21): When far ahead, take Mid Boss to half health, stop hitting it and fight the enemies who drop in to contest [71:04]
 - zkoYGTvCsog (Sensu, 2026-10-07): Destroying Patron phase one cuts defenders' respawn timers by up to 20 seconds, but not below 10 seconds remaining [15:42]
 - 5bj_EYm06EM (moe9times, 2026-07-21): The Urn should no longer be used as a distraction play because the bounty decays and the carrier no longer flashes on the map [42:02]
+- J0Qps5BORoo (Midknight, 2026-05-16): Into the Dynamo and Lash combo you need Unstoppable, especially for the Dynamo ult. [24:43]
+- OKlntZnQxr4 (Midknight, 2025-06-11): You need to buy defensively when you are at one HP under tower instead of egoing. [25:20]

@@ -83,3 +83,4 @@ A walkthrough of every new or reworked vitality item in the big May 2025 item up
 - rzUORo1XtxQ (Metro Deadlock, 2025-06-23): Trophy Collector is okay on certain heroes, probably Lash and maybe Dynamo. [9:17]
 - vz7HRAiQzAs (Metro Deadlock, 2025-05-09): Unstoppable is almost a must on many carries because there are few other answers to CC. [24:06]
 - orI-u4l2MBk (Metro Deadlock, 2025-05-09): Spirit Shielding and Weapon Shielding are absolute garbage and bait: harder to proc and shorter than Reactive Barrier, and they scale worse. [45:21]
+- ETyUAcDa8W8 (Midknight Vods, 2026-10-28): Trophy Collector was never really good on heroes like Paradox or Holliday, it was for roamy supports like Calico. [44:03]

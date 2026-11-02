@@ -182,3 +182,5 @@ Yamato (together's build)
 - V7SF5fuOA4c (Metro Deadlock, 2026-10-29): Ivy is best played gun heavy right now with a Tempo Bullet build. [24:55]
 - x3vpYZLMOu8 (Metro Deadlock, 2025-11-07): Below super high Eternus gun Grey Talon is probably better than the spirit owl build. [10:09]
 - x3vpYZLMOu8 (Metro Deadlock, 2025-11-07): Gun Ivy is still the most solid build and is used in pro play. [15:42]
+- 5o_LBKAW-Dw (Midknight, 2026-04-11): The Toxic Bullets nerf is good because it pushes the item back to a counter pick instead of core on every gun hero. [1:33]
+- pLOzu3zd6Vk (Midknight, 2025-10-27): On Shiv Veil Walker is not good, and green vitality investments are what he needs. [12:45]

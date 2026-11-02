@@ -181,4 +181,5 @@ Player 3 (Drifter, Arcanist):
 - The 2's bleed is percentage HP damage, even though it doesn't say so. [177:40]
 
 ## Disagrees with
-- none recorded yet
+- Wg_9G-AvAKQ (aquatiq, 2026-05-09): Trophy Collector is still a broken item; rush it before your first kill. [5:41] [6:41]
+- 0Q6SpM4wid4 (aquatiq, 2026-07-22): Spirit Drifter feels broken and fun. [19:30]

@@ -90,4 +90,4 @@ Part 1 of a four part counter guide (September 2025), heroes A to G: Abrams, Beb
 - Counterspell can block his owl and, with practice, his arrows; at higher levels players do flybys to bait it, so expect more flybys after one. [20:17]
 
 ## Disagrees with
-- none recorded yet
+- xxSDxd0zC7c (Metro Deadlock, 2025-05-10): Spirit Resilience and Bullet Resilience are bad, 30% resist for 3.2k with the 60% only below 30% health when you are already dead. [29:12]

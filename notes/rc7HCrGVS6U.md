@@ -53,3 +53,5 @@ For solo queue players who want to win games their team is losing, with Seven an
 - 5O2xp1Rc9cU (Deathy, 2026-02-02): Before four minutes in a neutral or losing lane you can do boxes or gank and let the wave crash into your tower. [12:41]
 - DEAb-LfSXq0 (Sensu, 2026-05-18): Kill Guardians as early as possible so your troopers push toward Walkers and you can roam the enemy side. [9:46]
 - 0iLzlvGjfGE (Metro Deadlock, 2026-10-01): Ziplines are faster than the ground. [37:42]
+- zFn1yGu5wkQ (Midknight, 2025-10-21): Always run the Urn after Mid Boss, then take their base or bank the souls. [5:07]
+- Dz6e89ky0jU (Midknight, 2025-06-14): Buying Extra Regen at full HP is autopilot, and this lane did not need it. [2:02]

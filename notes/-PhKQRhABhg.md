@@ -64,3 +64,5 @@ For players who fall behind on souls or want to become their team's carry farmer
 ## Disagrees with
 - Vfw8aqOH0tk (Metro Deadlock, 2025-11-30): Wraith should farm sinners on both sides of the map, and stealing the enemy's sinners is better. [12:43]
 - z3SfKOCdE0I (DattoDoesDeadlock, 2026-10-19): "Carries need to get all the souls" is propaganda by carry players and not true. [36:34]
+- p6YcMYbxKOQ (Midknight, 2026-10-28): It is not ideal for Paige to take Sinner's Sacrifices, but in solo queue take them. [7:04]
+- XfYVhDHtKPg (Midknight, 2026-10-16): Do not run boxes while there are camps on the map. [17:07]

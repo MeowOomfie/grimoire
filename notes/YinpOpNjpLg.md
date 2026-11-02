@@ -60,3 +60,5 @@ For players who copy high-rank builds and want the reasoning behind the situatio
 - WDXm_ggBpk8 (Metro Deadlock, 2025-05-13): Unstoppable is a great item and he rushes it every game. [27:12]
 - 2TR6pE_dqN4 (Deathy, 2025-10-15): Against this team Metal Skin is okay, but you probably buy Bullet Resilience. [32:36]
 - MgVcYiag1bE (Deathy, 2024-08-28): Casting Knockdown the moment Seven ults cancels it with little damage taken, and this drill works on any hero. [17:46]
+- J0Qps5BORoo (Midknight, 2026-05-16): Seven does not need Unstoppable if the enemy team has no Knockdown. [28:47]
+- GV5ohnHhM3o (aquatiq, 2026-09-23): Against Silver he farms for Unstoppable first, ahead of Plated Armor. [19:03]

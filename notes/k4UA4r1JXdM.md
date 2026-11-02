@@ -22,4 +22,4 @@ Patch date: around 2026-05-31.
 - When the enemy takes the Urn, push their base instead. [19:38]
 
 ## Disagrees with
-- none recorded yet
+- 6KMyOlCJJH8 (Midknight, 2026-06-03): Graves is weak and he would put her as an off carry. [16:33]

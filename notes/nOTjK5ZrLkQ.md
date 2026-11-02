@@ -56,4 +56,4 @@ Coach's breakdown of the 2025-12-16 patch: movement speed nerfs and diminishing 
 - The movement speed decreases in general will shake up the meta significantly for a lot of heroes. [19:26]
 
 ## Disagrees with
-- none recorded yet
+- X9yhG5vKca4 (HERESY, 2026-01-27): Reaching a 4.8k investment spike as soon as reasonably possible is mathematically optimal in most cases. [49:30]

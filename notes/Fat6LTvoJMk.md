@@ -75,3 +75,4 @@ Second half walks through six Rift fights from the coach's own high rank games (
 
 ## Disagrees with
 - 3Cta_ITcDlY (Metro Deadlock, 2026-07-02): The Rift is now the most valuable objective and the most money on the map [2:33]
+- 19gKDmxn0Gc (Midknight, 2026-10-22): The Rift is worth 10k souls. [30:02]

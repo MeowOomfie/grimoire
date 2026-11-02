@@ -129,4 +129,4 @@ For Wraith and other farming carries who play too safe once they are ahead.
 - If you know the Pocket is elsewhere, take the camp; with your ult, join your team to kill whoever is left and take the tower; if you are stronger than the Pocket (7k vs 5k), march down blue and take the tower. [73:30]
 
 ## Disagrees with
-- none recorded yet
+- 9S9c4ONixGE (Midknight Vods, 2026-02-04): You cannot keep taking sustained fights while sitting on 9k unspent souls. [42:08]

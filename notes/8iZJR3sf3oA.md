@@ -37,4 +37,4 @@ Patch of late August 2026.
 - He finished 6/7 with 20 assists in a win. [29:19]
 
 ## Disagrees with
-- none recorded yet
+- pKV-x3C39xU (Shotty, 2026-10-29): If you are about 3k souls behind, do not hold back from fights to farm. [2:31]

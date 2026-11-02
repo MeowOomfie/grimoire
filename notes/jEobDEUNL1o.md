@@ -157,4 +157,5 @@ Analysis of an EU Calico player (mid game focus):
 - In grouped late fights he plays purely for damage instead of looking for a parry; Midknight normally goes 2, Arctic Blast, parry for the amp, then ult. [234:43]
 
 ## Disagrees with
-- none recorded yet
+- s3e8m-Utr3M (aquatiq, 2026-09-19): Silver was awful for a long time before the September patch that buffed her. [9:54]
+- ZWm7ixeWjbQ (HERESY, 2026-09-17): Warden's build is no longer Spiritual Overflow plus Mercurial Magnum after the patch, expect more traditional gun items. [14:14]

@@ -132,3 +132,6 @@ A close game behind from about 12 to 29 minutes: lane power spikes, resets, item
 ## Disagrees with
 - BiZ29Dtc-Wo (Deathy, 2026-04-19): The Rejuvenator gives about 4 minutes of map control and that duration does not change through the game [8:08]
 - D0KSefw6iKk (Deathy, 2026-06-30): A comeback Rift with 12 troopers is basically a guaranteed walker, so push the walker after you win it [4:36]
+- 7XwnSvkuGaM (Midknight, 2026-08-21): Every later Rift spawns 7 minutes after the last one spawned, give or take a minute. [0:31]
+- KWfozOqiJTg (aquatiq, 2026-09-06): You do not have to fight the Rift; give it and fight them after. [16:28]
+- rmmpIeC7IsY (Midknight, 2026-08-18): Losing a Walker for the Rift is not worth it. [11:27]

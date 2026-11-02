@@ -67,4 +67,5 @@ For Billy players and front-liners who want a macro plan, from a NA top 50 playe
 - Loop: use your ultimate; when it is on cooldown, jungle to recover health; right before it comes back, spend souls for a power spike; then use it in the best way. Rinse and repeat. [24:03]
 
 ## Disagrees with
-- none recorded yet
+- 9M5pYQVuxiw (Metro Deadlock, 2025-09-12): Billy's skill order is two points in Blasted in lane, one in Chain Gang, then max Bashdown. [13:20]
+- euCapgzuzYs (Midknight, 2025-08-22): He does not love Monster Rounds as a Billy start item; rush it only on weak wave clear or when hard shoved. [4:36]

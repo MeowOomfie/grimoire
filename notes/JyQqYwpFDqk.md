@@ -89,4 +89,5 @@ Mid and late game macro:
 - The next patch was expected to make the Urn less extreme after it started spawning in the enemy base, so run the Urn more; you can bind a "help me with the Urn" ping. [50:33]
 
 ## Disagrees with
-- none recorded yet
+- 1TgJ740vu1g (MoistCr1TiKaL Gaming, 2026-10-26): On the way to the shop do not get distracted by small boxes; go straight to the shop. [25:14]
+- ErL1ZOb58eM (Deathy, 2024-11-01): The Infernus lost the lane to one mistake, hard pushing the wave. [2:00]

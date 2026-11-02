@@ -79,4 +79,4 @@ Summary notes:
 - Focus objectives; the real reason this game was lost was having only two flex slots for most of it. [21:31]
 
 ## Disagrees with
-- none recorded yet
+- 9aK1ZB_VEmI (Deathy, 2024-10-25): Mystic Reverb's slow now applies only to the primary target, which probably kills the Mystic Reverb Malice build. [10:41]

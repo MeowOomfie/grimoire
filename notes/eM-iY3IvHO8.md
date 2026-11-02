@@ -119,3 +119,5 @@ Heroes: Abrams, Apollo, Bebop, Billy, Calico, Celeste, The Doorman, Drifter, Dyn
 ## Disagrees with
 - dYCgnZ4Wp-A (Metro Deadlock, 2025-09-17): Ball builds on Seven are not good; the classic build maxes Power Surge first. [25:31]
 - dYCgnZ4Wp-A (Metro Deadlock, 2025-09-17): The gun Mirage build is still the most solid; he does most of his damage with the gun. [21:59]
+- iAUTYVSHE4I (aquatiq, 2026-04-14): Trophy Collector is not a good item anymore, even with 16 assists. [22:34]
+- BVN7thqO0JM (Midknight, 2026-02-25): Fortitude is not that good right now because one heal crate heals you to full after the rework. [16:22]

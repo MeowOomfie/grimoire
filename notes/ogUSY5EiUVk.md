@@ -39,4 +39,4 @@ Her weapon, Power Slash charging, item choices against the enemy lineup, a tip f
 - As Graves, place your ult where the enemy cannot punch it out quickly. [30:23]
 
 ## Disagrees with
-- none recorded yet
+- K75UNhTwDm0 (Midknight, 2025-12-31): Beeline the spirit spike on Yamato and only buy a healing item if the enemy starts harassing you a lot. [4:35]

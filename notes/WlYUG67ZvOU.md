@@ -24,4 +24,4 @@ A January 2025 Eternus Calico game with live commentary against a Vyper in lane.
 - Calico is very good for baiting; he survived with Ethereal Shift. [18:27]
 
 ## Disagrees with
-- none recorded yet
+- M9XQ6LG9hpg (aquatiq, 2026-08-30): Calico is useless early in lane; all she can do is poke with her gun until Stalker. [1:33]

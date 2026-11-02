@@ -58,3 +58,6 @@ A 2024 commented Shiv game: ability order, lane approach, power farming with a m
 
 ## Disagrees with
 - GCuoZWpzse0 (Metro Deadlock, 2025-04-23): Bloodletting is strong against many small damage-over-time bullets, so the better gun heroes get, the better Shiv gets. [6:44]
+- _eSMmcaa-7I (Midknight, 2026-03-10): Take two points in dash, then max knives first; he dislikes a dash max before knives. [2:38] [31:18]
+- PtOXKUCzcU4 (Midknight, 2025-06-24): On gun Shiv, Stamina Mastery is much better than Warp Stone at the same price. [30:52]
+- bs2VHLAIx8c (aquatiq, 2026-07-16): He would never go gun on Shiv. [22:01]

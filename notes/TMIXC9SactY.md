@@ -28,4 +28,5 @@ No one is coached. Recorded around the 2026-06-28 patch.
 - His loss: the enemy used their ultimates on him and focused him for long stretches, so he could not play with his team. [35:41]
 
 ## Disagrees with
-- none recorded yet
+- beZYWx0UF5w (Metro Deadlock, 2025-06-07): Vindicta is C tier: her hard carry days are over and as an AoE debuffer she does not carry. [8:37] [9:07]
+- yvjHTqgwWR0 (aquatiq, 2026-03-22): Vindicta is surprisingly hard to carry on if you like a carry play style. [0:34]

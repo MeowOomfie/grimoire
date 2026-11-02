@@ -368,4 +368,8 @@ Player 4 (Cardiac, Silver, Ritualist):
 - Metro's build looks locked in; he would buy Rusted Barrel in lane, skip Close Quarters unless into a melee comp, and buy duration sooner. [233:09]
 
 ## Disagrees with
-- none recorded yet
+- 3Cta_ITcDlY (Metro Deadlock, 2026-07-02): Never take a team fight just to secure an Urn; getting it while teammates die is always a net negative. [7:09]
+- m0SFyNeH9Yw (HERESY, 2026-06-26): In the right spot take over the game by invading their jungle even sitting on 6k unspent, then go back and spend. [33:57]
+- wGVJqFbgunQ (aquatiq, 2026-05-20): Silver's gun is what makes her scale; the damage later is insane and she does not fall off. [2:41]
+- c32x_V3a6qk (Midknight, 2026-03-03): Respect how strong Silver is in lane, especially once she has her ult and can nearly one-shot you. [5:42]
+- hHoiw3oTNJk (Metro Deadlock, 2025-11-23): Infernus should build a super early Toxic Bullets alongside early Suppressor and Superior Duration. [15:25]

@@ -93,4 +93,5 @@ Summary:
 - Biggest problem was perma fighting. [35:14]
 
 ## Disagrees with
-- none recorded yet
+- 0cTj49pB-oU (Midknight, 2026-04-11): You do not want to be boxing anymore, especially as an M1 boxing out of a dead lane. [5:11]
+- tCSt5ChWxxE (Midknight, 2026-01-03): A big part of why Sprint Boots are viable early on Calico is the out of combat regen. [8:51]

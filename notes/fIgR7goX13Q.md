@@ -45,4 +45,4 @@ aquatiq, lane with Shiv against Warden and Mo & Krill, Oracle lobby. No one is c
 - Graves gets strong late game; he ended with the most souls and 54k player damage. [35:39]
 
 ## Disagrees with
-- none recorded yet
+- RAvOQCYRFMg (Metro Deadlock, 2026-03-20): In pro play three or four Healbanes show up almost every game because they raise damage output. [4:36]

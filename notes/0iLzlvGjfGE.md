@@ -112,3 +112,5 @@ For brand new and returning players.
 - 6lQ71BcyyyQ (Deathy, 2025-07-31): A parried player is stunned for 3 seconds, and debuff resistance no longer shortens it. [6:06]
 - -ljQqwvt7g4 (HERESY, 2026-06-24): You can force Mid Boss even with all six enemies alive if you have other reasons to be confident of winning the fight [17:27]
 - -NyPdE6mL9s (Metro Deadlock, 2026-02-03): Carrying the Urn makes you much tankier but you cannot shoot or cast, only melee [26:33]
+- skvpnlew124 (aquatiq, 2026-07-06): The Rift needs only one player, and the team would rather take a Walker together. [22:04]
+- 2HAtMfqwzFM (aquatiq, 2026-08-15): The Rift is the losing team's chance to come back, but do not die for it. [10:53]

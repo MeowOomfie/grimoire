@@ -66,4 +66,4 @@ General and patch notes:
 - He thinks Cheat Death on Doorman is annoying because of the kit, and Slowing Hex should stop Doorman entering his doors. [17:40]
 
 ## Disagrees with
-- none recorded yet
+- RAvOQCYRFMg (Metro Deadlock, 2026-03-20): Sell Golden Goose Egg at around 12 to 20 minutes, back in base, to buy your first big item. [10:13]

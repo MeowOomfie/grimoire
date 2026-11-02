@@ -134,4 +134,4 @@ Part 3 of a coach's four-part counter series (September 2025 patch), for any pla
 - Once Shiv uses his dash he is not mobile unless he knows flying Shiv tech or dash slides; after dashing in he is stuck backpedaling and vulnerable, especially early game. [38:17]
 
 ## Disagrees with
-- none recorded yet
+- qvEpgbh68_U (Natan, 2025-01-19): Debuff Remover cleanses things like the Pocket ult, Infernus burn and a Mo & Krill arm. [12:45]

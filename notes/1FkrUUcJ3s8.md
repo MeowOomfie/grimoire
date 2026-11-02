@@ -39,4 +39,4 @@ Patch date: early June 2026.
 - Late game plan after a won fight: farm up, get Urn, take mid boss. [34:12]
 
 ## Disagrees with
-- none recorded yet
+- l927AEmmUjA (aquatiq, 2026-03-21): Mirage's teleport ult is only good in very specific situations, so he holds it. [16:13]

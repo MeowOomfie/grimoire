@@ -97,4 +97,6 @@ Final notes:
 - Weave right clicks between every ability (on Abrams too, it is right click, 2, right click, 3, right click, 1), then switch to left clicking until something comes up. [42:56]
 
 ## Disagrees with
-- none recorded yet
+- -ljQqwvt7g4 (HERESY, 2026-06-24): If the enemy controls a comeback Urn, do not fight on the deposit; high elo teams let it go in and fight them after. [6:07]
+- WQ7oUCa_4v4 (Midknight, 2025-12-07): Three max (Crimson Slash) Yamato is a sustain choice for rough lanes, and stacking it with defensive items in a winnable lane is over-specced. [0:30] [2:02]
+- ogUSY5EiUVk (aquatiq, 2026-07-27): Yamato needs a lot of survivability; builds are spirit plus survivability items, starting Healbane then Weapon Shielding. [1:02] [11:11]

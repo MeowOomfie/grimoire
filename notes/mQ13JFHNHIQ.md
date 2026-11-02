@@ -84,4 +84,5 @@ General and patch notes:
 - Patch: the Urn punch changes are good; you can no longer start the soul suck and then fight so the enemy cannot get the Urn if the fight goes wrong. [23:12]
 
 ## Disagrees with
-- none recorded yet
+- LtmOCVwvtsk (aquatiq, 2026-06-15): Ricochet should come before Toxic Bullets on Mirage. [18:19]
+- eQrK5gJ5jOg (Metro Deadlock, 2026-08-30): The best gun-category items, Opening Rounds among them, are bought by spirit heroes. [13:49]

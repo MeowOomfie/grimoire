@@ -42,4 +42,4 @@ Verdict:
 - Silver is strong again, "freaking OP". [23:18]
 
 ## Disagrees with
-- none recorded yet
+- jEobDEUNL1o (Midknight Vods, 2026-09-20): Before the September buff Silver was already about B tier and slept on. [167:36]

@@ -238,4 +238,4 @@ Player 4 (Violet, Mystic, lane against Lash):
 - Stats: jungle souls are very low and objectives a little low. Urn souls are high, and you could box more between waves. [144:47]
 
 ## Disagrees with
-- none recorded yet
+- 7L-j1mjASk0 (Deathy, 2026-10-08): A deposited Urn throws its souls into the air for anyone nearby, enemies included, so stay and secure them. [15:46]

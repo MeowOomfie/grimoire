@@ -38,4 +38,4 @@ Covers his item picks (the new Grit item, Restorative Shot, Stamina Mastery, Tox
 - Build summary: get some movement on her, always get the item he points to on screen (not named), invest more in spirit than gun, always get Toxic Bullets because you proc it well, and get Inhibitor when the enemy has heroes who heal. [32:41]
 
 ## Disagrees with
-- none recorded yet
+- mjnR5V2JKoM (Midknight, 2026-01-31): Extra Regen is better than Restorative Shot on Graves because her gun range is only 18 m. [2:04]

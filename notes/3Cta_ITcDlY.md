@@ -63,3 +63,6 @@ Rift timing and scouting, new Urn rules and value, jungle vs fighting, split pus
 - 7kW4TuPwh0U (Deathy, 2024-08-27): The first Urn gives AP and around 3,900 souls, with extra souls and AP for the player who delivers it [10:44]
 - Fat6LTvoJMk (Deathy, 2026-10-14): The first and second Rifts are always worth fewer souls than a Walker, so losing a Rift for a Walker is a souls win [1:02]
 - 2M_Yf6EXdTs (Natan, 2026-10-14): Pushing a walker with the Rift troopers is very often bait, since early walkers are tanky and your team usually needs to reset [11:51]
+- 9S9c4ONixGE (Midknight Vods, 2026-02-04): A late game one fight from ending should be closed by running the Urn and taking the deciding fight on it. [54:02]
+- 7XwnSvkuGaM (Midknight, 2026-08-21): Early Rifts are not that valuable: about 1,500 and 2,200 souls against a flat 3K for a Walker. [9:41]
+- XfYVhDHtKPg (Midknight, 2026-10-16): A comeback Rift gives the losing team 40 to 60% resistances. [15:00]

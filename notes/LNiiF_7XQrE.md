@@ -90,4 +90,5 @@ General advice:
 - Sinclair can steal your ult. [35:27]
 
 ## Disagrees with
-- none recorded yet
+- hFjEY37gz-Q (HERESY, 2025-12-22): On Victor, save to hit Torment Pulse as fast as possible; it reaches the 4.8k spike with a huge spirit jump. [17:05]
+- EgabVyWhDMU (Metro Deadlock, 2025-09-24): Ethereal Shift is the best item for Victor on any build, even full spirit. [21:57]

@@ -30,4 +30,5 @@ For players new to Mirage.
 - For a non-Scarab build, Prayan has the best Mark one-shot build, but the Scarab build is by far better right now. [2:33]
 
 ## Disagrees with
-- none recorded yet
+- LtmOCVwvtsk (aquatiq, 2026-06-15): Max Djinn's Mark first, not Tornado and not Scarabs, because Mark is still very strong. [2:33]
+- pQ6SEpLAmFs (aquatiq, 2026-09-11): Do not buy Cultist on Mirage, since you do not care much about gun damage on him. [5:39]

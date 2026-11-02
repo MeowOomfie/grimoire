@@ -42,4 +42,5 @@ Light reasoning while playing: item choices, tunnel boxes and cat form, Calico's
 - Later in the game he needs greens to avoid being instantly killed. [28:55]
 
 ## Disagrees with
-- none recorded yet
+- WlYUG67ZvOU (Metro Deadlock, 2025-01-19): Calico is really strong in lane but falls off heavily afterwards. [5:12]
+- v4KN6D0nlZc (Metro Deadlock, 2025-01-22): Calico is a tanky front line disruptor who wants to be in the fight the whole time. [0:31]

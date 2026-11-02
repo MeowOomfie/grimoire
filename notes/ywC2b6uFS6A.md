@@ -113,3 +113,4 @@ For players who want to know what changed in the meta and which builds or heroes
 - SytB0zKkUlQ (Metro Deadlock, 2025-09-02): Metal Skin makes you take no damage from a gun hero for three and a half seconds. [28:10]
 - orI-u4l2MBk (Metro Deadlock, 2025-05-09): Siphon Bullets is better than before, stealing 65 health per bullet steal; he calls it insane. [52:35]
 - PI3RZVAW5jw (Metro Deadlock, 2025-09-08): If you win a fight but are very low you can die to the enemy guardian on purpose, which at about seven seconds early is still faster than going back to heal. [16:20]
+- T_2OPogV3Qw (Midknight, 2025-09-03): Escalating Exposure is the best 20% spirit resist item he can think of, with significant damage too. [26:29]

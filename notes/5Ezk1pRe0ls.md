@@ -94,4 +94,6 @@ Final notes:
 - Pay attention to your souls and use the secret shop; spending before that Abrams fight could have changed the game. [46:07]
 
 ## Disagrees with
-- none recorded yet
+- nutJm9fiFd8 (Deathy, 2024-09-05): With a huge soul lead you do not need a fight; walk straight to Mid Boss even with every enemy alive. [4:34]
+- 1TgJ740vu1g (MoistCr1TiKaL Gaming, 2026-10-26): At half HP go to the shop, not base, and heal on the way. [25:14]
+- x3vpYZLMOu8 (Metro Deadlock, 2025-11-07): Trophy Collector is a good item on Mo & Krill now, so add it to his build even though it is not listed. [21:51]

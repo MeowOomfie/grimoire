@@ -31,4 +31,4 @@ Mostly a played game with item reasoning along the way: Battle Vest, Slowing Bul
 - A Seven with Plated Armor was barely damaged by him. [28:10]
 
 ## Disagrees with
-- none recorded yet
+- 5SsEsiOH1f4 (Metro Deadlock, 2024-11-30): Slowing Hex is a core Warden item you should always buy. [10:42]

@@ -38,4 +38,4 @@ Item path from extra regen and Close Quarters to Silencer, Inhibitor and Phantom
 - Verdict: a pretty good Silver game with 43,000 damage despite the loss. [31:23]
 
 ## Disagrees with
-- none recorded yet
+- 9S9c4ONixGE (Midknight Vods, 2026-02-04): Gun items are awful on Silver; her gun does a minuscule amount of damage and her damage comes from going fury. [87:34]

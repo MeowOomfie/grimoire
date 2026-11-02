@@ -102,3 +102,7 @@ For brand new players.
 - -NyPdE6mL9s (Metro Deadlock, 2026-02-03): Mid Boss spawns at 10 minutes but is very tanky and risky to take until around 20 minutes [33:44]
 - -ljQqwvt7g4 (HERESY, 2026-06-24): After wiping most of their team with long respawn timers you can push the base even with no Mid Boss alive [26:44]
 - DEAb-LfSXq0 (Sensu, 2026-05-18): You can currently skip base Guardians and hit Shrines directly, since they do not need troopers to take damage [12:48]
+- DPQVoXZoJaY (Midknight Vods, 2026-10-28): Standing around defending an Urn cash is wasted time; farm boxes while you wait. [57:42]
+- 7XwnSvkuGaM (Midknight, 2026-08-21): Rift comeback resistance maxes at 35%, reached when 15% or more behind. [0:31]
+- O_JhHaqCzPQ (Midknight Vods, 2026-10-22): Being in every Rift is play well above your rank. [33:35]
+- ETyUAcDa8W8 (Midknight Vods, 2026-10-28): Rotate by running through the map, not on ziplines. [91:04]

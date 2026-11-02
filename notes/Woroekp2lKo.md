@@ -139,3 +139,6 @@ For any player who wants to know what changed, who got stronger or weaker, and h
 
 ## Disagrees with
 - 5yeuG-xYad8 (Shotty, 2026-10-10): Mid Boss makes a map-wide sound at half health that tells everyone [10:09]
+- ETyUAcDa8W8 (Midknight Vods, 2026-10-28): Once you get picks past 21 or 22 minutes, call Mid Boss; games drag because nobody calls it early enough. [84:47]
+- T_2OPogV3Qw (Midknight, 2025-09-03): Higher level players do not buy Radiant Regen on Victor because it does not proc its flat healing off his 3. [3:03]
+- XG0SAV0C9cU (aquatiq, 2026-10-23): Radiant Regen is still very strong despite the nerfs, giving him 5.8k healing in one game. [30:33]

@@ -77,4 +77,5 @@ Coaching, patch of 2026-10-16.
 - Builds: his own build centers more around Magic Carpet; Lightbringer's build is the everything-on-the-screen option; Osis is a good simple left-to-right build, but its ability order needs two points in Bishop earlier. [23:24]
 
 ## Disagrees with
-- none recorded yet
+- 3Cta_ITcDlY (Metro Deadlock, 2026-07-02): Rift comeback resistance caps at 35%, scaling from 0% at even net worth to the full 35% at 15% behind. [13:15]
+- -PhKQRhABhg (Metro Deadlock, 2026-02-18): After lane creeps the best sources are Sinner's Sacrifices, then boxes, and only then jungle camps. [2:02]

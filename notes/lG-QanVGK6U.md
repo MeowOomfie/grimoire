@@ -72,4 +72,5 @@ Player (Billy, Phantom):
 - Stalling the Abrams so he couldn't charge onto the first Rejuvenator could have changed the game. [31:00]
 
 ## Disagrees with
-- none recorded yet
+- 9M5pYQVuxiw (Metro Deadlock, 2025-09-12): Rapid Recharge can be bought earlier on Billy as quality of life and is a good late game buy. [23:02]
+- C7m-UdUIcQA (Deathy, 2026-06-25): A top player bought Golden Goose Egg in lane, and his own takeaway is to try the egg. [15:43]

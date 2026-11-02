@@ -74,4 +74,5 @@ Macro:
 - Map awareness: watch for crashing waves and catch them, and notice when someone is mispositioned alone. [34:36]
 
 ## Disagrees with
-- none recorded yet
+- PtOXKUCzcU4 (Midknight, 2025-06-24): Gun Shiv builds max the ult first. [18:35]
+- wG1CBI5BCcA (aquatiq, 2026-04-12): Bullet Resilience is a good buy because half the enemy team is building gun. [12:58]

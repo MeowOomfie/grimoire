@@ -44,3 +44,5 @@ For players picking up or playing against Celeste in February 2026.
 ## Disagrees with
 - JouUab99B4Y (Metro Deadlock, 2026-10-21): Celeste is the exception among off carries, kind of weak in lane. [11:12]
 - VZFfsuDT0sw (Metro Deadlock, 2026-10-11): Baba and Celeste are quite difficult for new players. [13:42]
+- wKeOOo_xqvs (Midknight Vods, 2026-02-11): Maxing the 2 first gives less value than maxing the ult; 1 max first is the play. [77:14]
+- TdCgfh7jctA (Midknight, 2026-02-11): You don't need a 4.8k gun spike on Celeste. [14:20]

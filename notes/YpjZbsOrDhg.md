@@ -45,4 +45,4 @@ Recorded 2026-09-25.
 - Late he bought Lightning Scroll and skipped Debuff Remover because he already had Indomitable. [37:00]
 
 ## Disagrees with
-- none recorded yet
+- uBPwgk-djTA (aquatiq, 2026-05-13): Vindicta dominates because she is a gun character and her snipe now scales with her gun. [12:59]

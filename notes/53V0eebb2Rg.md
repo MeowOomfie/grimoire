@@ -26,4 +26,4 @@ Covers laning next to a Paige, early sustain instead of Opening Rounds, the gun 
 - Glass Cannon came last; a little late to stack it, but it finishes the build. [26:04]
 
 ## Disagrees with
-- none recorded yet
+- 19gKDmxn0Gc (Midknight, 2026-10-22): Spirit or weapon Paradox are both fine, picked by what the comp needs, such as spirit nuking or pit contest. [6:15]

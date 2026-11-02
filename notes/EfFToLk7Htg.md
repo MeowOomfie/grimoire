@@ -61,3 +61,4 @@ Freezing trooper waves in Deadlock: what it is, the conditions that let you star
 ## Disagrees with
 - L_yU-0kb24g (Shotty, 2026-09-03): Tier two camps at five minutes are worth only about 95 souls and usually not worth the HP for non-carries. [16:46]
 - ErL1ZOb58eM (Deathy, 2024-11-01): He froze from the early lane as a preventative measure, shooting creeps only under his own tower. [13:07]
+- 7aH1OFo2xxY (Midknight, 2026-10-12): Do not hold a freeze for more than one wave, or you forfeit a lot of jungle. [10:44]

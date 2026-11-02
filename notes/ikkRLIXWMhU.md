@@ -80,4 +80,4 @@ Holliday side answer:
 - If you are stuck farming a side lane on Holliday, first ask on mic for someone to swap; if not, farm it and do the gun pivot at around 27k on his build, then go back to spirit with something like Boundless Spirit, or a headshot item if they are tanky. If you can't aim, hard commit to offensive spirit items. [40:18]
 
 ## Disagrees with
-- none recorded yet
+- gUe-_cD12kM (Metro Deadlock, 2025-10-08): From about 12 to 13 minutes respawn timers are long enough that one, two or three kills let you take Mid Boss. [16:21]

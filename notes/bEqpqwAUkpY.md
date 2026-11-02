@@ -103,4 +103,4 @@ Part 2 of a four part counter guide (September 2025): Haze, Holliday, Infernus, 
 - Key ability: her wall, 50 second cooldown, about two waves; she rarely puts two points in early. Without it she cannot cut you off, and with only two stamina she struggles to escape, so siege the wave. [33:02]
 
 ## Disagrees with
-- none recorded yet
+- JCFFWt1t5yU (Metro Deadlock, 2025-08-27): Spirit Resilience got nerfed and is now bad, so do not buy it. [1:33]

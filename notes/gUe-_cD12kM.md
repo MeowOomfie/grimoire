@@ -72,3 +72,4 @@ For players who win lane but fall behind later, and for anyone stuck in lower ra
 - u2on5lG-S20 (Natan, 2025-01-17): His team should not fight while the enemy still has the Rejuvenator up, they need to chill and not get caught [15:05]
 - YwWdz1h97xc (Deathy, 2026-02-14): Losing one player for a Walker is usually fine, but losing two is the problem [12:38]
 - WC6YI6wmJYs (Natan, 2026-02-02): Take the middle Walker first or second, because taking both side Walkers first leaves a very tough mid Walker [2:01]
+- ikkRLIXWMhU (Midknight, 2025-10-29): Mid Boss flowchart: two picks with the team on mid after 18 minutes, two picks anywhere after 22, one pick only after 28. [46:26]

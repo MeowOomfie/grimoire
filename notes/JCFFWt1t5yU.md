@@ -103,3 +103,4 @@ Main theme: the meta is spirit burst, resist items were nerfed, and the new hero
 ## Disagrees with
 - CEkOo4iv9rc (Metro Deadlock, 2025-09-10): The Doorman dropped from S+ to low B after his card stun nerf. [4:35]
 - nWBBSTxizdI (Natan, 2026-03-28): Wraith's ultimate is hard to react to with Counterspell; use Ethereal Shift after it hits instead. [18:13]
+- bEqpqwAUkpY (Midknight, 2025-09-17): Bullet Resilience, Spirit Resilience, Enchanter's Emblem and Battle Vest are good buys into their damage types. [1:01]

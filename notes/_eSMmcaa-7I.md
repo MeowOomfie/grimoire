@@ -86,4 +86,5 @@ Player 1 (Shiv, Oracle):
 - Summary: stop running at the mid walker, do not skip spikes (go purple spike first), stop overstaying after picks, and shoot objectives. [36:26]
 
 ## Disagrees with
-- none recorded yet
+- VdQhXgTKKUI (Deathy, 2024-08-24): Level the knife first, then max Slice and Dice (the dash) and put no points elsewhere. [1:31] [2:32]
+- pLOzu3zd6Vk (Midknight, 2025-10-27): Shiv badly needs green vitality investments; the next item should be green, orange at worst, but not purple. [12:45] [13:47]

@@ -95,3 +95,5 @@ For Billy players and any team-fight hero unsure where to be after lane.
 ## Disagrees with
 - oHRJR4wcmk4 (Deathy, 2025-08-13): Counterspell wins a hard 1v1: as Infernus against Wraith you bait her ult, Counterspell it and win the duel. [11:43]
 - D0KSefw6iKk (Deathy, 2026-06-30): You cannot manually drop the Urn, so you carry it the whole way [6:09]
+- YuoeMkVhD8s (Midknight, 2026-06-14): Most carries want to farm until 20 minutes because fights before then carry little weight without Mid Boss on the table. [2:31]
+- jH55dzrGjWM (Midknight, 2026-04-13): One way to learn Counterspell is simply to buy it every game until you are comfortable with it. [27:22]

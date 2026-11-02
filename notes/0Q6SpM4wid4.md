@@ -27,4 +27,4 @@ Mostly gameplay; useful parts are the spirit item path and why he picked each it
 - Verdict: spirit Drifter feels broken and fun. [19:30]
 
 ## Disagrees with
-- none recorded yet
+- yjoDPCs_1r8 (Midknight Vods, 2025-08-29): Drifter is not broken; he is a pub stomper like day-one Viper who won't be played in pro. [71:21]

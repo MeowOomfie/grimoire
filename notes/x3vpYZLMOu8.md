@@ -120,3 +120,4 @@ Heroes: Abrams, Bebop, Billy, Calico, The Doorman, Drifter, Dynamo, Grey Talon, 
 - w8i5cPb5uH4 (Metro Deadlock, 2025-12-24): Ivy is best as a hybrid support now; full gun carry Ivy does not do well. [20:50]
 - V7SF5fuOA4c (Metro Deadlock, 2026-10-29): McGinnis is best played with a full gun build; Quicksilver Reload and Mercurial Magnum make the turrets strong without spirit, so spirit is not worth it. [25:26]
 - dYCgnZ4Wp-A (Metro Deadlock, 2025-09-17): With the stake much weaker, go more gun on Vindicta to carry pubs. [31:05]
+- 5Ezk1pRe0ls (Midknight, 2025-12-29): Mo & Krill does not want Trophy Collector, because he only relies on teammates' power while his ult is up and sacking souls matters more. [14:24]

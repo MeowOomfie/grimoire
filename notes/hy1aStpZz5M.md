@@ -20,4 +20,4 @@ Mostly gameplay; a few lane, item and teamfight notes.
 - He says this carbine Paradox build is back and very strong. [24:04]
 
 ## Disagrees with
-- none recorded yet
+- 19gKDmxn0Gc (Midknight, 2026-10-22): Spirit Paradox has been power crept out by the new heroes and is now only average at mid contest. [6:15]

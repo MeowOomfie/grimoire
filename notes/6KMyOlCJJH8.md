@@ -77,4 +77,6 @@ General:
 - Urn is very strong: a Shiv who keeps getting caught and is not winning fights is still at that rank because he understands Urn equals good. [30:17]
 
 ## Disagrees with
-- none recorded yet
+- euCapgzuzYs (Midknight, 2025-08-22): Point Blank is an amazing item on Billy. [12:51]
+- 9M5pYQVuxiw (Metro Deadlock, 2025-09-12): Billy is a gun brawler who should not melee until he baits out a parry and should rarely melee at all. [1:02] [7:13]
+- k4UA4r1JXdM (aquatiq, 2026-05-31): Graves is S tier with about a 58% win rate; he plays her because she is overpowered. [1:04]

@@ -88,4 +88,4 @@ For Infernus players and anyone facing him. This is a late-2024 video (December 
 - The playstyle is simple and not hard, but overpowered; he encourages trying the Flame Dash builds. [42:23]
 
 ## Disagrees with
-- none recorded yet
+- 0k3q43GWoN4 (Midknight Vods, 2026-02-14): When very behind, slow play for a few minutes and farm; you do not win a fair fight from behind. [75:36]

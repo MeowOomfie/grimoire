@@ -37,4 +37,4 @@ Patch of early July 2026 (Rift recently added).
 - Late in a stomp, buy survival instead of damage: with about 30% bullet and 30% spirit resist he could not die. [29:50]
 
 ## Disagrees with
-- none recorded yet
+- 5JTGlH0ouyU (aquatiq, 2026-07-03): He considered maxing Time Wall first, since its upgrade gives two extra charges and it is a really good ability now. [3:40]

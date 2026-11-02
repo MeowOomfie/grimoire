@@ -85,3 +85,5 @@ For low and mid rank players who lose games after lane or give up when behind.
 
 ## Disagrees with
 - CH3DcJgGpHw (Deathy, 2025-04-18): Pick the Urn up when it is a comeback Urn for you and leave it when it is one for the enemy. [4:06]
+- I0bDZu1kHcE (aquatiq, 2026-03-27): Always do Mid Boss; the games where they skipped it they lost. [31:29]
+- aQ1gGXYkUoI (aquatiq, 2026-09-20): For Mid Boss, sacrificing a lane is worth it: one player holds the side and the rest go mid. [27:37]

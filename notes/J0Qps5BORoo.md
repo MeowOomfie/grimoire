@@ -98,4 +98,8 @@ Player 1 (Warden, Ascendant):
 - Summary of notes: dead time in the early lane, punish Lash when he Ground Strikes in, steal boxes and box route aggressively when ahead, eat every bag, farm more pre-20 minutes and play to scale, play weak side for a farm lead while the team runs Urn, invade with Rejuvenator, do not use Rejuvenator in the first 30 seconds, ult before you engage, and buy Armor Piercing Rounds and Silencer this game. [37:35]
 
 ## Disagrees with
-- none recorded yet
+- OKlntZnQxr4 (Midknight, 2025-06-11): Surge of Power and Extra Spirit were troll buys on this Warden. [17:12]
+- YKBErTj56NM (aquatiq, 2026-06-29): Max the cage (Binding Word), not the ult, even on a build that wants the ult used more. [9:16] [11:19]
+- s1xjlirnFHQ (aquatiq, 2026-07-28): Warden's gun was nerfed hard and feels bad now. [12:43]
+- dUWP1ORnSxo (Shotty, 2026-05-15): Against Lash and Dynamo together you can buy Unstoppable and still lose to their ultimates. [40:37]
+- YinpOpNjpLg (HERESY, 2026-09-12): On Seven or Dynamo, Unstoppable is practically core to avoid being stunned out of the ultimate. [8:06]

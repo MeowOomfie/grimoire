@@ -72,3 +72,7 @@ For players of any rank who want to know what to buy in a spirit-heavy meta and 
 
 ## Disagrees with
 - xRlHOsufXkQ (Metro Deadlock, 2025-05-27): Healbane is C minus and really fell off: the anti-heal is very low now, almost no hero but Shiv buys it, and it upgrades into nothing. [24:16]
+- amDwMb0k6lw (Midknight, 2026-05-20): Pop Golden Goose Egg at 10 minutes to get the tier two buffs and be at full strength for the first Urn fight. [10:12]
+- 2sj356unks0 (Midknight Vods, 2026-01-31): He will never buy Debuff Reducer, even after its buff. [249:40]
+- BVN7thqO0JM (Midknight, 2026-02-25): The reworked debuff remover now gives spirit resist, and Dispel Magic is very good this game. [22:34]
+- fIgR7goX13Q (aquatiq, 2026-03-05): One Healbane on the team is enough, so he skipped it because his Shiv already had one. [29:57]

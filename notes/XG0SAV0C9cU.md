@@ -48,4 +48,4 @@ Patch as of 2026-10-23.
 - End of game: 38k damage, lots of objective damage, 19k healing, of which Radiant Regen gave 5.8k and Still Life 5k; Radiant Regen is still very strong despite nerfs. [30:33]
 
 ## Disagrees with
-- none recorded yet
+- Woroekp2lKo (HERESY, 2026-10-30): Radiant Regen is much worse now and anti-heal is buffed globally. [5:05]

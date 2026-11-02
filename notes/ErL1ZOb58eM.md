@@ -78,3 +78,5 @@ Freezing the wave (2024 map): what it is, last hitting creeps only when they fla
 - UorraSZ2XT0 (Deathy): Pocket has -5 spirit resist vs the later video: Pocket starts with -15% spirit resistance. [14:08]
 - wU29_RfH8Ks (Deathy): Pocket has -5 spirit resist vs the earlier video: Pocket has -15% base spirit resist. [14:08]
 - EfFToLk7Htg (HERESY, 2026-07-23): You cannot go into a lane phase planning to freeze; most freezes come after you destroy the enemy Guardian, in the late lane and early mid game. [20:50]
+- O_JhHaqCzPQ (Midknight Vods, 2026-10-22): Freezing is for losing lanes, best done back at your own tower. [12:30]
+- JyQqYwpFDqk (Midknight, 2024-11-06): Shove the wave as fast as you can, especially the first one. [0:30]

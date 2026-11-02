@@ -31,4 +31,5 @@ Includes his take on Seven and Graves builds from chat questions. Recorded 2026-
 - He sells Reactive Barrier late; it is good, but he no longer needs it. [27:37]
 
 ## Disagrees with
-- none recorded yet
+- J0Qps5BORoo (Midknight, 2026-05-16): Warden's gun has had huge numbers for a long time and only his slowness keeps him in check. [9:47]
+- XchfjG4Urb0 (Natan, 2025-02-01): Unstoppable is not mandatory for ult Seven, and Ethereal Shift is much better as a panic button. [4:34]

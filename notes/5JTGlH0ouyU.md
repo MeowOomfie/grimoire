@@ -39,4 +39,5 @@ Gameplay commentary, video dated 2026-07-03.
 - Paradoxical Swap can swap two, three or four people at once. [35:15]
 
 ## Disagrees with
-- none recorded yet
+- 22WkEiCjwko (aquatiq, 2026-07-13): He maxes Paradoxical Swap in this build. [6:53]
+- 19gKDmxn0Gc (Midknight, 2026-10-22): You cannot AFK farm on a pick hero like Paradox; she has to be active making plays. [34:53]

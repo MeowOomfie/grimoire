@@ -69,4 +69,4 @@ Movement tech:
 - An escape from the same spot chains slide, jump, slide in one movement. [36:43]
 
 ## Disagrees with
-- none recorded yet
+- l927AEmmUjA (aquatiq, 2026-03-21): Usually you take Fire Scarabs first on Mirage for the healing and sustain in lane. [0:30]

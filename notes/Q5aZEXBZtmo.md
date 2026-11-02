@@ -32,4 +32,5 @@ General:
 - He turned off cosmetic skins because their effects make the game lag; plain retexture skins like his Yamato one are fine. [1:02]
 
 ## Disagrees with
-- none recorded yet
+- dKZLpYZuFBg (aquatiq, 2026-06-17): He maxes Tornado over the ult, does not care much about the teleport, and maxes the ult last. [19:19] [25:41]
+- l927AEmmUjA (aquatiq, 2026-03-21): Siphon Bullets is not as good as it used to be and he finds it in no Mirage builds now. [26:36]

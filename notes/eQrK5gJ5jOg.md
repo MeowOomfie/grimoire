@@ -54,3 +54,6 @@ Mostly opinion, but it carries concrete facts about the rank system, the item me
 - o9-H6URkfDc (Deathy, 2026-09-14): In your correct bracket a win rate above 60% over hundreds of games is nearly impossible, since matchmaking pushes everyone to 50%. [36:01]
 - 42YfJRVhDRo (Shotty, 2026-08-13): Skip the first Rift unless it is in the lane you are farming [13:20]
 - rKuS8P-YZcs (Shotty, 2026-10-21): A team that side pushes, takes Walkers and objectives and farms camps out-scales a deathball [17:20]
+- ETyUAcDa8W8 (Midknight Vods, 2026-10-28): Split push when the enemy deathballs. [97:29]
+- m4nw0PlckXw (aquatiq, 2026-09-17): He thought Veil Walker might be a troll buy before buying it anyway. [13:09]
+- mQ13JFHNHIQ (Midknight, 2026-05-31): After its spirit power cut you cannot buy Opening Rounds on pure spirit heroes. [12:20]

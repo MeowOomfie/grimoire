@@ -44,4 +44,4 @@ For any player who rarely runs the Urn.
 - When winning, stagger the enemy's Urns: run an Urn on their side at the last possible second (for example 24:30) so whoever gets it, they wait 5 more minutes for a comeback; if you take it while already up about 20%, you reach about 25% and the game is basically over. [10:43]
 
 ## Disagrees with
-- none recorded yet
+- rc7HCrGVS6U (Shotty, 2026-06-10): After Mid Boss your job is to take a shrine. [10:42]

@@ -56,4 +56,4 @@ Also skill order, how to farm Sinner's Sacrifice and push lanes with helpers, an
 - Range (Expansion) still needs testing; at max range you can farm things from across the map while helping teammates, invading the enemy jungle and taking their Sinner's Sacrifices. [16:26]
 
 ## Disagrees with
-- none recorded yet
+- -nc7-DzlU0Q (Midknight, 2026-01-28): Rem's order is 3, then 2, then 1, then max 3, then max 2, then max ult, with no ult points before that, and Greater Expansion is extremely late luxury. [12:14] [28:39]

@@ -28,4 +28,4 @@ A Veil Walker and Torment Pulse spirit build, grabbing squishies, and teammate m
 - Play Mo & Krill now; he expects a heavy nerf next patch. [30:10]
 
 ## Disagrees with
-- none recorded yet
+- -JuKgSLZbXg (Deathy, 2026-07-07): Giving up the Rift and then fighting right on top of it is a huge blunder. [29:19]

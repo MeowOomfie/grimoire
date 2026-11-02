@@ -59,3 +59,4 @@ For players who wonder whether an item did anything; heavy on hidden mechanics, 
 
 ## Disagrees with
 - 9iK7Ea-xpug (HERESY, 2026-06-09): Heroic Aura is perhaps the most under-purchased item, worth a Battle Vest of bullet resist to the whole team in every team fight for the rest of the game. [1:32]
+- DqHCxPjXEFM (Midknight, 2026-03-09): The bullet and spirit resilience items are very good into their damage types, bullet resist only slightly worse. [0:31]

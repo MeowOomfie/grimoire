@@ -78,4 +78,4 @@ Player (Calico, high Eternus 6):
 - Be more active in the mid game; he never looked for anything on the enemy farm. [34:41]
 
 ## Disagrees with
-- none recorded yet
+- v4KN6D0nlZc (Metro Deadlock, 2025-01-22): Level Gloom Bombs first, then two points in Leaping Slash, then max the ult. [6:05] [13:48]

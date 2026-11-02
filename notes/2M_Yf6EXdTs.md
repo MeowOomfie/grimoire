@@ -83,3 +83,6 @@ Lane mistakes, playing around Baba's thread pull, ult unlock timing, mid-lane op
 ## Disagrees with
 - 9-y0F9f1R6c (Metro Deadlock, 2025-02-19): Do not take Mid Boss right after a won fight if enemy respawn times are still short [27:43]
 - 3Cta_ITcDlY (Metro Deadlock, 2026-07-02): After a decisive Rift win, immediately push that lane with the Rift creeps and at least try to take the Walker [11:43]
+- 7aH1OFo2xxY (Midknight, 2026-10-12): An Urn is worth about 60 to 70% of the souls of a Rift and is underplayed. [7:12]
+- JY7JvovPwUo (Midknight, 2025-09-16): Do not grab the Urn on their side while the enemy is being rolled, because it reminds them it exists. [14:25]
+- 3qmy1klJuWg (Eido, 2026-10-11): The better play is to take the Rift and push with the Rift minions while the advantage lasts. [33:49]

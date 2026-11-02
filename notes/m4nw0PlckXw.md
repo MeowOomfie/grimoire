@@ -25,4 +25,6 @@ No one is coached. Patch period of mid September 2026.
 - He finished with about 28,000 damage and the win. [24:06]
 
 ## Disagrees with
-- none recorded yet
+- bs2VHLAIx8c (aquatiq, 2026-07-16): He would never go gun on Shiv. [22:01]
+- ZWm7ixeWjbQ (HERESY, 2026-09-17): After the patch Golden Goose Egg is by far the worst item in the game and unviable, not even situational. [12:11]
+- eQrK5gJ5jOg (Metro Deadlock, 2026-08-30): Many spirit and vitality items are must-buys right now, Veil Walker among them. [13:19]

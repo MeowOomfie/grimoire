@@ -198,4 +198,5 @@ Player 4 (unnamed, Apollo, lane into a Celeste):
 - Space out your 1 recasts, since each one resets the timer. [197:09]
 
 ## Disagrees with
-- none recorded yet
+- G7Xy2qIOEwc (Deathy, 2025-10-05): Players at this rank give you many chances back into the lane, so do not give them up to run boxes. [8:37]
+- c3oE9wCVwZ8 (Metro Deadlock, 2024-12-23): Behind as a team, look for pickoffs, kills and teamfights; playing safe and farming your own jungle is the biggest mistake. [21:40]

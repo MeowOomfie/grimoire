@@ -211,4 +211,8 @@ Player 4 (Celeste, Emissary):
 - You never really create space in a different lane while fights happen. You just over-rotate late to random fights. [175:04]
 
 ## Disagrees with
-- none recorded yet
+- Woroekp2lKo (HERESY, 2026-10-30): With the roar now at 25% the defenders see it coming, so killing two people and instantly going Mid Boss no longer works. [7:38]
+- eQrK5gJ5jOg (Metro Deadlock, 2026-08-30): The team that deathballs almost always wins in random queues, and split pushing against a deathball usually gets you killed. [8:42]
+- 7L-j1mjASk0 (Deathy, 2026-10-08): The zipline is the move faster button; check whether one gets you where you are going. [3:05]
+- TZ4yV937Rv8 (Deathy, 2025-05-10): Trophy Collector suits roamers like Holliday (lasso) and Paradox (swap), and Mo & Krill is probably its best user. [14:36]
+- iXUzrpNpT3U (Deathy, 2026-03-07): Ult build Haze should farm into Ricochet and Unstoppable and then kill everyone with two targets plus Ricochet. [14:21]

@@ -77,3 +77,5 @@ For Wraith players of any rank who want a farm-first spirit and gun build, shiel
 
 ## Disagrees with
 - vz7HRAiQzAs (Metro Deadlock, 2025-05-09): Weapon Shielding and Spirit Shielding are the worst items in the game, 1,600 souls for a worse Reactive Barrier. [25:10]
+- W0VbR1tTzc4 (Midknight, 2025-08-27): Do not buy Unstoppable on Paige, it mostly helps against Infernus ults and Warp Stone already solves that. [40:20]
+- K8FBaLWYX6M (Midknight, 2025-10-25): Reactive Barrier is one of the best defensive items for its price, and depending on the comp the best in the game. [3:36]

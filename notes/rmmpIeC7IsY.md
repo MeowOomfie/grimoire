@@ -82,4 +82,4 @@ Summary notes:
 - Punish roaming: no one in the lobby pushed the tower while their Bebop and Calico kept roaming, which is what made the game so hard. [44:38]
 
 ## Disagrees with
-- none recorded yet
+- -JuKgSLZbXg (Deathy, 2026-07-07): A Walker for the Rift would have been an advantageous or at worst even trade. [12:11]

@@ -93,3 +93,4 @@ For ranked players picking a hero; covers every hero's placement plus build tips
 ## Disagrees with
 - 1mxMj1EbSLQ (Natan, 2025-07-16): Pocket falls off late compared to hyper carries like Infernus and Seven. [1:02]
 - S9Z3eaPVapQ (Metro Deadlock, 2026-06-18): Puddle Punch got a massive lifesteal buff and Puddle Punch builds will be back. [28:04]
+- IRkEpNPuq24 (Midknight, 2026-06-24): Shiv should build Spirit Lifesteal into Infuser instead of double shielding. [14:02]

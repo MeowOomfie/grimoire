@@ -78,4 +78,7 @@ Player (Billy, Ritualist):
 - Summary notes: shoot during your ult, use your 3 for reloads, do not max 2 before 3 on a melee build, and be less eager with melees. [36:18]
 
 ## Disagrees with
-- none recorded yet
+- mLGINjbTWsg (Midknight, 2025-08-24): Max your 2 second on Billy. [9:23]
+- 9M5pYQVuxiw (Metro Deadlock, 2025-09-12): In many cases the better plan is to max Bashdown (1) after lane, before Blasted, since it halves the melee item cooldowns. [10:16] [12:46]
+- 6KMyOlCJJH8 (Midknight, 2026-06-03): Point Blank on Billy is an item you only buy when you are slot locked. [22:09]
+- 1JiSgXReJt8 (HERESY, 2025-11-29): The Billy build goes left to right starting with Close Quarters and Monster Rounds. [15:23]

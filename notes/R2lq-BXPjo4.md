@@ -82,3 +82,4 @@ For Yamato players and mid-rank players learning decision making.
 
 ## Disagrees with
 - -NyPdE6mL9s (Metro Deadlock, 2026-02-03): The Urn spawns at 8 minutes. [26:02]
+- kr2V8pmx5IU (aquatiq, 2026-06-25): With Rejuvenator, fight together and push one lane at a time as a group instead of splitting up. [25:06]

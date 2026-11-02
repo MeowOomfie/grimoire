@@ -44,4 +44,5 @@ Heroes covered: Bebop, Celeste, Doorman, Grey Talon, Haze, Kelvin, McGinnis, Mir
 - Vyper got buffs he disagrees with: she terrorizes solo queue, and in pro play she will not be viable as an M1 hero until she gets survivability, since she explodes when focused. [7:37]
 
 ## Disagrees with
-- none recorded yet
+- w8i5cPb5uH4 (Metro Deadlock, 2025-12-24): Toxic Bullets is the best gun item in the game on almost anyone who shoots reasonably fast. [5:03]
+- ix9H5IIAaD0 (Deathy, 2026-04-11): Titanic Magazine was buffed to +100% max ammo and was already really good on paper. [2:02]

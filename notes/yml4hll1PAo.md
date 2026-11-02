@@ -73,4 +73,4 @@ Summary:
 - Overusing your ult and overfighting. [31:14]
 
 ## Disagrees with
-- none recorded yet
+- v4KN6D0nlZc (Metro Deadlock, 2025-01-22): Hunter's Aura is bait on Calico because nearly all her damage is spirit. [28:13]

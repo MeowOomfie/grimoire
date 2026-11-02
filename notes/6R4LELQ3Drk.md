@@ -58,3 +58,5 @@ For players deciding whether the egg is worth buying and which heroes can afford
 
 ## Disagrees with
 - 4q4XXAcm0sg (HERESY, 2026-01-06): One center sacrifice is worth about 400 to 500 souls including its buffs. [23:24]
+- HUyS0sA0hLk (Midknight, 2025-10-13): Vaults with their buffs give about a wave of souls. [8:07]
+- fmspuuEetbA (Midknight, 2026-08-28): Sell the Golden Goose Egg between 10 and 12 minutes, after 10:00 but before the first Rift. [1:14]

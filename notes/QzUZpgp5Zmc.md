@@ -34,4 +34,5 @@ Commentary over a game, patch of 2026-10-16.
 - He finds bird stacks genuinely difficult to get this patch, though killing people is not hard. [25:11]
 
 ## Disagrees with
-- none recorded yet
+- _ax1oLH3YZU (aquatiq, 2026-06-08): Grey Talon is a little weak in lane without Mystic Shot. [3:07]
+- xTyFNE0yyQo (aquatiq, 2026-09-13): Grey Talon is a little weak right now, doing little damage late when everybody buys resilience. [2:05]

@@ -33,4 +33,5 @@ Patch around 2026-06-17, right after a Holliday buff.
 - The Mark does so much damage that you should take advantage of it until Valve nerfs it. [16:43]
 
 ## Disagrees with
-- none recorded yet
+- Q5aZEXBZtmo (aquatiq, 2026-05-06): He maxes the Mirage ult second and calls it strong, almost too strong. [13:12]
+- pQ6SEpLAmFs (aquatiq, 2026-09-11): Mirage's early game has some of the best early game shove in the game. [2:06]

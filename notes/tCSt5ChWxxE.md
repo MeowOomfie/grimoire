@@ -87,4 +87,6 @@ Making calls and summary:
 - You need to play much more around your bag. [29:52]
 
 ## Disagrees with
-- none recorded yet
+- p2F4yLsCi6s (Midknight, 2026-09-14): Most Calico builds go gun spike second, skipping it costs too much early tempo, and he prefers builds that go Spirit Rend late. [16:50] [22:31]
+- AMzqWOhuWrY (Midknight, 2026-01-14): If you start the sprint boots item, use its sprint for box routing; its out-of-combat regen is overstated. [2:32]
+- Wg_9G-AvAKQ (aquatiq, 2026-05-09): Rush Trophy Collector before your first kill, since a kill taken before buying it is a lost stack. [6:41]

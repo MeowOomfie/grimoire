@@ -87,4 +87,9 @@ General advice:
 - Choose the ability max order together with the build. [44:08]
 
 ## Disagrees with
-- none recorded yet
+- EgabVyWhDMU (Metro Deadlock, 2025-09-24): Victor is pretty good in lane and needs Spirit Resilience early, since it is great on him. [0:00] [8:43]
+- hFjEY37gz-Q (HERESY, 2025-12-22): Default to Spirit Lifesteal over the barrier items on Victor, since damage to a barrier does not charge Pain Battery. [22:09]
+- ns5xI252NjE (Natan, 2025-08-25): Spirit Shielding is a must-buy tier 2 vitality item that goes in the core build. [37:36]
+- EgabVyWhDMU (Metro Deadlock, 2025-09-24): Buy Spirit Resilience early on Victor, since its extra resist below 30% health fits wanting to be low for Jumpstart. [8:43]
+- ywC2b6uFS6A (Deathy, 2025-09-05): Escalating Exposure getting a nerf is surprising because it did not feel that powerful. [21:56]
+- Woroekp2lKo (HERESY, 2026-10-30): Even after its nerfs Radiant Regen will likely stay core on Baba, maybe Victor and probably Celeste. [14:51]

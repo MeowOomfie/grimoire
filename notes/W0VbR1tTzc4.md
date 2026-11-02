@@ -84,4 +84,4 @@ Topics: Paige ult usage, max order, core and defensive items, her squishiness, l
 - Core of that build: Alchemical Fire with 3, Arcane Surge before abilities, Divine Barrier (clears Pocket ults, curses, Wraith), Rescue Beam, Guardian Ward with 2 for the extra shield and buff. [44:55]
 
 ## Disagrees with
-- none recorded yet
+- cqWxajdEJY8 (Metro Deadlock, 2025-08-03): Buy Unstoppable against stuns used on you, like Mo & Krill's grab or a Black Hole. [21:28]

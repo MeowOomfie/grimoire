@@ -92,3 +92,8 @@ For Billy players at any rank, and for players trying to beat Billy.
 ## Disagrees with
 - hHoiw3oTNJk (Metro Deadlock, 2025-11-23): Billy was already solid in lane and now feels like Thanos in lane. [5:13]
 - C3LfEIC6clg (Deathy, 2024-09-15): Dashing away at the last second from a heavy melee often still gets you hit, so against a heavy you are always better off parrying. [2:04]
+- 7aH1OFo2xxY (Midknight, 2026-10-12): If you are behind, go secure the closest Sinner's Sacrifice on your own side, since the team ahead will invade. [0:32]
+- euCapgzuzYs (Midknight, 2025-08-22): Maxing 1 first on Billy is wrong; the 3 max is far more important and the 1 max adds little damage. [21:00]
+- 1JiSgXReJt8 (HERESY, 2025-11-29): Take Blasted to tier three before Bashdown tier three. [12:19]
+- 6KMyOlCJJH8 (Midknight, 2026-06-03): As Billy you should be light meleeing more early; Blasted accentuates how broken light melee is. [1:02]
+- lG-QanVGK6U (Midknight, 2026-09-06): Rapid Recharge is okay but he is not a fan on Billy; there are more soul-efficient items. [24:04]

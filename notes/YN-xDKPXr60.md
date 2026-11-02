@@ -42,4 +42,4 @@ Patch of early October 2026 (video 2026-10-07).
 - Recommended build code 632506 (captioned "a 632 5 06"), a fan made build like Sire's: you can buy it left to right and add Spirit Burn late game for huge damage. [34:14]
 
 ## Disagrees with
-- none recorded yet
+- pQ6SEpLAmFs (aquatiq, 2026-09-11): Mirage is in a really bad state right now and his win rate is very poor. [1:35]

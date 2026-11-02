@@ -40,4 +40,6 @@ A spirit Mirage build with Suppressor, Headhunter, Toxic Bullets, Mercurial Magn
 - Verdict: Diviner's Kevlar is really good, since you get a 1k barrier every 40 seconds even when you Traveler to base, and most Traveler uses are aggressive. [35:16]
 
 ## Disagrees with
-- none recorded yet
+- dKZLpYZuFBg (aquatiq, 2026-06-17): Mirage has very little wave shove, so he needs someone else to shove. [2:07]
+- YN-xDKPXr60 (aquatiq, 2026-10-07): Mirage is very strong this patch because the open new map makes it hard to hide from Djinn's Mark. [0:31]
+- e22YGw2TxoE (Midknight, 2026-04-16): Mirage is a gun carry (M1) who carries well and does very well in lane. [0:00]

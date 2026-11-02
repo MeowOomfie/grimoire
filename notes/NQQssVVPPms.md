@@ -205,4 +205,6 @@ Player 3 (Holliday, Phantom):
 - Counterspell saved you here, but it falls off late because its stats are flat. It is also a fake counter to Lash, because good Lashes just wait it out. By this point it should be upgraded (he calls it an Indom), or bought earlier in a true Counterspell game. [156:46]
 
 ## Disagrees with
-- none recorded yet
+- ncI8oJiNn1w (Deathy, 2026-07-26): The 6 minute zipline boost gives you a free reset to base whenever you want. [7:42]
+- NV8G-p3xzmI (Metro Deadlock, 2026-10-17): Counterspell is probably the most universal counter, negating big stuns you can react to such as Lash's ult. [12:16]
+- KYsMES2qT_c (Metro Deadlock, 2025-10-28): Lash is useless once the enemy has Counterspell, which counters both his slam and his ultimate. [12:15]

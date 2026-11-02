@@ -25,4 +25,5 @@ Mostly banter about his Drifter voice mod; the usable parts are the item path (M
 - Enduring Speed when Warden feels too slow. [27:36]
 
 ## Disagrees with
-- none recorded yet
+- 5SsEsiOH1f4 (Metro Deadlock, 2024-11-30): Gun is the strongest way to carry on Warden in the current meta. [1:02]
+- X-zBmAIfByI (aquatiq, 2026-05-29): Titanic Magazine is always bought on Warden. [4:17]

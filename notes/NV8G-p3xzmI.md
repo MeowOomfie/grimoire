@@ -64,3 +64,4 @@ For players who over-buy green items or buy the wrong defensive item; examples o
 - B6wcg8mTRww (Metro Deadlock, 2025-11-09): A 3k Counterspell counters Lash's whole kit and works against the other five enemies too, so if a Lash is scary, buy Counterspell. [55:58]
 - YRUhfiItJFM (Metro Deadlock, 2025-10-25): After the shielding nerf Reactive Barrier is now better and you probably buy it in most games, especially on spirit characters. [6:07]
 - SytB0zKkUlQ (Metro Deadlock, 2025-09-02): On Seven get at least 9.6k spirit and probably 9.6k vitality, since vitality is always good. [47:33]
+- NQQssVVPPms (Midknight Vods, 2026-10-23): Counterspell is a fake counter to Lash because good Lashes just wait it out, and it falls off late with flat stats. [156:46]

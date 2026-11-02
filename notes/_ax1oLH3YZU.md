@@ -33,4 +33,4 @@ Patch of 2026-06-08.
 - Spirit Burn is a late buy if the game goes long. [26:08]
 
 ## Disagrees with
-- none recorded yet
+- QzUZpgp5Zmc (aquatiq, 2026-10-16): Grey Talon's lane is one of the best. [3:37]

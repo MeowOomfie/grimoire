@@ -103,3 +103,4 @@ Mid to late game macro: comeback mechanics, bounty and respawn timers, Urn (stat
 - rc7HCrGVS6U (Shotty, 2026-06-10): By 10 minutes you can walk down their tower anyway, so do not overvalue getting the Guardian early. [3:34]
 - BiZ29Dtc-Wo (Deathy, 2026-04-19): Around the 26 minute mark is a realistic time to take Mid Boss in many games [3:34]
 - 7L-j1mjASk0 (Deathy, 2026-10-08): Shrines are protected until you kill base guardians, and killing both base guardians in any lane makes them vulnerable [20:48]
+- nQuZ-AoT7fA (Midknight, 2025-11-06): Around 23 to 24 minutes he would rather coin flip a six-man Mid Boss than six-man the mid Walker. [24:41]

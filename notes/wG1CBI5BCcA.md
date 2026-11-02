@@ -35,4 +35,6 @@ Commentary over a game, not a guide; no one coached. Recorded on the April 2026 
 - Verdict: gun Celeste might be the thing; the game ended with about 32,000 damage and he says Low Main did solve Celeste. [25:09]
 
 ## Disagrees with
-- none recorded yet
+- wKeOOo_xqvs (Midknight Vods, 2026-02-11): Celeste's gun items do nothing at about 74 DPS, and not building gun is likely better. [71:31] [100:06]
+- TdCgfh7jctA (Midknight, 2026-02-11): Celeste's order is max the 1 first, then probably ult, then 3, then the 2 last. [21:59]
+- QK_yV_AtsQI (Midknight, 2025-06-18): Bullet Resilience is a fake item. [13:12]
