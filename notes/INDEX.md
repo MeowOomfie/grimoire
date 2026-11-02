@@ -622,6 +622,21 @@ One line per digested video: `- <id> | <channel> | <title> | <topics>`. Newest f
 - euCapgzuzYs | Midknight | How to Build and Play Billy, Ritualist Billy Review | billy, ability order, build, walker stomp, parry
 - xXmlgOSE5Fg | Midknight Vods | Free Doorman Coaching, 8/25/25 | doorman, coaching, door usage, cart combo, ult targets, paige
 - hJ8NXsYkXAk | Midknight Vods | Free Paige Coaching, 8/26/25 | paige, coaching, support positioning, lane partners, ult value, dynamo build
+- 6tKY5BN6yPA | Midknight | How To Play Around Objectives, Emissary Bebop Review | bebop, coaching, objectives, walker, roaming, macro
+- QlkXvFlYQqw | Midknight | How to Read Your Enemies, Obscurus Kelvin Review | kelvin, coaching, laning, denying, weak side, anti-heal
+- JyQqYwpFDqk | Midknight | Why You Need to Stop Fighting, Arcanist Kelvin Review | kelvin, coaching, grey talon matchup, deathballing, macro, urn
+- HEjUxrOksms | Midknight | Soul Count Respecting, Ascendant Dynamo Review | dynamo, coaching, parry baiting, soul deficit, box runs, verticality
+- YzKPBbnFMPM | Midknight | Stop Fighting All Game, Ritualist Lady Geist Review | lady geist, coaching, overfighting, essence bomb, flex slots, macro
+- zGwSZmRg2yE | Midknight | How to "Win" Games With Incompetent Teammates, Phantom Warden Review | warden, coaching, lane aggression, soul splitting, last stand, debuff remover
+- wlCuNecALaU | Midknight | Not Playing Around Walkers Will Lose You TOURNAMENTS, Ascendant Dynamo Review | dynamo, coaching, walkers, split push, singularity, tournament
+- c4fjZOtLi14 | Midknight | You're Spacing Wrong, Oracle Vyper Review | vyper, coaching, spacing, box routes, spellbreaker, retreat routing
+- Dz6e89ky0jU | Midknight | You NEED To Use Instant Cast, FaceIt Mo & Krill Review | mo & krill, coaching, instant cast, laning trades, urn, abrams
+- lJeegTq2E4w | Midknight | Not Every Bad Call fails, Oracle Viscous Review | viscous, coaching, skinner combo, mid lane roll out, goo ball, urn
+- OKlntZnQxr4 | Midknight | You're Itemizing Wrong, Oracle Warden Review | warden, coaching, itemization, flask build, resetting, kelvin
+- 8293wX94zJ4 | Midknight | You Fight TOO Much, Oracle Sinclair Review | sinclair, coaching, soul awareness, overextending, farming, oracle
+- oQflv9pcljA | Midknight | How Game State Affect Itemization, Phantom Kelvin Review | kelvin, coaching, itemization, baits, mid boss, phantom
+- f5-Sp1stFiw | Midknight | You NEED To Learn To Trade Objectives, Emissary Paradox Review | paradox, coaching, objective trading, anti-heal, picks, emissary
+- KtoyNOflZZQ | Midknight | A Successful Call Isn't Always The Correct One, Arcanist Dynamo Review | dynamo, coaching, overextending, wave awareness, singularity, refresher
 
 ## General and other heroes
 
