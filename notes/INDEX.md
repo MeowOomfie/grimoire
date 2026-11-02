@@ -638,6 +638,58 @@ One line per digested video: `- <id> | <channel> | <title> | <topics>`. Newest f
 - f5-Sp1stFiw | Midknight | You NEED To Learn To Trade Objectives, Emissary Paradox Review | paradox, coaching, objective trading, anti-heal, picks, emissary
 - KtoyNOflZZQ | Midknight | A Successful Call Isn't Always The Correct One, Arcanist Dynamo Review | dynamo, coaching, overextending, wave awareness, singularity, refresher
 
+## Guides, digested 2026-11-02
+- tBs9ImIbkaQ | aquatiq | I Became The Win Condition | grey talon, guided owl, bird stacks, spirit snare, lane
+- NvXpuKmZ-aw | aquatiq | We Had a 1% Chance of Winning This Match | shiv, serrated knives, items, macro, urn, comeback
+- mqQFQKiTkLk | aquatiq | Proof That Wraith Can Carry Any Lobby | wraith, items, side lane farming, mirage lane
+- u94Ci6Vy76o | aquatiq | Seven is Ruining Deadlock Lobbies Right Now | seven, items, mirage lane, reactive barrier, calling missing
+- mWVgMjsFfkE | aquatiq | I Tried Spirit Haze... And It's Secretly Broken | haze, spirit build, boundless spirit, bebop, hero balance
+- LIDgSGrwgYU | aquatiq | Bepop will never be the same again... | bebop, gun build, duo lane, hook combo, items
+- TyP_oN-xLVA | Bogur Two | Why I Switched To Deadlock, And Why You Should Too! | new players, map timings, shops, build browser, movement
+- wOwN5G3vXBo | aquatiq | The Most State Mandated Win Ever | wraith, tesla bullets, rusted barrel, haze
+- a7WW3eb_U8o | Tonydadof4 | Everything I Learned to Survive Deadlock Solo Queue | solo queue, hyper carry, farming priority, positioning, seven, wraith
+- -dhuVKTNWtE | aquatiq | The Egg Was Our Win Condition | wraith, golden goose egg, comeback, ricochet, item timing
+- 63nSldFPeL4 | aquatiq | Supporting my team by blowing up the enemy | graves, aggression, ultimate placement, skulls, items
+- 2IQdzIWHboo | aquatiq | The Fastest Way To Win With Seven | seven, ultimate build, unstoppable, infuser, vindicta
+- mrKiF9pohZM | aquatiq | Wraith is SOLVED With This Build | wraith, lash counterplay, spellbreaker, juggernaut, item build
+- U_VbogVlwK8 | aquatiq | This Item Completely Changes Abrams | abrams, phantom strike, ultimate combo, tank build, restorative shot
+- Znqg4oCXvJI | aquatiq | Infernus is a MONSTER With This Build | infernus, item build, farming, warp stone, escape
+- EUb0BzaMu9A | aquatiq | Making The Most INSANE Builds in Street Brawl | street brawl, paradox, lady geist, shiv, haze, item picks
+- frwYonfDzL8 | aquatiq | This New Wraith Build DOMINATES | wraith, core items, debuff remover, ricochet
+- j210n8rGhBY | aquatiq | I Tried The STUPIDEST Build in Deadlock | vindicta, carry build, ability order, flight, assassinate
+- vcn1ifI0BI8 | aquatiq | I Let AI Make My Deadlock Build... it was surprising | wraith, ai build, items, laning, card build
+- N0w8gBU2T7Y | aquatiq | This Seven Build DOMINATES in Deadlock | seven, bebop combo, healbane, toxic bullets, hero tiers
+- o88VPqppqH4 | aquatiq | This Wraith Build is actually ILLEGAL | wraith, counter items, disarming hex, debuff remover, mirage
+- MX2lz0w9VvU | aquatiq | This is the ONLY Infernus Build You Need | infernus, afterburn build, unstoppable, titanic magazine, farming
+- Fze4Vae8fmM | aquatiq | This Build Makes Abrams UNSTOPPABLE | abrams, shoulder charge, melee items, macro, abilities
+- LN_B2WnAJH0 | moe9times | YOU'RE BUYING ITEMS WRONG IN DEADLOCK | itemization, counter items, unstoppable, defensive items, souls per minute
+- _5GPpzbHebw | moe9times | THE MOST BROKEN ITEM NOBODY BUYS IN DEADLOCK | reactive barrier, items, cc counters, bebop, mo and krill
+- 0mZGvPsS9FY | moe9times | HOW TO ABUSE POWER SPIKES IN DEADLOCK | power spikes, item counters, split pushing, debuff remover, wraith, haze
+- KIqg8itdJ8g | Midknight | Everything You Need To Know About Deadlock's New Map | map changes, three lanes, sinner's sacrifice, vents, mid boss routes, secret shop
+- Gj_o5v9s0t4 | moe9times | THE SECRET URN RULES IN DEADLOCK | urn, comeback mechanic, drop-off location, objectives, macro
+- cz3vBILDWMI | Midknight | Everything You Need To Know About Laning In Deadlock | laning, wave priority, freezing, roaming, wave management
+- xEANgyu7e40 | moe9times | COUNTERING OP STUFF IN DEADLOCK | item counters, knockdown, debuff remover, anti-heal, silence
+- LUAjTPiX63E | moe9times | WHY LOSING IN DEADLOCK IS GOOD | mindset, learning, deaths, positioning, item experimentation
+- INeQFTGpIOg | moe9times | 5 MISTAKES DEADLOCK NOOBS MAKE | beginner mistakes, last hitting, farming, urn, healing
+- lGjraF1k-5A | aquatiq | This Item Lets You Carry as Seven | seven, escalating exposure, combo, build
+- 6elhFCLl1DE | aquatiq | This Build Makes Venator a MACHINE | venator, build, hollow point, lane vs lash shiv, macro
+- QEOidbrPikw | aquatiq | I Found The Secret Venator Build | venator, tesla bullets, healing tempo, spirit build
+- A3r-Syh0pyE | aquatiq | Gun Pocket is UNSTOPPABLE | pocket, gun build, lane loss, items
+- 7muFYDklZ7U | aquatiq | This Is Why Seven Is Still S Tier | seven, ball build, items, matchups
+- bZe5M6cMiBA | aquatiq | Infernus is actually a problem | infernus, duration extender, toxic bullets, counter items
+- -jlQTqpv5wA | aquatiq | Pocket is very strong, you're just using him wrong | pocket, abilities, items, farming, spirit resist
+- qE-8gOFts4s | aquatiq | This One Mistake Lost Them the Game | paradox, gun build, knockdown, base throw, items
+- U9Dj5WGKhSU | moe9times | HOW TO PICK YOUR DEADLOCK MAIN | hero picker, archetypes, new players, roster
+- NyfGuTbj_N8 | moe9times | HOW TO ACTUALLY WIN IN DEADLOCK (macro simplified) | macro, wave pushing, mid boss, rotations, fight choice
+- GQrg-MReWt0 | moe9times | how to actually play Abrams , Deadlock | abrams, power spikes, items, objectives, ganking
+- RyrdKKoX9-g | Eido | A TERRIFYING Balance Patch has hit Deadlock... | patch notes, mid boss, rejuvenator, items, rat king, hero changes
+- 759ZA9GJ1-o | Tonydadof4 | New Patch Killed Pocket *Kinda*, deadlock | pocket, combo, replay review, map awareness
+- rfszm6EAnhc | aquatiq | Deadlock's Newest Update Changes EVERYTHING | patch, new map, breakables, broker, mantle, hud
+- 0JyQvBYpLUY | aquatiq | Tank Bepop is Actually Good... | bebop, tank build, sticky bomb, veil walker, laning
+- BUVVHkFDI7Q | aquatiq | THE NEW PATCH HAS ARRIVED | ranked, rank names, calibration, matchmaking, patch
+- qFTAl3dRQmQ | aquatiq | GOLDEN EGG WRAITH IS META? I THINK? | wraith, golden goose egg, ricochet, build
+- M8_7h4Khgs0 | aquatiq | The Most Unbalanced Hero in Deadlock | shiv, radiant regeneration, items, knives
+
 ## General and other heroes
 
 - D3Pptd6R5z0 | MartinHitsRecord | Every NEW Deadlock Hero Explained (2026-10-23) | Rat King, Baba, Solomon, Deadman Danny, Violet, Nurse Harrow, hero abilities, hero roles
