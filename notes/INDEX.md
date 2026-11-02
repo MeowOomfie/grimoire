@@ -705,6 +705,15 @@ One line per digested video: `- <id> | <channel> | <title> | <topics>`. Newest f
 - skR0wvEI2TI | aquatiq | Bepop Gun Actually Fries | bebop, gun build, uppercut, hook, enduring speed
 - vRymh11aZPI | aquatiq | Is Deadlock's Worst Hero Actually Strong? | holliday, hybrid build, powder keg, glass cannon, laning
 - wcs8EL_oGYY | Midknight Vods | Free Deadlock Coaching, 10/12/26 | solomon, coaching, piece micro, magic carpet, ap order, macro
+- cWppqMoUiZ4 | Midknight Vods | Free Deadlock Coaching, 10/9/26 | victor, pocket, wraith, solomon, coaching, macro
+- bS3bqeK1Ytc | Midknight Vods | Free Deadlock Coaching, 9/24/26 | coaching, wraith, calico, vindicta, shiv, comeback rift
+- flseslbjGMk | Midknight Vods | Free Deadlock Coaching, 10/1/26 | pocket, sinclair, victor, haze, heal snacks, mid boss parries
+- O2vu8aOlrHY | Midknight Vods | Free Deadlock Coaching, 9/23/26 | coaching, lady geist, holliday, calico, pocket, macro
+- QXPPQAbzmkE | Midknight | The Reason You Can't Carry, Coaching an Oracle Lash | lash, coaching, split pushing, ground strike, mid boss, deathball
+- xLox0Y__Fk0 | Midknight | Stop Throwing Your Leads, Coaching a Phantom Pocket | pocket, coaching, lane partner, barrage max, broker items, mid boss pit
+- qkZ5V9IvM2E | Midknight | You Need to Learn to Farm, Coaching a Mystic Wraith | wraith, coaching, card stacking, farm efficiency, green spike, item micro
+- Efxi6hY32m8 | Midknight | The Major Patch is Finally Here, Deadlock Patch Analysis | patch, map rework, jungle camps, broker, parry change, meta
+- Yo7JcNeLG90 | Midknight Vods | Free Deadlock Coaching, 10/8/26 | rat king, grey talon, billy, viscous, baba, coaching
 
 ## General and other heroes
 
