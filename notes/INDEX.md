@@ -807,6 +807,12 @@ One line per digested video: `- <id> | <channel> | <title> | <topics>`. Newest f
 - YK_M-E_TBhg | Midknight Vods | Free Deadlock Coaching , 5/6/26 | coaching, holliday, lash, shiv, itemization, urn and mid boss
 - zqYGXFNRtKQ | Midknight Vods | Free Deadlock Coaching, 5/4/26 | coaching, haze, ivy, shiv, trophy collector, urn
 - to6yLD5MlDM | Midknight Vods | Free Deadlock Coaching , 5/8/26 | coaching, ivy, mina, abrams, sinclair, urn macro
+- 3wNkpqbXJxs | Midknight Vods | Free Deadlock Coaching, 5/1/26 | coaching, warden, holliday, mina, wraith, items
+- fqVQMxNotFY | Midknight Vods | Free Deadlock Coaching , 4/28/26 | coaching, paradox, celeste, mina, victor, urn
+- uPKVWjTO2K8 | Midknight Vods | Free Deadlock Coaching , 4/24/26 | coaching, pocket, drifter, shiv, rem, urn
+- l2F8FsUEADU | Midknight Vods | Free Deadlock Coaching , 4/29/26 | coaching, infernus, mo & krill, venator, pocket, victor builds
+- SfYfItjGKb4 | Midknight Vods | Free Deadlock Coaching, 4/30/26 | coaching, dynamo, mina, rem, grey talon, urn
+- zJKeUtOvnFo | Midknight Vods | Free Deadlock Coaching, 4/27/26 | doorman, wraith, vyper, bebop, coaching, itemization
 
 ## General and other heroes
 
