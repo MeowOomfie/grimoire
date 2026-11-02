@@ -733,6 +733,11 @@ One line per digested video: `- <id> | <channel> | <title> | <topics>`. Newest f
 - GvqjbTuBVGw | Midknight Vods | Free Deadlock Coaching, 8/20/26 | haze, holliday, seven, celeste, coaching, freezing
 - 9sMsMTUlWLE | Midknight Vods | Free Coaching Stream, 9/3/26 | billy, mina, silver, victor, coaching, macro
 - __TmPj_159M | Midknight Vods | Free Coaching Stream, 9/2/26 | coaching, sinclair, victor, ivy, mina, golden goose egg
+- sZHtzdBcNBY | Midknight Vods | Free Deadlock Coaching, 8/19/26 | celeste, wraith, seven, card stacking, farming for spikes, coaching
+- byLA4J3jLv0 | Midknight | How to be an Active Sidelaner, Coaching an Ascendant Pocket | pocket, coaching, side lane, rifts, affliction, timers
+- 8DcvTiG9jJw | Midknight | When to Split vs When to Farm, Eternus Wraith Coaching | wraith, coaching, card stacking, farming, picks, side lane
+- 5i0gUY2KaTA | Midknight Vods | Free Deadlock Coaching, 8/19/26 (second stream) | coaching, wraith, mina, celeste, rem, itemization
+- IKyyHsQSyM8 | Midknight Vods | Free Deadlock Coaching 8/13/26 | coaching, celeste, wraith, ivy, lash, macro
 
 ## General and other heroes
 
