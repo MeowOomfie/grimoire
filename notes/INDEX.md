@@ -823,6 +823,12 @@ One line per digested video: `- <id> | <channel> | <title> | <topics>`. Newest f
 - 0ESYU12xYes | Midknight Vods | Free Deadlock Coaching, 4/13/26 | coaching, lash, yamato, billy, sinclair, macro
 - LiUAZ6CaqWs | Midknight Vods | Free Deadlock Coaching , 4/10/26 | coaching, shiv, seven, kelvin, ivy, urn and box routing
 - Vo8j4uvNPTY | Midknight Vods | Free Deadlock Coaching , 4/7/26 | coaching, seven, shiv, calico, rem, farming
+- eOwhgHsR-oM | Midknight | Stop Misusing Abilities, Archon Holiday Coaching | holliday, coaching, bounce pad, wave priority, itemization, urn
+- Q0fdw1HxNRg | Midknight | The Most Common Mistake, Ascendant Mina Coaching | mina, coaching, wave, ganking, mid boss, itemization
+- vXwBFO7w3Vs | Midknight Vods | Free Deadlock Coaching , 4/6/26 | coaching, abrams, haze, billy, lash, mid boss
+- wQFymRqbO10 | Midknight Vods | Free Deadlock Coaching , 3/31/26 | coaching, ivy, apollo, graves, holliday, urn
+- hnxFuzCcg8Q | Midknight Vods | Free Deadlock Coaching , 4/1/26 | coaching, mina, paradox, doorman, lady geist, soul awareness
+- y1cM_UzYCl0 | Midknight Vods | Free Deadlock Coaching, 4/2/26 | coaching, pocket, apollo, haze, viscous, box routes
 
 ## General and other heroes
 
