@@ -689,6 +689,22 @@ One line per digested video: `- <id> | <channel> | <title> | <topics>`. Newest f
 - BUVVHkFDI7Q | aquatiq | THE NEW PATCH HAS ARRIVED | ranked, rank names, calibration, matchmaking, patch
 - qFTAl3dRQmQ | aquatiq | GOLDEN EGG WRAITH IS META? I THINK? | wraith, golden goose egg, ricochet, build
 - M8_7h4Khgs0 | aquatiq | The Most Unbalanced Hero in Deadlock | shiv, radiant regeneration, items, knives
+- 6CsbexJsua8 | Midknight | Meta Changing Patch Today, Deadlock Patch Overview | patch notes, gun damage nerf, sharpshooter, hero balance, new heroes
+- Lyc5YlfASnE | aquatiq | Valve Refuses to Nerf This Character | warden, wraith, binding word, item build, gameplay commentary
+- ucNZtuWJRYU | aquatiq | This Deadlock Character is Too Strong | drifter, apollo, slowing hex, fortitude, gameplay commentary
+- doIMNuKnEnc | Midknight | Deadlock's Newest Patch Changed a Lot... | patch notes, raven, items, hero changes, december 2024
+- 7xLRWPWOQjs | Midknight | This Is Going To Be An Interesting Deadlock Patch... | patch notes, walkers, arcane surge, new items, hero changes
+- yiodfyA90oM | Midknight | How This Patch Will Affect Your Lobbies, Deadlock Patch Notes | patch notes, soul sharing, macro, items, hero changes
+- yKai1glbizY | Midknight Vods | Free Deadlock Coaching, 10/13/26 | venator, baba, coaching, solomon builds, deadman danny first look
+- zvscbiB0OAA | Midknight Vods | Free Deadlock Coaching, 10/15/26 | coaching, vindicta, deadman danny, baba, celeste, dead time
+- mnYEi8LfDcA | aquatiq | They Said Mina Was D Tier | mina, love bites, rake, ethereal shift, stream game
+- hKxmKU7cf10 | aquatiq | This New Patch is Kinda Strange | grey talon, mystic reverb, guided owl, tag along, patch reaction
+- UbXO-mqf_oQ | aquatiq | This D Tier Character is Actually VERY Strong... | venator, gun, spirit resilience, extra charge, stream game
+- VJf7xM3sMvo | aquatiq | Infernus Flame Dash Needs Nerfs | infernus, flame dash, spirit build, counterspell, warp stone
+- TCyCjaZhc-o | aquatiq | TROPHY COLLECTOR IS OFFICIALLY META! | drifter, trophy collector, patch changes, rend, shadow weave
+- skR0wvEI2TI | aquatiq | Bepop Gun Actually Fries | bebop, gun build, uppercut, hook, enduring speed
+- vRymh11aZPI | aquatiq | Is Deadlock's Worst Hero Actually Strong? | holliday, hybrid build, powder keg, glass cannon, laning
+- wcs8EL_oGYY | Midknight Vods | Free Deadlock Coaching, 10/12/26 | solomon, coaching, piece micro, magic carpet, ap order, macro
 
 ## General and other heroes
 
