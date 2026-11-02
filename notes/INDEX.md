@@ -768,6 +768,11 @@ One line per digested video: `- <id> | <channel> | <title> | <topics>`. Newest f
 - RQUGtOTt2WE | Midknight Vods | Free Deadlock Coaching , 7/7/26 | coaching, seven, graves, calico, doorman, rifts
 - 1VD14Vrz6DY | Midknight Vods | Free Deadlock Coaching , 7/3/26 | coaching, calico, mo & krill, paradox, venator, kidnap doorman counters
 - ZQqo9OvWK8M | Midknight Vods | Free Deadlock Coaching , 7/2/26 | coaching, lash, mo & krill, paige, vindicta, positions
+- agSqMqjoDtU | Midknight | They Added a New Objective! , Deadlock Patch Analysis | patch notes, unstable rift, urn rework, boons, hero balance
+- NOpqzwrSLLE | Midknight | You NEED to Improve Your Movement , Eternus 6 Ivy Coaching | ivy, coaching, movement, melee hygiene, soul awareness, decay build
+- t9LAIFIaE80 | Midknight Vods | Free Deadlock Coaching , 6/29/26 | coaching, lash, shiv, celeste, mo & krill, urns
+- TAD-kWNvkQE | Midknight Vods | Free Deadlock Coaching , 7/1/26 | coaching, seven, mina, rem, rift, paige
+- XL0AATCTyM4 | Midknight Vods | Free Deadlock Coaching , 6/30/26 | coaching, celeste, shiv, paige, rem, urn macro
 
 ## General and other heroes
 
