@@ -714,6 +714,11 @@ One line per digested video: `- <id> | <channel> | <title> | <topics>`. Newest f
 - qkZ5V9IvM2E | Midknight | You Need to Learn to Farm, Coaching a Mystic Wraith | wraith, coaching, card stacking, farm efficiency, green spike, item micro
 - Efxi6hY32m8 | Midknight | The Major Patch is Finally Here, Deadlock Patch Analysis | patch, map rework, jungle camps, broker, parry change, meta
 - Yo7JcNeLG90 | Midknight Vods | Free Deadlock Coaching, 10/8/26 | rat king, grey talon, billy, viscous, baba, coaching
+- xgMxTYAksiA | Midknight Vods | Free Coaching Stream, 9/14/26 | coaching, lash, paradox, viscous, pocket, soul efficiency
+- rj-zPxVauss | Midknight Vods | Free Coaching Stream, 9/15/26 | coaching, drifter, silver, holliday, celeste, golden goose egg
+- IVHSrsysRmk | Midknight Vods | Free Deadlock Coaching, 9/21/26 | coaching, silver, celeste, vindicta, pocket, comeback rift
+- NNL-KwIOa2c | Midknight Vods | Free Deadlock Coaching, 9/22/26 | pocket, paige, lash, coaching, movement, rebuttal
+- SE0rOAAxf0s | Midknight Vods | Free Deadlock Coaching, 9/17/26 | coaching, abrams, billy, graves, holliday, melee
 
 ## General and other heroes
 
