@@ -790,6 +790,11 @@ One line per digested video: `- <id> | <channel> | <title> | <topics>`. Newest f
 - zjcrwrJMWPM | aquatiq | How Good is Metro's Builds in Deadlock? | wraith, metro build, card trick, urn, tesla bullets
 - aTh6gw5gYGo | Midknight Vods | Free Deadlock Coaching , 6/2/26 | coaching, calico, abrams, warden, lash, urn macro
 - qomVim1qd4g | Midknight Vods | Free Deadlock Coaching, 6/10/26 | seven, drifter, ivy, silver, urn, mid boss
+- eKYf6AJTVro | Midknight Vods | Free Deadlock Coaching , 6/1/26 | coaching, mina, ivy, victor, billy, urn macro
+- sw9kKwnUW4g | Midknight Vods | Free Deadlock Coaching, 5/26/26 | coaching, celeste, seven, grey talon, urn, farming efficiency
+- cI7kTWpjqcM | Midknight Vods | Free Deadlock Coaching , 5/27/26 | coaching, billy, yamato, mo & krill, abrams, melee
+- Y7lKkVue_f4 | Midknight Vods | Free Deadlock Coaching, 5/29/26 | coaching, doorman, yamato, ivy, urn, spikes
+- Z_VLVMpllY0 | Midknight Vods | Free Deadlock Coaching, 5/28/26 | coaching, mirage, apollo, dynamo, lash, urn patch
 
 ## General and other heroes
 
