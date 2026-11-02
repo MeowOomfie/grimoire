@@ -740,6 +740,12 @@ One line per digested video: `- <id> | <channel> | <title> | <topics>`. Newest f
 - IKyyHsQSyM8 | Midknight Vods | Free Deadlock Coaching 8/13/26 | coaching, celeste, wraith, ivy, lash, macro
 - WsHSkmM9FDA | Midknight Vods | Free Deadlock Coaching, 8/14/26 | coaching, sinclair, calico, shiv, lash, wave priority
 - dlHs6is6rHY | Midknight Vods | Free Deadlock Coaching, 8/17/26 | coaching, victor, haze, shiv, lash, golden goose egg
+- CBUtDa6AUo4 | Midknight | Stop Playing Mid, Coaching an Emissary Holiday | holliday, coaching, air strafing, bounce pad, lasso picks, counterspell
+- Tx5Osagatz4 | Midknight Vods | Free Deadlock Coaching , 8/6/26 | seven, bebop, ivy, lash, coaching, spikes
+- ILrYGLoKxYU | Midknight Vods | Free Deadlock Coaching , 8/10/26 | victor, kelvin, holliday, pocket, coaching, movement
+- nCnSln-DUao | Midknight Vods | Free Deadlock Coaching , 8/12/26 | pocket, victor, infernus, coaching, rift fights, farming
+- nb0HOUjJDFY | Midknight Vods | Free Deadlock Coaching , 8/7/26 | coaching, vyper, sinclair, lash, rifts, itemization
+- lQHgTs6JWL0 | Midknight Vods | Free Deadlock Coaching, 8/5/26 | coaching, wraith, vindicta, rem, dynamo, support
 
 ## General and other heroes
 
