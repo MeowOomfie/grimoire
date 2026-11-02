@@ -801,6 +801,12 @@ One line per digested video: `- <id> | <channel> | <title> | <topics>`. Newest f
 - vXy5ANG14BQ | Midknight Vods | Free Deadlock Coaching , 5/12/26 | billy, warden, silver, mo & krill, coaching, macro
 - 8kI__s1mdWs | Midknight Vods | Free Deadlock Coaching , 5/15/26 | coaching, shiv, lash, paradox, ivy, macro
 - BKTFsn-Jo8M | Midknight Vods | Free Deadlock Coaching , 5/11/26 | coaching, warden, bebop, apollo, paradox, rem build
+- GL_7H0WBuEQ | Midknight | You Need To Fix Your Farming, Oracle Haze Review | haze, bag awareness, farming, picks, coaching, urn
+- 65K_WRnIHoo | Midknight Vods | Free Deadlock Coaching , 5/7/26 | coaching, paige, mina, rem, drifter, mid boss
+- K9PwuUCtJ_Y | Midknight Vods | Free Deadlock Coaching , 5/5/26 | calico, ivy, paradox, lash, urn control, coaching
+- YK_M-E_TBhg | Midknight Vods | Free Deadlock Coaching , 5/6/26 | coaching, holliday, lash, shiv, itemization, urn and mid boss
+- zqYGXFNRtKQ | Midknight Vods | Free Deadlock Coaching, 5/4/26 | coaching, haze, ivy, shiv, trophy collector, urn
+- to6yLD5MlDM | Midknight Vods | Free Deadlock Coaching , 5/8/26 | coaching, ivy, mina, abrams, sinclair, urn macro
 
 ## General and other heroes
 

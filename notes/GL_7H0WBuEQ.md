@@ -1,0 +1,93 @@
+# You Need To Fix Your Farming | Oracle Haze Review
+channel: Midknight
+date: 2026-05-05
+url: https://www.youtube.com/watch?v=GL_7H0WBuEQ
+
+## Covers
+Haze, Midknight. A coaching review of one Haze game played by Oracle (rank not given) on a pick-oriented build, video dated 2026-05-05.
+Themes: when to buy in lane, bag awareness and donating souls, not looking for picks alone, ganking from behind, box routes and farming between waves, farming the enemy jungle when enemies are dead, the Urn, shrines, mid boss calls, and leaving teammates whose fight is bad.
+Item side notes: Trophy Collector on Haze, Focus Lens, Curse, Doorman counters, Unstoppable on Viper, Walker shred.
+
+## Claims
+Player 1 (Haze, Oracle):
+- One of Haze's best laning strengths is walking up to harass the enemies under their tower and stacking Fixation; keep harassing. [0:30]
+- Starting the pick build for Haze is good; he likes pick Haze. [1:00]
+- Not buying during the first two waves was right: both waves were meeting and the enemies were on the back foot, so the item was worth less than the pressure you would give up by backing off to buy. [1:00]
+- If you had stayed, the Wraith could not have hit the wave and you would have crashed the wave into her; leaving let her reset, take a heal creep and buy an item. [1:31]
+- When an enemy laner gets reset, they should go full heal; if your teammate had followed up, the Wraith would have been taken from 100 to zero. [1:31]
+- Mistake: buying while the waves are still crashing into each other. Fix: do not buy when the waves are meeting; clear the wave first and then buy, so the enemy cannot regain full wave priority. [2:01]
+- Buying is fine in itself, you need to buy at some point; the timing while waves meet is the problem. [2:32]
+- Against Billy and Wraith you took a lot of damage standing still; use the pillar for cover so you can laser Billy without getting hit by Wraith. Higher positioning matters in fights. [3:07]
+- Mistake: positioning way too aggressively at low HP, in front of waves while they meet. [4:08]
+- Mistake: sitting on unspent souls to buy an 800 item and then save for a 1600 item. Fix: buy the 1600 item first and the 800 item after. [4:08]
+- The lane was so fight heavy that you never had space to box out of lane, which costs you. [4:38]
+- Curse is slept on against Cheat Death. [5:08]
+- Mistake: freezing the wave under tower and losing a lot of health doing it. If you freeze, stand between the minions and chain parry them. [5:08]
+- Freezing was good when souls were split 60/40 between two people; now souls split 50/50, so freezing does not really matter, and the extra soul value is not worth 20% HP on tower. [5:38]
+- You are not popping Active Reload; it has only a 12 second cooldown, so pop it just for the movement speed if needed. [6:09]
+- He still does not think Trophy Collector is a good item on Haze. [6:39]
+- Doing box routes between waves (min-maxing farm between waves) is good, and it is better if you are the one box farming than an enemy who leaves waves to do it. [7:40]
+- Past 6 minutes the towers lose their protection, so it is late to box farm; leaving waves then is dangerous. [7:40]
+- If your lane partner box routes between waves: on a light box route your partner can wait to push or route with you; on a long box route, or if a gank is possible, or if the partner is a roamer like Rem, your lane partner should just take the waves since the farm is better on them. [8:11]
+- Giving wave priority past 6 minutes is very dangerous: if enemies notice nobody was in lane for several waves, they can crash one wave and kill the tower instantly. [8:42]
+- Trophy Collector is good on brawlers and some supports (buy it on Rem in his view), but it is overbought and especially not good on gun heroes; he does not like it on Haze, Victor or Warden. [9:14]
+- Mistake: overpositioning on a tower defended by two with only two of you. Fix: use the pressure to go box farm instead of walking up. [9:44]
+- Against Doorman, Dispel Magic is the usual buy, but it has been reported glitched against his cart, so he buys Counterspell to reliably block the cart. [10:14]
+- On the collapse: come behind the enemies so you have the advantage. [11:14]
+- With Wraith able to teleport out, the only real catch was the Billy, and the team was split 3 and 3 with little map information. [11:14]
+- Read the enemy farm distribution: lots of clustered farm on the right and little on the left means the enemy strong side is right, so expect a reinforcement there. [11:44]
+- He rated that play about 55% positive versus 45% negative expected value, slightly in your favor; after the Billy kill you should leave, staying was too greedy. [11:44]
+- Mistake: looking for a pick at 800 HP sitting on 4K souls with a 1K bag. That is very bad. [13:15]
+- You cannot win that 1v1 and the target is probably not alone; a pick like that needs about two teammates. Do not look for picks alone with the bag you carry. [13:15]
+- Re-engaging at low HP with an 800 bag and giving it to the Wraith is very bad bag awareness; you were also fighting off your power spike. [13:45]
+- Selling an item (Torment Pulse) to reroute the build is fine, and he respected it. [14:15]
+- Going a true pick build is good; Lightbringer and ABL have good pick builds for Haze, and Lightbringer skips Surge of Power until very late. [14:46]
+- The ideal time for box routes is pre-6 minutes once you get wave priority; a gun anchor laning with a perma-roaming partner should mostly clear waves and pick up boxes when they have priority. [14:46]
+- Farming heavily is understandable in solo queue, but this build is pick oriented, and you had low souls for how much time you spent farming. [15:16]
+- Mistake: taking a fight seeing only two enemies with no map information; at best it was 3v3, maybe 2v2. [15:46]
+- With an 800 bag sitting on 5K souls you do not want to fight; tell your Mina to back off because you do not want to fight. [15:46]
+- If a teammate complains when you will not join a bad fight, mute them. [16:18]
+- Farming macro: acquire a bag in the enemy jungle and bring it back to your own as you farm, not the reverse; walking a 500 bag from your jungle into theirs is greedy and risky. [16:18]
+- For a true pick build, Curse is very valuable; Ricochet is fine but Curse fits the pick plan. [16:49]
+- Mo went to help you because you were in a bad spot and you went to help him; if neither of you had gone, it would have been fine. [16:49]
+- Focus Lens is good and slept on, especially on one-shot heroes (for example Mina using it to instantly proc Love Bites); it still gives value if they remove it. [17:21]
+- Dispel Magic counters Focus Lens, and on a sustained-damage hero like Haze it is strong against you; check tab first: if the enemy has no debuff removers, Focus Lens is good for you. [17:52]
+- If your team already has dispel or dispel bait, skip Focus Lens; Dispel Magic also removes Fixation, which hurts Haze. [18:23]
+- Mistake: standing still in Walker fire. Walker fire applies spirit shred (about 8 or 12%), which is why the Seven did so much damage, along with Escalating Exposure. [18:55]
+- In that fight you overcommitted and let yourself get focused; you should have ulted him after he used his stomp and wasted his abilities, and you could have shot the Walker for ricochet damage. [19:25]
+- Part of that death is on your Mo, who should recognize you have a Seven stun on you and not run at you and ult. [20:30]
+- After a good fight and a kill on the fed enemy, back off and go mid boss. [21:00]
+- Unstoppable is better than the reworked debuff-reduction item on Viper, since Viper dies if touched by CC. [22:33]
+- On a catch without Slowing Hex the target will teleport out; you need a route behind them. Come from behind people when you gank. [23:03]
+- Mistake: farming your own camps when the enemy has four dead. The Urn, especially a comeback Urn, is the most important thing to take off the map while they are dead. [23:33]
+- If you want to farm while enemies are dead, steal enemy farm; never farm your own jungle while a bunch of enemies are dead. [24:04]
+- Mistake: taking needless risk with a 2K bag late; if you die there you lose the game. [24:35]
+- At that point in the game, shooting enemies in the head is better than meleeing them. [24:35]
+- Lash leaving to take the Urn after two picks was the correct play; with the enemy short, one player can take the Urn easily. [25:06]
+- Stealing enemy farm is good but came a little late, and again you walked into the enemy jungle with a big bag. [25:36]
+- Buying utility gun items like Inhibitor is above your Elo; Inhibitor is still very strong, especially with Ricochet. [25:36]
+- With three enemies dead, do not overstay; take a shrine and leave, fully focusing the shrine. [26:39]
+- You constantly carry a big bag and it is really hurting you. [27:09]
+- He likes the Curse buy, though it came late; Curse is overpowered. [27:40]
+- Overstaying and all dying would have given them a mid boss to come back into the game. [27:40]
+- A shrine is very valuable: about plus 30% farm, plus two guaranteed perma-shoved waves, and it does not respawn. [28:10]
+- When you cannot contest, push in another wave or steal a lot of jungle instead. [28:10]
+- Securing your farm instead of joining your team's bad fight was good. [29:13]
+- Mistake: fighting with a 2K bag before buying Curse. Fix: buy Curse first and then go into the fight. [29:45]
+- The main individual reason this game was being lost: about 5K souls given to the Wraith through bag donations. [30:16]
+- You are not popping Active Reload enough. [30:47]
+- If you must fight, it should be under your Walker; the fight was bad, so call your teammate back, buy, then fight with the Walker. [30:47]
+- You had zipline boost and never used it this game. [31:20]
+- When your Patron is vulnerable you cannot avoid the fight even if it is bad. [32:52]
+
+Summary notes he gives:
+- Do not buy when waves are crashing during the laning stage, and try not to give up pressure. [32:52]
+- Major bag awareness: stop donating bags and fighting when your bag is too big. [32:52]
+- Do not look for picks alone; a pickish Haze build should look for picks with teammates more than alone. [32:52]
+- When ganking, come from behind the target. [33:24]
+- Do not farm your own farm while a bunch of enemies are dead. [33:24]
+- Call mid boss: there were good opportunities; call it when you have two or more picks. [33:24]
+- Do not be afraid to leave teammates for dead if their fight is bad. [33:24]
+
+## Disagrees with
+- none recorded yet
