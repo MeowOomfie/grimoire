@@ -746,6 +746,12 @@ One line per digested video: `- <id> | <channel> | <title> | <topics>`. Newest f
 - nCnSln-DUao | Midknight Vods | Free Deadlock Coaching , 8/12/26 | pocket, victor, infernus, coaching, rift fights, farming
 - nb0HOUjJDFY | Midknight Vods | Free Deadlock Coaching , 8/7/26 | coaching, vyper, sinclair, lash, rifts, itemization
 - lQHgTs6JWL0 | Midknight Vods | Free Deadlock Coaching, 8/5/26 | coaching, wraith, vindicta, rem, dynamo, support
+- OHfrPuhOPFo | Midknight | You're Playing Your Souls Wrong , Coaching an Ascendant Wraith | wraith, card stacking, golden goose egg, overstaying, 6v6 mid, coaching
+- IVYB6QEDqcY | Midknight Vods | Free Deadlock Coaching , 7/29/26 | coaching, calico, mina, abrams, holliday, rifts
+- S7DHTYX4KG8 | Midknight Vods | Free Deadlock Coaching , 8/3/26 | wraith, calico, shiv, card stacking, golden goose egg, macro
+- rqhboGROQhk | Midknight Vods | Free Deadlock Coaching , 7/24/26 | coaching, holliday, silver, drifter, ivy, itemization
+- dYOJcSb_TAU | Midknight Vods | Free Deadlock Coaching , 7/27/26 | calico, wraith, mirage, pocket, coaching, farming
+- Y30ga_JK8yo | Midknight Vods | Free Deadlock Coaching, 8/4/26 | silver, wraith, mina, card stacking, tower damage, wave setting
 
 ## General and other heroes
 

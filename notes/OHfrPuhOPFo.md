@@ -1,0 +1,92 @@
+# You're Playing Your Souls Wrong | Coaching an Ascendant Wraith
+channel: Midknight
+date: 2026-08-04
+url: https://www.youtube.com/watch?v=OHfrPuhOPFo
+
+## Covers
+Wraith coaching by Midknight: one Ascendant (pre-reset rank, now Oracle) Wraith player in a Wraith and Lash lane into Holliday and Yamato, early August 2026 just after the ranked reset.
+Themes: which cards to stack and when to all in, when not to buy Golden Goose Egg, farming between waves, losing bags, Project Mind usage, positioning behind the front line, not 6v6ing mid, shrine greed and overstaying in the enemy base.
+Side notes on laners (Lash, Haze, Seven), Tesla Bullets versus Ricochet, Healing Rite, and Calico's burst design.
+
+## Claims
+Player 1 (Wraith, Ascendant):
+- Wraith is about a 6 out of 10 laner, maybe 7 if you play your cards right. [1:01]
+- Without cards Wraith is a 4 out of 10 laner, with cards she is a 7 or 8, so it averages out; he disagrees that she is a weak laner. [3:03]
+- One Joker and two Spades is very lucky card RNG; the Club is a little useless for card stacking. [1:01]
+- If you want to sweat, alt cast your Joker first because it applies the Diamond shred, then cast the rest of your cards. If you have a shred card, throw it first. [1:31]
+- Buying Monster Rounds before Golden Goose Egg was right because you identified a really hard lane. [1:31]
+- Throw your cards before you buy egg; otherwise you bleed a lot of card damage. [2:01]
+- Wraith and Lash into Holliday and Yamato is two of the strongest laners against two of the most mediocre, so you can't buy egg; against good players you would lose your tower at minute four or five with egg. [2:32]
+- Egg bought later in the lane was too late. [5:04]
+- Stack the right cards: you are not just trying to get four cards, you want Jokers, Spades and a Diamond. Clubs (slow) and Hearts (healing) are not bad, but you want burst cards stacked for trades; the slow doesn't matter and the healing can be had any time by throwing it out. [6:05]
+- All cast to get rid of your more menial cards. [6:35]
+- Great times to all in with stacked Jokers, Spades and a Diamond: when you get the tier two on your 1 (two random charges and improved spirit scaling), and when you max it, which lets you stack more Jokers. [6:35]
+- When you get two random charges it is a great time to fight; with the right cards stacked that fight can be nuclear. [7:05]
+- When you poke with two cards, throw your Club and Heart, not your Spade and Diamond. [7:36]
+- Yamato can cleanse your ult, so don't ult a Yamato who has her ult up. [8:37]
+- Ivy is also hard to ult because of Stone Form. [8:37]
+- Stack cards up before you ult. With Spades stacked a Wraith can one-shot when she presses 4; without them the damage off the ult is minimal. [9:37]
+- Farming looked fine for zero kills and no first blood gold; farming the roof camp was great. Farm as much as you can between waves. [9:37]
+- If the enemy runs down your walker at 11 minutes, back up and give space, then scream on mic so two teammates collapse for two free kills; the comeback souls put you instantly ahead. [10:37]
+- At Ascendant you should not expect a walker dive like that because they should not make that play; at Oracle it happens pretty often. [11:08]
+- You need four cards to look for a kill there; you burned a couple too many farming. [11:39]
+- Jumping in with Shiv on a Yamato who has no ult is great; the next wave is the chance if she still won't have ult. [12:09]
+- Get rid of a Heart card before you get a new card, otherwise it is forced into your stack. [12:09]
+- You should have killed the guardian. Don't over-respect a 10K Ivy when you have Project Mind up; you could have stayed and killed the tower. [12:39]
+- At this level people won't pre-stun or react to your ult; at most they predict it. The only player he has seen consistently counterspell Wraith's ult in fights is Lomen. [13:09]
+- To avoid getting predicted, don't ult the second you get in range; the most predictable time to use an ability or melee is the moment you are in range. [14:10]
+- On camps where the creeps are close together, throw your cards in between the creeps so they hit multiple. [14:41]
+- If you're buying egg, it needs to go into Ricochet. [13:09]
+- Egg feels bad because it is an item you can only buy into losing lanes and you must buy it on the first wave, but in solo queue you don't know a lane is lost until 2 or 3 minutes. [16:44]
+- At a 20-minute Rift in Ascendant the enemy is not going to do mid boss. It would be better for you to be on the walker than Apollo: in the time he did 20% of each walker's HP you could have done 50 to 80%, since you have Tesla Bullets. [17:45]
+- One upside of Tesla Bullets over Ricochet is single-target farming, like walkers. There are pros and cons to both; don't just hear "Tesla bad" from a coach and believe it. [17:45]
+- You should have fought more around the walker. After killing on side with your ult available, reset to fighting with your team. [19:17]
+- You died coming in from an off angle with a 1K bag and kept stepping up after the second kill, so they all looked at you. [19:48]
+- With only one card, just Project Mind out. You could have ulted Holliday to be safe and then Project Mind out; you committed without a real card stack. [21:51]
+- Pushing a wave with no walker makes a collapse less likely, but if you are the only one on your team creating pressure, it is natural they fold on you. [21:51]
+- You were ult-greedy when your teammates were not; you don't have to use your ult within the first 30 seconds. [22:22]
+- You tanked a lot of damage from the ghouls for no reason. Give the Rift, especially after burning your Project Mind. [23:22]
+- Finding Yamato mispositioned on side was great; punish it. Then take mid walker. [23:53]
+- Don't go in at the same angle Yamato just died on; hit the walker from the front and stay with your team. [24:24]
+- You can greed one shrine when you have a lot of ults and items up and they have none. [24:24]
+- Greeding the second shrine is game losing: it is about three times as tanky as the first and half the value, since the first shrine gives the mid wave. [24:55]
+- If your team is down, call everyone back; it is not a fight you want. [26:26]
+- Continuing a chase is fine when the enemy burned their ults and are low and you are only down one. [26:57]
+- After that fight, a good team would take about 20 seconds to reset and then do mid, because respawn timers are long; defending mid while down two is very hard. [26:57]
+- Contesting mid into The Doorman and Ivy's Stone Form with nothing to secure is hard. Instead, fix waves and maybe steal a camp. [27:57]
+- Playing for damage around the pit without going in is good. Once you have played it well, leave; staying is way too greedy. [28:27]
+- Ricochet is a good tier four; buy it now instead of Bloodmail, because the enemies are permanently standing on top of each other. [28:57]
+- Capacitor was not great this game: good into Holliday and Billy but not much else. [29:27]
+- One of the most common ways to lose is a team with Rejuvenator getting overzealous after the second shrine, overstaying in the enemy base and all dying; you can just wait for them to throw. [29:27]
+- Spellslinger's fire rate is really nice. [30:02]
+- Stacking Spades matters much more than everything else, beyond the obvious Joker stacking. [30:32]
+- Don't cycle the Diamond there; it would have felt good to keep. [30:32]
+- Greeding an all cast of a Spade is fine when another Joker is coming. [31:03]
+- You could have sold Healing Rite for Mystic Vulnerability; late it is nothing but a sprint speed item. [31:03]
+- Healing Rite is fine on Wraith: early, use it for the extra HP to farm more Sinner's Sacrifice; after about 18 minutes it becomes a sprint speed tool for rotating to fights. [31:33]
+- Don't 6v6 mid; it makes the whole game a coin flip. Instead play one perfect side lane. [32:35]
+- Your positioning in fights was generally good: you stood up top farming damage instead of jumping into the pit to melee, which is a common mistake. [33:35]
+- Confirmed cast is bad; use instant cast, or at least quick cast. [34:35]
+- Your read on when to end was remarkable, but without killing Ivy it was dangerous: a 5v4 with Billy up in 10 seconds. Play it safe there. [35:05]
+- Your mispositioning only happened when trying to stay or when out of sync with your team. M1 positioning is standing behind the front line; Shiv as a solo front line doesn't feel good, but stand behind him. [35:35]
+- Counterspell would have helped against Billy's ult, Holliday's lasso and Ivy's Stone Form. [36:05]
+- Project Mind usage looked bad: you died with it up. When it is on cooldown you can't walk up at all. [36:36]
+- You had no defensives; Indomitable would have been better late game than Counterspell. [37:06]
+- Summary note: in lane, stack important cards (Jokers, Spades and a Diamond) especially around the tier one and tier two spikes of your 1. [37:37]
+- Summary note: egg as the third item is way too late. It needs to be your first item, maybe second, and you shouldn't keep it past laning phase because its damage penalty hurts more than it helps after lane, even for farming. [38:08]
+- Summary note: don't 6v6 mid for fun; random 6v6 mids lost this game. [38:38]
+- Summary note: don't overstay. You tried twice; your team saved you once and not the second time, which cost the game. The opposite trap is playing so safe you don't stay when you should. [38:38]
+- Summary note: bag awareness, and cling more behind your team, especially your front line. [39:09]
+
+General advice and side notes:
+- Lash is about a 4 out of 10 laner; few laners are worse. [3:03]
+- Haze is a bad laner unless she gets wave priority; with wave prio and harass under tower she feels insane. [3:33]
+- Paradox is not weaker than Lash in lane because she gets wave prio easily. [4:34]
+- Seven used to be a weak laner because of his big head; since the helmet change he is not that weak a laner. [5:34]
+- Reacting to a Wraith ult takes very low ping and very good mechanics, not just awareness. [15:12]
+- Macro is king in this game; mechanics matter less. [18:46]
+- After the minor health scaling buff, Paige is the one squishy hero Calico can't one-shot, because she pulls out barriers. [19:48]
+- Calico is a healthy assassin design: very high burst that needs her ult, then about 9 seconds of doing nothing while on cooldown, unlike Drifter and Haze who have high sustained damage as well. [20:48]
+
+## Disagrees with
+- none recorded yet
