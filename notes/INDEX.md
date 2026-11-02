@@ -738,6 +738,8 @@ One line per digested video: `- <id> | <channel> | <title> | <topics>`. Newest f
 - 8DcvTiG9jJw | Midknight | When to Split vs When to Farm, Eternus Wraith Coaching | wraith, coaching, card stacking, farming, picks, side lane
 - 5i0gUY2KaTA | Midknight Vods | Free Deadlock Coaching, 8/19/26 (second stream) | coaching, wraith, mina, celeste, rem, itemization
 - IKyyHsQSyM8 | Midknight Vods | Free Deadlock Coaching 8/13/26 | coaching, celeste, wraith, ivy, lash, macro
+- WsHSkmM9FDA | Midknight Vods | Free Deadlock Coaching, 8/14/26 | coaching, sinclair, calico, shiv, lash, wave priority
+- dlHs6is6rHY | Midknight Vods | Free Deadlock Coaching, 8/17/26 | coaching, victor, haze, shiv, lash, golden goose egg
 
 ## General and other heroes
 
