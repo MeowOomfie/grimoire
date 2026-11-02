@@ -784,6 +784,12 @@ One line per digested video: `- <id> | <channel> | <title> | <topics>`. Newest f
 - czXBR7l5hps | Midknight Vods | Free Deadlock Coaching 6/12/26 | coaching, seven, calico, vindicta, viscous, urns
 - Pxp5EFGMebY | Midknight Vods | Free Deadlock Coaching , 6/15/26 | coaching, mina, lash, abrams, holliday, urn macro
 - 8Vd3Vhfm2rY | Midknight Vods | Free Deadlock Coaching, 6/18/26 | silver, calico, vyper, apollo, urn, coaching
+- hUv9uSlxUtY | Midknight Vods | Free Deadlock Coaching, 6/11/26 | coaching, sinclair, mirage, wraith, ivy, urn
+- KdZRun9FHBs | Midknight Vods | Free Deadlock Coaching , 6/3/26 | rem, paige, wraith, silver, urn, positioning
+- jjpxvDr31ZA | Midknight Vods | Free Deadlock Coaching , 6/9/26 | doorman, seven, lash, coaching, urn, mid boss
+- zjcrwrJMWPM | aquatiq | How Good is Metro's Builds in Deadlock? | wraith, metro build, card trick, urn, tesla bullets
+- aTh6gw5gYGo | Midknight Vods | Free Deadlock Coaching , 6/2/26 | coaching, calico, abrams, warden, lash, urn macro
+- qomVim1qd4g | Midknight Vods | Free Deadlock Coaching, 6/10/26 | seven, drifter, ivy, silver, urn, mid boss
 
 ## General and other heroes
 
