@@ -779,6 +779,11 @@ One line per digested video: `- <id> | <channel> | <title> | <topics>`. Newest f
 - RRC7IvL2CH8 | Midknight Vods | Free Deadlock Coaching , 6/22/26 | coaching, silver, venator, victor, rem, urn macro
 - bNHK6RzhVA8 | Midknight Vods | Free Deadlock Coaching, 6/19/26 | coaching, venator, pocket, calico, haze, urn
 - Ram7Vzx7hNs | aquatiq | POV: LASH IS ABOUT TO SLAM YOU | lash, gameplay commentary, items, farm, urn
+- IYDsy-_oaSA | Midknight Vods | Free Deadlock Coaching , 6/18/26 | coaching, bebop, celeste, kelvin, drifter, itemization
+- 6-iuKVJIRsg | Midknight Vods | Free Deadlock Coaching , 6/17/26 | coaching, mina, abrams, viscous, shiv, urn
+- czXBR7l5hps | Midknight Vods | Free Deadlock Coaching 6/12/26 | coaching, seven, calico, vindicta, viscous, urns
+- Pxp5EFGMebY | Midknight Vods | Free Deadlock Coaching , 6/15/26 | coaching, mina, lash, abrams, holliday, urn macro
+- 8Vd3Vhfm2rY | Midknight Vods | Free Deadlock Coaching, 6/18/26 | silver, calico, vyper, apollo, urn, coaching
 
 ## General and other heroes
 
