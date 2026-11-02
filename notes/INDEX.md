@@ -818,6 +818,11 @@ One line per digested video: `- <id> | <channel> | <title> | <topics>`. Newest f
 - vk3WUlg-9aU | Midknight Vods | Free Deadlock Coaching , 4/17/26 | coaching, rem, kelvin, billy, shiv, urn macro
 - PyHnNJ2Cwn0 | Midknight Vods | Free Deadlock Coaching , 4/16/26 | coaching, venator, paradox, lash, billy, urn
 - 96gD--08Y_k | Midknight Vods | Free Deadlock Coaching , 4/15/26 | pocket, warden, venator, lady geist, coaching, urn macro
+- DhAJ9ktlzns | Midknight Vods | Free Deadlock Coaching , 4/8/26 | holliday, viscous, coaching, urn fights, box routes, tank buster
+- s3BRsHQSoBk | Midknight Vods | Free Deadlock Coaching , 4/14/26 | coaching, victor, mo & krill, rem, graves, golden goose egg
+- 0ESYU12xYes | Midknight Vods | Free Deadlock Coaching, 4/13/26 | coaching, lash, yamato, billy, sinclair, macro
+- LiUAZ6CaqWs | Midknight Vods | Free Deadlock Coaching , 4/10/26 | coaching, shiv, seven, kelvin, ivy, urn and box routing
+- Vo8j4uvNPTY | Midknight Vods | Free Deadlock Coaching , 4/7/26 | coaching, seven, shiv, calico, rem, farming
 
 ## General and other heroes
 
