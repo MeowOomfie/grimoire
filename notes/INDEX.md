@@ -795,6 +795,12 @@ One line per digested video: `- <id> | <channel> | <title> | <topics>`. Newest f
 - cI7kTWpjqcM | Midknight Vods | Free Deadlock Coaching , 5/27/26 | coaching, billy, yamato, mo & krill, abrams, melee
 - Y7lKkVue_f4 | Midknight Vods | Free Deadlock Coaching, 5/29/26 | coaching, doorman, yamato, ivy, urn, spikes
 - Z_VLVMpllY0 | Midknight Vods | Free Deadlock Coaching, 5/28/26 | coaching, mirage, apollo, dynamo, lash, urn patch
+- tjtWmNloA_U | Midknight Vods | Free Deadlock Coaching , 5/13/26 | coaching, victor, paradox, calico, pocket, urn macro
+- 2OcA_WYgJnU | Midknight Vods | Free Deadlock Coaching , 5/25/26 | graves, mcginnis, drifter, dynamo, coaching, urn patch
+- fxlikvDS7I0 | Midknight Vods | Free Deadlock Coaching 5/14/26 | coaching, ivy, yamato, wraith, haze, itemization
+- vXy5ANG14BQ | Midknight Vods | Free Deadlock Coaching , 5/12/26 | billy, warden, silver, mo & krill, coaching, macro
+- 8kI__s1mdWs | Midknight Vods | Free Deadlock Coaching , 5/15/26 | coaching, shiv, lash, paradox, ivy, macro
+- BKTFsn-Jo8M | Midknight Vods | Free Deadlock Coaching , 5/11/26 | coaching, warden, bebop, apollo, paradox, rem build
 
 ## General and other heroes
 
