@@ -135,7 +135,7 @@ Player 4 (Pocket, Oracle):
 - Invading is very strong; use instant cast so you don't miss Cultist Sacrifice. [160:43]
 - Toss a cloak on the wave before rotating. [161:13]
 - Don't waste Affliction on a contest just for damage when no one can follow up; don't chase alone into a Rejuvenator. [162:45]
-- Someone on the team needs a curse for the enemy Victor, like your Viper, Vindicta or Abrams. [163:45]
+- Someone on the team needs a curse for the enemy Victor, like your Vyper, Vindicta or Abrams. [163:45]
 - Crippling Headshot fits with Spirit Burn. [164:16]
 - If your comeback Urn is about to return, have the team wait a second and pick it up. [164:16]
 - Final notes: box farm in lane, only cloak for guaranteed poke, Trophy Collector bad, play for Urn, leave lane earlier, stop forcing the walker, use instant cast for Cultist, get Transcendent Cooldown, and check the map before chasing. [165:24]

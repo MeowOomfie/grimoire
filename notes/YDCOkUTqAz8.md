@@ -6,7 +6,7 @@ url: https://www.youtube.com/watch?v=YDCOkUTqAz8
 ## Covers
 Drifter gameplay with commentary by aquatiq trying the top in-game build, which he calls a "rage bait" spirit-leaning build with Glass Cannon and Titanic Magazine, in an MVP win.
 Commentary over one game, no coaching. Recorded 2026-04-26 in what he calls a gun meta; no patch date given.
-Topics: lane against Viper and Bebop, reading Bebop's build, item deviations, dispel against Bebop.
+Topics: lane against Vyper and Bebop, reading Bebop's build, item deviations, dispel against Bebop.
 
 ## Claims
 Drifter build and play:
@@ -24,11 +24,11 @@ Drifter build and play:
 - At low HP, the healing minion gives him a full heal. [11:58]
 
 Lane and matchups:
-- Viper is a really strong hero in lane right now, and this is a gun meta. [1:34]
+- Vyper is a really strong hero in lane right now, and this is a gun meta. [1:34]
 - Do not give Bebop bomb stacks. [1:34]
 - Read Bebop's skill order: Bebops going gun take Uppercut first, so one who takes the bomb first is not going gun. [2:05]
-- Against Viper and Bebop in lane they can run at you and kill you from half health with one button, so he and his Graves teammate play passive. [2:36]
-- He thinks he loses every fight against a Viper regardless of money. [13:31]
+- Against Vyper and Bebop in lane they can run at you and kill you from half health with one button, so he and his Graves teammate play passive. [2:36]
+- He thinks he loses every fight against a Vyper regardless of money. [13:31]
 - Bebop's hook has huge range and is hard to miss. [13:01]
 - When his whole team went to one lane, he stayed to defend the other walker, since Doorman would almost certainly take it if he left. [16:39]
 - He carries the urn along the longest path to avoid the enemy team. [20:54]

@@ -10,7 +10,7 @@ Topics: Drifter gun falloff range, ability 2 (teleport) usage, target priority, 
 
 ## Claims
 - Drifter's bullets are deleted after 27 m, the only hero like that, but his weapon falloff only starts at 24 m. [1:02]
-- Almost every hero's falloff starts at 20 m (Sinclair 25 m; Viper about 13 m, Grey Talon about 18 m), so taking trades from 20 to 24 m gives Drifter a big advantage. [1:33]
+- Almost every hero's falloff starts at 20 m (Sinclair 25 m; Vyper about 13 m, Grey Talon about 18 m), so taking trades from 20 to 24 m gives Drifter a big advantage. [1:33]
 - Play around just over 20 m the way Sinclair abuses his 20 to 25 m range, unless you are against Sinclair. [2:33]
 - Drifter's gun is forgiving: he gets a flat amount of damage as long as one pellet hits. [2:33]
 - Dying in the sewers while routing is greedy; a Doorman door behind you makes that sewer route unpunishable. [2:33]

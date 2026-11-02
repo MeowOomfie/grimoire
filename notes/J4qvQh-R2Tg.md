@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=J4qvQh-R2Tg
 
 ## Covers
 Lady Geist bomb build (Essence Bomb focus), from aquatiq.
-Commentary over a ranked game against Viper and Shiv, with lane items and a few macro calls.
+Commentary over a ranked game against Vyper and Shiv, with lane items and a few macro calls.
 Recorded 2026-09-28.
 
 ## Claims

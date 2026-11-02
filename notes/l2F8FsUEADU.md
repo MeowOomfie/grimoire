@@ -4,7 +4,7 @@ date: 2026-04-30
 url: https://www.youtube.com/watch?v=l2F8FsUEADU
 
 ## Covers
-Midknight Vods free coaching stream with four sessions and no pro analysis: an Ascendant dash-max Infernus, an Archon Mo & Krill, an Eternus Venator (a Doorman and Viper main) and a Phantom-rank Oceania Pocket.
+Midknight Vods free coaching stream with four sessions and no pro analysis: an Ascendant dash-max Infernus, an Archon Mo & Krill, an Eternus Venator (a Doorman and Vyper main) and a Phantom-rank Oceania Pocket.
 Opens with a chat review of community gun and split-push Victor builds, plus a quick test of which stuns stop a walker.
 Themes: dead time, boxes and buff timers, secret shop over full resets, urn running, tower priority, looking for picks with a team, slot use, Divine Barrier into Pocket, duration on Mo & Krill, trap placement, Barrage and Affliction usage. Patch era late April 2026.
 
@@ -131,7 +131,7 @@ Coaching notes between sessions:
 - Map awareness is very important; check your map consistently. [108:30]
 - Maining Pocket is a good skill check: it will feel bad for a while but forces you to get good quickly. [114:11]
 
-Player 3 (Venator, Eternus, Doorman and Viper main):
+Player 3 (Venator, Eternus, Doorman and Vyper main):
 - Into a Bebop and Mo & Krill lane with a Dynamo partner, go Reactive Barrier; it is one of the worst lanes into two very annoying laners. [115:16]
 - Back off when disarmed: the Bebop is looking for a hook and you are on cooldowns, so play respectfully. A slow lane is great for you. [117:20]
 - He likes Close Quarters. [117:50]

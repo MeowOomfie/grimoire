@@ -6,7 +6,7 @@ url: https://www.youtube.com/watch?v=9S9c4ONixGE
 ## Covers
 Midknight Vods runs a Silver-only free coaching stream right after the werewolf hero Silver released, with four students, all playing Silver: two of unstated rank, one Phantom, and Cardiac (Ritualist).
 Themes: surviving her weak lane, last hitting with her slow gun, maxing 1, building shred and melee items over gun items, Point Blank and Kinetic Dash traps, kick and melee-buffer tech, recasting the ult, farming only Sinner's Sacrifices, Urn and mid boss off picks, soul awareness, and how to play against Silver.
-Side notes: Lightbringer-style category builds, viewer builds for Graves, Shiv and Viper, and the shadow patch (Graves and Shiv nerfed, Rem buffed), early February 2026.
+Side notes: Lightbringer-style category builds, viewer builds for Graves, Shiv and Vyper, and the shadow patch (Graves and Shiv nerfed, Rem buffed), early February 2026.
 
 ## Claims
 Pre-session build review and Silver tech:
@@ -131,9 +131,9 @@ Player 2 (Silver, Phantom):
 - Pop fury mode before killing minions, since its fire rate lets you kill minions and hit the orb; press 4 to end it early. [84:31]
 - You are getting perma hooked: respect Bebop a lot more and buy Reactive Barrier. [84:31]
 - On Silver, build shred over fire rate: you get near-infinite healing and damage off your 1, so spam 1 off cooldown and watch them die. [85:32]
-- Against Viper's bomb, popping fury form after the bomb ticks is right: the 30% missing HP heal after the bomb is worth more than 20% resist when it hits. [86:03]
+- Against Vyper's bomb, popping fury form after the bomb ticks is right: the 30% missing HP heal after the bomb is worth more than 20% resist when it hits. [86:03]
 - You were fighting too aggressively right before your ult came up; that is fine if you play ego, just don't get hooked by a Bebop who hits his hooks. [86:03]
-- Into Viper, put a point into the slowing ability in lane: she does nothing if she is slowed. [87:04]
+- Into Vyper, put a point into the slowing ability in lane: she does nothing if she is slowed. [87:04]
 - General ability order: max 1, maybe one point in the other ability if you need it. [87:04]
 - First major mistake: that gun item is awful on Silver. Your gun does a minuscule amount of damage and her damage comes from going fury, so melee items like Melee Lifesteal would have felt much better in this lane. [87:34]
 - You should have recast your ult there. [88:36]
@@ -188,7 +188,7 @@ Player 2 (Silver, Phantom):
 - Be at mid boss with your team; if you won't go mid, bring the Urn to mid. [111:51]
 - Kick tech: kick and turn around quickly to kick them behind you, a Paradox swap on a 14 second cooldown; kick and look down to fly up. [112:22]
 - Your gun does 200 damage a shot at about one bullet a second, so gun items don't pay off the way they would on McGinnis. [113:23]
-- With Viper's ult up for a while, just back and use your wave pressure to run the Urn. [113:54]
+- With Vyper's ult up for a while, just back and use your wave pressure to run the Urn. [113:54]
 - Use your tail for the disarm. [114:25]
 - Reactive Barrier would have done wonders into this Bebop. [115:28]
 - Thesis: don't build weapon damage, build shred for near-infinite healing and damage. [115:28]
@@ -199,7 +199,7 @@ Player 2 (Silver, Phantom):
 - When your waves aren't good and your team has no pressure, expect the whole team to collapse on you if you push. [120:05]
 
 Between sessions:
-- Viper: at competitive level you rush Extra Stamina with a little spirit damage and perma gank; in solo queue rush your spirit spike in lane, since her spirit scaling is ridiculous, then build gun. [120:38]
+- Vyper: at competitive level you rush Extra Stamina with a little spirit damage and perma gank; in solo queue rush your spirit spike in lane, since her spirit scaling is ridiculous, then build gun. [120:38]
 - Graves: farm a lot with your 1 max and win late; use Osiris's build. [119:35]
 - Silver tech: shoot before you 2 every time. [121:40]
 - Silver tech: press 1 right before ulting to keep the quickfire for your next three shots, which gets stacks very quickly. [122:42]

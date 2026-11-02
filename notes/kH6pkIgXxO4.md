@@ -60,7 +60,7 @@ Player 1 (Vindicta, Oracle):
 - Never peek while hard scoped; locking into scope tells the enemy exactly where you are aiming. [25:43]
 - The best counterplay to laning against two heroes with CC that can stop your Flight is switching lanes. [27:53]
 - Rushing two points into Assassinate and then spreading points before maxing it is good. [28:27]
-- Vindicta should not side lane: play mid to look for snipes, be active on the map and get stacks, especially on an early snipe build; give side lanes to Viper and Lash. [29:29]
+- Vindicta should not side lane: play mid to look for snipes, be active on the map and get stacks, especially on an early snipe build; give side lanes to Vyper and Lash. [29:29]
 - Some soul awareness issues in buy timings. [34:36]
 - Shiv is a hero you can rarely pick, and at 18k he is even harder; stop looking for a pick on him. [35:07]
 - Movement is a little below par for the elo. [36:48]
@@ -185,7 +185,7 @@ Viewer build review (Holliday Overflow build):
 - Mercurial Magnum is at least plus 100% gun damage if you are building spirit. [159:38]
 
 Player 4 (Wraith, Acolyte):
-- Against Shiv, Mina, Viper and Dynamo you need to upgrade Tesla Bullets to Capacitor. [161:10]
+- Against Shiv, Mina, Vyper and Dynamo you need to upgrade Tesla Bullets to Capacitor. [161:10]
 - You are light meleeing too much and tanking minions; shoot your gun. [162:25]
 - Your big spikes for stacking cards are tier two, when you get more spirit scaling and damage, and your ult; with a good stack of spades the ult is almost a guaranteed kill. Don't dump cards for no reason. [164:41]
 - Fight around corners; if she is still chasing, teleport out instead of dying to the ghoul. [165:11]
@@ -214,8 +214,8 @@ Player 4 (Wraith, Acolyte):
 - As M1, don't go for crystal melees; stand on the edge of the pit or above it and laser them. [185:19]
 - You are using confirm cast; use instant cast. [185:56]
 - Clear the Graves skulls that are on you instead of letting them hit you. [185:56]
-- You dispelled the knockdown instead of the Viper venom; you were positioning aggressively for no reason. [187:10]
-- Debuff Remover is very valuable for cleansing Viper venom or a disarming hex; a knockdown is low on the cleanse list, and you also had Counterspell for it. [188:13]
+- You dispelled the knockdown instead of the Vyper venom; you were positioning aggressively for no reason. [187:10]
+- Debuff Remover is very valuable for cleansing Vyper venom or a disarming hex; a knockdown is low on the cleanse list, and you also had Counterspell for it. [188:13]
 - You go in alone; without your team there you can't take the shrine. [188:48]
 - You dispel the first thing you can; think about the impact of what you are cleansing. [189:18]
 - Dumping cards on a protected base guardian is not valuable. [190:56]

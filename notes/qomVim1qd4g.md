@@ -146,7 +146,7 @@ Player 3 (Ivy, Alchemist, support with Haze):
 - Don't force an urn cash with one dead unless your waves are good; then cash it instantly off wave prio. [144:01]
 - When you can't win, tell a teammate to backdoor. [144:33]
 - You are underusing your 2, especially on teammates; silencing the Lash would have let your team get their ult off. [145:03]
-- Better map split for the urn cash: have someone like your Viper pressure mid so a contest costs them the game. [145:35]
+- Better map split for the urn cash: have someone like your Vyper pressure mid so a contest costs them the game. [145:35]
 - He doesn't like Disarming Hex here when the only real gun threat is Lash. [146:18]
 - Summary: slide more, farm the tier one off spawn, use 2 and 3 together and 2 more in general, play for urn, get more farm, fight less in the mid game, fix soul awareness (your bag reached 10k), look at your map more, stop the support fallacy, and call mid boss. [146:18]
 - You don't need a hero pool bigger than one or two; with Infernus and Seven, Wraith fits that pool. [147:22]
@@ -193,7 +193,7 @@ General:
 - Submit VODs where you underperformed or felt carried, not ones where you got stomped; stomps have little to learn from. [69:40]
 - Rem has a very small amount of homing to the head if you miss by about 5 to 10 pixels; you can test it in the private range. [30:59]
 - Return Fire is not that good as an anti-gun item; Rusted Barrel does more, or Suppressor if you can mass apply it. [109:25]
-- He thinks gun needs a global nerf of around 20 to 25% damage, plus individual nerfs for heroes like Viper; Silver has no weak phase, a great laner, mid gamer and late gamer. [109:56]
+- He thinks gun needs a global nerf of around 20 to 25% damage, plus individual nerfs for heroes like Vyper; Silver has no weak phase, a great laner, mid gamer and late gamer. [109:56]
 - On Shiv, the real problem is Bloodletting and too much knife damage, and his rage should be easier for enemies to see; the point-and-click ult was not the issue. [154:29]
 
 ## Disagrees with

@@ -118,7 +118,7 @@ Player 2 (Pocket, Ascendant, near top 200 on the hero):
 - Pocket swings games with a massive three or four man Affliction into Barrage; forcing Afflictions meant you never got one. [93:21]
 - Box more, keep doing movement drills. Your team being at every urn was an improvement from last time. [93:51]
 
-Player 3 (Calico, Ascendant, with Viper into Yamato and Graves):
+Player 3 (Calico, Ascendant, with Vyper into Yamato and Graves):
 - You positioned too aggressively on the first wave, took lots of trooper damage and then couldn't hit waves. [102:49]
 - Just shoot the wave; they should not be able to crash full waves into you. [103:25]
 - Rebind abilities off 1 2 3 4; moving off W to reach number keys is hard. Q E R F is normal, and mouse buttons work too. [103:56]

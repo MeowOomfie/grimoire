@@ -47,8 +47,8 @@ Dynamo - box routing and map:
 - You should have warped before you kicked; Arcane Surge's extra range also makes the kick easier to hit. [15:49]
 
 Dynamo - fights and items:
-- Dynamo is really good into Viper because he can chain kick her. [15:49]
-- Slowing Hex is great into Viper, Rem and Mina and good into Shiv; it is OP into dashes and people sleep on it. It would have been a very worthwhile buy this game. [16:20]
+- Dynamo is really good into Vyper because he can chain kick her. [15:49]
+- Slowing Hex is great into Vyper, Rem and Mina and good into Shiv; it is OP into dashes and people sleep on it. It would have been a very worthwhile buy this game. [16:20]
 - A high-rank Mina has to buy Debuff Remover because she anticipates the Slowing Hex coming. [17:21]
 - You have a consistent issue of only ulting one guy. Not being afraid to solo ult is good, but in a team fight only solo ult a carry, not a low-impact enemy. [16:50]
 - An enemy forcing a fight with bad waves is a mistake on their part. [16:50]

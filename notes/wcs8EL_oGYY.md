@@ -86,7 +86,7 @@ Player 1 (Solomon, rank not stated):
 - Pull the Bishop back for the wave to take pressure off your lane partner. [17:48]
 - You are wasting your 2, which costs HP. [18:49]
 - The enemies used bomb and venom together, so pick one to dodge. [18:49]
-- Into a Bebop and Viper lane, focus on recast timing; both have very dodgeable 2s. [20:29]
+- Into a Bebop and Vyper lane, focus on recast timing; both have very dodgeable 2s. [20:29]
 - Pulling people out of a Dynamo ult is useful. [20:29]
 - Move your pieces more and multi-purpose them to hit both the wave and the enemies, or just focus the wave. [21:00]
 - You are forcing trades hard while lots of souls are around. [21:32]

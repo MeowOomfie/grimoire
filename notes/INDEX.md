@@ -532,7 +532,7 @@ One line per digested video: `- <id> | <channel> | <title> | <topics>`. Newest f
 - tMDbmkff7Z0 | aquatiq | This Grey Talon Build Melts Health Bars Instantly | grey talon, guided owl, spirit build, comms, cooldown items
 - Q5aZEXBZtmo | aquatiq | Yes, Mirage is Still a Monster | mirage, fire scarabs, rapid recharge, patch nerfs, skins lag
 - U3hOSgd_ChE | aquatiq | you're about to see a lot more gun vindicta | vindicta, gun build, assassinate, objective damage, denying
-- YDCOkUTqAz8 | aquatiq | I'm Convinced, Drifter Can't LOSE | drifter, glass cannon, bebop, viper lane, dispel
+- YDCOkUTqAz8 | aquatiq | I'm Convinced, Drifter Can't LOSE | drifter, glass cannon, bebop, vyper lane, dispel
 - vkpVAWQ74IM | aquatiq | Maybe Drifter is a little broken... | drifter, holliday lane, playing from behind, fortitude, debuff remover
 - J0Qps5BORoo | Midknight | Play More Greedy, Coaching an Ascendant Warden | warden, coaching, farming, rejuvenator, tower timings, itemization
 - 2poe9lZLnso | aquatiq | You Don't Even Need Braincells to Win with Warden | warden, gameplay, slowing bullets, mercurial magnum, items

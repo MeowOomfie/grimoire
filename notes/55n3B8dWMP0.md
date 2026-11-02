@@ -4,7 +4,7 @@ date: 2026-02-04
 url: https://www.youtube.com/watch?v=55n3B8dWMP0
 
 ## Covers
-Silver guide plus coaching, Midknight reviewing a Phantom-rank Silver player's game (lane into Viper, a Bebop with hooks on the enemy team).
+Silver guide plus coaching, Midknight reviewing a Phantom-rank Silver player's game (lane into Vyper, a Bebop with hooks on the enemy team).
 Opens with Silver tech (kick swap, kick-up, hidden melee in the 2), then covers item mistakes (Point Blank, Kinetic Dash, gun items), shred and melee items, AP order, how to fight Silver, map awareness and her role as a position 3 brawler.
 Ends with two recommended builds: Pure Content's for Phantom and below, Lightbringer's for Ascendant and above. Patch date 2026-02-04.
 
@@ -53,7 +53,7 @@ Build and items:
 
 Ability order and use:
 - General AP order: max the 1 first. [8:07]
-- Into Viper, put a point into the ability that slows: she does nothing while slowed. [8:07]
+- Into Vyper, put a point into the ability that slows: she does nothing while slowed. [8:07]
 - Pop wolf form before killing minions, because its fire rate lets you kill minions and confirm the orb. [5:34]
 - Her fire rate is too low to confirm orbs on minions she kills; get minions to 1 HP and confirm after other minions finish them, or walk up and melee. [2:03]
 - Against Bebop's bomb, pop wolf form after the bomb hits: the 30% missing HP heal is worth more than taking 20% less damage from the bomb. [6:36]

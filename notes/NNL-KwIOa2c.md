@@ -66,7 +66,7 @@ Player 1 (Pocket, Visionary build, lane with Drifter into Viscus and Haze):
 - You cast Satchel too early in that defense; wait for the right moment to case. [46:53]
 - Your damage needs to be meaningful to your teammates: centered around them, not go in, cloak, case out, poke and leave. [47:23]
 - In a base defense where you are regenerating, find someone isolated and burst them down instead of poking with Satchel and leaving. [48:28]
-- Notes: play aggressive when you have wave prio early, invade more in the mid game, Majestic Leap earlier, play for rifts, and respect the enemy when sieging early walkers; you are not a Wraith or Viper who can brute force a walker in front of them. [49:29]
+- Notes: play aggressive when you have wave prio early, invade more in the mid game, Majestic Leap earlier, play for rifts, and respect the enemy when sieging early walkers; you are not a Wraith or Vyper who can brute force a walker in front of them. [49:29]
 - Not going Majestic Leap is fine, Warp Stone works; but where you bought Leap was far too late. [50:34]
 - Late game: look for more meaningful damage; 36k is too low for a Pocket with your soul ratio. [51:04]
 - His conclusion: play with your team more. [51:38]

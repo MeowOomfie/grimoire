@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=U3hOSgd_ChE
 
 ## Covers
 Vindicta gameplay with commentary by aquatiq on an updated gun-leaning Vindicta build, in a comeback win.
-Commentary over one game, no coaching. Recorded 2026-05-05, just after a patch that nerfed Infernus's Flame Dash and Viper.
+Commentary over one game, no coaching. Recorded 2026-05-05, just after a patch that nerfed Infernus's Flame Dash and Vyper.
 Topics: skill order, gun item choices, denying, solo lane farm, and Vindicta's objective damage.
 
 ## Claims
@@ -32,7 +32,7 @@ Vindicta build and play:
 - He ended with 20,000 objective damage, about double his Haze's, and 60,000 player damage. [37:55]
 
 Patch:
-- The patch was a large nerf patch: Infernus's Flame Dash and Viper were nerfed heavily, and he expects a spirit meta again. [1:02]
+- The patch was a large nerf patch: Infernus's Flame Dash and Vyper were nerfed heavily, and he expects a spirit meta again. [1:02]
 - Denying now gives such a low share of souls that it is close to pointless; it used to be the focus of laning. [2:06]
 
 ## Disagrees with

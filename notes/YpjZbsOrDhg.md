@@ -26,7 +26,7 @@ Recorded 2026-09-25.
 - He also wants Spirit Shielding. [8:25]
 - After that comes Escalating Exposure, which he had never used on Vindicta before. [8:58]
 - After Escalating Exposure he gets green items: Spellbreaker, Counterspell or Debuff Remover. [11:37]
-- Spellbreaker is bad in this game; Debuff Remover is better because the enemies have so much to remove (Mirage's mark, Viper, Lady Geist's bomb, scarabs). [14:10]
+- Spellbreaker is bad in this game; Debuff Remover is better because the enemies have so much to remove (Mirage's mark, Vyper, Lady Geist's bomb, scarabs). [14:10]
 - With escalation stacks on an enemy the snipe does enormous damage. [13:40]
 - With the snipe build and stacks you do not need a gun; you kill people anyway. [16:19]
 - Getting hooked is an instant kill on this hero, so buy Indomitable to never get hooked. [16:52]

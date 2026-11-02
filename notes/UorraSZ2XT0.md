@@ -2,7 +2,7 @@
 channel: Deathy  date: 2025-10-10  url: https://www.youtube.com/watch?v=UorraSZ2XT0
 
 ## Covers
-One laning tip against each hero: Abrams, Bebop, Billy, Calico, The Doorman, Drifter, Dynamo, Grey Talon, Haze, Holliday, Infernus, Ivy, Kelvin, Lady Geist, Lash, McGinnis, Mina, Mirage, Mo & Krill, Paige, Paradox, Pocket, Seven, Shiv, Sinclair, Victor, Vindicta, Viscous, Viper, Warden, Wraith, Yamato; items Reactive Barrier, Rebuttal, Close Quarters, Extra Regen, Restorative Shot, Healing Rite, Mystic Shot, Headshot Booster, Cold Front, Backstabber, Extra Stamina, Spirit Shielding, Quicksilver Reload; cooldown windows, cover, veils, stamina dodges
+One laning tip against each hero: Abrams, Bebop, Billy, Calico, The Doorman, Drifter, Dynamo, Grey Talon, Haze, Holliday, Infernus, Ivy, Kelvin, Lady Geist, Lash, McGinnis, Mina, Mirage, Mo & Krill, Paige, Paradox, Pocket, Seven, Shiv, Sinclair, Victor, Vindicta, Viscous, Vyper, Warden, Wraith, Yamato; items Reactive Barrier, Rebuttal, Close Quarters, Extra Regen, Restorative Shot, Healing Rite, Mystic Shot, Headshot Booster, Cold Front, Backstabber, Extra Stamina, Spirit Shielding, Quicksilver Reload; cooldown windows, cover, veils, stamina dodges
 
 ## Claims
 ### Abrams
@@ -124,8 +124,8 @@ One laning tip against each hero: Abrams, Bebop, Billy, Calico, The Doorman, Dri
 ### Viscous
 - If you get good at parrying Puddle Punch, Rebuttal completely shuts down that ability in lane: it reflects damage onto Viscous and also heals you. [6:36]
 
-### Viper
-- Like Mina, being at half health against Viper is very problematic. [7:06]
+### Vyper
+- Like Mina, being at half health against Vyper is very problematic. [7:06]
 - Take trades with her at range because her weapon falloff and spread are really bad, and buy regen items so you do not fall below half HP. [7:06]
 - At half health, play very defensively, as Lethal Venom will just kill you instantly. [7:06]
 

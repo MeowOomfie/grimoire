@@ -37,7 +37,7 @@ Player 1 (Celeste, Phantom-level lobby, with a Calico duo):
 - Around this mid-game timing, assume enemies are getting their spikes online; because you split AP and saved for your spirit spike, you are weaker than enemies who rushed one spike, so in a neutral game don't take fights then. [21:50]
 - You got too greedy and tunnel-visioned enemies in the air. [23:22]
 - Radiant is a tempo item, but Celeste is a scaler, so still play for spikes. [23:22]
-- In this comp you and the Viper are the side laners. [23:22]
+- In this comp you and the Vyper are the side laners. [23:22]
 - Buy before taking a fight when you are about 200 souls off a big spike. [23:53]
 - Your Calico extended her soul lead while you lost yours by over-brawling. [24:53]
 - Your movement is inefficient: too much bunny hopping and vertical momentum, no air dashes or slides; go for horizontal momentum. [24:53]

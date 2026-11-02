@@ -12,7 +12,7 @@ Themes: tunnel vision and fights with no purpose, playing for urn and mid boss, 
 General and patch notes:
 - Silver's nerf (about 0.5% current / 5% max HP damage) changes little; overloading one ability with max HP or current HP damage just does not work. [1:00]
 - Viscous is useless now: his ult gives only 30% of each resist in exchange for a 500% bigger hitbox, so you press 4 and die. [5:06]
-- Viper probably has the highest gun DPS in the game, and the small nerf left her broken; every M1 hero is broken right now. [12:51]
+- Vyper probably has the highest gun DPS in the game, and the small nerf left her broken; every M1 hero is broken right now. [12:51]
 - Siphon has been strong for a long time, ever since the vitality spike increase. [48:19]
 - Sharpshooter is not a good item right now except on Vindicta or flyers: you rarely fight beyond 15 meters, the move speed loss hurts, and Weighted Shots gives better stats on almost every other hero. [80:01]
 - On Gun Holliday, Opening Rounds gives the bullet velocity that is most of Sharpshooter's value. [81:03]

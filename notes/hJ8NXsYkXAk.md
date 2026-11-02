@@ -144,7 +144,7 @@ Viewer build review (Dynamo):
 Player 3 (Paige, Ritualist, laning with Viscous into Billy):
 - Getting two melees on minions is good. On Paige you must be in the minions' face to kill them or you get denied, which is why players start barrier: thin both minions from a distance, barrier, roll in and melee them. [119:32]
 - Laning with Viscous isn't ideal; you want a partner with all-in. Mina, being hyper squishy, would love the shields. [120:04]
-- Viper is a good fit since she slides in their face and uses weapon damage; the ideal partners are Yamato (gap close in her kit) or Warden (double shield him and he grapples in). [120:34]
+- Vyper is a good fit since she slides in their face and uses weapon damage; the ideal partners are Yamato (gap close in her kit) or Warden (double shield him and he grapples in). [120:34]
 - Billy will get at least one melee you can't prevent; after it, stand on top of your Viscous and parry for him. [121:04]
 - Guardian Ward also gives movement speed, which is spectacular on her. [121:35]
 - Paige into Billy is a rough lane because Billy has good all-in and Paige loses to most all-ins; don't push that aggressively. [122:37]
@@ -168,7 +168,7 @@ Player 3 (Paige, Ritualist, laning with Viscous into Billy):
 - Veil Walker is not great on her; it is for heroes that ambush, and Paige is backline support. [133:25]
 - When you are dead to the Yamato anyway, run toward your walker so she has to use her grapple on you; get as much utility and time out of her as you can. [133:25]
 - Enduring Speed gives movement speed; Sprint Boots gives about half of that for a tier 2. [133:55]
-- That solo ult was not good. A solo ult works like a solo Dynamo Singularity: only on a hyper squishy target like a Mina without her 2 or a Viper, with a teammate coming, never on a tanky hero like Mo & Krill. [134:55]
+- That solo ult was not good. A solo ult works like a solo Dynamo Singularity: only on a hyper squishy target like a Mina without her 2 or a Vyper, with a teammate coming, never on a tanky hero like Mo & Krill. [134:55]
 - For jukes, Warp Stone saves you far more often than Veil Walker. [134:55]
 - Gun Paige will be fun but never better than spirit. [135:26]
 - Melees: if Paige gets parried she dies, so use her melees defensively and call for teammates. [136:56]

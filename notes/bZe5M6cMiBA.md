@@ -20,7 +20,7 @@ Commentary over a game, no coaching. Patch around 2026-04-10.
 - He calls Dispel Magic broken. [23:16]
 - Counterspell does not save an enemy from Toxic Bullets plus Afterburn. [20:40]
 - About 29% spirit resist was enough for him; he still considered more Spirit Resilience. [18:39]
-- Before mid boss, check whether anyone on the team has Unstoppable; without it a fight into strong enemy ults (Viper here) can go badly. [17:03]
+- Before mid boss, check whether anyone on the team has Unstoppable; without it a fight into strong enemy ults (Vyper here) can go badly. [17:03]
 - He bought Leech and then Unstoppable as late items. [20:09]
 - Pop Unstoppable as soon as the enemy ult drops, because half the team will not react in time. [23:47]
 - Infernus has the movement to carry the Urn. [14:57]

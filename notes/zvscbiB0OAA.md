@@ -117,7 +117,7 @@ Player 3 (Baba, Phantom):
 - Stop using your wand to clear the wave. [133:16]
 - Tempo brawlers (Baba, Silver, Calico, Shiv) are nearly impossible to play from behind because they need souls on the lobby; the first five deaths killed this game. [133:47]
 - From behind, look for a pick off a big Dynamo ult or a Haze sleep dagger; Baba is like a spirit assassin who nukes a backline hero. [134:18]
-- Dying for dead teammates, like the Viper, started the snowball. [134:48]
+- Dying for dead teammates, like the Vyper, started the snowball. [134:48]
 - Respect when the enemy has ults on you, and don't fight while sitting on unspent souls for a big spike. [134:48]
 - You can alt cast to throw on yourself, which would have saved you instead of having to look down at your feet. [135:21]
 - Torment Pulse is good on Baba and is the right early buy over utility or Spirit Snatch, even though he dislikes the item. [136:29]

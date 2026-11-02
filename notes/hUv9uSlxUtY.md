@@ -183,7 +183,7 @@ Pro game analysis (OBIKY, Sinclair, DLNS):
 - While the urn is being run, whoever wins the mid fight gets the urn, so it is effectively a pre-urn fight. [190:09]
 - Paige and Calico are the two worst heroes right now. [190:09]
 - A good death: Pocket's Affliction hit three enemies and denied them the mid boss. [192:13]
-- Strongest heroes now: Pocket, Victor, Vindicta, maybe Billy, Viper where you see her, and Seven since his helmet. [192:44]
+- Strongest heroes now: Pocket, Victor, Vindicta, maybe Billy, Vyper where you see her, and Seven since his helmet. [192:44]
 - Silver's wolf form is the issue; human form is fine. [194:47]
 - Greedy farming because you do no damage is something you should never do in solo queue. [195:19]
 - With Rejuvenator, pressure the mid walker first: it is the most valuable to remove because everyone can reach it. [197:39]

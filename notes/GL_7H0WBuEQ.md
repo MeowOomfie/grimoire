@@ -6,7 +6,7 @@ url: https://www.youtube.com/watch?v=GL_7H0WBuEQ
 ## Covers
 Haze, Midknight. A coaching review of one Haze game played by Oracle (rank not given) on a pick-oriented build, video dated 2026-05-05.
 Themes: when to buy in lane, bag awareness and donating souls, not looking for picks alone, ganking from behind, box routes and farming between waves, farming the enemy jungle when enemies are dead, the Urn, shrines, mid boss calls, and leaving teammates whose fight is bad.
-Item side notes: Trophy Collector on Haze, Focus Lens, Curse, Doorman counters, Unstoppable on Viper, Walker shred.
+Item side notes: Trophy Collector on Haze, Focus Lens, Curse, Doorman counters, Unstoppable on Vyper, Walker shred.
 
 ## Claims
 Player 1 (Haze, Oracle):
@@ -57,7 +57,7 @@ Player 1 (Haze, Oracle):
 - In that fight you overcommitted and let yourself get focused; you should have ulted him after he used his stomp and wasted his abilities, and you could have shot the Walker for ricochet damage. [19:25]
 - Part of that death is on your Mo, who should recognize you have a Seven stun on you and not run at you and ult. [20:30]
 - After a good fight and a kill on the fed enemy, back off and go mid boss. [21:00]
-- Unstoppable is better than the reworked debuff-reduction item on Viper, since Viper dies if touched by CC. [22:33]
+- Unstoppable is better than the reworked debuff-reduction item on Vyper, since Vyper dies if touched by CC. [22:33]
 - On a catch without Slowing Hex the target will teleport out; you need a route behind them. Come from behind people when you gank. [23:03]
 - Mistake: farming your own camps when the enemy has four dead. The Urn, especially a comeback Urn, is the most important thing to take off the map while they are dead. [23:33]
 - If you want to farm while enemies are dead, steal enemy farm; never farm your own jungle while a bunch of enemies are dead. [24:04]

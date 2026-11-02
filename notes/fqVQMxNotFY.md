@@ -127,7 +127,7 @@ Player 3 (Mina, Oracle):
 - Practice dashing away from things with your 2; hours on Mina or Street Brawl help. [128:50]
 - With four of you and two enemies shown, dive him; worst case is a 4v4. [130:41]
 - You waste stamina doing single dashes into slides. [131:12]
-- Debuff Remover would have been good: very good into Viper and Shiv, good into Paradox, who will likely buy Slowing Hex; or buy Superior Stamina. [132:14]
+- Debuff Remover would have been good: very good into Vyper and Shiv, good into Paradox, who will likely buy Slowing Hex; or buy Superior Stamina. [132:14]
 - You are missing a lot of Rakes. [132:44]
 - Don't run at their mid walker; that was overextending for no reason, three times this game. [133:16]
 - Instead of looking for a pick mid, play for the Sinner's Sacrifice camps. [134:46]

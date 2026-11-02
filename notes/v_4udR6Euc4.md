@@ -29,9 +29,9 @@ Items and power spikes:
 - You are going too orange. Integrate more greens; you definitely shouldn't go Backstabber. [5:36]
 - If you really want to, you can go Headhunter into Cultist before greens, though he doesn't think it is the play, but never Headhunter, Cultist and Backstabber before greens. [6:07]
 - Normally for a spirit spike you go a cooldown item with BRS, or a cooldown item with Slowing Hex; this game he would go cooldown and Slowing Hex. [13:58]
-- Slowing Hex is great this game: it locks down Calico completely, is good into Ivy, amazing into Viper and good into Dynamo. Buy it now, or even in laning. [13:58]
+- Slowing Hex is great this game: it locks down Calico completely, is good into Ivy, amazing into Vyper and good into Dynamo. Buy it now, or even in laning. [13:58]
 - Glass Cannon is only for when you are ahead, but being ahead should make you pivot to defensive itemization. [16:01]
-- Metal Skin is good here, with a lot of value into Haze, Viper and Ivy. [17:02]
+- Metal Skin is good here, with a lot of value into Haze, Vyper and Ivy. [17:02]
 - With the Bebop on 51 stacks of Trophy Collector and his bombs, you will 100% need Counterspell this game. [11:56]
 
 Macro and bags:

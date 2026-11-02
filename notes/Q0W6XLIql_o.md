@@ -28,7 +28,7 @@ Player 1 (Celeste, low Eternus):
 - With three teammates on mic saying they are coming, it is fine to solo the enemy. [11:00]
 - Once an enemy has proved several times he engages alone, it is fine to disrespect him and assume his engages are solo. [11:00]
 - You were positioned a little aggressively with all your weight while the waves were neutral and pushing back into you. [12:02]
-- Against Viper, take Metal Skin over Plated Armor. [12:33]
+- Against Vyper, take Metal Skin over Plated Armor. [12:33]
 - You already secured the farm, so there was no reason to fight; you were both focusing the Shiv. [14:10]
 - Never look for a pick on a frontliner, especially a Shiv. [14:10]
 - Do not force the mid boss: the waves were about to push into their walker, and you were behind, so slow play it. [15:12]

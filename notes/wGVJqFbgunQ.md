@@ -4,16 +4,16 @@ date: 2026-05-20
 url: https://www.youtube.com/watch?v=wGVJqFbgunQ
 
 ## Covers
-Silver, aquatiq. Commentary over a full Silver game (a loss) after gun nerfs, laning into Viper and Paige with Mirage, and Shiv winning mid.
+Silver, aquatiq. Commentary over a full Silver game (a loss) after gun nerfs, laning into Vyper and Paige with Mirage, and Shiv winning mid.
 Item path from extra regen and Close Quarters to Silencer, Inhibitor and Phantom Strike, the Phantom Strike plus boot kick combo, how Silver scales, and farm notes. Patch date 2026-05-20.
 
 ## Claims
 - Silver has very high impact; he rates her near the top of the tier list even after the gun nerfs. [0:37]
-- Against a Viper in lane he wants Battle Vest as soon as possible. [1:08]
+- Against a Vyper in lane he wants Battle Vest as soon as possible. [1:08]
 - Build order shown: extra regen, then Close Quarters. [1:39]
 - Hit the wave so the enemy cannot crash it under your tower; otherwise you take the damage. [1:39]
 - Silver does not confirm souls well. [2:10]
-- He first thought Viper was too strong in lane for Silver, who is stronger late; later in the same lane he changed his mind and thought Silver might be overpowered in lane. [2:41]
+- He first thought Vyper was too strong in lane for Silver, who is stronger late; later in the same lane he changed his mind and thought Silver might be overpowered in lane. [2:41]
 - Silver's gun is what makes her scale: the damage later is insane and she does not fall off. [2:41]
 - Her bola slow is very strong. [2:41]
 - Mirage is one of the top three laners in the game because his mark and scarabs keep him alive so long. [3:45]

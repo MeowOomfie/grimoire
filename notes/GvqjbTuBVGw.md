@@ -4,7 +4,7 @@ date: 2026-08-21
 url: https://www.youtube.com/watch?v=GvqjbTuBVGw
 
 ## Covers
-Midknight Vods free coaching stream from 8/20/26: a quick Abrams build review, chat tech notes (Ivy, Seven, Holliday, Mo & Krill, Viper), then four replay reviews.
+Midknight Vods free coaching stream from 8/20/26: a quick Abrams build review, chat tech notes (Ivy, Seven, Holliday, Mo & Krill, Vyper), then four replay reviews.
 Player 1 is a Haze, Player 2 a Holliday after the barrel changes, Player 3 a Seven (Scout, around Emissary), Player 4 a Celeste.
 Themes: starting items, soul awareness and buying on time, overextending and getting ganked, freezing waves, comeback rifts and mid boss, dead time, camps between waves, and assassin versus assassin play.
 
@@ -26,7 +26,7 @@ Tech notes from chat:
 - You can Counterspell the Doorman's dash, and Holliday's bounce pad stun cancels dashes. [85:08]
 - Holliday's 2 cancels Mo & Krill's and Infernus's dash. [85:08]
 - Against Mo & Krill, you can Rescue Beam a teammate who is being held by the Mo & Krill ult to pull them out. [173:43]
-- Against Viper, buy movement slows; Slowing Hex is really good into her. [169:34]
+- Against Vyper, buy movement slows; Slowing Hex is really good into her. [169:34]
 - Shred is broken at every point in the game. [51:29]
 
 Player 1 (Haze):

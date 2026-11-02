@@ -23,7 +23,7 @@ Mirage build and play:
 - He recommends the item captioned "siphon" on Mirage as always good; it gives near infinite health. [24:07]
 
 Patch and matchups:
-- A big patch a few hours earlier nerfed a lot of heroes, including Infernus's Flame Dash and Viper. [2:32]
+- A big patch a few hours earlier nerfed a lot of heroes, including Infernus's Flame Dash and Vyper. [2:32]
 - Denying seems to do nothing: the enemy missed many souls but had the same money. [3:03]
 - McGinnis's ultimate radius is huge and hard to sidestep. [12:09]
 - He thinks unstick does not work while someone is in the sewers, because the game still treats them as on the map. [17:57]

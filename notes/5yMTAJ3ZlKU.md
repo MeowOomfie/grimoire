@@ -88,7 +88,7 @@ Live read-through of the 2025-11-22 "minor" balance patch: ground soul orbs and 
 - Sinclair: he mocks the ult change as cutting the cooldown on a copied big ult, like turning a 60 second Dynamo ult into a 40 second one. He would instead nerf his lane damage and make his bolts bigger with less damage or give him AoE, and give his assistant more cooldown. [23:42]
 - Viscous: Splatter cooldown increased; tier one changed from -cooldown to +40 damage and 1 m radius, tier two changed to the cooldown reduction. This is a very strong tier one spike, around 110 damage with one point; he doesn't think it was a good change. Splatter tier three also increases spirit scaling. [24:12]
 - Viscous: cube duration reduced as a preemptive nerf since Capacitor is nerfed, cube regen increased, cube tier two also adds 1 second duration; no alt fire nerf, which he wanted. [24:43]
-- Right after the Viscous changes he says "this will make Viper playable" (caption, hero unclear). [25:15]
+- Right after the Viscous changes he says "this will make Vyper playable" (caption, hero unclear). [25:15]
 - Warden: bullet damage and bullet growth increased; he thinks Valve misunderstands Warden, whose gun is fine; health regen reduced a little because he is strong in lane. [25:15]
 - Warden: Alchemical Flask radius reduced to match the visual effect, a big change; tier two now grants a meter. [25:15]
 - Warden verdict: a bad change; Warden is weak because he is slow, not his gun, so they should buff his spirit and ult damage instead of pushing a gun main build. The Capacitor nerf may still help him back into the meta. [25:46]

@@ -20,7 +20,7 @@ General and patch talk:
 - He prefers teammates first-buying Trophy Collector to Golden Goose Egg: Trophy ties a hand behind your back, egg is instantly losing. [18:04]
 - Being executed is still bad because respawn timers are longer now, even if it is a better death than dying to a hero. [18:34]
 - Paige is statistically the easiest hero (smallest win rate gap between mains and one-tricks); Seven is also very easy. [24:18] [24:48]
-- Viper is one of the easiest heroes if you buy Split Shot; without it she needs some aim. [26:51]
+- Vyper is one of the easiest heroes if you buy Split Shot; without it she needs some aim. [26:51]
 - Tank Buster gets good from about 18 to 20 minutes; heroes with AoE like Holliday can buy it around 18 because they apply it to many targets, single-target heroes around 20. [36:10]
 - If you are on a team with Rejuvenator and the buffs spawning, those buffs are a huge team fight advantage: secure them and look to fight within the next 3 minutes. [45:30] [46:00]
 - Running Urns matters on every hero before Eternus: grab every Urn off spawn when uncontested, it is free souls people do not take. [49:37] [50:07]

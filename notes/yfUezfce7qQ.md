@@ -20,7 +20,7 @@ Mostly banter about his Drifter voice mod; the usable parts are the item path (M
 - Duration Extender for the ult. [18:32]
 - He wanted Metal Skin this game. [20:08]
 - After Diviner's, he goes Counterspell then Siphon Bullets to stay alive. [22:23]
-- Counterspell can block abilities from Billy, Rem, Abrams, Viper, Holliday and Seven's Static Charge, basically the whole enemy team here. [23:56]
+- Counterspell can block abilities from Billy, Rem, Abrams, Vyper, Holliday and Seven's Static Charge, basically the whole enemy team here. [23:56]
 - He buys a spirit lifesteal item before Siphon Bullets. [23:56]
 - Enduring Speed when Warden feels too slow. [27:36]
 

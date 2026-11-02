@@ -20,7 +20,7 @@ General, meta and patch notes:
 - Tier list: Abrams and Celeste are in a league of their own; then Silver, Billy and Shiv; then Apollo and Rem, possibly Venator after his buffs. [89:32]
 - Banning Infernus makes no sense; nobody plays him and he does nothing in solo queue. Banning Bebop or Yamato is fair. [90:35]
 - Infernus feels mediocre now because his burn build-up was reduced; he used to insta-stack burns in lane. [191:29]
-- Hard new heroes like Silver, Yamato, Viper and Apollo should always have negative win rates; above 49% they are broken. [94:14]
+- Hard new heroes like Silver, Yamato, Vyper and Apollo should always have negative win rates; above 49% they are broken. [94:14]
 - Wolf form needs a nerf, but buffing human form leaves Silver overpowered and strips identity. [94:45]
 - Apollo will likely get buffed for no reason because he is hard and will have a low win rate. [111:00]
 - Making your own builds takes about 1000 hours because of stat nuances, e.g. Opening Rounds scales with spirit power. [114:03]

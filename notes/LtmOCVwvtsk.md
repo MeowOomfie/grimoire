@@ -22,7 +22,7 @@ Patch of 2026-06-15.
 - Hold Alt, put the mouse on an enemy hero and click to ping them as missing. [8:20]
 - Calico disappears from the map in cat form, so a missing ping may not mean she left. [8:50]
 - He teleported into a fight with five enemies and should have stayed where he was. [12:26]
-- Against Dynamo and Viper the team needs curse items such as Silence Wave. [13:29]
+- Against Dynamo and Vyper the team needs curse items such as Silence Wave. [13:29]
 - Holiday is pretty good now. [13:29]
 - With Mark maxed, farm side waves and boxes to keep your net worth up, or you fall behind your team. [14:01]
 - Item order: buy a debuff remover and Toxic Bullets, but Ricochet should come before Toxic Bullets. [18:19]

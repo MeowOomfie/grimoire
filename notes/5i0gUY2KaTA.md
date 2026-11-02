@@ -6,11 +6,11 @@ url: https://www.youtube.com/watch?v=5i0gUY2KaTA
 ## Covers
 Midknight Vods free coaching stream (VOD posted 2026-08-20, under the new ranked system). He reviews four viewer games: a Wraith (Oracle) who struggles to snowball, a Mina (recently up to Oracle), a Celeste in an old Eternus lobby, and Scout on Rem (Oracle, support).
 Themes: card stacking on Wraith, weak side versus strong side, comeback Rifts, dispel and teleport use, Ricochet rush versus Tesla/Capacitor, Mina's 1 max versus 2 max and Veil Walker, Golden Goose Egg, farming as a scaler, Rem item order and fighting with the team.
-Side talk: Celeste being broken, Radiant, Arcane Surge on Dynamo, Viper in drafts, Mina tech, and the most common Oracle/Phantom mistakes.
+Side talk: Celeste being broken, Radiant, Arcane Surge on Dynamo, Vyper in drafts, Mina tech, and the most common Oracle/Phantom mistakes.
 
 ## Claims
 General:
-- Viper is very counterable by being targeted and CC'd, so she suffers in a draft format; she only becomes a monster with no counterplay once she buys Unstoppable, which takes a while. [19:01]
+- Vyper is very counterable by being targeted and CC'd, so she suffers in a draft format; she only becomes a monster with no counterplay once she buys Unstoppable, which takes a while. [19:01]
 - Silver is not F-tier, more like B-tier; Silver and Shiv players are used to the hero being top tier, but you just have to play the early game. [22:39]
 - Silver's kit cancels a Wraith teleport, and the same happens with Calico. [25:11]
 - Paradox's bomb build plays like an AoE Calico and can kill anyone with the ult; her bomb ult did more damage in a game than her Carbine. [43:38]
@@ -30,7 +30,7 @@ General:
 - Radiant is a cancer tempo item that needs a rework: nerf the healing but give it real stats. [129:40]
 - He would not buy Radiant on Yamato because it gives no stats; it is only good on heroes with real survivability like Celeste or Shiv's movement. [130:14]
 - People sleep on Dispel Magic for countering Celeste: cleansing her Light Eater blocks 100% of that damage for half the price of an item that blocks about 60%. [137:41]
-- Buy Unstoppable on Dynamo, and buy Unstoppable against Dynamo; a Viper with no Unstoppable into a Dynamo gave a free mid boss. [145:31]
+- Buy Unstoppable on Dynamo, and buy Unstoppable against Dynamo; a Vyper with no Unstoppable into a Dynamo gave a free mid boss. [145:31]
 - Witch Mail is not good on Pocket. [146:07]
 - On Silver into a hard spirit comp he would rather have Scourge than Witch Mail, though he thinks Witch Mail is a slept-on item. [149:51]
 - Frontlining for four randoms in solo queue is hard to climb on, except Billy, who does more damage than anyone. [166:00]
@@ -86,7 +86,7 @@ Player 2 (Mina, Oracle):
 - The mid skip at the start of lane is good; he farms a lot of lane damage on enemies who do the mid skip, mostly mental damage. [70:15]
 - You switch heroes too much; one-trick. [71:17]
 - On Mina you don't need to prep a camp: once you have extra spirit you one-shot it with Rake. [72:19]
-- You didn't respect the Viper damage and turned your back to her. [72:50]
+- You didn't respect the Vyper damage and turned your back to her. [72:50]
 - A little too greedy for the Love Bites. [72:50]
 - You were taking a lot from the wave without playing behind your tower. [73:20]
 - As Mina you want to play forward more in lane. [74:50]
@@ -111,7 +111,7 @@ Player 2 (Mina, Oracle):
 - When using your right click, air strafe during it and get momentum first, then right click, instead of using it while floating. [85:12]
 - The 1 max is a lot of damage and healing: 7% missing health is a significant portion of HP and it is very good for hitting camps. [85:44]
 - With better movement and not holding your third recast of your 2, you could have lived. [86:18]
-- Opportunity cost: an extra recast of your 2 is less survival than a dispel, especially into Infernus and Viper, and Veil Walker is less healing than the 1 max. [87:19]
+- Opportunity cost: an extra recast of your 2 is less survival than a dispel, especially into Infernus and Vyper, and Veil Walker is less healing than the 1 max. [87:19]
 - The 1 max math: on a Lash with 2.6k HP missing 1,000 it is 70 extra damage; at 30% HP or less it is 140 extra every 7.9 seconds. It also lets Rake kill creeps more easily, so you get the healing more easily. [88:51]
 - You are consistently wasting your ult. [89:23]
 - Spiritual Overflow is good on Mina, but he is not sure about hard rushing it. [89:54]

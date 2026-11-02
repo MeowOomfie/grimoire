@@ -6,7 +6,7 @@ url: https://www.youtube.com/watch?v=WsPWwH0eKFE
 ## Covers
 Midknight Vods free coaching stream from 2026-07-15, during a long stretch with no patch. He coaches four raffle winners: an Eternus 4 NA gun/melee Abrams, a Dynamo, an Oracle Wraith and a Yamato.
 Themes: light melee over heavy melee, giving a Rift versus fighting after it, comeback Rifts and Rift timers, playing for buffs and urns, farm rhythm (push side lane, farm camp), being on map for objectives, deathballing and running down mid, sieging base with one pick, AP orders and gun spike timing.
-Side notes from chat: Viper and Doorman counters, Venator damage, support play with uncooperative teammates, Hunter's Aura not stacking, Silencer into spirit teams, the reworked Wraith ult, Lash ult versus Counterspell, being carriable, and hardware.
+Side notes from chat: Vyper and Doorman counters, Venator damage, support play with uncooperative teammates, Hunter's Aura not stacking, Silencer into spirit teams, the reworked Wraith ult, Lash ult versus Counterspell, being carriable, and hardware.
 
 ## Claims
 General and side notes:
@@ -15,8 +15,8 @@ General and side notes:
 - Stored dash tech: dash into a stair and the dash is stored, so you can use it later by pressing Ctrl. [7:47]
 - There is a console command that visualizes edge boosts with numbers, showing when you will get a super boost. [13:28]
 - Magic Carpet is underrated for box stealing, mostly on Mo & Krill; it lets you steal lots of boxes and be hard to punish. [14:28]
-- Midknight on his own Calico games: he rushes Slowing Hex into Viper but still loses, because Viper stacks debuff resist and slides away from Arctic Blaster and Gloom Bombs. [21:11]
-- Fix for a Viper who always wins her lane: force early ganks on her and suffocate her farm from the side. [23:43]
+- Midknight on his own Calico games: he rushes Slowing Hex into Vyper but still loses, because Vyper stacks debuff resist and slides away from Arctic Blaster and Gloom Bombs. [21:11]
+- Fix for a Vyper who always wins her lane: force early ganks on her and suffocate her farm from the side. [23:43]
 - To do more player damage as Venator, build weapon damage because it scales all your abilities; gun utility items are broken once you have a tier 4 or two; use Osiris's Venator build. [23:43]
 - Into a hard spirit team, buy Silencer and you will win almost every game. [24:13]
 - As Venator, be in the objective fights; in low elo a lot of damage comes from pointless fights you can skip. [24:13]
@@ -59,7 +59,7 @@ Player 1 (Abrams, Eternus 4 NA, gun/heavy melee build):
 - Get in the Rift circle: the enemy only gets comeback resist inside it, and you can charge one of them out of the circle and kill him. [31:30]
 - Giving the Rift is a fine call when your teammates are splitting. [32:00]
 - Help your teammates secure souls; when you are sitting on a big chunk of souls, back up. [33:01]
-- When their whole team is there, back off; you overcommitted to the Viper once you thought you had kill potential. [35:40]
+- When their whole team is there, back off; you overcommitted to the Vyper once you thought you had kill potential. [35:40]
 - Use the teleporter after the Rift: they were mispositioned, and you could have come in behind them and cleaned them up. [37:50]
 - Giving a Rift and getting nothing for it is a step toward throwing a game you lead. [39:25]
 - When you are ahead, your whole team should live in the enemy jungle. [39:55]
@@ -74,8 +74,8 @@ Player 1 (Abrams, Eternus 4 NA, gun/heavy melee build):
 - There is no reason to fight 5v6. [52:20]
 - Good: you recognized ulting the bot was bad and ulted away, which most Abrams mains fail. [53:20]
 - You know how to scale stairs but you are not hitting the edge boosts. [53:50]
-- You were fighting alone for no reason; when the enemy is pushing your guardian, stick with the plan instead of getting scared of one Viper. [54:21]
-- Trust your fed Holliday to handle the Viper; Holliday is a decent Viper counter with the barrel knock-up. [54:51]
+- You were fighting alone for no reason; when the enemy is pushing your guardian, stick with the plan instead of getting scared of one Vyper. [54:21]
+- Trust your fed Holliday to handle the Vyper; Holliday is a decent Vyper counter with the barrel knock-up. [54:51]
 - Do movement drills: you were not edge boosting or using dash-cancel slides to get out. [56:25]
 - You can't just give a comeback Rift for nothing: give it, then fight them right after, since you were up 30k at 20 minutes, then take mid boss and win. [58:29]
 - A pick is not worth the Rift. [58:29]
@@ -123,10 +123,10 @@ Player 2 (Dynamo):
 - If you want the storm build, use KenKen's (a high elo Dynamo one-trick), which gets the tier 2 ult spike earlier. [97:01]
 
 Player 3 (Wraith, Oracle):
-- This might be a lane where Golden Goose Egg is good, since you have to kill a Mirage and Viper with it, but skipping it is respectable. [109:40]
+- This might be a lane where Golden Goose Egg is good, since you have to kill a Mirage and Vyper with it, but skipping it is respectable. [109:40]
 - In this lane against two gun heroes, hide under tower and farm boxes; nothing should happen. [110:41]
-- Don't greed there: Mirage can back up the Viper easily. You reinforced your Seven a little late. [111:48]
-- Viper can solo lane very easily; she is weak to a dive, but it is hard to get priority on her. [113:28]
+- Don't greed there: Mirage can back up the Vyper easily. You reinforced your Seven a little late. [111:48]
+- Vyper can solo lane very easily; she is weak to a dive, but it is hard to get priority on her. [113:28]
 - Identify a lost lane right away; when they give you priority, roll into farming camps instead of fishing. [113:58]
 - On gun heroes it is crucial to farm every camp off spawn, even in winning lanes. [114:29]
 - Don't mirror a gank if the enemy already showed on vision; mirroring so you arrive 5 seconds after them is fine. [115:04]
@@ -146,7 +146,7 @@ Player 3 (Wraith, Oracle):
 - After the Graves showed up you were mispositioned and jumpable; back off. [129:40]
 - You rotated to a fight at a third of your HP, which feels awful. [133:28]
 - Ricochet first is a classic, strong Wraith item. [136:31]
-- Your Grey Talon went for the Rift, which was correct, while the rest over-chased a Viper. [137:01]
+- Your Grey Talon went for the Rift, which was correct, while the rest over-chased a Vyper. [137:01]
 - Good catch, but back off afterward; overstaying is a classic mistake. [138:36]
 - Good: securing aggressive farm and not forcing 5v5 invades. [138:36]
 - That was a bad teleport; you needed it to escape. [140:10]

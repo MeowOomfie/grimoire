@@ -92,7 +92,7 @@ Player 2 (Holliday, Phantom, laning with Yamato into Grey Talon and Lash):
 - Veil Walker is a broken item, but if you can't pilot it, skip it at this rank. [81:27]
 - Farm your Veil Walker spike before the first Rift; going into a Rift with an 800 bag 1000 souls short is bad. [82:27]
 - A Rift spawned as late as 13:10. [83:28]
-- In Emissary, go to every Rift; the Viper's solo Rift capture probably raised your win chance by a full 5%. [83:59]
+- In Emissary, go to every Rift; the Vyper's solo Rift capture probably raised your win chance by a full 5%. [83:59]
 - The Viscus ult max first AP order is questionable. [84:29]
 - Move toward the urn; objectives are so strong. [85:36]
 - Holliday tempo build: Mystic Shot and Rapid Recharge. [86:06]

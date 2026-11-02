@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=65K_WRnIHoo
 
 ## Covers
 Midknight Vods free coaching stream (VOD reviews) on 5/7/26, a few days after the May 1 2026 patch; some reviewed games predate it.
-Four players coached: a Paige (Oracle, a Viper main), a Mina (Ascendant), a Rem (Oracle, reviewed before) and a Drifter (Eternus 6).
+Four players coached: a Paige (Oracle, a Vyper main), a Mina (Ascendant), a Rem (Oracle, reviewed before) and a Drifter (Eternus 6).
 Themes: box routes and box maxing, soul benchmarks, saving ults to cancel enemy ults, light melees and parries, not forcing fights with key cooldowns down, invading, urn orbs, baiting versus forcing mid boss, anti-heal choices, plus chat Q&A on Haze, Victor, Holliday, Calico, Drifter and Yamato builds.
 
 ## Claims
@@ -70,7 +70,7 @@ Player 1 (Paige, Oracle):
 - Late game your barriers had no impact. [47:01]
 - As a Paige you have to play in the back line. [47:32]
 - With two picks while the Dynamo ult and Refresher were down, mid boss could have swung the game. [47:32]
-- Going from Viper to Paige is a very different playstyle, which might be why you position so aggressively. [48:04]
+- Going from Vyper to Paige is a very different playstyle, which might be why you position so aggressively. [48:04]
 
 Player 2 (Mina, Ascendant):
 - Guerrilla warfare is right: go in for a Love Bites proc, then run away like an annoying bird. [60:05]

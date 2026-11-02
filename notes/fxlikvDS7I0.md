@@ -105,7 +105,7 @@ Player 2 (Phantom, Yamato, Archon):
 - Spirit Resilience would top off your green spike, then go pure damage: green spike, then damage. [85:29]
 - You will need Metal Skin at some point but can't afford it now. [86:02]
 - Ask your teammates to invade with you; if they say no, let them be. [87:02]
-- Return Fire is a good cheap item to finish your green spike before going offensive. Reactive Barrier helps into Krill; in this game Stake, Grave root, Krill ult, Viper ult and Infernus ult trigger it, but most are ultimates, which makes it mediocre. [87:32]
+- Return Fire is a good cheap item to finish your green spike before going offensive. Reactive Barrier helps into Krill; in this game Stake, Grave root, Krill ult, Vyper ult and Infernus ult trigger it, but most are ultimates, which makes it mediocre. [87:32]
 - When far behind late, you can't fight; your goal is to save shrines and Rejuvenators and get urn denies. [89:03]
 - Fight with your team when teammates are up; you got caught alone. [89:33]
 - Invading with Sinner's Sacrifice while ahead is good, but don't invade alone; invade with teammates, specifically your pick hero (the Holliday with lasso) hovering. [90:34]

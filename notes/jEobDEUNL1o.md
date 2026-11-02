@@ -59,7 +59,7 @@ Calico, his own games (self-corrections):
 - Fix your waves and play for rift instead of fighting mid with two side waves crashing; this is the most classic throw. [94:46]
 - The new AP upgrade on Calico's 2 (souls on heroes hit) is the most useless upgrade they could give her. [94:16]
 - Billy's 1 locks you out of your hero while he does big damage; that is what makes him frustrating. [97:18]
-- Viper is a hard lane for Calico because Gloom Bombs are hard to land on her. [102:46]
+- Vyper is a hard lane for Calico because Gloom Bombs are hard to land on her. [102:46]
 - A Mina who can't aim is an easy lane; Mina is one of the few spirit carries that needs aim, unlike Pocket. [101:40]
 - Watch mid to see if it is gankable. [103:19]
 - Lane swap when the lane calls for it. [106:33]

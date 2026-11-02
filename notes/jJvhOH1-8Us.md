@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=jJvhOH1-8Us
 
 ## Covers
 Lady Geist coaching review by Midknight of an Ascendant Lady Geist laning with Pocket into Warden and Viscous, in a coordinated (team) environment, video dated 2025-12-02 (late November 2025 patch with the new item investment spikes and walker flat damage resist before 15 minutes).
-Themes: taking space and bridge control, shooting the wave, healing items, Headhunter and spirit spikes, side laning, soul awareness (not fighting on a big bag), Urn calls, and Warden cage, and countering Viper and Paige.
+Themes: taking space and bridge control, shooting the wave, healing items, Headhunter and spirit spikes, side laning, soul awareness (not fighting on a big bag), Urn calls, and Warden cage, and countering Vyper and Paige.
 
 ## Claims
 Lady Geist (Ascendant):
@@ -31,7 +31,7 @@ Lady Geist (Ascendant):
 - Learning air strafing and edge boosting makes life a lot easier. [6:34]
 - Running down that ravine, diagonally air dash into the wall, slide against the wall with that momentum, then edge boost off the corner; it is required there. [28:24]
 - Whenever you are in a Warden cage, spam crouch so Seven cannot farm headshots on you. [30:24]
-- Against Viper, buy regenerative items and stay above 50% HP; her Venom and bola are allowed to be overtuned because she does little else. [32:02]
+- Against Vyper, buy regenerative items and stay above 50% HP; her Venom and bola are allowed to be overtuned because she does little else. [32:02]
 - Against Paige there is no real counter besides hard focusing her when she mispositions and playing around her barrier cooldown. [32:02]
 
 Waves, space and souls:

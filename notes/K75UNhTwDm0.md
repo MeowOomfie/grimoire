@@ -54,7 +54,7 @@ Lane:
 
 Items in general:
 - Tankbuster was nerfed but is still good later; as a rough number it used to be good after 22 minutes. [9:11]
-- Tankbuster also procs on minions, so Mina could buy it around 16 to 18 minutes to invade; Viper now wants it significantly later; Lash can justify it a little earlier for his combo. It is character dependent, just do not buy it too early. [9:41]
+- Tankbuster also procs on minions, so Mina could buy it around 16 to 18 minutes to invade; Vyper now wants it significantly later; Lash can justify it a little earlier for his combo. It is character dependent, just do not buy it too early. [9:41]
 - Buying Tankbuster at 15 minutes to farm was not worth it in his opinion. [10:11]
 - Tankbuster damage is applied after bolts (a chat point he says makes sense but was new to him). [11:13]
 - Tankbuster at 22 minutes is probably fine. [20:00]

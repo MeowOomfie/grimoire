@@ -81,7 +81,7 @@ Player 1 (Drifter, Arcanist):
 - Play more passively in lane; don't just teleport onto people. [69:20]
 - Build notes: Kinetic Dash over Quicksilver Reload; Titanic Magazine and Vampiric Burst are not good on him; Trophy Collector is bad; Cultist Sacrifice is not great; Battle Vest is weak because his base gun damage is so low. [69:50]
 - Good target priority on Paige. Don't switch onto a half-HP Lady Geist over a full-HP Haze: the Geist is still tankier, so one-shot the Haze. [70:50]
-- Drifter feels like day-one Viper: not broken, but a pub stomper that won't be played in pro. [71:21]
+- Drifter feels like day-one Vyper: not broken, but a pub stomper that won't be played in pro. [71:21]
 
 Player 2 (Drifter, Oracle in an Emissary lobby):
 - Drifter's bullets are deleted after 27 m, but his falloff starts at 24 m while most heroes fall off from 20 m (Sinclair at 25 m). Take trades in the 20 to 24 m window for a big advantage. [83:08]

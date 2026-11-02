@@ -14,7 +14,7 @@ General and side notes:
 - A short hop is basically a dash canceled with a crouch, and short hops are not good without an edge boost. [69:45]
 - Superior Stamina increases stamina regen. [63:15]
 - Seven is easy right now: farm, then press 4 in Rifts. [17:59]
-- Viper is countered by slows and slowing hexes, but she stacks debuff resistance and once she buys Unstoppable she feels awful to play against. [21:05]
+- Vyper is countered by slows and slowing hexes, but she stacks debuff resistance and once she buys Unstoppable she feels awful to play against. [21:05]
 - Mystic Vulnerability is spirit heroes' only access to spirit shred, which is why it is bought so much; spirit heroes lack late-game options besides Escalating Exposure. [32:57]
 - On tier three camps, heavy meleeing two creeps at once is very hard to beat for farming efficiency, at least around 22 minutes and especially with Cultist Sacrifice. [36:05]
 - Don't do the 1-max Billy build. Crushing Fist is good on Billy in a vacuum because he can proc it, but he doesn't want it until late. [39:44]

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=6CsbexJsua8
 
 ## Covers
 Patch reaction by Midknight to a short hotfix he calls bigger than any patch of the previous two months, mainly a global 10% gun damage nerf.
-Covers Calico, Holliday, Mirage, Shiv, Magician, Vindicta, Viper, Wraith and Yamato changes, the Sharpshooter nerf and an item nerf captioned as "chemical fire", plus a quick recap of how the four newly released heroes changed since Hero Labs.
+Covers Calico, Holliday, Mirage, Shiv, Magician, Vindicta, Vyper, Wraith and Yamato changes, the Sharpshooter nerf and an item nerf captioned as "chemical fire", plus a quick recap of how the four newly released heroes changed since Hero Labs.
 Patch of 2025-01-20.
 
 ## Claims
@@ -23,8 +23,8 @@ Patch of 2025-01-20.
 - Rabbits from his Rabbit Hex got a little more movement speed to run away, and a bug letting him teleport with the ear was fixed. [3:01]
 - Magician's gun needs a buff because its bullet velocity feels bad, and his ult needs longer cast range or longer than 10 seconds of holding a stolen ult. [2:31]
 - Vindicta got a small nerf: a little less movement speed and a little less bullet velocity; he says the game is better when Vindicta is in a bad spot. [3:01]
-- Viper got a gun damage nerf of -2 bullet damage, on top of the global gun nerf; she does a lot of damage with a lot of sliding movement speed, especially late game. [3:31]
-- Verdict on Viper: the nerf is significant but may not be enough; she still feels very strong and he expects more nerfs. [4:02]
+- Vyper got a gun damage nerf of -2 bullet damage, on top of the global gun nerf; she does a lot of damage with a lot of sliding movement speed, especially late game. [3:31]
+- Verdict on Vyper: the nerf is significant but may not be enough; she still feels very strong and he expects more nerfs. [4:02]
 - Wraith's Card Trick got a pretty big nerf and her ult got a small, deserved buff; overall still a nerf but not a major one. [4:02]
 - Wraith's ult had felt weak since it changed to silencing and disarming instead of holding targets up; Card Trick at three stacked cards did too much damage. [4:02]
 - Yamato got another bullet damage nerf; he says a Yamato gun build with her ult will never be healthy for the game, so expect more nerfs while it works. [4:33]
@@ -36,7 +36,7 @@ Patch of 2025-01-20.
 - Magician now steals the enemy ult: a very short range (about 10 meters) narrow cone, and he keeps the stolen ult only 10 seconds, which gives little flexibility. [8:33]
 - Calico's release version: she turns into a cat that moves a little faster, keeps her slash, throws sticky bombs, and her new ult makes her invulnerable for a second then does big damage around her; good for dodging Warden cage, Infernus ult and similar. [9:03]
 - Holliday's only real release change is that her ult is now a skill shot; he likes it because he dislikes point and click CC in MOBAs. [9:33]
-- Viper did not change much on release; her shank may be new but is basically Shiv's shank. [9:33]
+- Vyper did not change much on release; her shank may be new but is basically Shiv's shank. [9:33]
 
 ## Disagrees with
 - none recorded yet

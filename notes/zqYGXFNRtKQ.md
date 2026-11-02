@@ -36,7 +36,7 @@ General and patch notes:
 - Dispel Magic (formerly Debuff Remover) is bought less than it used to be. [117:46]
 - Against a one-trick Kidnapper Doorman, buy Dispel Magic, though it is reportedly glitched against the cart, so he buys Counterspell to reliably counter the cart. [110:33]
 - Curse is slept on against cheat-death items. [105:25]
-- Unstoppable is better than the reworked debuff-reduction item on most heroes, especially Viper, who dies when touched by CC. [122:59]
+- Unstoppable is better than the reworked debuff-reduction item on most heroes, especially Vyper, who dies when touched by CC. [122:59]
 - Rebind ability cancel off the space bar (he uses the grave/tilde key), or cancel by pressing the ability key again. [157:21]
 - Several abilities can now be canceled with parry; on Haze you used to have to cancel and then parry. [133:32]
 - Light melees that land right at a server tick boundary can come out as heavy melees. [151:35]
