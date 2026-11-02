@@ -726,6 +726,13 @@ One line per digested video: `- <id> | <channel> | <title> | <topics>`. Newest f
 - Y7A9aNurv-o | Midknight Vods | Free Coaching Stream, 9/8/26 | graves, celeste, coaching, rift macro, restorative shot, root placement
 - mVpw2LOq2nM | Midknight Vods | Free Coaching Stream, 9/4/26 | coaching, billy, ivy, cultist sacrifice timing, golden goose egg, rejuvenator secure
 - kH6pkIgXxO4 | Midknight Vods | Free Coaching Stream, 9/9/26 | vindicta, pocket, mina, wraith, coaching, macro
+- 5sDpPCj1Wkc | Midknight | How to Carry in The Midgame, Coaching an Oracle Wraith | wraith, coaching, card stacking, parry drills, farming, mid game
+- WUZCTgK8ppA | Midknight | Stop ignoring Comeback Mechanics, Coaching an Alchemist Haze | haze, coaching, comeback rift, overextending, freezing, aim
+- ZXHgjR-lxYc | Midknight Vods | Free Deadlock Coaching, 8/31/26 | coaching, mirage, bebop, wraith, victor, side lane farming
+- z4YjxVJVpkU | Midknight Vods | Free Deadlock Coaching, 8/21/26 | coaching, dynamo, silver, celeste, victor, macro
+- GvqjbTuBVGw | Midknight Vods | Free Deadlock Coaching, 8/20/26 | haze, holliday, seven, celeste, coaching, freezing
+- 9sMsMTUlWLE | Midknight Vods | Free Coaching Stream, 9/3/26 | billy, mina, silver, victor, coaching, macro
+- __TmPj_159M | Midknight Vods | Free Coaching Stream, 9/2/26 | coaching, sinclair, victor, ivy, mina, golden goose egg
 
 ## General and other heroes
 
