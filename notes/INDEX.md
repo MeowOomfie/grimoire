@@ -757,6 +757,12 @@ One line per digested video: `- <id> | <channel> | <title> | <topics>`. Newest f
 - ynEeJwzEcwI | Midknight Vods | Free Deadlock Coaching , 7/16/26 | holliday, lash, billy, coaching, shrines, rift
 - Bw6luyfHXPQ | Midknight Vods | Free Deadlock Coaching, 7/20/26 | silver, shiv, rem, coaching, support itemization, rift
 - T5J6avYR9fE | Midknight Vods | Free Deadlock Coaching , 7/18/26 | coaching, sinclair, infernus, shiv, overfighting, rift
+- JLpc8BV2XLk | Midknight Vods | Free Deadlock Coaching, 7/13/26 | coaching, celeste, mirage, mina, rem, objective fights
+- Ab6TeObdF50 | Midknight Vods | Free Deadlock Coaching, 7/9/26 | coaching, calico, mina, wraith, patch notes, tesla bullets
+- P4NqvhptR5g | Midknight Vods | Free Deadlock Coaching, 7/14/26 | coaching, abrams, holliday, lady geist, mina, rifts
+- go4u11-AhlU | Midknight | The Most Common Spirit Carry Mistake, Unsolicited Coaching | pocket, dispel magic, warden cage, spirit carry, itemization
+- xRUIIgQ4yLI | Midknight Vods | Free Deadlock Coaching, 7/10/26 | infernus, bebop, yamato, seven, rifts, comeback resist
+- WsPWwH0eKFE | Midknight Vods | Free Deadlock Coaching , 7/15/26 | coaching, abrams, dynamo, wraith, yamato, light melee
 
 ## General and other heroes
 
