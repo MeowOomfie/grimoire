@@ -4,7 +4,7 @@ date: 2026-06-18
 url: https://www.youtube.com/watch?v=8Vd3Vhfm2rY
 
 ## Covers
-Midknight Vods runs a free coaching stream (patch of mid-June 2026, the AoE urn and gun-spike meta) and reviews four players: a Silver (Ritualist), a Calico (Ascendant), a Viper (Alchemist) and an Apollo (Emissary).
+Midknight Vods runs a free coaching stream (patch of mid-June 2026, the AoE urn and gun-spike meta) and reviews four players: a Silver (Ritualist), a Calico (Ascendant), a Vyper (Alchemist) and an Apollo (Emissary).
 Recurring themes: overheating and over chasing after picks, respecting low HP and being outnumbered, trooper and tower damage in lane, playing for urn and mid boss, spending souls into spikes, farming centers, utility items, parries and mantle sliding.
 Side Q&A on Extra Regen versus Monster Rounds versus Close Quarters, edge boost practice, parry drills, playing Victor as a frontliner, shrines when sieging, Scourge and spirit resist items.
 
@@ -13,7 +13,7 @@ Player 1 (Silver, Ritualist):
 - You positioned too aggressively with your teammate on the opposite side of the lane, then tried to fight instead of running. [19:16]
 - Fishing for denies too long costs you the full wave priority. [19:47]
 - Kick-back tech: kick the enemy, then flip your camera 180 so the kick sends them backwards. [19:47]
-- Against Viper, put Extra Regen in the bag, because when you go into melee range she presses her venom and you die. [20:49]
+- Against Vyper, put Extra Regen in the bag, because when you go into melee range she presses her venom and you die. [20:49]
 - Balance denies and wave clear: kill the wave until an orb is in the air, flick to the orb, then go back to the wave; don't spend seconds waiting with your crosshair on a minion. [20:49]
 - You can't buy extra health at 200 HP; you are too low to stay. [21:20]
 - He likes selling tier 1 items, but it is dangerous when you're slow. [21:50]
@@ -31,7 +31,7 @@ Player 1 (Silver, Ritualist):
 - You are dodging every spike; Silver should beeline his green and orange spikes. Heroes that brawl a lot early and steal centers get really strong early by beelining spikes. [30:02]
 - He doesn't like Mystic Shot at all on Silver; go Silence Wave instead. [30:32]
 - Silence Wave is really good and slept on; he rushed it on Rem into a Geist. [31:03]
-- After you kill the Viper you keep fighting and completely overheat; it is too greedy. [31:03]
+- After you kill the Vyper you keep fighting and completely overheat; it is too greedy. [31:03]
 - Your biggest issue is over brawling. [31:33]
 - Silver's 2 cancels heavy melees. [31:33]
 - Re-engaging is fine when the enemy has three stacks of mark on them. [31:33]
@@ -46,7 +46,7 @@ Player 1 (Silver, Ritualist):
 - Being past the mid walker is way too over eager; show up, take the pick, then defend your lanes or use the pick to run urn. [36:09]
 - Massive overheating issues. [36:09]
 - Ult max is good on Silver and the meta is maxing the ult first, though he dislikes that meta. [36:43]
-- Rebuttal would have been good in lane with how much the Viper over meleed, but with about one and a half flex slots and only one enemy melee hero it is not worth it. [36:43]
+- Rebuttal would have been good in lane with how much the Vyper over meleed, but with about one and a half flex slots and only one enemy melee hero it is not worth it. [36:43]
 - Your team constantly dropping waves feels really bad. [37:43]
 - That Return Fire was very wasted. [38:13]
 - You look for a good pick but over chase; once Paige gets past those stairs, back off and stop chasing. [38:13]
@@ -147,7 +147,7 @@ Player 2 (Calico, Ascendant):
 - Summary: use your ult more and do mid boss more; missed mid boss calls are why you lost. [111:32]
 - Summary: respect when you're low. [112:03]
 
-Player 3 (Viper, Alchemist):
+Player 3 (Vyper, Alchemist):
 - You are still getting comfortable sliding; buying there would have been better than an overly aggressive engage. [123:48]
 - You took 125 trooper damage for no reason; respect troopers and don't slide into the wave like that. [124:49]
 - Against that Graves you need to leave. [124:49]
@@ -161,7 +161,7 @@ Player 3 (Viper, Alchemist):
 - That was an attempt to melee to kill, which you should not do. [130:34]
 - You spend too long not shooting the wave. [131:05]
 - That is a 1v2 because your Bebop is roaming; in a 2v2 clean up the wave first, and in a 1v2 you don't win. [131:44]
-- He does not recommend going on a Viper arc: the hero is miserable and hard to play. [131:44]
+- He does not recommend going on a Vyper arc: the hero is miserable and hard to play. [131:44]
 - A full reset when you're low is fine. [132:52]
 - You can put venom on people while they are petrified by your ult. [133:22]
 - Don't ult someone who is relatively healthy; ult into venom is a kill combo for when someone is at half HP. [133:22]
@@ -179,18 +179,18 @@ Player 3 (Viper, Alchemist):
 - Waves are crashing into both your walkers while you greedily chase and fight. [136:55]
 - With Split Shot you don't have to aim. [137:55]
 - Make sure you are perma-sliding. [138:27]
-- Viper cannot be reloading this much; you minimize your damage by not shooting while sliding. [138:57]
+- Vyper cannot be reloading this much; you minimize your damage by not shooting while sliding. [138:57]
 - When farming a walker, slide around the edges of the walker stomps so they don't hit you. [138:57]
-- That is how you play Viper: 10k damage. You could also pop Split Shot to make hitting the Pocket easier. [140:30]
+- That is how you play Vyper: 10k damage. You could also pop Split Shot to make hitting the Pocket easier. [140:30]
 - Always push the neutral wave and push it out before rotating. [141:01]
 - A neutral wave is one that won't push either way, with about four minions alive on both sides. [142:04]
 - Playing for urn is free elo. [142:34]
 - You repeatedly engage with no teammates nearby. Good call to push the other side when theirs was messed up. [142:34]
-- Don't force walkers or ping-pong between sides of the map forcing objectives and dying; that is how you play McGinnis. On Viper, farm more, steal jungle, play for urns, and split when they show on one side. [143:35]
+- Don't force walkers or ping-pong between sides of the map forcing objectives and dying; that is how you play McGinnis. On Vyper, farm more, steal jungle, play for urns, and split when they show on one side. [143:35]
 - Push the neutral wave to get priority. [144:37]
 - You might win a 1v1 against the Apollo, but your teammates are on the other side of the map, your waves are bad and you don't know if he has backup. [144:37]
 - Breakable boxes are always less soul efficient than farming a normal camp. [146:18]
-- T-bird's Viper build gets Stamina Mastery and the full green spike around 24k souls, which is far too greedy. [146:48]
+- T-bird's Vyper build gets Stamina Mastery and the full green spike around 24k souls, which is far too greedy. [146:48]
 - All these fights are purposeless. [147:19]
 - Great mid boss call at 29 minutes, but being able to solo it does not mean you should. [148:19]
 - Into heavy melee comps buy Reactive Barrier or max melee resist. [149:21]
@@ -199,11 +199,11 @@ Player 3 (Viper, Alchemist):
 - You are only up one player, so you can't siege their base; run urns instead and steal farm. [151:28]
 - In an urn fight meta, ult max does something, even though ult maxes are normally not great. [151:59]
 - Heavy melee was way too greedy, and you didn't respect the Pocket's affliction or being low; play the back line at 1 HP. [153:02]
-- Viper's ult can hit Graves's grave and still break it. [153:02]
+- Vyper's ult can hit Graves's grave and still break it. [153:02]
 - Summary: a little too much trooper damage early; in lane fight with your waves, not in front of them. [156:36]
 - Summary: over fighting with no reason; play for urn more; map awareness. [156:36]
 - Summary: don't fight when your team isn't nearby, and don't just run at objectives. [156:36]
-- Summary: slide more and use Viper's infinite slide. [157:08]
+- Summary: slide more and use Vyper's infinite slide. [157:08]
 - Summary: respect when you're low by backing off or playing the back line. [157:08]
 
 Q&A between players:
