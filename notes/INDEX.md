@@ -763,6 +763,11 @@ One line per digested video: `- <id> | <channel> | <title> | <topics>`. Newest f
 - go4u11-AhlU | Midknight | The Most Common Spirit Carry Mistake, Unsolicited Coaching | pocket, dispel magic, warden cage, spirit carry, itemization
 - xRUIIgQ4yLI | Midknight Vods | Free Deadlock Coaching, 7/10/26 | infernus, bebop, yamato, seven, rifts, comeback resist
 - WsPWwH0eKFE | Midknight Vods | Free Deadlock Coaching , 7/15/26 | coaching, abrams, dynamo, wraith, yamato, light melee
+- 0eB9Stm32Pw | Midknight Vods | Free Deadlock Coaching , 7/8/26 | coaching, venator, pocket, victor, vindicta, rift and mid game macro
+- WZ1x2WF1GXk | Midknight Vods | Free Deadlock Coaching , 7/6/26 | coaching, drifter, silver, sinclair, overfighting, itemization
+- RQUGtOTt2WE | Midknight Vods | Free Deadlock Coaching , 7/7/26 | coaching, seven, graves, calico, doorman, rifts
+- 1VD14Vrz6DY | Midknight Vods | Free Deadlock Coaching , 7/3/26 | coaching, calico, mo & krill, paradox, venator, kidnap doorman counters
+- ZQqo9OvWK8M | Midknight Vods | Free Deadlock Coaching , 7/2/26 | coaching, lash, mo & krill, paige, vindicta, positions
 
 ## General and other heroes
 
