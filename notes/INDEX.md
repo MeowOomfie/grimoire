@@ -813,6 +813,11 @@ One line per digested video: `- <id> | <channel> | <title> | <topics>`. Newest f
 - l2F8FsUEADU | Midknight Vods | Free Deadlock Coaching , 4/29/26 | coaching, infernus, mo & krill, venator, pocket, victor builds
 - SfYfItjGKb4 | Midknight Vods | Free Deadlock Coaching, 4/30/26 | coaching, dynamo, mina, rem, grey talon, urn
 - zJKeUtOvnFo | Midknight Vods | Free Deadlock Coaching, 4/27/26 | doorman, wraith, vyper, bebop, coaching, itemization
+- 5fk9qZV1USI | Midknight Vods | Free Deadlock Coaching , 4/21/26 | coaching, shiv, mina, calico, venator, paradox
+- xFqlZdqraGU | Midknight Vods | Free Deadlock Coaching, 4/20/26 | coaching, paige, vyper, dynamo, calico, urns and macro
+- vk3WUlg-9aU | Midknight Vods | Free Deadlock Coaching , 4/17/26 | coaching, rem, kelvin, billy, shiv, urn macro
+- PyHnNJ2Cwn0 | Midknight Vods | Free Deadlock Coaching , 4/16/26 | coaching, venator, paradox, lash, billy, urn
+- 96gD--08Y_k | Midknight Vods | Free Deadlock Coaching , 4/15/26 | pocket, warden, venator, lady geist, coaching, urn macro
 
 ## General and other heroes
 
