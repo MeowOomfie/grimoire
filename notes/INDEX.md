@@ -752,6 +752,11 @@ One line per digested video: `- <id> | <channel> | <title> | <topics>`. Newest f
 - rqhboGROQhk | Midknight Vods | Free Deadlock Coaching , 7/24/26 | coaching, holliday, silver, drifter, ivy, itemization
 - dYOJcSb_TAU | Midknight Vods | Free Deadlock Coaching , 7/27/26 | calico, wraith, mirage, pocket, coaching, farming
 - Y30ga_JK8yo | Midknight Vods | Free Deadlock Coaching, 8/4/26 | silver, wraith, mina, card stacking, tower damage, wave setting
+- Fzg_MCSAZO8 | Midknight Vods | Free Deadlock Coaching , 7/23/26 | celeste, calico, infernus, split pushing, movement, coaching
+- FGSHPr5BQUc | Midknight Vods | Free Deadlock Coaching, 7/17/26 | coaching, victor, calico, holliday, mo & krill, bebop hooks
+- ynEeJwzEcwI | Midknight Vods | Free Deadlock Coaching , 7/16/26 | holliday, lash, billy, coaching, shrines, rift
+- Bw6luyfHXPQ | Midknight Vods | Free Deadlock Coaching, 7/20/26 | silver, shiv, rem, coaching, support itemization, rift
+- T5J6avYR9fE | Midknight Vods | Free Deadlock Coaching , 7/18/26 | coaching, sinclair, infernus, shiv, overfighting, rift
 
 ## General and other heroes
 
