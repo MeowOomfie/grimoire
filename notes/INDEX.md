@@ -869,6 +869,10 @@ One line per digested video: `- <id> | <channel> | <title> | <topics>`. Newest f
 - Kq0n-pL-Dtg | Midknight Vods | Free Deadlock Coaching , 1/14/26 | coaching, mina, drifter, abrams, dynamo, build reviews
 - M5ekbzv5Mrw | Midknight Vods | Free Deadlock Coaching, 1/19/26 | yamato, holliday, drifter, coaching, urn, lifestrike
 - XTGuXZGCb1g | Midknight Vods | Free Deadlock Coaching 1/20/26 | coaching, paradox, holliday, lash, urn patch, pro scrim macro
+- Byr-c4NDHd8 | Midknight Vods | Free Deadlock Coaching, 1/7/26 | coaching, shiv, mina, billy, paradox, wave priority
+- 79gVQ8Iwp_c | Midknight Vods | Free Deadlock Coaching, 1/9/26 | coaching, warden, haze, paradox, seven, mo & krill
+- dYays6s0HLU | Midknight Vods | Coaching Skeleton Honey & Free Coaching, 1/12/26 | calico, victor, shiv, coaching, comeback macro, dynamo
+- rAxaJDBmMuM | Midknight Vods | Free Deadlock Coaching , 1/8/26 | mina, seven, paige, paradox, coaching, curse
 
 ## General and other heroes
 
