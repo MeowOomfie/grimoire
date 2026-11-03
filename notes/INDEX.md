@@ -873,6 +873,11 @@ One line per digested video: `- <id> | <channel> | <title> | <topics>`. Newest f
 - 79gVQ8Iwp_c | Midknight Vods | Free Deadlock Coaching, 1/9/26 | coaching, warden, haze, paradox, seven, mo & krill
 - dYays6s0HLU | Midknight Vods | Coaching Skeleton Honey & Free Coaching, 1/12/26 | calico, victor, shiv, coaching, comeback macro, dynamo
 - rAxaJDBmMuM | Midknight Vods | Free Deadlock Coaching , 1/8/26 | mina, seven, paige, paradox, coaching, curse
+- s9v-QMcKpNk | Midknight Vods | Free Deadlock Coaching, 1/5/26 | coaching, abrams, holliday, paradox, shiv, wave priority
+- 4fzUfsTLKSs | Midknight | You're Over Committing, Eternus Holiday Review | holliday, coaching, sunk cost, towers, spirit lasso, picks
+- Ss87vW49GZI | Midknight Vods | Free Deadlock Coaching, 1/1/26 | coaching, pocket, lady geist, calico, itemization, urn macro
+- p3rhq89AKYs | Midknight Vods | Free Deadlock Coaching , 1/6/26 | coaching, kelvin, holliday, pocket, lady geist, lash counters
+- mNfHkE0-C1A | Midknight Vods | Free Deadlock Coaching, 12/31/25 | coaching, shiv, victor, lady geist, pocket, wave priority
 
 ## General and other heroes
 

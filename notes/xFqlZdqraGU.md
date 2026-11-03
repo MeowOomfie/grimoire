@@ -6,19 +6,19 @@ url: https://www.youtube.com/watch?v=xFqlZdqraGU
 ## Covers
 Midknight Vods free coaching stream, four sessions: a Paige (Oracle), a Vyper (Ascendant), a Dynamo (Phantom) and a Calico (Oracle).
 Themes: hitting the wave and box routing, soul awareness, barrier timing on Paige, Vyper build order, Arcane Surge and ult usage on Dynamo, running urns, stealing Sinner's Sacrifice camps, using Rejuvenator, fighting with a purpose and from height in base.
-Side notes from chat on Seven, Gist versus Venator, Victor and Vyper builds, and kill participation as a metric. Recorded 2026-04-20.
+Side notes from chat on Seven, Geist versus Venator, Victor and Vyper builds, and kill participation as a metric. Recorded 2026-04-20.
 
 ## Claims
 General notes from chat:
 - Instant cast is better than quick cast, though quick cast is not objectively bad. [15:28]
 - Freebuilding is fine, but he would not recommend it until about Ascendant. [22:35]
-- If you like Gist and Venator, try gun Warden, which plays very similarly. [32:52]
+- If you like Geist and Venator, try gun Warden, which plays very similarly. [32:52]
 - Venator is in an insanely good spot, so one-tricking him is fine. [34:27]
-- Of that M1 pool, Gist needs the least skill for the most impact; Venator has the highest potential impact. [34:58]
+- Of that M1 pool, Geist needs the least skill for the most impact; Venator has the highest potential impact. [34:58]
 - Seven falls off as people get better at itemizing. Curse hard counters him because it turns off his Power Surge and stops his knock, and Knockdown also hurts him a lot. [38:40]
 - Seven is the M1 countered by the most items; against a fed Venator you only have Metal Skin. [39:11]
 - Curse turns other heroes off for about 3 seconds, but cleansing Seven's 3 on a Power Surge build turns him off for about 30. Seven is good in Alchemist and gets worse as elo rises. [39:42]
-- Venator is stronger than Gist because of his scaling; people complain more about Gist because she is easy. [41:14]
+- Venator is stronger than Geist because of his scaling; people complain more about Geist because she is easy. [41:14]
 - Measure usefulness with kill participation: kills plus assists divided by team kills; aim above 50%, maybe 60%. [44:25]
 - At lower elo kill participation misleads because many fights are dumb; in replays check that during every fight you are doing something (in the fight, stealing farm, splitting an objective). [45:09]
 - Good coaches to watch for pro analysis: Lightbringer and Pure. [54:01]

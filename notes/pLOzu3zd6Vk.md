@@ -20,7 +20,7 @@ Shiv itemization:
 - Items like Quicksilver Reload and Mystic Burst give much more healing than Mystic Regeneration because they apply more. [9:58]
 - You badly need green vitality investments: Enchanter's Emblem, Spirit Shielding (good this game) or Counterspell. Reactive Barrier was not good this game and Veil Walker is not good. [12:45]
 - Your next item should be green; orange is acceptable, but it just can't be purple. [13:47]
-- Debuff Remover was very good this game: it cleanses Paige's root and burn, and debuff reduction is great into Holliday, Wraith, Paige, Infernus and good into Gist. [13:16]
+- Debuff Remover was very good this game: it cleanses Paige's root and burn, and debuff reduction is great into Holliday, Wraith, Paige, Infernus and good into Geist. [13:16]
 - He prefers Debuff Remover over Counterspell here because it gives much more value into Infernus and Toxic Bullets; popping it after the enemy ult would have saved about 1,000 HP. [24:48]
 - Torment Pulse is overpowered; not often seen on Shiv. [12:15]
 - Arctic Blast gives more value than a regen item if you can afford it. [12:45]

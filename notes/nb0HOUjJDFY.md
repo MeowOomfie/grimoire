@@ -26,7 +26,7 @@ Player 1 (Vyper):
 - Your sliding is not bad, but you crutch on stopping to shoot minions. It is better to slide through and track. [16:46]
 - Standing still on Vyper feels really bad. [17:19]
 - Vyper's bread and butter is sliding through the wave, in a U shape in front of it. [17:50]
-- You could have killed the Gist by meleeing her or sliding through and shooting her. [18:20]
+- You could have killed the Geist by meleeing her or sliding through and shooting her. [18:20]
 - It was overly safe to be that afraid of the Silver when your hero can basically infinite slide. [18:51]
 - He calls Silver a rough matchup for Vyper because of the Bola and says it is a very non-ideal lane for you. [18:51]
 - You are really not confirming orbs, and it is hurting you. [19:23]
@@ -82,7 +82,7 @@ Build review (punch Viscous build):
 
 Player 2 (Sinclair, about Oracle 1 or 2):
 - He likes the assistant harass. One of the best times to use abilities or harass is when you have wave prio, because they have to hit the minions and you don't. [60:04]
-- Not having Extra Charge feels bad; you probably would have killed the Gist with it. Opening Rounds first makes sense because it is strong. [60:34]
+- Not having Extra Charge feels bad; you probably would have killed the Geist with it. Opening Rounds first makes sense because it is strong. [60:34]
 - He would definitely get Monster Rounds in this lane. Going Opening Rounds first is fine, but lacking Monster Rounds hurts in the long run because these heroes can get wave prio, and your Victor is not a great laner. [60:34]
 - Place the assistant on the edge. Some Sinclairs place the assistant, jump into the open and swap, so the assistant floats in the open and enemies can't tuck under the bridge. [62:08]
 - Get Monster Rounds next; you are starting to lose the wave and it hurts. [62:38]
@@ -120,7 +120,7 @@ Player 2 (Sinclair, about Oracle 1 or 2):
 - Trophy Collector has been a dead item. [83:00]
 - Sinclair's agency comes from nuking people in team fights with this damage build. [83:00]
 - Sinclair is a poke mage in a game where poke matters less: one heal creep takes someone back to full. When you nuke someone, think of it as taking them out of a fighting position for about 30 seconds, and play around that. [84:03]
-- Rabbit Hex should have gone into the pit, and the sleep should have been on the Gist. [84:33]
+- Rabbit Hex should have gone into the pit, and the sleep should have been on the Geist. [84:33]
 - The Sinclair chat in the official Deadlock Discord has a pinned video on bolts that explains their coding quirks and helps you hit them. [85:05]
 - With this build you have three 1,200-damage buttons. [85:39]
 - He generally prioritizes Cultist. Trophy Collector is good if your team is farm hungry and you have a lead; Cultist is better if you want farm that doesn't depend on kills. [86:09]

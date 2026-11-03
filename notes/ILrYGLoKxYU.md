@@ -53,7 +53,7 @@ Side notes (movement, heroes, balance):
 - Billy is the best hero for ranking up; his 1-3-1 combo does around 5000 damage and his 1 can lock you out of your hero, so the combo is undodgeable unless you have Counterspell. [58:05]
 - Before Phantom Strike you could dodge Abrams' charge; with it you can't. [59:09]
 - Kelvin's tier 2 grenade freezes stamina regen, does big damage and healing and slows. Ice Path is a free escape, the dome is a free save or a free mid boss, and Kelvins get rich by one-shotting camps with grenades. [61:11]
-- Kelvin's grenade does more damage than a Gist bomb, heals, and has no arm time. Ice Path keeps him above you, which makes grenades easy to hit. [62:50]
+- Kelvin's grenade does more damage than a Geist bomb, heals, and has no arm time. Ice Path keeps him above you, which makes grenades easy to hit. [62:50]
 - Getting hit by a Kelvin grenade costs about 4 seconds of stamina regen, which is a guaranteed death on Calico when slightly aggressive with no ult. [64:00]
 - You can knock Kelvin down now, which helps. [64:39]
 - Comeback souls are so strong that dying wave one barely matters: a first blood is only about 200 souls, and you farm comeback souls back. He thinks it is meta to lose early. [95:34]

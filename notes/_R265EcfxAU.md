@@ -272,7 +272,7 @@ Player 4 (Skeleton Honey, Rem, Eternus, first standard-mode Rem game):
 - Parry after an Abrams dash misses, unless he has the tier-2 dash; get in that habit. [206:28]
 - With their lane taken, go into their basement or subway. [206:58]
 - Subway route: run the standard subway but throw your 3 to farm the three boxes at the back instead of hitting them; take the teleporter, grab the boxes at the shop, hop in the vent (left), and farm the boxes down there; exit early if pressed for time, the extension adds only a few boxes. [206:58]
-- That route is very long; do it with a lane partner who can solo hold the lane, like a Gist or a Yamato, not a Mina. With the 4 m/s sewer speed it is faster than it feels; losing a full wave is fine before 5 minutes. [208:32]
+- That route is very long; do it with a lane partner who can solo hold the lane, like a Geist or a Yamato, not a Mina. With the 4 m/s sewer speed it is faster than it feels; losing a full wave is fine before 5 minutes. [208:32]
 - Midknight thinks a Guardian Ward rush is better than Improved Spirit, and it gives movement speed for box farming. [209:02]
 - Throw the pillow on the wave to clear it rather than for harass, especially when minions are grouped; poke is also fine. [209:32]
 - Early heal spike greens: Midknight goes Guardian Ward, Healing Booster, Enchanter's Emblem; PeerContent goes Guardian Ward, Healing Booster and Reactive Barrier in a Reactive game. [209:32]

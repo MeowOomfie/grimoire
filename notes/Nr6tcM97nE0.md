@@ -4,7 +4,7 @@ date: 2026-02-18
 url: https://www.youtube.com/watch?v=Nr6tcM97nE0
 
 ## Covers
-Midknight Vods free coaching stream with four solo queue reviews: an Apollo laning with Billy into Celeste and Viscous, Skywalker (Eternus) on Apollo into Silver and Doorman, an Ascendant Silver into Venator and Gist, and a Viscous on a punch build into Calico, Mo & Krill and Abrams.
+Midknight Vods free coaching stream with four solo queue reviews: an Apollo laning with Billy into Celeste and Viscous, Skywalker (Eternus) on Apollo into Silver and Doorman, an Ascendant Silver into Venator and Geist, and a Viscous on a punch build into Calico, Mo & Krill and Abrams.
 Themes: fighting in front of the wave, box routes and prio, urn and comeback urn decisions, going mid off picks, stealing Sinner's Sacrifice camps, overfighting and overextending on walkers, slot use and tempo items, shred on Apollo and Silver, Puddle Punch versus Splatter, plus a small Apollo nerf patch read live at the end.
 
 ## Claims
@@ -134,12 +134,12 @@ Player 2 (Skywalker, Apollo, Eternus, lane with Rem into Silver and Doorman):
 - He goes gun spike: in a meta where most teams are spirit, shred and weapon damage are great, and those items still give spirit power. [112:53]
 - Final note: you took many bad fights, tunnel vision chasing into their fountain, base guardians or walker while down two teammates. [113:24]
 
-Player 3 (Silver, Ascendant, lane into Venator and Gist):
+Player 3 (Silver, Ascendant, lane into Venator and Geist):
 - Silver does need to perma brawl. [127:57]
 - You over-fished and sunk cost that; you can just use your 1 to clear the wave. [130:32]
 - You stood in minion fire for a long time, a lot of damage you didn't need to take. [131:04]
 - Good melee to slow him down and cancel his mantle slide. [131:04]
-- When Venator jumps in front of his Gist he is thinking about parrying for her; fake a melee, he will parry, then keep meleeing. [131:04]
+- When Venator jumps in front of his Geist he is thinking about parrying for her; fake a melee, he will parry, then keep meleeing. [131:04]
 - Good that you quick cast instead of clicking abilities. [131:34]
 - If you hot-level your 3 instead of your 2, bola him and 1 him, he dies; going for the 2 let him live. [131:34]
 - Starting a box route aggressively is good. [133:05]
@@ -155,7 +155,7 @@ Player 3 (Silver, Ascendant, lane into Venator and Gist):
 - 800 souls from the green spike, just buy Extra Health; Sprint Boots are also good. [137:08]
 - You are diving way too aggressively while the wave crashes into your tower, fighting far in front of the wave. [137:08]
 - Guardians act like walls: you can stand on them and wall bounce off them. [138:10]
-- You will never win a trade with Gist while her 2 is on you; tuck and let it end. Buy Extra Health or Extra Regen. [138:10]
+- You will never win a trade with Geist while her 2 is on you; tuck and let it end. Buy Extra Health or Extra Regen. [138:10]
 - Express Shot is fine; he prefers Hollow Point into Express Shot because shred gives so much value on Silver, but either order works. [138:40]
 - Aggressive trading while waves are at tower feels really bad. [139:10]
 - Let the teammate die rather than turn it into a 2v4, and don't even throw pot shots. [139:42]
@@ -166,7 +166,7 @@ Player 3 (Silver, Ascendant, lane into Venator and Gist):
 - Silver builds: Lightbringer's is a simple left-to-right build, and Pure Content's is very good until the next patch. [142:49]
 - You greeded and dived in human form without respecting the guardian. [143:19]
 - On Silver don't go past your purple spike. When ahead buy more defensive; when behind buy more offensive. [143:19]
-- This is an overfight game and a Spell Breaker game: Spell Breaker does a lot against Calico and Lash and has value into Gist's bomb. [143:50]
+- This is an overfight game and a Spell Breaker game: Spell Breaker does a lot against Calico and Lash and has value into Geist's bomb. [143:50]
 - Never buy Point Blank before your shred; shred is far more value. [144:21]
 - Shove the wave and use the prio to invade their left-side Sinner's Sacrifice camps; four guaranteed Sinners beat rotating to coin-flip a fight. Call your Rem to steal the doubles. [144:51]
 - Don't walk onto your teammates while Celeste's effect is on you; it lasts about 4.5 seconds, so space. [145:51]

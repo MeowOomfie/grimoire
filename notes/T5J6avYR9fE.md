@@ -4,7 +4,7 @@ date: 2026-07-24
 url: https://www.youtube.com/watch?v=T5J6avYR9fE
 
 ## Covers
-Midknight Vods free coaching stream from 7/18/26 (uploaded 2026-07-24, mid-July 2026 patch, a patch expected 7/21). Three viewer games: a Sinclair laning with a passive Vyper in an Ascendant lobby, an Infernus (Hop) laning with Abrams into Gist and Paige, and a Shiv (Ivan) in an Oracle lobby.
+Midknight Vods free coaching stream from 7/18/26 (uploaded 2026-07-24, mid-July 2026 patch, a patch expected 7/21). Three viewer games: a Sinclair laning with a passive Vyper in an Ascendant lobby, an Infernus (Hop) laning with Abrams into Geist and Paige, and a Shiv (Ivan) in an Oracle lobby.
 Then a pro analysis of a DLNS Shiv game (Melee Creeps vs FPSL) focused on right click movement, knife stacking, parries and Bebop.
 Themes: lane priority, bag awareness, overfighting, Rift and comeback Rift setup, shrines, buffs and urn, side laning, Dispel Magic, and Shiv mechanics.
 
@@ -44,7 +44,7 @@ Player 1 (Sinclair, Ascendant lobby, laning with a Vyper):
 - You were too far back on the Rift, which sacks the extra gun damage of your 2 that people can't trade into. [24:26]
 - When saving souls you should be buying Surge of Power or Dispel Magic. Dispel Magic is crazy this game: Warden cage, Drifter 2, Drifter silence, Shiv knives, Paige root, Mirage Scarab and mark. [27:37]
 - You took way too long deciding what to buy. As Sinclair he would greed purple (spirit) damage over orange (gun) damage, and you didn't even have your gun spike online; just buy Surge of Power. [28:39]
-- Hovering your Gist is not bad. [29:45]
+- Hovering your Geist is not bad. [29:45]
 - When both your lanes lose priority, someone has to rotate to pick up mid; the Vyper should have cleared the wave and then gone mid instead of resetting. [30:49]
 - Play for the double recast on your bolts instead of recasting at the last second. [31:26]
 - You could have left the fight long ago but routed yourself into a worse spot; you could have walked out behind them. [31:26]
@@ -64,17 +64,17 @@ Player 1 (Sinclair, Ascendant lobby, laning with a Vyper):
 - You weren't in the awful fights, but because of that you had no influence on the game. [47:10]
 - Summary: lots of early dead time, play for priority in lane (ask your Vyper), play more with your assistant, bag awareness, overfighting, play objectives instead of dropping them to fight, and stop engaging at very low HP. [48:45]
 
-Player 2 (Hop, Infernus, laning with Abrams into Gist and Paige):
+Player 2 (Hop, Infernus, laning with Abrams into Geist and Paige):
 - You and Abrams played the same side of lane, which is safer but sacks wave priority. [58:32]
-- With a shotgun hero like Abrams, your duo should control Veil side; the Gist and Paige were controlling it instead. [58:32]
+- With a shotgun hero like Abrams, your duo should control Veil side; the Geist and Paige were controlling it instead. [58:32]
 - You tanked a lot of trooper damage, which was a big mistake, and you over-hovered. [59:02]
 - Into Infernus: always path to height when ignited, since he can't climb with his dash. [59:02]
-- Playing apart is better for wave clear; playing together is better for not dying. Either both contest the Gist and Paige on Veil side, or Abrams takes the left side so Infernus can clear the right more safely, knowing the two of them can run at you. [59:32]
+- Playing apart is better for wave clear; playing together is better for not dying. Either both contest the Geist and Paige on Veil side, or Abrams takes the left side so Infernus can clear the right more safely, knowing the two of them can run at you. [59:32]
 - Hug cover more, for example farm the minion from behind the wall; you could have angled her off. [60:03]
 - With about 5 seconds out at that camp he would have dashed it and left. [61:04]
-- Infernus wins most extended trades; Gist and Paige can't win an extended trade and can't really hard chase. [61:04]
+- Infernus wins most extended trades; Geist and Paige can't win an extended trade and can't really hard chase. [61:04]
 - On the dive, play for damage rather than the kill: take half her HP bar and come back once cooldowns and tower aggro have reset. [62:44]
-- The Gist and Paige were landing every skill shot on you, not because they were good at throwing them. [62:44]
+- The Geist and Paige were landing every skill shot on you, not because they were good at throwing them. [62:44]
 - Diving at 600 HP was fine because they had burned their cooldowns; worst case you trade for the Paige. [63:46]
 - Instead of the heavy melee there, just leave and trust your Abrams and team to pick her up. [63:46]
 - He doesn't like Spirit Lifesteal ("SLS") before the green spike; if you go Spirit Lifesteal to top off the green spike, buy Healbane first. [64:16]
