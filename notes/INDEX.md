@@ -862,6 +862,9 @@ One line per digested video: `- <id> | <channel> | <title> | <topics>`. Newest f
 - hsDWjZUUnGw | Midknight Vods | Free Deadlock Coacing & DLNS Analysis With PeerContent, 1/29/26 | paradox, counterspell vs debuff remover, rem, urn, dlns pro analysis, movement keybinds
 - IYztK3cudLE | Midknight Vods | Free Deadlock Coaching Before Apollo/Silver, 2/2/26 | graves, silver, grey talon, urn, split pushing, coaching
 - G30lGQrS6RE | Midknight Vods | Free Deadlock Coaching , 2/4/26 | victor, shiv, sinclair, coaching, silver, urn
+- 3VxE0QjMsgo | Midknight Vods | Free Deadlock Coaching 1/21/26 | coaching, pocket, sinclair, calico, bebop, map awareness
+- _R265EcfxAU | Midknight Vods | Free Rem Coaching with PeerContent (Fixed), 1/27/26 | rem, coaching, yamato, wave pressure, box routes, builds
+- w7T2vbaJG1Q | Midknight Vods | Free Coaching With Jaxy , 1/26/26 | rem, vindicta, calico, victor, coaching, item builds
 
 ## General and other heroes
 
