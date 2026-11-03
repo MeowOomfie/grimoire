@@ -853,6 +853,11 @@ One line per digested video: `- <id> | <channel> | <title> | <topics>`. Newest f
 - gIVxuKpTWcw | Midknight Vods | Free Deadlock Coaching , 2/19/26 | haze, victor, yamato, silver, coaching, macro
 - KQIEpGkC9dc | Midknight Vods | Free Deadlock Coaching , 2/18/26 | coaching, yamato, graves, lash, billy, apollo nerfs
 - Nr6tcM97nE0 | Midknight Vods | Free Deadlock Coaching , 2/17/26 | apollo, silver, viscous, coaching, urn, sinners
+- jCSCMabErHU | Midknight | How to Build & Play Venator, Ascendant Venator Coaching | venator, coaching, itemization, ap order, urn, map awareness
+- hEzoen-rWxM | Midknight | More Deadlock Shadow Changes, Patch Analysis | patch reaction, silver, graves, bebop, items, street brawl
+- gKykZymuLfs | Midknight Vods | Free Deadlock Coaching , 2/16/26 | coaching, celeste, lash, victor, apollo, warden
+- 8G7_i-01KeM | Midknight Vods | Free Deadlock Coaching & DLNS Watch Party , 2/11/26 | lash, coaching, map awareness, urn, draft, builds
+- 3ESmlarjt9k | Midknight Vods | Free Venator Coaching, 2/6/26 | venator, coaching, weapon damage build, ability order, farming as m1, counters
 
 ## General and other heroes
 
