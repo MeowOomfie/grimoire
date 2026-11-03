@@ -837,6 +837,10 @@ One line per digested video: `- <id> | <channel> | <title> | <topics>`. Newest f
 - uLfs9PjLdp0 | Midknight | The Walk Back Patch, Deadlock Patch Analysis | patch analysis, walk back changes, celeste, wraith, viscous, super troopers
 - lGlsXBgInlU | Midknight Vods | Free Deadlock Coaching, 3/30/26 | mo & krill, drifter, mirage, wraith, coaching, mid boss
 - 8e5LKg42HL8 | Midknight Vods | Free Deadlock Coaching 3/23/26 | coaching, pocket, holliday, mirage, paradox, counter itemizing
+- 1KPA7ct4uJQ | Midknight | Massive Deadlock Changes Pt. 1 Items, Patch Analysis | patch, items, objectives, golden goose egg, walkers
+- x-UajXZU5v8 | Midknight Vods | Free Deadlock Coaching , 3/10/26 | coaching, haze, shiv, pocket, doorman, overfighting
+- EjAcsEKbgVQ | Midknight Vods | Free Deadlock Coaching , 3/5/26 | coaching, abrams, apollo, vyper, shiv, rem
+- 8FjlxNrPzTE | Midknight Vods | Free Deadlock Coaching, 3/9/26 | coaching, yamato, graves, shiv, infernus, wraith
 
 ## General and other heroes
 
