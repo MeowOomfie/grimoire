@@ -841,6 +841,9 @@ One line per digested video: `- <id> | <channel> | <title> | <topics>`. Newest f
 - x-UajXZU5v8 | Midknight Vods | Free Deadlock Coaching , 3/10/26 | coaching, haze, shiv, pocket, doorman, overfighting
 - EjAcsEKbgVQ | Midknight Vods | Free Deadlock Coaching , 3/5/26 | coaching, abrams, apollo, vyper, shiv, rem
 - 8FjlxNrPzTE | Midknight Vods | Free Deadlock Coaching, 3/9/26 | coaching, yamato, graves, shiv, infernus, wraith
+- JMmBuMMZnP8 | Midknight Vods | Free Deadlock Coaching, 3/2/26 | coaching, paradox, apollo, victor, pro team review, roaming
+- 9cB3TjfQlVQ | Midknight Vods | Free Deadlock Coaching , 3/4/26 | coaching, victor, yamato, silver, drifter, paige
+- 0UgWDReyM00 | Midknight Vods | Free Deadlock Coaching , 3/3/26 | coaching, silver, rem, graves, holliday, macro
 
 ## General and other heroes
 
