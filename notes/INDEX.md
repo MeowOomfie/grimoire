@@ -882,6 +882,11 @@ One line per digested video: `- <id> | <channel> | <title> | <topics>`. Newest f
 - risD8wqZdfk | Midknight Vods | Free Deadlock Coaching , 12/26/25 | yamato, haze, infernus, vindicta, coaching, macro
 - hthdgR-omb0 | Midknight Vods | Free Deadlock Coaching , 12/29/25 | coaching, haze, wraith, yamato, urn, invading
 - _Fh0Tvo-KkQ | Midknight Vods | Free Deadlock Coaching , 12/30/25 | victor, holliday, scrim coaching, drafting, cultist sacrifice, farming macro
+- haSEOm4Kyig | Midknight Vods | Coach Terrorizes Solo Queue, 12/16/25 | holliday, solo queue commentary, patch reaction, item choices, macro mistakes, torment pulse
+- n8QDvJKbkD0 | Midknight Vods | Free Coaching and Then Inting Another Coach , 12/15/25 | coaching, haze, ivy, pocket, lady geist, farming macro
+- eAS17Ke0Nws | Midknight | You're Brawling Too Much, Ascendant Haze Review | haze, overfighting, walkers, movement, spirit build, urn
+- U3xOQSqt9To | Midknight Vods | Free Deadlock Coaching, 12/12/25 | coaching, yamato, pocket, warden, urn, invading
+- HuVs2KYEZ84 | Midknight Vods | Free Deadlock Coaching, 12/17/25 | mina, lash, pocket, bebop, coaching, tankbuster
 
 ## General and other heroes
 
