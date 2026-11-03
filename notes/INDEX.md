@@ -887,6 +887,11 @@ One line per digested video: `- <id> | <channel> | <title> | <topics>`. Newest f
 - eAS17Ke0Nws | Midknight | You're Brawling Too Much, Ascendant Haze Review | haze, overfighting, walkers, movement, spirit build, urn
 - U3xOQSqt9To | Midknight Vods | Free Deadlock Coaching, 12/12/25 | coaching, yamato, pocket, warden, urn, invading
 - HuVs2KYEZ84 | Midknight Vods | Free Deadlock Coaching, 12/17/25 | mina, lash, pocket, bebop, coaching, tankbuster
+- 6ZMZV8th1S8 | Midknight Vods | Free Coaching & DLNS Watch Party , 12/10/25 | pocket, coaching, pro analysis, abrams, mid boss, urn
+- mbXnFSLtbr4 | Midknight | The Consequences of Over Brawling, Ascendant Mina Review | mina, coaching, over brawling, target focus, invading, spellbreaker
+- S2P2oh8pIng | Midknight Vods | Free Deadlock Coaching, 12/8/25 | coaching, victor, infernus, abrams, urn, fight selection
+- aNUOMx_bSFk | Midknight Vods | Free Deadlock Coaching , 12/9/25 | coaching, abrams, victor, paradox, doorman, pro scrim draft
+- qq-k-85OJro | Midknight Vods | Free Deadlock Coaching , 12/11/25 | mina, vindicta, lash, coaching, invading, target priority
 
 ## General and other heroes
 
