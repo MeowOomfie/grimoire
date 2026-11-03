@@ -858,6 +858,10 @@ One line per digested video: `- <id> | <channel> | <title> | <topics>`. Newest f
 - gKykZymuLfs | Midknight Vods | Free Deadlock Coaching , 2/16/26 | coaching, celeste, lash, victor, apollo, warden
 - 8G7_i-01KeM | Midknight Vods | Free Deadlock Coaching & DLNS Watch Party , 2/11/26 | lash, coaching, map awareness, urn, draft, builds
 - 3ESmlarjt9k | Midknight Vods | Free Venator Coaching, 2/6/26 | venator, coaching, weapon damage build, ability order, farming as m1, counters
+- OHBLYnJId7E | Midknight | They Added Bans to Deadlock!!!!, Patch Analysis | patch notes, hero bans, curse, item changes, street brawl, abrams
+- hsDWjZUUnGw | Midknight Vods | Free Deadlock Coacing & DLNS Analysis With PeerContent, 1/29/26 | paradox, counterspell vs debuff remover, rem, urn, dlns pro analysis, movement keybinds
+- IYztK3cudLE | Midknight Vods | Free Deadlock Coaching Before Apollo/Silver, 2/2/26 | graves, silver, grey talon, urn, split pushing, coaching
+- G30lGQrS6RE | Midknight Vods | Free Deadlock Coaching , 2/4/26 | victor, shiv, sinclair, coaching, silver, urn
 
 ## General and other heroes
 
