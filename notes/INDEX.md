@@ -878,6 +878,10 @@ One line per digested video: `- <id> | <channel> | <title> | <topics>`. Newest f
 - Ss87vW49GZI | Midknight Vods | Free Deadlock Coaching, 1/1/26 | coaching, pocket, lady geist, calico, itemization, urn macro
 - p3rhq89AKYs | Midknight Vods | Free Deadlock Coaching , 1/6/26 | coaching, kelvin, holliday, pocket, lady geist, lash counters
 - mNfHkE0-C1A | Midknight Vods | Free Deadlock Coaching, 12/31/25 | coaching, shiv, victor, lady geist, pocket, wave priority
+- tTA8w_h2FY8 | Midknight Vods | Free Deadlock Coaching , 12/22/25 | coaching, ivy, doorman, paige, farming, urn
+- risD8wqZdfk | Midknight Vods | Free Deadlock Coaching , 12/26/25 | yamato, haze, infernus, vindicta, coaching, macro
+- hthdgR-omb0 | Midknight Vods | Free Deadlock Coaching , 12/29/25 | coaching, haze, wraith, yamato, urn, invading
+- _Fh0Tvo-KkQ | Midknight Vods | Free Deadlock Coaching , 12/30/25 | victor, holliday, scrim coaching, drafting, cultist sacrifice, farming macro
 
 ## General and other heroes
 
