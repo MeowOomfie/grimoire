@@ -865,6 +865,10 @@ One line per digested video: `- <id> | <channel> | <title> | <topics>`. Newest f
 - 3VxE0QjMsgo | Midknight Vods | Free Deadlock Coaching 1/21/26 | coaching, pocket, sinclair, calico, bebop, map awareness
 - _R265EcfxAU | Midknight Vods | Free Rem Coaching with PeerContent (Fixed), 1/27/26 | rem, coaching, yamato, wave pressure, box routes, builds
 - w7T2vbaJG1Q | Midknight Vods | Free Coaching With Jaxy , 1/26/26 | rem, vindicta, calico, victor, coaching, item builds
+- Q6PTRJs9FcM | Midknight Vods | Free Deadlock Coaching , 1/16/26 | yamato, seven, warden, coaching, meta, cultist
+- Kq0n-pL-Dtg | Midknight Vods | Free Deadlock Coaching , 1/14/26 | coaching, mina, drifter, abrams, dynamo, build reviews
+- M5ekbzv5Mrw | Midknight Vods | Free Deadlock Coaching, 1/19/26 | yamato, holliday, drifter, coaching, urn, lifestrike
+- XTGuXZGCb1g | Midknight Vods | Free Deadlock Coaching 1/20/26 | coaching, paradox, holliday, lash, urn patch, pro scrim macro
 
 ## General and other heroes
 
