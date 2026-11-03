@@ -829,6 +829,14 @@ One line per digested video: `- <id> | <channel> | <title> | <topics>`. Newest f
 - wQFymRqbO10 | Midknight Vods | Free Deadlock Coaching , 3/31/26 | coaching, ivy, apollo, graves, holliday, urn
 - hnxFuzCcg8Q | Midknight Vods | Free Deadlock Coaching , 4/1/26 | coaching, mina, paradox, doorman, lady geist, soul awareness
 - y1cM_UzYCl0 | Midknight Vods | Free Deadlock Coaching, 4/2/26 | coaching, pocket, apollo, haze, viscous, box routes
+- 7y8YwEt35pI | Midknight | Stop Fighting Without a Reason, Oracle Pocket Coaching | pocket, coaching, over fighting, urn, mid boss, superior stamina
+- DMvDNBNU9LQ | Midknight | A Really Good Deadlock Patch Just Dropped, 3/21/26 Patch Analysis | patch, balance changes, viscous, graves, doorman, mirage
+- 38OsyhLXo08 | Midknight Vods | Free Deadlock Coaching , 3/13/26 | coaching, shiv, paradox, lash, venator, urn and box routes
+- bC16E5Pw3UY | Midknight Vods | Free Deadlock Coaching, 3/24/26 | coaching, apollo, calico, mina, graves, urn
+- P40pUNZnrgA | Midknight | Stop Starting The Fight, Phantom Pocket Coaching | pocket, coaching review, farming macro, over fighting, drifter ult, item choices
+- uLfs9PjLdp0 | Midknight | The Walk Back Patch, Deadlock Patch Analysis | patch analysis, walk back changes, celeste, wraith, viscous, super troopers
+- lGlsXBgInlU | Midknight Vods | Free Deadlock Coaching, 3/30/26 | mo & krill, drifter, mirage, wraith, coaching, mid boss
+- 8e5LKg42HL8 | Midknight Vods | Free Deadlock Coaching 3/23/26 | coaching, pocket, holliday, mirage, paradox, counter itemizing
 
 ## General and other heroes
 
