@@ -849,6 +849,10 @@ One line per digested video: `- <id> | <channel> | <title> | <topics>`. Newest f
 - W46l5XQgRdA | Midknight Vods | Free Deadlock Coaching , 2/27/26 | coaching, viscous, shiv, celeste, billy, macro
 - yVPqpblv7FQ | Midknight Vods | Free Deadlock Coaching, 2/25/26 | coaching, mo & krill, bebop, sinclair, graves, movement tech
 - zeMClxlknWY | Midknight Vods | Free Deadlock Coaching, 2/24/26 | paradox, yamato, holliday, paige, coaching, urn
+- fswNZh7QPQU | Midknight Vods | Free Deadlock Coaching , 2/20/26 | coaching, calico, yamato, sinclair, objectives, urn
+- gIVxuKpTWcw | Midknight Vods | Free Deadlock Coaching , 2/19/26 | haze, victor, yamato, silver, coaching, macro
+- KQIEpGkC9dc | Midknight Vods | Free Deadlock Coaching , 2/18/26 | coaching, yamato, graves, lash, billy, apollo nerfs
+- Nr6tcM97nE0 | Midknight Vods | Free Deadlock Coaching , 2/17/26 | apollo, silver, viscous, coaching, urn, sinners
 
 ## General and other heroes
 
